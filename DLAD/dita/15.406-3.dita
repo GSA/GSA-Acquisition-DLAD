@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_15_406-3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">
+         <ph id="ydwqdbw" rev="Please change">15.406-3</ph>
+      </ph>
+      <ph id="6at1cfc8" rev="Please change">Documenting the negotiation.</ph>
+   </title>
+   <conbody>
+      <p id="p_P15_406_3_a">(a)(11) “Price reasonableness codes” (PRCs) are two-position codes in EBS. The first position identifies the support, if any, the contracting officer received. The second position identifies the price analysis technique, and cost analysis if performed. Contracting officers shall ensure the appropriate PRC is entered in EBS and provided in the SAAD, or PNM, as applicable.</p>
+      <p id="p__Hlk64658283" outputclass="Normal">
+         <u>First</u>
+         <u></u>
+         <u>Position</u>:</p>
+      <p id="xNbDip" outputclass="Normal">BContracting officer analysis.</p>
+      <p id="wBnIUn" outputclass="Normal">FDCAA or DCMA support.</p>
+      <p id="AaJRyR" outputclass="Normal">PPrice/Cost Analyst support.</p>
+      <p id="IQmWKO" outputclass="Normal">VValue Engineering Office support.</p>
+      <p id="AMfMOU" outputclass="Normal">XContracting officer relied on automated purchase pricing logic.</p>
+      <p id="p__Hlk64658336" outputclass="Normal">
+         <u>Second Position</u>:</p>
+      <p id="UxsFbQ" outputclass="Normal">AAdequate price competition from at least two manufacturers or providers of service(s) (FAR 13.106-3(a)(1) or FAR 15.403-1(c)(1), 15.404-1(b)(2)(i) and DFARS 215.371-3).</p>
+      <p id="sEMseh" outputclass="Normal">BAdequate price competition from at least two non-manufacturers (see <xref href="13.106-3.dita#DLAD_13_106-3">13.106-3</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_a_1_S91">
+            <u>(a)(1)(S-91)</u>
+         </xref>, <xref href="13.106-3.dita#DLAD_13_106-3">13.106-3</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/443ssde">
+            <u>(a)(1)(S-92)</u>
+         </xref>, and <xref href="13.106-3.dita#DLAD_13_106-3">13.106-3</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/rerS93">
+            <u>(a)(1)(S-93)</u>
+         </xref>. The contracting officer shall only use this code for awards not exceeding the SAT when there is a single manufacturing source and that manufacturing source (OEM) did not submit an offer.</p>
+      <p id="jxBXKz" outputclass="Normal">CCurrent price lists, catalogs, or advertisements (FAR 13.106-3(a)(2)(iii)). For simplified acquisition procedures only.</p>
+      <p id="EInAix" outputclass="Normal">DMarket research (FAR 13.106-3(a)(2)(i)) or comparison with similar items in a related industry (FAR 13.106-3(a)(2)(iv)). For simplified acquisition procedures only.</p>
+      <p id="fCvjwe" outputclass="Normal">EItem price set by law or regulation (FAR 15.403-1(b)(2))</p>
+      <p id="oPGmmm" outputclass="Normal">FCost analysis of offeror’s cost or pricing data combined with price analysis (FAR 15.404-1(c)).</p>
+      <p id="CiFuiZ" outputclass="Normal">GComparison to historical prices paid, whether by the Government or other than the Government, for same or similar items and prior price is a valid basis for comparison as supported by prior file documents (FAR 13.106-3(a)(2)(ii), FAR 15.404-1(b)(2)(ii), DFARS PGI 215.403-3(4) and PGI 215.404-1(b)(iii)(A)).</p>
+      <p id="nIjTqU" outputclass="Normal">HComparison to independent government estimate (FAR 13.106-3(a)(2)(vi), or independent government cost estimate (FAR 15.404-1(b)(2)(v)).</p>
+      <p id="LIoxYJ" outputclass="Normal">IData other than certified cost or pricing data, excluding cost data, submitted and no other analysis code applies (FAR 15.404-1(b)(2)).</p>
+      <p id="UtLYBy" outputclass="Normal">JAny other reasonable basis (FAR 13.106-3(a)(2)(vii)). For simplified acquisition procedures only. Price determined fair and reasonable, and no other code applies. File documentation must describe the technique(s) utilized to establish the fair and reasonable price objective. Requires approval at a level above the contracting officer.</p>
+      <p id="fJwRmi" outputclass="Normal">NComparison with competitive published price lists, published market prices of commodities, similar indexes, and discount or rebate arrangements for the same or similar items (FAR 15.404-1(b)(2)(iv)).</p>
+      <p id="zfvxAJ" outputclass="Normal">OParametric estimating methods or application of rough yardsticks after further analysis (FAR 15.404-1(b)(2)(iii)).</p>
+      <p id="ZfflQc" outputclass="Normal">PComparison of proposed prices with prices found through market research for the same or similar items (FAR 15.404-1(b)(2)(vi)).</p>
+      <p id="NzVwXG" outputclass="Normal">RValue analysis (FAR 15.404-1(b)(4)), Contract Pricing Reference Guide Volume 1, 6.1.5) used with a price analysis technique, or techniques, in FAR 15.404-1(b)(2)(ii) through (vii), inclusive. File documentation must include description of price analysis technique (s) used and value analysis conclusion(s). For future acquisitions, the contracting officer shall not use actions coded with “R” for comparison unless there is a valid basis for comparison.</p>
+      <p id="alLxZe" outputclass="Normal">UPrice determined unreasonable. The contracting officer was able to establish a fair and reasonable price objective, but negotiations were unsuccessful. Requires approval at a level above the contracting officer pursuant to FAR 15.405(d). For future acquisitions, the contracting officer shall not use any contract action for price comparison purposes when the second position in the PRC is “U”. The contracting officer shall document in the contract file all actions the contracting officer took to obtain a fair and reasonable price, whether or not the actions were successful.</p>
+      <p id="XuDmBm" outputclass="Normal">VPrice could not be determined fair and reasonable. The contracting officer was unable to establish a fair and reasonable price objective due to a lack of relevant information. Requires approval at a level above the contracting officer pursuant to FAR 15.405(d). For future acquisitions, the contracting officer shall not use any contract action for price comparison purposes when the second position in the PRC is “V”. The contracting officer shall document in the contract file all actions the contracting officer took to obtain necessary information to establish a fair and reasonable price objective.</p>
+      <p id="sAKNTj" outputclass="Normal">WAward is an unpriced purchase order or undefinitized contract action (code first position “B”).</p>
+      <p id="vzeUzG" outputclass="Normal">XQuote meets automated pricing logic conditions for price reasonableness. EBS assigns “X” in the first position. Not used for manual awards. For future acquisitions, the contracting officer shall not use actions coded with “X” for comparison.</p>
+      <p id="PPfBSP" outputclass="Normal">YContracting officer’s determination that prices are fair and reasonable under FAR 13.106-3(a)(2)(v) or FAR 13.203(a)(3). Used only for manual awards at or below the simplified acquisition threshold. For future acquisitions, the contracting officer shall not use actions coded with “Y” for comparison.</p>
+      <p id="p_P15_406_3_a_S90" outputclass="Normal">ZWhen an offeror does not comply with a requirement to submit data for a contract, or subcontract (FAR 15.403-3(a)(1)) and the HCA approved the determination (FAR 15.403-3(a)(4)). For future acquisitions, the contracting officer shall not use actions coded with “Z” for comparison. Contracting officer may use with any commercial acquisition and non-commercial actions up to the TINA threshold.</p>
+      <p id="hbnVWd" outputclass="List2">(S-90) For acquisitions above the SAT, except when utilizing FAR 13.5 procedures, the</p>
+      <p id="TMwalk" outputclass="Text Body">
+         <u>contracting officer shall include—</u>
+      </p>
+      <p id="FlkYKL" outputclass="List3">(i) All applicable elements from one of the PNM formats (competitive or noncompetitive)</p>
+      <p id="FxxUre" outputclass="Normal">at <xref href="53.9015.dita#DLAD_53_9015">53.9015</xref> to ensure final negotiated agreements are documented in a consistent manner; and</p>
+      <p id="p_P15_406_3_a_S91" outputclass="List3">(ii) Any additional relevant information not cited in either format.</p>
+      <p id="SHjuKV" outputclass="List2">(S-91) When conducting the acquisition using FAR 13.5 procedures, contracting officers are encouraged, but not required, to use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013">53.9013</xref>
+         <xref href="53.9013.dita#DLAD_53_9013/Gltewj">
+            <u>(a)</u>
+         </xref> or Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013/0c86im0j">
+            <u>53.9013(c)</u>
+         </xref> as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3">13.106-3</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
+            <u>(b)</u>
+         </xref> and <xref href="13.501.dita#DLAD_13_501">13.501</xref>
+         <xref href="13.501.dita#DLAD_13_501/rer2eB">
+            <u>(b)</u>
+         </xref>
+         <xref href="13.501.dita#DLAD_13_501/rre3B3">
+            <u>(3)</u>
+         </xref> in place of a PNM format.</p>
+   </conbody>
+</concept>

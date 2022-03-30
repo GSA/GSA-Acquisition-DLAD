@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_16">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 16</ph> – TYPES OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.1.dita#DLAD_SUBPART_16_1">SUBPART 16.1 – SELECTING CONTRACT TYPES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.190.dita#DLAD_16_190">16.190 Long–term contracting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.191.dita#DLAD_16_191">16.191 Bridge contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.2.dita#DLAD_SUBPART_16_2">SUBPART 16.2 – FIXED–PRICE CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203.dita#DLAD_16_203">16.203 Fixed–price contracts with economic price adjustment.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-1.dita#DLAD_16_203-1">16.203-1 Description.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-2.dita#DLAD_16_203-2">16.203-2 Application.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-3.dita#DLAD_16_203-3">16.203-3 Limitations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-4.dita#DLAD_16_203-4">16.203-4 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.290.dita#DLAD_16_290">16.290 Procurement notes.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.5.dita#DLAD_SUBPART_16_5">SUBPART 16.5 – INDEFINITE DELIVERY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.501-2.dita#DLAD_16_501-2">16.501-2 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.504.dita#DLAD_16_504">16.504 Indefinite–quantity contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.505.dita#DLAD_16_505">16.505 Ordering.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.590.dita#DLAD_16_590">16.590 Procurement notes.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.6.dita#DLAD_SUBPART_16_6">SUBPART 16.6 – TIME–AND–MATERIALS, LABOR–HOUR, AND LETTER CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.601.dita#DLAD_16_601">16.601 Time–and–materials contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

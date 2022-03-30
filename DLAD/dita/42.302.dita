@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_42_302">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">42.302</ph> Contract administration functions.</title>
+   <conbody>
+      <p id="xgyWyg">(a) The contracting officer shall follow the approved contract management plan
+         (CMP) (reference <xref href="7.105.dita#DLAD_7_105">
+            <u>7.105</u>
+         </xref>(b)(19)).</p>
+      <p id="RCaeMM" outputclass="List2">(13)(B)(1) Contracting officers shall designate the payment
+         office as DoD Activity Address Code (DoDAAC) SL4701 for Enterprise Business System (EBS)
+         contracts, except for contracts with progress or performance based payments and cost type
+         contracts, which shall be paid by MOCAS payment offices (<xref format="cfm" href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm" scope="external">
+            <u>Contract Management Team Search</u>
+         </xref> (<xref format="cfm" href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm" scope="external">
+            <u>https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm</u>
+         </xref>)), or for contracts with the Canadian Commercial Corporation when DCMA will perform
+         contract administration: use payment office HQ0337. DLR contracting officers shall use the
+         applicable MOCASpayment code for the payment office specified in the Federal Directory of
+         Contract Administration Services Components.</p>
+      <p id="WCzbak" outputclass="Normal">(S-90) Post award administrators shall complete all PARs
+         within an average of 30 days from the date of submission. This policy applies only to MSC
+         hardware items and the PAR reason codes listed below and in <xref format="pdf" href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf" scope="external">
+            <u>DLAI 5025.18, Enterprise Status Post-Award Request (PAR) Instruction</u>
+         </xref> (<xref format="pdf" href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf" scope="external">
+            <u>https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf</u>
+         </xref>) for both internal requests and requests from suppliers. This policy supersedes the
+         PAR processing times in Enclosure 2, paragraph 5.(a)(1) of DLAI 5025.18.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="eiYUCT">
+                        <b>PAR Reason Code</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="oyYjQL">
+                        <b>PAR Reason</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ulkMmh">ST06</p>
+                  </entry>
+                  <entry>
+                     <p id="ogTYGH">Delinquency</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cXoThO">ST07</p>
+                  </entry>
+                  <entry>
+                     <p id="SMnTPJ">Delivery Acceleration</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XiTdWK">ST08</p>
+                  </entry>
+                  <entry>
+                     <p id="zDcwnX">Request for Delivery Status</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="amzeak">ST09</p>
+                  </entry>
+                  <entry>
+                     <p id="xLVkDt">Estimated Ship Date Change</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JHzGpU">ST11</p>
+                  </entry>
+                  <entry>
+                     <p id="rcrEGZ">Other Status Request</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Rigvrz">ST12</p>
+                  </entry>
+                  <entry>
+                     <p id="syVJwh">CRM Ticket</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IUgfen">ST14</p>
+                  </entry>
+                  <entry>
+                     <p id="XiJdrL">21N Expedite</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KNVJeK">ST15</p>
+                  </entry>
+                  <entry>
+                     <p id="hpSWcX">Nuclear Enterprise</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PavUQG">ST17</p>
+                  </entry>
+                  <entry>
+                     <p id="RXywYm">CPS Expedite</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lAWUaM">ST18</p>
+                  </entry>
+                  <entry>
+                     <p id="XCKRBu">CPS Delinquency</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rCxvBd">ST20</p>
+                  </entry>
+                  <entry>
+                     <p id="UfBASV">Monthly Briefing and Readiness Updates</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yrDpqe">ST21</p>
+                  </entry>
+                  <entry>
+                     <p id="LcnOfS">Super KID</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cqcakU">VR01</p>
+                  </entry>
+                  <entry>
+                     <p id="GSZqlT">Delivery Date Change</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FnEySa">VR02</p>
+                  </entry>
+                  <entry>
+                     <p id="RYICaH">Duty Free Entry Request</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="YJcAyc">VR03</p>
+                  </entry>
+                  <entry>
+                     <p id="mPEQjs">Free Issues</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EnZyRx">VR04</p>
+                  </entry>
+                  <entry>
+                     <p id="UMGPvG">Price Change and Mistakes-in-Bid</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sVuNDU">VR05</p>
+                  </entry>
+                  <entry>
+                     <p id="WpmfQE">Request for Price Change in Accordance with Economic Price</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AgUhKF">VR06</p>
+                  </entry>
+                  <entry>
+                     <p id="uSjVqi">Variation in Quantity Change</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iDWbHJ">VR07</p>
+                  </entry>
+                  <entry>
+                     <p id="OCnmGW">Quantity Change</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="efmeRG">VR08</p>
+                  </entry>
+                  <entry>
+                     <p id="ZPgLOa">Vendor Requested Cancellation</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DfYThD">VR09</p>
+                  </entry>
+                  <entry>
+                     <p id="AoBIxA">Modification</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OVGKsu">VR10</p>
+                  </entry>
+                  <entry>
+                     <p id="rFtoMv">Wage Determination</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yCpiCV">VR11</p>
+                  </entry>
+                  <entry>
+                     <p id="Gbdcfi">Other Vendor Request</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mdfCEj">VR12</p>
+                  </entry>
+                  <entry>
+                     <p id="ZNcJUp">Payment Issues</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xHjGog">VR13</p>
+                  </entry>
+                  <entry>
+                     <p id="iKhpqV">Tooling Request</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wvtBzS">VR14</p>
+                  </entry>
+                  <entry>
+                     <p id="ZbKlpE">COVID-19</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

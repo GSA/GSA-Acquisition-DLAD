@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_19">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 19</ph> – SMALL BUSINESS PROGRAMS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.2.dita#DLAD_SUBPART_19_2">SUBPART 19.2 – POLICIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.201.dita#DLAD_19_201">19.201 General policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.3.dita#DLAD_SUBPART_19_3">SUBPART 19.3 – DETERMINATION OF STATUS AS A SMALL BUSINESS, HUBZONE SMALL BUSINESS, OR SMALL DISADVANTAGED BUSINESS CONCERN</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.301.dita#DLAD_19_301">19.301 Representations and rerepresentations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.5.dita#DLAD_SUBPART_19_5">SUBPART 19.5 – SET–ASIDES FOR SMALL BUSINESS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.502-2.dita#DLAD_19_502-2">19.502-2 Total small business set–asides.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.505.dita#DLAD_19_505">19.505 Rejecting Small Business Administration recommendations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.590.dita#DLAD_19_590">19.590 Cascading/combined set–aside logic clauses for Enterprise Business Systems applications.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.6.dita#DLAD_SUBPART_19_6">SUBPART 19.6 – CERTIFICATES OF COMPETENCY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.602.dita#DLAD_19_602">19.602 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.602-1.dita#DLAD_19_602-1">19.602-1 Referral.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.602-3.dita#DLAD_19_602-3">19.602-3 Resolving differences between the Agency and the Small Business Administration.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.602-4.dita#DLAD_19_602-4">19.602-4 Awarding the contract.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.7.dita#DLAD_SUBPART_19_7">SUBPART 19.7 – THE SMALL BUSINESS SUBCONTRACTING PROGRAM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.705.dita#DLAD_19_705">19.705 Responsibilities of the contracting officer under the subcontracting assistance program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.705-4.dita#DLAD_19_705-4">19.705-4 Reviewing the subcontracting plan.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.705-5.dita#DLAD_19_705-5">19.705-5 Awards involving subcontracting plans.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_19.8.dita#DLAD_SUBPART_19_8">SUBPART 19.8 – CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="19.803.dita#DLAD_19_803">19.803 Selecting acquisitions for the 8(a) program.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

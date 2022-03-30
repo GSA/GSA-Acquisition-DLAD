@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_25">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 25</ph> – FOREIGN ACQUISITION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.1.dita#DLAD_SUBPART_25_1">SUBPART 25.1 – BUY AMERICAN ACT – SUPPLIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.103.dita#DLAD_25_103">25.103 Exceptions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.8.dita#DLAD_SUBPART_25_8">SUBPART 25.8 – OTHER INTERNATIONAL AGREEMENTS AND COORDINATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.802-71.dita#DLAD_25_802-71">25.802-71 End use certificates.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.9.dita#DLAD_SUBPART_25_9">SUBPART 25.9 – CUSTOMS AND DUTIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.903.dita#DLAD_25_903">25.903 Exempted supplies.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.70.dita#DLAD_SUBPART_25_70">SUBPART 25.70 – AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.7002.dita#DLAD_25_7002">25.7002 Restrictions on food, clothing, fabrics, hand or measuring tools, and flags.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.7002-2.dita#DLAD_25_7002-2">25.7002-2 Exceptions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.73.dita#DLAD_SUBPART_25_73">SUBPART 25.73 – ACQUISITIONS FOR FOREIGN MILITARY SALES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.7301.dita#DLAD_25_7301">25.7301 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.79.dita#DLAD_SUBPART_25_79"> SUBPART 25.79 – EXPORT CONTROL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.7901.dita#DLAD_25_7901">25.7901 Export–controlled items.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="25.7901-1.dita#DLAD_25_7901-1"> 25.7901-1 Definitions.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="25.7902-4.dita#DLAD_25_7902-4"> 25.7902-4 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

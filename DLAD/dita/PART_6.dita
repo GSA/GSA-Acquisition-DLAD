@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_6">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 6</ph> – COMPETITION REQUIREMENTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.2.dita#DLAD_SUBPART_6_2">SUBPART 6.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.202.dita#DLAD_6_202">6.202 Establishing or maintaining alternative sources.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.3.dita#DLAD_SUBPART_6_3">SUBPART 6.3 – OTHER THAN FULL AND OPEN COMPETITION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.303.dita#DLAD_6_303">6.303 Justifications.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.303-2.dita#DLAD_6_303-2">6.303-2 Content.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.305.dita#DLAD_6_305">6.305 Availability of the justification.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.305-90.dita#DLAD_6_305-90">6.305-90 Oversight program.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.5.dita#DLAD_SUBPART_6_5">SUBPART 6.5 –ADVOCATES FOR COMPETITION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.501.dita#DLAD_6_501">6.501 Requirement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.503.dita#DLAD_6_503">6.503 Annual reporting requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
