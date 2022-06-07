@@ -10,12 +10,12 @@
    <title id="title_P1" outputclass="Title" class="- topic/title ">DLAD</title>
    <topicref navtitle="Volume X - Parts xxxx to xxxx"
              href="Volume_I.dita"
-             outputclass="Volume"
+             outputclass="subtopic"
              props=""
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
-             xtrf="Volume"
+             xtrf="subtopic"
              class="- map/topicref ">
       <topicref navtitle="Defense Logistics Acquisition Directive"
                 href="Cover_1.dita"
@@ -2974,8 +2974,8 @@
              navtitle="PART 28 – BONDS AND INSURANCE"
              props="PART 28"
              base="NoTitle"
-             outputclass="subtopic"
-             xtrf="subtopic"
+             outputclass="Part"
+             xtrf="Part"
              audience="DLAD_PART_28"
              class="- map/topicref ">
       <topicref href="SUBPART_28.1.dita"
@@ -3043,8 +3043,8 @@
              navtitle="PART 30 – COST ACCOUNTING STANDARDS ADMINISTRATION"
              props="PART 30"
              base="NoTitle"
-             outputclass="subtopic"
-             xtrf="subtopic"
+             outputclass="Part"
+             xtrf="Part"
              audience="DLAD_PART_30"
              class="- map/topicref ">
       <topicref href="SUBPART_30.2.dita"
