@@ -3078,7 +3078,7 @@
                 navtitle="32.006 Reduction or suspension of contract payments upon finding of fraud."
                 props="32.006"
                 base="NoTitle"
-                outputclass="SubPart"
+                outputclass="subtopic"
                 xtrf="SubPart"
                 audience="DLAD_32_006"
                 class="- map/topicref ">
