@@ -495,7 +495,7 @@
          <topicref href="27.201.dita" navtitle="27.201 Patent and copyright infringement liability." props="27.201" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="DLAD_27_201" class="- map/topicref " />
          <topicref href="27.201-2.dita" navtitle="27.201-2 Contract clauses." props="27.201-2" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="DLAD_27_201-2" class="- map/topicref " />
       </topicref>
-      <topicref href="SUBPART_27.71.dita" navtitle="SUBPART 27.71 –– RIGHTS IN TECHNICAL DATA" props="PART 27.71" base="NoTitle" outputclass="SubPart" xtrf="SubPart" audience="DLAD_SUBPART_27_71--" class="- map/topicref ">
+      <topicref href="SUBPART_27.71.dita" navtitle="SUBPART 27.71 –– RIGHTS IN TECHNICAL DATA" props="PART 27.71" base="NoTitle" outputclass="SubPart" xtrf="SubPart" audience="DLAD_SUBPART_27_71" class="- map/topicref ">
          <topicref href="27.7103-6.dita" navtitle="27.7103-6 Contract clauses." props="27.7103-6" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="DLAD_27_7103-6" class="- map/topicref " />
       </topicref>
       <topicref href="SUBPART_27.90.dita" navtitle="SUBPART 27.90 – EXPORT CONTROL OF TECHNICAL DATA" props="PART 27.90" base="NoTitle" outputclass="SubPart" xtrf="SubPart" audience="DLAD_SUBPART_27_90" class="- map/topicref ">
