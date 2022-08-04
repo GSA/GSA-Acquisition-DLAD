@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_SUBPART_15_6"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2 Subpart" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Subpart 15.6</ph> - UNSOLICITED PROPOSALS</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="YTEcBa" outputclass="normal Ctr" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised</i>
+         <i class="+ topic/ph hi-d/i ">October 2, 2016</i>
+         <i class="+ topic/ph hi-d/i ">through PROCLTR 201</i>
+         <i class="+ topic/ph hi-d/i ">7</i>
+         <i class="+ topic/ph hi-d/i ">-</i>
+         <i class="+ topic/ph hi-d/i ">01</i>
+         <i class="+ topic/ph hi-d/i ">)</i>
+      </p>
+   </conbody>
+</concept>

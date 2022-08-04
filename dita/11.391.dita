@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_11_391"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">11.391</ph> Part numbered items.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="hht345" class="- topic/p ">(a) Offers for part numbered items may be other than exactly stated in the PID due to a
+            variety of reasons such as administrative changes, engineering changes, reverse
+            engineering, obsolescence or manufacturing enhancements. Contracting officers shall
+            coordinate with product specialists for the review of an offer other than exact product.
+            The product specialist will update the Material Master in accordance with any change to
+            part number. Solicitations and contracts shall include procurement note C01 when
+            procuring part-numbered items.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+      <p outputclass="Normal" class="- topic/p ">C01 Superseded Part Numbered Items (SEP 2016)</p>
+      <p outputclass="Normal" class="- topic/p ">If an item part number is superseded during the term of this
+            contract, the contractor shall advise the contracting officer immediately upon
+            determination. The notice shall include complete information on the superseding item
+            form, fit, function, configuration, application, or physical nature. The contracting
+            officer will determine whether the item is acceptable to the Government, advise the
+            contractor within seven days, and modify the contract accordingly.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+      <p id="hhyy7889" class="- topic/p ">(b) Solicitations shall include procurement notes L04 and M06 when items are identified
+            in the item description only by the name of an approved source (CAGE code), a part
+            number, and a brief description.</p>
+      <p class="- topic/p ">*****</p>
+      <p outputclass="Normal" class="- topic/p ">L04 Offers for Part Numbered Items (SEP 2016)</p>
+      <p class="- topic/p ">(a) For part numbered items, identified in the item description only by the name of an
+            approved source (CAGE code), a part number, and a brief description.</p>
+      <p class="- topic/p ">Exact product <line-through class="+ topic/ph hi-d/line-through ">– </line-through>applies to contract line-item(s) (CLIN(s)):
+            _____</p>
+      <p class="- topic/p ">CAGE code __________ part number ________</p>
+      <p class="- topic/p ">Alternate product – applies to CLIN(s):</p>
+      <p class="- topic/p ">CAGE code __________ part number ________</p>
+      <p class="- topic/p ">Superseding part number – applies to CLIN(s):</p>
+      <p class="- topic/p ">CAGE code __________ part number ________</p>
+      <p class="- topic/p ">Identify reason for superseding part number:</p>
+      <p class="- topic/p ">Administrative P/N change only: Yes____ No____</p>
+      <p class="- topic/p ">Minor change/No change in configuration: Yes____ No____</p>
+      <p class="- topic/p ">Previously-approved product – applies to CLIN(s): _____</p>
+      <p class="- topic/p ">Contract or Solicitation Number: ____________________</p>
+      <p class="- topic/p ">CAGE code __________ part number ________</p>
+      <p class="- topic/p ">Correction to CAGE/Part Number – applies to CLIN(s) _____</p>
+      <p outputclass="Normal" class="- topic/p ">CAGE code in error/same corporation, different division Yes ___
+            No___</p>
+      <p outputclass="Normal" class="- topic/p ">CAGE code in error/sold to different corporation Yes ___ No___</p>
+      <p outputclass="Normal" class="- topic/p ">Part number not recognized Yes ___ No___</p>
+      <p outputclass="Normal" class="- topic/p ">Obsolete part number Yes ___ No___</p>
+      <p outputclass="Normal" class="- topic/p ">Other Yes ___ No___</p>
+      <p class="- topic/p ">(b) Exact product means a product described by the name of an approved source and its
+            corresponding part number cited in the item description; and manufactured by, or under
+            the direction of, that approved source. An offeror of an exact product must meet one of
+            the descriptions below.</p>
+      <p outputclass="List2" class="- topic/p ">(1) An approved source offering its part number cited in the item
+            description;</p>
+      <p outputclass="List2" class="- topic/p ">(2) A dealer/distributor offering the product of an approved source
+            and part number cited in the item description;</p>
+      <p outputclass="List2" class="- topic/p ">(3) A manufacturer who produces the offered item under the direction
+            of an approved source; and has authorization from that approved source to manufacture
+            the item, identify it as that approved source’s name and part number, and sell the item
+            directly to the Government.</p>
+      <p outputclass="List2" class="- topic/p ">(4) A dealer/distributor offering the product of a manufacturer that
+            meets the description in subparagraph (3) above.</p>
+      <p class="- topic/p ">(c) Alternate product.</p>
+      <p outputclass="List2" class="- topic/p ">(1) The offeror must indicate that an alternate product is being
+            offered if the offeror is any one of the following:</p>
+      <p outputclass="List3" class="- topic/p ">(i) An offeror who manufactures the item for an approved source cited
+            in the item description, but does not have authorization from the approved source to
+            identify it as the approved source part number, and sell the item directly to the
+            Government;</p>
+      <p outputclass="List3" class="- topic/p ">(ii) A dealer/distributor offering the product of a manufacturer that
+            meets the description in (i) above;</p>
+      <p outputclass="List3" class="- topic/p ">(iii) An offeror of a reverse-engineered product that is not cited in
+            the item description; or</p>
+      <p outputclass="List3" class="- topic/p ">(iv) An offeror whose product does not meet the criteria of exact
+            product, superseding product or previously approved product.</p>
+      <p outputclass="List2" class="- topic/p ">(2) An offer of an alternate product is an alternate offer.</p>
+      <p class="- topic/p ">(d) The offeror must indicate that a superseding part number is being offered if the
+            offered item otherwise qualifies as an exact product, except that the part number cited
+            in the item description has been superseded due to an administrative part number change
+            with no change in configuration of the item.</p>
+      <p class="- topic/p ">(e) The offeror must indicate that a previously-approved product is being offered if the
+            product offered has previously been delivered to the Government or otherwise previously
+            evaluated and approved.</p>
+      <p class="- topic/p ">(f) Correction to CAGE/Part Number Cited in the Item Description</p>
+      <p class="- topic/p ">Submitted by offeror to notify the Government if there is a CAGE code error: same
+            corporation/different division; sold to different corporation; part number not
+            recognized; obsolete part number; other.</p>
+      <p class="- topic/p ">(g) Traceability documentation.</p>
+      <p outputclass="List2" class="- topic/p ">(1) The contracting officer may request evidence of the technical
+            acceptability of the product offered. The evidence must be submitted within 2 days, or
+            as otherwise specified, or the offer will not be considered.</p>
+      <p outputclass="List2" class="- topic/p ">(2) For offers of exact product, offerors other than the approved
+            manufacturing source must retain evidence and provide the traceability evidence of the
+            identity of the item and its manufacturing source when requested by the contracting
+            officer.</p>
+      <p outputclass="List3" class="- topic/p ">(i) If offered item(s) are not in stock or not yet manufactured a
+            copy of an original quotation from the approved source to the offeror identifying exact
+            item cited in item description and a quantity sufficient to satisfy the solicitation
+            requirement.</p>
+      <p outputclass="List3" class="- topic/p ">(ii) If offered item(s) are shipped or in stock, a copy of invoice on
+            approved source's letterhead; or a copy of packing slip which accompanied shipment from
+            approved source to offeror. The invoices and packing slips must identify exact item
+            cited in item description and a quantity sufficient to satisfy the solicitation
+            requirement.</p>
+      <p outputclass="List3" class="- topic/p ">(iii) If the offeror is an authorized dealer/distributor, or
+            manufactures the item for an approved source, a copy of the contractual agreement with,
+            or the express written authority of, the approved source to buy, stock, repackage, sell,
+            or distribute the part. The agreement must specifically identify the exact item, or
+            otherwise ensure that the offeror is authorized by the approved source to manufacture or
+            distribute the exact item being acquired. If the agreement covers a general product line
+            or is otherwise not product-specific, the offeror must furnish additional documentation
+            to address the exact item being acquired.</p>
+      <p outputclass="List3" class="- topic/p ">(iv) Other verifiable information.</p>
+      <p outputclass="List2" class="- topic/p ">(3) For superseding part number, the offeror may be requested to
+            furnish evidence to establish that there are no changes in the configuration of the
+            part.</p>
+      <p outputclass="List2" class="- topic/p ">(4) For previously approved products, upon request of the contracting
+            officer, the offeror must furnish the contract, solicitation, source approval request
+            (SAR) package, or letter of approval under which the product was previously furnished or
+            approved.</p>
+      <p class="- topic/p ">(h) Alternate offer data.</p>
+      <p outputclass="List2" class="- topic/p ">(1) The contracting officer may request drawings, specifications, or
+            other data necessary to clearly describe the characteristics and features of an
+            alternate offer. Data submitted shall cover design, materials, performance, function,
+            interchangeability, inspection or testing criteria, and other characteristics of the
+            offered product. The contracting officer may also request drawings and other data
+            covering the design, materials, etc., of the exact product cited in the item description
+            if the Agency does not possess data sufficient to evaluate the alternate product. The
+            data must be submitted within 10 days, or as otherwise specified, or the offer will not
+            be considered.</p>
+      <p outputclass="List2" class="- topic/p ">(2) If the alternate product is a reverse-engineered product, the
+            offeror shall provide: technical documentation to establish that the offered item
+            represents the exact item specified in the item description (i.e., invoice from an
+            approved source or submission of samples having markings of an approved source); number
+            of samples that were examined; the process/logic used; raw data (measurements, lab
+            reports, test results) used to prepare drawings or specifications for the offered item;
+            any additional evidence that indicates the reverse-engineered item will function
+            properly in the end item; and any evidence that life cycle/reliability considerations
+            have been analyzed.</p>
+      <p class="- topic/p ">(j) Evaluation of Alternate Offers.</p>
+      <p class="- topic/p ">If the solicitation does not provide for evaluation of alternate offers for the current
+            procurement, the offeror may submit a request for evaluation of the alternate product’s
+            technical acceptability for future procurements of the same item. The request for
+            evaluation shall cite the national stock number (NSN) of the exact product and include
+            the applicable level of technical data. The level of technical data that the Government
+            has available for use to evaluate the acceptability of an alternate product offered, and
+            the corresponding level of technical data that must be furnished with an offer of
+            alternate product, will be identified in the item description and/or via correspondence
+            with the appropriate location below.</p>
+      <p class="- topic/p ">(1) For solicitation numbers beginning with SPE7:</p>
+      <p class="- topic/p ">DLA Land and Maritime</p>
+      <p class="- topic/p ">Directorate of Procurement</p>
+      <p class="- topic/p ">Alternate Offer Monitor, BPP</p>
+      <p class="- topic/p ">Post Office (P.O.) Box 3990</p>
+      <p class="- topic/p ">Columbus, Ohio 43218-3990</p>
+      <p class="- topic/p ">(2) For solicitation numbers beginning with SPE4:</p>
+      <p class="- topic/p ">DLA Aviation</p>
+      <p class="- topic/p ">Office of the Competition Advocate</p>
+      <p class="- topic/p ">Attention: BPC</p>
+      <p class="- topic/p ">8000 Jefferson Davis Highway</p>
+      <p class="- topic/p ">Richmond, Virginia 23297-5100</p>
+      <p class="- topic/p ">(3) For solicitation numbers beginning with SPE1, SPE2, SPE3, SPE5, or SPE8:</p>
+      <p class="- topic/p ">DLA Troop Support</p>
+      <p class="- topic/p ">Attention: (see note below)</p>
+      <p class="- topic/p ">700 Robbins Avenue</p>
+      <p class="- topic/p ">Philadelphia, Pennsylvania 19111-5096</p>
+      <p class="- topic/p ">Note: The address (attention line) will change based on the 4th digit of the PIIN as
+            follows:</p>
+      <p class="- topic/p ">SPE1 = Clothing and Textile (C&amp;T)</p>
+      <p class="- topic/p ">SPE2 = Medical</p>
+      <p class="- topic/p ">SPE3 = Subsistence</p>
+      <p class="- topic/p ">SPE5 = Industrial Hardware (formerly Aviation or L&amp;M detachments)</p>
+      <p class="- topic/p ">SPE8 = Construction and Equipment (C&amp;E)</p>
+      <p class="- topic/p ">(4) For solicitation numbers beginning with SPRRA1 and SPRRA2:</p>
+      <p class="- topic/p ">Defense Logistics Agency – DLA Aviation</p>
+      <p class="- topic/p ">Office of the Competition Advocate</p>
+      <p class="- topic/p ">Building 5201</p>
+      <p class="- topic/p ">Redstone Arsenal, Alabama 35898</p>
+      <p class="- topic/p ">(5) For solicitation numbers beginning with SPRPA1:</p>
+      <p class="- topic/p ">DLA Philadelphia</p>
+      <p class="- topic/p ">Competition Advocate Office</p>
+      <p class="- topic/p ">700 Robbins Avenue Building 1</p>
+      <p class="- topic/p ">Philadelphia, Pennsylvania 19111-5098</p>
+      <p class="- topic/p ">(6) For Tank-Automotive and Armaments Command (TACOM) Depot Level Repairable (DLR) - DLA
+            Land and Maritime solicitations beginning with SPRDL1:</p>
+      <p class="- topic/p ">Defense Logistics Agency</p>
+      <p class="- topic/p ">DLR Procurement Operations - ZG</p>
+      <p class="- topic/p ">6501 East Eleven Mile Road</p>
+      <p class="- topic/p ">Warren, Michigan 48397-5000</p>
+      <p class="- topic/p ">(7) For Communications-Electronics Command (CECOM) DLR-DLA Land and Maritime
+            solicitations beginning with SPRBL1:</p>
+      <p class="- topic/p ">Defense Logistics Agency</p>
+      <p class="- topic/p ">DLR Procurement Operations - ZL</p>
+      <p class="- topic/p ">6001 Combat Dr., Rm. C1-301</p>
+      <p class="- topic/p ">Aberdeen Proving Ground, MD 21005-1846</p>
+      <p class="- topic/p ">*****</p>
+      <p class="- topic/p ">M06 Evaluation of Offers of Alternate Product for Part Numbered Items (SEP 2016)</p>
+      <p class="- topic/p ">Offers of alternate product will not be evaluated for the contract action if:</p>
+      <p class="- topic/p ">(1) The solicitation is automated;</p>
+      <p class="- topic/p ">(2) It does not meet the dollar threshold for savings, after an evaluation factor of $600
+            is applied for coordination with each ESA; or</p>
+      <p class="- topic/p ">(3) When the time proposed for award does not permit evaluation, and delay of award would
+            adversely affect the Government.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+   </conbody>
+</concept>

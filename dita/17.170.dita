@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_17_170"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">17.170</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(c) HCAs are delegated authority to enter into a multiyear contract for services and supplies; and may delegate this authority, without power of redelegation, to the CCO. The DLA Energy HCA is delegated authority to enter into a multiyear contract for services pursuant to DFARS 217.174, with redelegation permissible to the CCO only.</p>
+      <p class="- topic/p ">(d)(4) HCAs must submit notification to the DLA Acquisition Operations Division at least 60 days before awarding a multiyear contract.</p>
+   </conbody>
+</concept>

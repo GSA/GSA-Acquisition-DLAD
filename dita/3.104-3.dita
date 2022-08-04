@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_3_104-3"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">3.104-3</ph> Statutory and related prohibitions, restrictions, and requirements.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="p__Hlk60746667" outputclass="Normal" class="- topic/p ">In accordance with 41 U.S.C. 2107(1), offerors participating in a particular DLA reverse auction and their designated employees, and commercial auction providers and their designated employees are authorized to disclose and obtain the prices submitted by all offerors participating in that reverse auction.</p>
+   </conbody>
+</concept>

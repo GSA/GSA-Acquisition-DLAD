@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_9_405"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">9.405</ph> Effect of listing.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) In order to take one of the contract actions identified in FAR 9.405(a), 9.405-1(b), 9.405-2, 9.406(c), or 9.407-1(d), the procuring organization CCO shall forward a written request, including supporting rationale, following legal review by the procuring organization’s Office of Counsel and approval to proceed by the HCA, to the Office of General Counsel via the procuring organization’s Office of Counsel. The Office of General Counsel, following legal review, shall forward the request to the DLA Acquisition Operations Division, which will route it to the DLA Acquisition Director for coordination and then staff the action to the Agency Director for approval. Following approval, the DLA Acquisition Operations Division shall provide the written notice to GSA as required by DFARS 209.405(a) and provide notice to the procuring organization. The procuring organization shall not take action until it receives notice that the Agency Director has approved the determination.</p>
+      <p outputclass="Normal" class="- topic/p ">(S-90) Upon notification, the DLA Acquisition Operations Division shall review current or past contractual relationships with the contractor or its affiliates, in coordination with General Counsel and contracting officers. The DLA Acquisition Operations Division shall coordinate with the contracting officers if there is a basis for recovery of damages from, or other claims against, the contractor. If there may be a basis for claims against the contractor, information stating the factual basis shall be forwarded to General Counsel. The information shall include a plan to recover damages in the event the contractor does not voluntarily provide restitution to the Government.</p>
+      <p outputclass="Normal" class="- topic/p ">(S-91) To preclude contractors that are debarred, suspended, or proposed for debarment from receiving awards, the DCRL monitors shall be immediately notified to ensure the information is added to the System for Award Management (SAM) Exclusions and the DCRL.</p>
+   </conbody>
+</concept>

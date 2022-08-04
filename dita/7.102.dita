@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_7_102"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">7.102</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) Written acquisition plans are required for all acquisitions expected to exceed the
+            simplified acquisition threshold (SAT), including those accomplished by means of direct
+            or assisted acquisitions using non-DoD contract vehicles such as Federal Supply
+            Schedules. Actions exempt from this requirement are:</p>
+      <p outputclass="List2" class="- topic/p ">(1) Individual orders (except orders greater than the SAT against
+            non-DoD contracts) against contracts when the contract-level acquisition plan is
+            adequate to cover all anticipated orders and the order is issued in strict compliance
+            with the terms of the basic contract.</p>
+      <p outputclass="List2" class="- topic/p ">(2) A modification of the contract.</p>
+      <p outputclass="List2" class="- topic/p ">(3) Acquisition of replenishment parts, below DFARS 207.103
+            thresholds (where applicable).</p>
+      <p class="- topic/p ">(b) Acquisition plans shall be completed and approved prior to solicitation issuance. The
+            clearance authority levels in DLAD <xref href="1.690-1.dita#DLAD_1_690-1" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">1.690-1</u>1.690-1 Establishment of clearance authority.</xref>
+            apply.</p>
+      <p class="- topic/p ">(c) For urgent requirements, the HCA is authorized to waive the requirement for approval
+            prior to solicitation issuance.</p>
+      <p class="- topic/p ">(d) Reserved.</p>
+      <p class="- topic/p ">(e) The level of detail provided in the acquisition plan should be commensurate with the
+            complexity and dollar value of the acquisition.</p>
+      <p outputclass="List2" class="- topic/p ">(1) The acquisition plan shall accompany justifications for other
+            than full and open competition (see FAR 6.301 and FAR 6.304) when submitted to the
+            procuring organization competition advocate (COMPAD). Procuring organization COMPADs
+            shall also be provided a copy of the acquisition plan for acquisitions with a history of
+            only one offer received and with no expectation of price competition.</p>
+   </conbody>
+</concept>

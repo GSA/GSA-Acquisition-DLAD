@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_46_105"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">46.105</ph> Contractor responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(b) The contractor is required to maintain calibrated measuring and test equipment used for test and verification of products offered. The product specialist shall insert the TQ STO RT001 Measuring and Test Equipment in the PID.</p>
+   </conbody>
+</concept>

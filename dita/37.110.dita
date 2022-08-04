@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_37_110"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">37.110</ph> Solicitation provisions and contract clauses.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) Solicitations shall include procurement note L07 to identify Government points of contact for offerors who wish to inspect the Government installation where services will be performed.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+      <p outputclass="Normal" class="- topic/p ">L07 Site Visit Instructions (OCT 2016)</p>
+      <p outputclass="Normal" class="- topic/p ">Primary Name:                                          Phone Number                                      </p>
+      <p outputclass="Normal" class="- topic/p ">Alternate Name:                                        Phone Number                                     </p>
+      <p id="p_Part39" outputclass="Normal" class="- topic/p ">*****</p>
+   </conbody>
+</concept>

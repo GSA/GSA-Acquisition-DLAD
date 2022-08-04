@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_SUBPART_12_4"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="heading 2 Subpart Ctr" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Subpart 12.4</ph> - UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="TsPeII" outputclass="normal Ctr" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised December 27, 2016 through PROCLTR 2017-08)</i>
+      </p>
+   </conbody>
+</concept>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_13"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">Part 13</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="13.003.dita#DLAD_13_003"
+                        class="- topic/xref ">13.003 Policy.</xref>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_13.1.dita#DLAD_SUBPART_13_1"
+                        class="- topic/xref ">Subpart 13.1 - PROCEDURES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.106.dita#DLAD_13_106"
+                              class="- topic/xref ">13.106 Soliciting competition, evaluation of quotations or offers, award and documentation.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.106-3.dita#DLAD_13_106-3"
+                              class="- topic/xref ">13.106-3 Award and documentation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_13.2.dita#DLAD_SUBPART_13_2"
+                        class="- topic/xref ">Subpart 13.2 - ACTIONS AT OR BELOW THE MICRO-PURCHASE THRESHOLD</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.201.dita#DLAD_13_201"
+                              class="- topic/xref ">13.201 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_13.3.dita#DLAD_SUBPART_13_3"
+                        class="- topic/xref ">Subpart 13.3 - SIMPLIFIED ACQUISITION METHODS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.301.dita#DLAD_13_301"
+                              class="- topic/xref ">13.301 Governmentwide commercial purchase card.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.303.dita#DLAD_13_303"
+                              class="- topic/xref ">13.303 Blanket purchase agreements (BPAs).</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.303-2.dita#DLAD_13_303-2"
+                              class="- topic/xref ">13.303-2 Establishment of BPAs.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.303-3.dita#DLAD_13_303-3"
+                              class="- topic/xref ">13.303-3 Preparation of BPAs.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.390.dita#DLAD_13_390"
+                              class="- topic/xref ">13.390 Indefinite delivery contracts (IDCs) below the simplified acquisition threshold (SAT).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_13.4.dita#DLAD_SUBPART_13_4"
+                        class="- topic/xref ">Subpart 13.4 - FAST PAYMENT PROCEDURE</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.402.dita#DLAD_13_402"
+                              class="- topic/xref ">13.402 Conditions for use.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.404.dita#DLAD_13_404"
+                              class="- topic/xref ">13.404 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_13.5.dita#DLAD_SUBPART_13_5"
+                        class="- topic/xref ">Subpart 13.5 - SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="13.501.dita#DLAD_13_501"
+                              class="- topic/xref ">13.501 Special documentation requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_PGI_1_602-3"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">PGI 1.602-3</ph> Ratification of unauthorized commitments.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="uDgeOg" class="- topic/p ">(c) Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3"
+               outputclass="fm:paraswithautonuminparens"
+               class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <u class="+ topic/ph hi-d/u ">(c)(S-90):</u>
+      </p>
+      <p id="ylSPet" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Ratification of Unauthorized Commitments Checklist</b>
+      </p>
+      <p id="fzMUFC" outputclass="Normal" class="- topic/p ">I. Responsibilities of the contracting office that made the unauthorized commitment:</p>
+      <p id="vWtKSV" outputclass="Normal" class="- topic/p ">1. [ ] Provide a signed statement addressing the following:</p>
+      <p id="iVAejU" outputclass="Normal" class="- topic/p ">a. [ ] Circumstances that led to the unauthorized commitment;</p>
+      <p id="yhvxzD" outputclass="Normal" class="- topic/p ">b. [ ] Name of the employee who made the commitment;</p>
+      <p id="rmaJVq" outputclass="Normal" class="- topic/p ">c. [ ] Date of commitment;</p>
+      <p id="MxhABP" outputclass="Normal" class="- topic/p ">d. [ ] Government requirement that necessitated the commitment;</p>
+      <p id="rZwHMk" outputclass="Normal" class="- topic/p ">e. [ ] Reason(s) employee did not follow normal procurement procedures;</p>
+      <p id="OpRSxK" outputclass="Normal" class="- topic/p ">f. [ ] Whether the Government derived any benefit from the goods or services received;</p>
+      <p id="CmDAcO" outputclass="Normal" class="- topic/p ">g. [ ] Cost of the goods or services; and</p>
+      <p id="tNRjEg" outputclass="Normal" class="- topic/p ">h. [ ] Any other pertinent facts.</p>
+      <p id="msgEqz" outputclass="Normal" class="- topic/p ">2. [ ] Provide all orders, original invoices, and other documentary evidence of the transaction.</p>
+      <p id="CSCubp" outputclass="Normal" class="- topic/p ">II. Responsibilities of the supervisor of the employee who made the unauthorized commitment:</p>
+      <p id="QtiUHI" outputclass="Normal" class="- topic/p ">1. [ ] Provide an endorsement to the contracting officer concurring with the recommendation to ratify. Include the following:</p>
+      <p id="XkAuyl" outputclass="Normal" class="- topic/p ">a. [ ] Verification the documentation is accurate and complete.</p>
+      <p id="hKbsMz" outputclass="Normal" class="- topic/p ">b. [ ] Documentation of corrective action(s) taken or proposed to prevent a recurrence.</p>
+      <p id="eRUEId" outputclass="Normal" class="- topic/p ">2. [ ] Provide complete purchase request and appropriate funding, with documentation—</p>
+      <p id="RuydgM" outputclass="Normal" class="- topic/p ">a. [ ] Supporting the funding decision; and</p>
+      <p id="YTXWtZ" outputclass="Normal" class="- topic/p ">b. [ ] Consultation with Office of Counsel, if applicable.</p>
+      <p id="ETaDpv" outputclass="Normal" class="- topic/p ">The obligation is generally chargeable to the fiscal year when the unauthorized commitment occurred; or, if such funds are unavailable, from currently available funds.</p>
+      <p id="glheLs" outputclass="Normal" class="- topic/p ">III. Responsibilities of the contracting officer:</p>
+      <p id="GELMbF" outputclass="Normal" class="- topic/p ">1. Prepare a determination and findings (D&amp;F). Include the following:</p>
+      <p id="QgfPoU" outputclass="Normal" class="- topic/p ">a. [ ] Summary statement of facts;</p>
+      <p id="DANWIb" outputclass="Normal" class="- topic/p ">b. [ ] Office of Counsel coordination;</p>
+      <p id="cPxOPR" outputclass="Normal" class="- topic/p ">c. [ ] Recommendation for approval of ratification action or other disposition (see <xref href="1.602-3.dita#DLAD_1_602-3"
+               outputclass="fm:paraswithautonuminparens"
+               class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <u class="+ topic/ph hi-d/u ">(d)</u> if requesting relief on a quantum meruit basis);</p>
+      <p id="QUFasa" outputclass="List1" class="- topic/p ">d. [ ] Documentation of corrective action(s) taken or proposed to prevent a recurrence; and</p>
+      <p id="XjBLnr" outputclass="Normal" class="- topic/p ">e. [ ] Documentation affirming the circumstances meet the following limitations in FAR 1.602-3(c):</p>
+      <p id="NhvNnc" outputclass="List3" class="- topic/p ">(i) [ ] The contractor provided supplies or services to the Government, and the Government accepted those supplies or services; or the Government otherwise obtained or will obtain a benefit resulting from performance of the unauthorized commitment.</p>
+      <p id="UZQdHu" outputclass="List3" class="- topic/p ">(ii) [ ] The ratifying official has the authority to enter into a contractual commitment.</p>
+      <p id="xMEPnd" outputclass="List3" class="- topic/p ">(iii) [ ] The resulting contract would otherwise have been proper if made by an appropriate contracting officer. The Government was not otherwise precluded by law from procuring the supplies or services.</p>
+      <p id="RZPfvh" outputclass="List3" class="- topic/p ">(iv) [ ] The contracting officer reviewing the unauthorized commitment determines the price to be fair and reasonable.</p>
+      <p id="OFgtwB" outputclass="List3" class="- topic/p ">(v) [ ] Payment is not for unallowable costs.</p>
+      <p id="BnIVDu" outputclass="List3" class="- topic/p ">(vi) [ ] The contracting officer recommends payment.</p>
+      <p id="qIDrnh" outputclass="List3" class="- topic/p ">(vii) [ ] Proper type of funds are available and were available at the time the unauthorized commitment was made.</p>
+      <p id="vMpFSg" outputclass="List3" class="- topic/p ">(viii) [ ] The ratification is in accordance with any other limitations prescribed under local/regional procedures.</p>
+      <p id="AruZgc" class="- topic/p ">(d) Nonratifiable claims.</p>
+      <p id="nBRWzh" outputclass="Normal" class="- topic/p ">Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3" class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d" class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d_S92" class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>:</p>
+      <p id="teWQaV" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Quantum Meruit Checklist.</b>
+      </p>
+      <p id="ICPvuy" outputclass="Normal" class="- topic/p ">I. The contracting officer shall—</p>
+      <p id="jIuKSO" outputclass="Normal" class="- topic/p ">1. Obtain the following from the office that received the voluntary goods or services:</p>
+      <p id="kgOBaG" outputclass="Normal" class="- topic/p ">a. [ ] A written statement detailing the circumstances that led to contractor performance without a contract and/or a lapse in contract coverage; and</p>
+      <p id="MLThwF" outputclass="Normal" class="- topic/p ">b. The following documentation:</p>
+      <p id="zSoEBo" outputclass="List3" class="- topic/p ">(i) [ ] Contractor claim;</p>
+      <p id="sPWgTZ" outputclass="List3" class="- topic/p ">(ii) [ ] Contractor invoices; and</p>
+      <p id="DtQrJc" outputclass="List3" class="- topic/p ">(iii) [ ] Correspondence related to the claim.</p>
+      <p id="zCDVCh" outputclass="List1" class="- topic/p ">2. Obtain a statement from the contractor addressing—</p>
+      <p id="eDcXjb" outputclass="List1" class="- topic/p ">a. [ ] The contractor’s knowledge or understanding regarding a lack of contract;</p>
+      <p id="pGDFuV" outputclass="List1" class="- topic/p ">b. [ ] Why the contractor performed or allowed performance without a contract;</p>
+      <p id="pxXSJs" outputclass="List1" class="- topic/p ">c. [ ] Why the contractor believes it is entitled to relief;</p>
+      <p id="xxWMiL" outputclass="List1" class="- topic/p ">d. [ ] Why the contractor’s performance meets the good faith test; and</p>
+      <p id="QyEfPD" outputclass="List1" class="- topic/p ">e. [ ] Address and contact information of contractor and, if applicable, legal counsel.</p>
+      <p id="WQKayH" outputclass="Normal" class="- topic/p ">3. [ ] Consult Office of Counsel to help determine whether the circumstances warrant requesting relief on a quantum meruit basis, and obtain documentation of discussion.</p>
+      <p id="kwUAFR" outputclass="Normal" class="- topic/p ">II. Justification. The contracting officer shall prepare the justification. Include the following:</p>
+      <p id="IujtoT" outputclass="List1" class="- topic/p ">1. [ ] Introductory paragraph providing an overview of the claim.</p>
+      <p id="IKgdlZ" outputclass="List1" class="- topic/p ">2. Background paragraph that includes—</p>
+      <p id="DYQeqL" outputclass="Normal" class="- topic/p ">a. [ ] A detailed explanation of how and when the contractor performance without a contract and/or a lapse in contract coverage occurred.</p>
+      <p id="THFFxN" outputclass="Normal" class="- topic/p ">b. [ ] Information regarding knowledge of Government employee(s) involved; and</p>
+      <p id="wWIOTa" outputclass="Normal" class="- topic/p ">c. [ ] Dates of events.</p>
+      <p id="crXHBe" outputclass="List1" class="- topic/p ">3. [ ] Analysis paragraph explaining how the circumstances warrant requesting relief on a quantum meruit basis. Include documentation of the following:</p>
+      <p id="RWXwZy" class="- topic/p ">a. [ ] The goods or services would have been a permissible procurement had correct procedures been followed;</p>
+      <p id="XbdJuC" class="- topic/p ">b. [ ] The Government received and accepted a benefit;</p>
+      <p id="byAiCw" class="- topic/p ">c. [ ] The contractor acted in good faith; and</p>
+      <p id="OpBxHr" outputclass="List1" class="- topic/p ">d. [ ] The amount to be paid represents a reasonable value of the benefit received.</p>
+      <p id="tiQgMP" outputclass="List1" class="- topic/p ">4. [ ] Recommendation paragraph with request for relief.</p>
+      <p id="cslFHv" outputclass="Normal" class="- topic/p ">5. [ ] Description and documentation of individual and systemic corrective action(s) the supervisor or other authority have taken or have proposed to take to prevent recurrence.</p>
+      <p id="AubzzF" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">DO NOT INCLUDE ANY PERSONNEL DISCIPLINARY ACTION, WHICH IS PRIVACY ACT PROTECTED.</b>
+      </p>
+      <p id="cfEJGm" outputclass="Normal" class="- topic/p ">6. Attach the following:</p>
+      <p id="CSFgzR" outputclass="Normal" class="- topic/p ">a. [ ] Documentation obtained from the office that received the voluntary goods or services and from the contractor (see Section I); and</p>
+      <p id="ATHzXc" outputclass="Normal" class="- topic/p ">b. [ ] Letter for CAE signature issuing initial notice and determination to the claimant.</p>
+   </conbody>
+</concept>

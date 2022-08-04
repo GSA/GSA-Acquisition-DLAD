@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_47_303-91"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">47.303-91</ph> DLR item compliance.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">The contracting officer shall include transportation requirements supporting DLR items in any solicitation and contractual action as required by the specific Military Department. Military Department DLR specifications determine requirements, including, but not limited to: packaging, packing, marking, delivery locations, f.o.b. requirements, delivery variations, payment for shipment, and any associated contract clause. If appropriate, the contracting officer may specify DLAD requirements as applicable to DLR items.</p>
+   </conbody>
+</concept>
