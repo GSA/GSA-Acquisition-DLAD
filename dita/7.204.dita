@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_7_204"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">7.204</ph> Responsibilities of contracting officers.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="p_P260_33157" class="- topic/p ">(a) The contracting officer shall submit a referral to the material planner citing the proposed the economic purchase quantity. Material planners will use this data to evaluate economic order quantities for supplies and shall advise the contracting officer of any change to the original requirement.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_7_204" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">7.204</ph> Responsibilities of contracting officers.</title>
+   <conbody>
+      <p id="p_P260_33157">(a) The contracting officer shall submit a referral to the material planner citing the proposed the economic purchase quantity. Material planners will use this data to evaluate economic order quantities for supplies and shall advise the contracting officer of any change to the original requirement.</p>
    </conbody>
 </concept>

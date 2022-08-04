@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_39_7402"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">39.7402</ph> Policy.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(b)(4) Contracting officers shall submit recommendations to provide property (reference DFARS 239.7402(b)(4)) through the DLA Acquisition Operations Division, which will coordinate with the DLA Acquisition Director for authorization.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_39_7402" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">39.7402</ph> Policy.</title>
+   <conbody>
+      <p>(b)(4) Contracting officers shall submit recommendations to provide property (reference DFARS 239.7402(b)(4)) through the DLA Acquisition Operations Division, which will coordinate with the DLA Acquisition Director for authorization.</p>
    </conbody>
 </concept>

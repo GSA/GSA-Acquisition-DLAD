@@ -1,81 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_39"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 39</ph> - ACQUISITION OF INFORMATION TECHNOLOGY (IT)</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_39.2.dita#DLAD_SUBPART_39_2"
-                        class="- topic/xref ">Subpart 39.2 - ELECTRONIC AND INFORMATION TECHNOLOGY (EIT)</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_39" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 39</ph> - ACQUISITION OF INFORMATION TECHNOLOGY (IT)</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DLAD_SUBPART_39_2">Subpart 39.2 - ELECTRONIC AND INFORMATION TECHNOLOGY (EIT)</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.201.dita#DLAD_39_201"
-                              class="- topic/xref ">39.201 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.201.dita#DLAD_39_201">39.201 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.203.dita#DLAD_39_203"
-                              class="- topic/xref ">39.203 Applicability.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.203.dita#DLAD_39_203">39.203 Applicability.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.204.dita#DLAD_39_204"
-                              class="- topic/xref ">39.204 Exceptions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.204.dita#DLAD_39_204">39.204 Exceptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_39.74.dita#DLAD_SUBPART_39_74"
-                        class="- topic/xref ">Subpart 39.74 - TELECOMMUNICATIONS SERVICES</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.74.dita#DLAD_SUBPART_39_74">Subpart 39.74 - TELECOMMUNICATIONS SERVICES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.7402.dita#DLAD_39_7402"
-                              class="- topic/xref ">39.7402 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.7402.dita#DLAD_39_7402">39.7402 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_39.90.dita#DLAD_SUBPART_39_90"
-                        class="- topic/xref ">Subpart 39.90 - PROCEDURES, APPROVALS AND TOOLS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.90.dita#DLAD_SUBPART_39_90">Subpart 39.90 - PROCEDURES, APPROVALS AND TOOLS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.9001.dita#DLAD_39_9001"
-                              class="- topic/xref ">39.9001 Procedures for IT procurement.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.9001.dita#DLAD_39_9001">39.9001 Procedures for IT procurement.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="39.9002.dita#DLAD_39_9002"
-                              class="- topic/xref ">39.9002 Documentation requirements for IT procurement.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="39.9002.dita#DLAD_39_9002">39.9002 Documentation requirements for IT procurement.</xref>
                      </p>
                   </li>
                </ul>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_22_103-4"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">22.103-4</ph> Approvals.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) The approving official is the CCO.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_22_103-4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">22.103-4</ph> Approvals.</title>
+   <conbody>
+      <p>(a) The approving official is the CCO.</p>
    </conbody>
 </concept>

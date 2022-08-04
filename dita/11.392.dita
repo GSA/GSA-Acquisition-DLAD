@@ -1,64 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_11_392"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">
-         <ph id="1f6jih9" rev="change Please" class="- topic/ph ">11.392</ph>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_11_392" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">
+         <ph id="1f6jih9" rev="change Please">11.392</ph>
       </ph>
-      <ph id="5ozwwlc9" rev="change Please" class="- topic/ph ">Traceability documentation.</ph>
+      <ph id="5ozwwlc9" rev="change Please">Traceability documentation.</ph>
    </title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="CcWrsv" outputclass="Normal" class="- topic/p ">It is critically important for contracting officers to be able to confirm a documentation trail from the supplier to the approved manufacturer. Contractors are required to make available and retain traceability documentation (see <xref href="4.703.dita" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">4.703</u>
+   <conbody>
+      <p id="CcWrsv" outputclass="Normal">It is critically important for contracting officers to be able to confirm a documentation trail from the supplier to the approved manufacturer. Contractors are required to make available and retain traceability documentation (see <xref href="4.703.dita">
+            <u>4.703</u>
          </xref>). Contracting officers shall request unredacted traceability documentation when there are potential indicators of risk such as:</p>
-      <p id="LFYxth" outputclass="Normal" class="- topic/p ">Preaward traceability:</p>
-      <p id="eBYbql" outputclass="List3" class="- topic/p ">(i) The supplier has no past DLA history;</p>
-      <p id="OLEkDf" outputclass="List3" class="- topic/p ">(ii) The price offered is lower than price of approved source or its authorized distributor;</p>
-      <p id="KFijoS" outputclass="List3" class="- topic/p ">(iii) The price offered is out of line with other quotes or past pricing history;</p>
-      <p id="hMTxWo" outputclass="List3" class="- topic/p ">(iv) The price offered for new product is lower than price offered for surplus material;</p>
-      <p id="aBXEGz" outputclass="List3" class="- topic/p ">(v) The manufacturer’s Contractor and Government Entity (CAGE) code identified in offer differs from CAGE code of approved manufacturing source in solicitation;</p>
-      <p id="ucfqNI" outputclass="List3" class="- topic/p ">(vi) The offeror/contractor is reluctant or unable to provide traceability documentation;</p>
-      <p id="kVaDds" outputclass="List3" class="- topic/p ">(vii) The offeror’s/contractor’s phone number, address, email, or other vital information is missing, invalid, or suspicious;</p>
-      <p id="pvhTZx" outputclass="List3" class="- topic/p ">(viii) The contractor invoices without delivering the supplies;</p>
-      <p id="esLfNI" outputclass="List3" class="- topic/p ">(ix) Contractor is on the DCRL for traceability concerns.</p>
-      <p id="dhNgmr" class="- topic/p ">Examples of acceptable preaward traceability documentation are found at the <xref format="html"
-               href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Counterfeit Detection and Avoidance Program (CDAP)</u>
-         </xref> website (<xref format="html"
-               href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u>
+      <p id="LFYxth" outputclass="Normal">Preaward traceability:</p>
+      <p id="eBYbql" outputclass="List3">(i) The supplier has no past DLA history;</p>
+      <p id="OLEkDf" outputclass="List3">(ii) The price offered is lower than price of approved source or its authorized distributor;</p>
+      <p id="KFijoS" outputclass="List3">(iii) The price offered is out of line with other quotes or past pricing history;</p>
+      <p id="hMTxWo" outputclass="List3">(iv) The price offered for new product is lower than price offered for surplus material;</p>
+      <p id="aBXEGz" outputclass="List3">(v) The manufacturer’s Contractor and Government Entity (CAGE) code identified in offer differs from CAGE code of approved manufacturing source in solicitation;</p>
+      <p id="ucfqNI" outputclass="List3">(vi) The offeror/contractor is reluctant or unable to provide traceability documentation;</p>
+      <p id="kVaDds" outputclass="List3">(vii) The offeror’s/contractor’s phone number, address, email, or other vital information is missing, invalid, or suspicious;</p>
+      <p id="pvhTZx" outputclass="List3">(viii) The contractor invoices without delivering the supplies;</p>
+      <p id="esLfNI" outputclass="List3">(ix) Contractor is on the DCRL for traceability concerns.</p>
+      <p id="dhNgmr">Examples of acceptable preaward traceability documentation are found at the <xref format="html" href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external">
+            <u>Counterfeit Detection and Avoidance Program (CDAP)</u>
+         </xref> website (<xref format="html" href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external">
+            <u>http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u>
          </xref>).</p>
-      <p id="OEHLat" outputclass="Normal" class="- topic/p ">Postaward traceability.</p>
-      <p id="QfERBN" outputclass="List3" class="- topic/p ">(i) If preaward traceability was required or when other circumstances are warranted;</p>
-      <p id="TEMTCU" outputclass="List3" class="- topic/p ">(ii) Independent distributors and brokers that do not keep inventory and procure the offered product after contract award. The postaward documentation demonstrates the complete line of ownership before the product is shipped.</p>
-      <p id="ysBfCV" outputclass="List3" class="- topic/p ">(iii) Protest is received questioning awardee’s ability or intention to supply exact product. The contracting officer shall immediately request traceability documentation.</p>
-      <p id="FONKLl" outputclass="List3" class="- topic/p ">(iv) The contractor requests a modification changing the part number or other information related to its exact product representation.</p>
-      <p id="VOUKfl" outputclass="List3" class="- topic/p ">(v) The contractor is on the DCRL for traceability concerns.</p>
-      <p id="AuNstT" outputclass="Normal" class="- topic/p ">If the awardee does not have full traceability information, the contracting officer shall contact the product specialist to recommend that product verification testing be invoked using procurement note E05 (see 46.292).</p>
-      <p id="lOQkGx" outputclass="Normal" class="- topic/p ">The contracting officer determines the acceptability of traceability documentation and may request additional documentation necessary to support acceptability. When reviewing traceability documentation, special attention should be given to:</p>
-      <p id="znszgq" outputclass="List3" class="- topic/p ">(i) The letterhead is correct and/or unaltered;</p>
-      <p id="llCVGG" outputclass="List3" class="- topic/p ">(ii) Signatures are legible and provided by authorized personnel;</p>
-      <p id="axcYko" outputclass="List3" class="- topic/p ">(iii) There is no evidence of alteration, such as cutting and pasting/white out/scanning;</p>
-      <p id="axlXEm" outputclass="List3" class="- topic/p ">(iv) There are no missing documents;</p>
-      <p id="OKbZXc" outputclass="List3" class="- topic/p ">(v) Dates are current;</p>
-      <p id="eitlJM" outputclass="List3" class="- topic/p ">(vi) Phone numbers are accurate;</p>
-      <p id="lGGEJE" outputclass="List3" class="- topic/p ">(vii) Font styles are consistent;</p>
-      <p id="PSdCZf" outputclass="List3" class="- topic/p ">(viii) There are no handwritten annotations on a typed document;</p>
-      <p id="gvAbxr" outputclass="List3" class="- topic/p ">(ix) Line items reflect correct part numbers and quantities;</p>
-      <p id="YqASPA" outputclass="List3" class="- topic/p ">(x) Documents do not appear to have been reproduced repeatedly;</p>
-      <p id="pOGzFU" outputclass="List3" class="- topic/p ">(xi) Documents do not have shaded areas, which may indicate information was covered up and the document recopied;</p>
-      <p id="xOTnUJ" outputclass="List3" class="- topic/p ">(xii) Correct division of manufacturing source is cited; or</p>
-      <p id="VAFkQd" outputclass="List3" class="- topic/p ">(xiii) There are no disclaimers in the document (e.g., stating parts cannot be traced to the actual manufacturer or to any specific revision of the part, etc.).</p>
-      <p id="uLTwts" outputclass="Normal" class="- topic/p ">If the offeror fails to provide sufficient information preaward within the time frame requested, the contracting officer shall consider the offer technically unacceptable and proceed to the next acceptable offer.</p>
-      <p id="rjGwYi" outputclass="Normal" class="- topic/p ">If the contractor fails to provide sufficient information postaward within the time frame requested, the award may be cancelled. If it is not in the Government’s best interest to cancel the award, the contracting officer may contact the product specialist to recommend that product verification testing be invoked using procurement note E05 (see 46.292).</p>
-      <p id="orKjIX" outputclass="Normal" class="- topic/p ">The contracting officer shall reject redacted traceability documentation and notify the offeror or contractor. In all cases, any traceability documentation provided by offerors or contractors shall be treated as proprietary information and stamped accordingly.</p>
+      <p id="OEHLat" outputclass="Normal">Postaward traceability.</p>
+      <p id="QfERBN" outputclass="List3">(i) If preaward traceability was required or when other circumstances are warranted;</p>
+      <p id="TEMTCU" outputclass="List3">(ii) Independent distributors and brokers that do not keep inventory and procure the offered product after contract award. The postaward documentation demonstrates the complete line of ownership before the product is shipped.</p>
+      <p id="ysBfCV" outputclass="List3">(iii) Protest is received questioning awardee’s ability or intention to supply exact product. The contracting officer shall immediately request traceability documentation.</p>
+      <p id="FONKLl" outputclass="List3">(iv) The contractor requests a modification changing the part number or other information related to its exact product representation.</p>
+      <p id="VOUKfl" outputclass="List3">(v) The contractor is on the DCRL for traceability concerns.</p>
+      <p id="AuNstT" outputclass="Normal">If the awardee does not have full traceability information, the contracting officer shall contact the product specialist to recommend that product verification testing be invoked using procurement note E05 (see 46.292).</p>
+      <p id="lOQkGx" outputclass="Normal">The contracting officer determines the acceptability of traceability documentation and may request additional documentation necessary to support acceptability. When reviewing traceability documentation, special attention should be given to:</p>
+      <p id="znszgq" outputclass="List3">(i) The letterhead is correct and/or unaltered;</p>
+      <p id="llCVGG" outputclass="List3">(ii) Signatures are legible and provided by authorized personnel;</p>
+      <p id="axcYko" outputclass="List3">(iii) There is no evidence of alteration, such as cutting and pasting/white out/scanning;</p>
+      <p id="axlXEm" outputclass="List3">(iv) There are no missing documents;</p>
+      <p id="OKbZXc" outputclass="List3">(v) Dates are current;</p>
+      <p id="eitlJM" outputclass="List3">(vi) Phone numbers are accurate;</p>
+      <p id="lGGEJE" outputclass="List3">(vii) Font styles are consistent;</p>
+      <p id="PSdCZf" outputclass="List3">(viii) There are no handwritten annotations on a typed document;</p>
+      <p id="gvAbxr" outputclass="List3">(ix) Line items reflect correct part numbers and quantities;</p>
+      <p id="YqASPA" outputclass="List3">(x) Documents do not appear to have been reproduced repeatedly;</p>
+      <p id="pOGzFU" outputclass="List3">(xi) Documents do not have shaded areas, which may indicate information was covered up and the document recopied;</p>
+      <p id="xOTnUJ" outputclass="List3">(xii) Correct division of manufacturing source is cited; or</p>
+      <p id="VAFkQd" outputclass="List3">(xiii) There are no disclaimers in the document (e.g., stating parts cannot be traced to the actual manufacturer or to any specific revision of the part, etc.).</p>
+      <p id="uLTwts" outputclass="Normal">If the offeror fails to provide sufficient information preaward within the time frame requested, the contracting officer shall consider the offer technically unacceptable and proceed to the next acceptable offer.</p>
+      <p id="rjGwYi" outputclass="Normal">If the contractor fails to provide sufficient information postaward within the time frame requested, the award may be cancelled. If it is not in the Government’s best interest to cancel the award, the contracting officer may contact the product specialist to recommend that product verification testing be invoked using procurement note E05 (see 46.292).</p>
+      <p id="orKjIX" outputclass="Normal">The contracting officer shall reject redacted traceability documentation and notify the offeror or contractor. In all cases, any traceability documentation provided by offerors or contractors shall be treated as proprietary information and stamped accordingly.</p>
    </conbody>
 </concept>

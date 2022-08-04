@@ -1,72 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_33"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 33</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_33.1.dita#DLAD_SUBPART_33_1"
-                        class="- topic/xref ">Subpart 33.1 - PROTESTS</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_33" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 33</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_33.1.dita#DLAD_SUBPART_33_1">Subpart 33.1 - PROTESTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.103.dita#DLAD_33_103"
-                              class="- topic/xref ">33.103 Protests to the agency.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.103.dita#DLAD_33_103">33.103 Protests to the agency.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.104.dita#DLAD_33_104"
-                              class="- topic/xref ">33.104 Protests to GAO.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.104.dita#DLAD_33_104">33.104 Protests to GAO.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_33.2.dita#DLAD_SUBPART_33_2"
-                        class="- topic/xref ">Subpart 33.2 - DISPUTES AND APPEALS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_33.2.dita#DLAD_SUBPART_33_2">Subpart 33.2 - DISPUTES AND APPEALS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.209.dita#DLAD_33_209"
-                              class="- topic/xref ">33.209 Suspected fraudulent claims.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.209.dita#DLAD_33_209">33.209 Suspected fraudulent claims.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.211.dita#DLAD_33_211"
-                              class="- topic/xref ">33.211 Contracting officers decision.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.211.dita#DLAD_33_211">33.211 Contracting officers decision.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.212.dita#DLAD_33_212"
-                              class="- topic/xref ">33.212 Contracting officers duties upon appeal.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.212.dita#DLAD_33_212">33.212 Contracting officers duties upon appeal.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="33.214.dita#DLAD_33_214"
-                              class="- topic/xref ">33.214 Alternative dispute resolution (ADR).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.214.dita#DLAD_33_214">33.214 Alternative dispute resolution (ADR).</xref>
                      </p>
                   </li>
                </ul>

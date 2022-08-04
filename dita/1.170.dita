@@ -1,194 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_1_170"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">1.170</ph> Peer reviews.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="gtQInA" class="- topic/p ">(a) DoD peer reviews.</p>
-      <p id="yyVNmU" outputclass="List2" class="- topic/p ">(1) Procuring organizations shall submit forecasts of
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_1_170" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.170</ph> Peer reviews.</title>
+   <conbody>
+      <p id="gtQInA">(a) DoD peer reviews.</p>
+      <p id="yyVNmU" outputclass="List2">(1) Procuring organizations shall submit forecasts of
          projects meeting the Defense Pricing and Contracting (DPC)(USD(A&amp;S) peer review
          thresholds for the following quarter by the 15th of September, December, March, and June,
          for consolidation of project information by the DLA Acquisition Operations Division program
          manager. Provide information using the following format:</p>
-      <p id="RNCpOk" outputclass="Ctr normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">DEFENSE PRICING AND CONTRACTING (DPC)</b>
-         <b class="+ topic/ph hi-d/b ">PEER REVIEW FORECAST</b>
+      <p id="RNCpOk" outputclass="Ctr normal">
+         <b>DEFENSE PRICING AND CONTRACTING (DPC)</b>
+         <b>PEER REVIEW FORECAST</b>
       </p>
-      <p id="qaBbFk" outputclass="Ctr normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Fiscal Year 20XX Oct-Dec</b>
+      <p id="qaBbFk" outputclass="Ctr normal">
+         <b>Fiscal Year 20XX Oct-Dec</b>
       </p>
-      <p id="PlYyXf" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PREAWARD – COMPETITIVE</b>
+      <p id="PlYyXf" outputclass="Normal">
+         <b>PREAWARD – COMPETITIVE</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="10" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="10"
-                     colnum="10"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <thead class="- topic/thead ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FmRrvE" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Organization</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="10" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <colspec colname="10" colnum="10" rowheader="headers" />
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FmRrvE">
+                        <b>Organization</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xgaQGw" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Program/Acquisition Name/Description</b>
+                  <entry>
+                     <p id="xgaQGw">
+                        <b>Program/Acquisition Name/Description</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IQdsZc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Dollar Amount</b>
+                  <entry>
+                     <p id="IQdsZc">
+                        <b>Dollar Amount</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AxyYGb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 1 Peer Review Date</b>
+                  <entry>
+                     <p id="AxyYGb">
+                        <b>Estimated Phase 1 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aKwjrb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Solicitation Issuance</b>
+                  <entry>
+                     <p id="aKwjrb">
+                        <b>Expected Date of Solicitation Issuance</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EOKQbM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 2 Peer Review Date</b>
+                  <entry>
+                     <p id="EOKQbM">
+                        <b>Estimated Phase 2 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="elxVMi" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Request for Final Proposal Revisions</b>
+                  <entry>
+                     <p id="elxVMi">
+                        <b>Expected Date of Request for Final Proposal Revisions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="znYTaX" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 3 Peer Review Date</b>
+                  <entry>
+                     <p id="znYTaX">
+                        <b>Estimated Phase 3 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FNlSyp" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Contract Award</b>
+                  <entry>
+                     <p id="FNlSyp">
+                        <b>Expected Date of Contract Award</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="shBjrY" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Notes</b>
+                  <entry>
+                     <p id="shBjrY">
+                        <b>Notes</b>
                      </p>
                   </entry>
                </row>
             </thead>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="tFcdLl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tFcdLl">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AXQJim" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="AXQJim">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xETiXN" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="xETiXN">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pTsySl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response).</i>
+                  <entry>
+                     <p id="pTsySl">
+                        <b>
+                           <i>(Insert response).</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OFEfkq" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="OFEfkq">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PoZhtn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="PoZhtn">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ShVRQj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="ShVRQj">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FAKPbJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="FAKPbJ">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NkOkOq" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="NkOkOq">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tcLXMT" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response).</i>
+                  <entry>
+                     <p id="tcLXMT">
+                        <b>
+                           <i>(Insert response).</i>
                         </b>
                      </p>
                   </entry>
@@ -196,158 +162,131 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="clvskO" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PREAWARD – NONCOMPETITIVE</b>
+      <p id="clvskO" outputclass="Normal">
+         <b>PREAWARD – NONCOMPETITIVE</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="9" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <thead class="- topic/thead ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fuNbnQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Procuring Organization</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="9" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fuNbnQ">
+                        <b>Procuring Organization</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TdJuVN" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Program/Acquisition Name/ Description</b>
+                  <entry>
+                     <p id="TdJuVN">
+                        <b>Program/Acquisition Name/ Description</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QNgQhc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Dollar Amount</b>
+                  <entry>
+                     <p id="QNgQhc">
+                        <b>Dollar Amount</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jBoMFz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 1 Peer Review Date</b>
+                  <entry>
+                     <p id="jBoMFz">
+                        <b>Estimated Phase 1 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jgixuo" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Negotiation Issuance</b>
+                  <entry>
+                     <p id="jgixuo">
+                        <b>Expected Date of Negotiation Issuance</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="kOIOkO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 2 Peer Review Date</b>
+                  <entry>
+                     <p id="kOIOkO">
+                        <b>Estimated Phase 2 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vHNnCB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Request for Final Proposal Revisions</b>
+                  <entry>
+                     <p id="vHNnCB">
+                        <b>Expected Date of Request for Final Proposal Revisions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CAYONP" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Contract Award</b>
+                  <entry>
+                     <p id="CAYONP">
+                        <b>Expected Date of Contract Award</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yfIzOS" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Notes</b>
+                  <entry>
+                     <p id="yfIzOS">
+                        <b>Notes</b>
                      </p>
                   </entry>
                </row>
             </thead>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="yzgiji" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yzgiji">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CzPHrD" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="CzPHrD">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TmGnsh" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="TmGnsh">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bUTsvO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="bUTsvO">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ADiXST" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="ADiXST">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VKegam" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="VKegam">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="giOqFo" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="giOqFo">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NqHkrr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="NqHkrr">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UWSRBd" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="UWSRBd">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
@@ -355,12 +294,12 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="YNiFus" outputclass="List2" class="- topic/p ">(2) The HCA shall conduct an Integrated Acquisition Review
-         Board (IARB) as defined in <u class="+ topic/ph hi-d/u ">2.101</u> prior to a DPC peer review.</p>
-      <p id="ukQUPb" outputclass="List2" class="- topic/p ">(3) If there is a discrepancy between the acquisition
+      <p id="YNiFus" outputclass="List2">(2) The HCA shall conduct an Integrated Acquisition Review
+         Board (IARB) as defined in <u>2.101</u> prior to a DPC peer review.</p>
+      <p id="ukQUPb" outputclass="List2">(3) If there is a discrepancy between the acquisition
          strategy and the DPC peer review recommendations, the HCA shall confer with the DLA
          Acquisition Director to determine appropriate action.</p>
-      <p id="CSPHwo" outputclass="List2" class="- topic/p ">(4) Within 15 calendar days after the date of the DPC peer
+      <p id="CSPHwo" outputclass="List2">(4) Within 15 calendar days after the date of the DPC peer
          review report, the contracting officer shall document the disposition of all DPC peer
          review recommendations in a memorandum for the record and furnish a copy to the DLA
          Acquisition Operations Division. If the contracting officer takes exceptions to any DPC
@@ -368,194 +307,164 @@
          notify the DLA Acquisition Director and DLA Acquisition Operations Division prior to
          providing the response to DPC. If the DLA Acquisition Director recommends any changes, the
          DLA Acquisition Director will discuss them with the HCA.</p>
-      <p id="wyBpuy" class="- topic/p ">(b) Component peer reviews.</p>
-      <p id="jsNppx" outputclass="List2" class="- topic/p ">(1) HCAs are responsible for—</p>
-      <p id="HxwJAn" outputclass="List3" class="- topic/p ">(i) Executing peer reviews in accordance with DoDI 5000.02
+      <p id="wyBpuy">(b) Component peer reviews.</p>
+      <p id="jsNppx" outputclass="List2">(1) HCAs are responsible for—</p>
+      <p id="HxwJAn" outputclass="List3">(i) Executing peer reviews in accordance with DoDI 5000.02
          and DFARS Part 201;</p>
-      <p id="NyLFSN" outputclass="List3" class="- topic/p ">(ii) Conducting a minimum of two (2) reviews per fiscal
+      <p id="NyLFSN" outputclass="List3">(ii) Conducting a minimum of two (2) reviews per fiscal
          year;</p>
-      <p id="hutrMR" outputclass="List3" class="- topic/p ">(iii) Providing identification of and first quarter
+      <p id="hutrMR" outputclass="List3">(iii) Providing identification of and first quarter
          forecast for the acquisitions for the following fiscal year to the DLA Acquisition
          Operations Division by September 30th; and</p>
-      <p id="gJJwNP" outputclass="List3" class="- topic/p ">(iv) Providing a quarterly forecast update of the (minimum
+      <p id="gJJwNP" outputclass="List3">(iv) Providing a quarterly forecast update of the (minimum
          of two (2)) projects identified for peer review to the DLA Acquisition Operations Division
          by the 15th of, December, March, and June. Provide the forecast using the following
          format:</p>
-      <p id="haBjaB" outputclass="Ctr normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">DLA</b>
-         <b class="+ topic/ph hi-d/b ">PEER REVIEW FORECAST</b>
+      <p id="haBjaB" outputclass="Ctr normal">
+         <b>DLA</b>
+         <b>PEER REVIEW FORECAST</b>
       </p>
-      <p id="HSpZrq" outputclass="Ctr normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Fiscal Year 20XX – Oct-Dec</b>
+      <p id="HSpZrq" outputclass="Ctr normal">
+         <b>Fiscal Year 20XX – Oct-Dec</b>
       </p>
-      <p id="AFldbk" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PREAWARD – COMPETITIVE</b>
+      <p id="AFldbk" outputclass="Normal">
+         <b>PREAWARD – COMPETITIVE</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="10" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="10"
-                     colnum="10"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <thead class="- topic/thead ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VmvJLB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Procuring Organization</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="10" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <colspec colname="10" colnum="10" rowheader="headers" />
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VmvJLB">
+                        <b>Procuring Organization</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BdQpJQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Program/Acquisition Name/Description</b>
+                  <entry>
+                     <p id="BdQpJQ">
+                        <b>Program/Acquisition Name/Description</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wSXwEM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Dollar Amount</b>
+                  <entry>
+                     <p id="wSXwEM">
+                        <b>Dollar Amount</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gFToMG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 1 Peer Review Date</b>
+                  <entry>
+                     <p id="gFToMG">
+                        <b>Estimated Phase 1 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zIlEfm" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Solicitation Issuance</b>
+                  <entry>
+                     <p id="zIlEfm">
+                        <b>Expected Date of Solicitation Issuance</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CXIpHb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 2 Peer Review Date</b>
+                  <entry>
+                     <p id="CXIpHb">
+                        <b>Estimated Phase 2 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OVVxvF" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Request for Final Proposal Revisions</b>
+                  <entry>
+                     <p id="OVVxvF">
+                        <b>Expected Date of Request for Final Proposal Revisions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hkVITt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 3 Peer Review Date</b>
+                  <entry>
+                     <p id="hkVITt">
+                        <b>Estimated Phase 3 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zYKqSp" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Contract Award</b>
+                  <entry>
+                     <p id="zYKqSp">
+                        <b>Expected Date of Contract Award</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EwcpWP" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Notes</b>
+                  <entry>
+                     <p id="EwcpWP">
+                        <b>Notes</b>
                      </p>
                   </entry>
                </row>
             </thead>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VJMvSu" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VJMvSu">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dFPHOv" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="dFPHOv">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aoypML" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="aoypML">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hiaVaa" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="hiaVaa">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PKbOWH" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="PKbOWH">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GUWQMU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="GUWQMU">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jnQIGU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="jnQIGU">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lqVUyl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="lqVUyl">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TveqLQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="TveqLQ">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ovMYLi" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="ovMYLi">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
@@ -563,159 +472,132 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="iXfbJx" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PREAWARD – NONCOMPETITIVE</b>
+      <p id="iXfbJx" outputclass="Normal">
+         <b>PREAWARD – NONCOMPETITIVE</b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="9" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <thead class="- topic/thead ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="p_ColumnTitle_Preaward_Noncompetitive_2" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Procuring Organiza</b>
-                        <b class="+ topic/ph hi-d/b ">tion</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="9" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p id="p_ColumnTitle_Preaward_Noncompetitive_2">
+                        <b>Procuring Organiza</b>
+                        <b>tion</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ihJQuM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Program/Acquisition Name/ Description</b>
+                  <entry>
+                     <p id="ihJQuM">
+                        <b>Program/Acquisition Name/ Description</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AtoBHi" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Dollar Amount</b>
+                  <entry>
+                     <p id="AtoBHi">
+                        <b>Dollar Amount</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gYUQsS" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 1 Peer Review Date</b>
+                  <entry>
+                     <p id="gYUQsS">
+                        <b>Estimated Phase 1 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GUSBWz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Negotiation Issuance</b>
+                  <entry>
+                     <p id="GUSBWz">
+                        <b>Expected Date of Negotiation Issuance</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vvLEle" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Estimated Phase 2 Peer Review Date</b>
+                  <entry>
+                     <p id="vvLEle">
+                        <b>Estimated Phase 2 Peer Review Date</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qPVIKr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Request for Final Proposal Revisions</b>
+                  <entry>
+                     <p id="qPVIKr">
+                        <b>Expected Date of Request for Final Proposal Revisions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TSPhbJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Expected Date of Contract Award</b>
+                  <entry>
+                     <p id="TSPhbJ">
+                        <b>Expected Date of Contract Award</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MvNJyO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Notes</b>
+                  <entry>
+                     <p id="MvNJyO">
+                        <b>Notes</b>
                      </p>
                   </entry>
                </row>
             </thead>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CaKGii" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CaKGii">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RNtyRU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="RNtyRU">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ClpTSl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="ClpTSl">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CAdxxj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="CAdxxj">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="txcLdt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="txcLdt">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WlLBpw" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="WlLBpw">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OduCnc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="OduCnc">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IRWVpa" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="IRWVpa">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WLtZsU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">
-                           <i class="+ topic/ph hi-d/i ">(Insert response)</i>
+                  <entry>
+                     <p id="WLtZsU">
+                        <b>
+                           <i>(Insert response)</i>
                         </b>
                      </p>
                   </entry>
@@ -723,14 +605,14 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="LcTNtf" outputclass="List3" class="- topic/p ">(v) Providing a copy of the DLA peer review recommendations
+      <p id="LcTNtf" outputclass="List3">(v) Providing a copy of the DLA peer review recommendations
          and the contracting officer’s disposition of the recommendations, for each phase of review,
          to the DLA Acquisition Operations Division program manager.</p>
-      <p id="OMIwWW" outputclass="List2" class="- topic/p ">(2) The HCA shall ensure the review team includes
+      <p id="OMIwWW" outputclass="List2">(2) The HCA shall ensure the review team includes
          representatives from other DLA procuring organizations (two DAWIA Level III Acquisition,
          one Office of Counsel, and one Small Business Programs). The senior member chairs the
          review team.</p>
-      <p id="yJvZsA" outputclass="List2" class="- topic/p ">(3) The DLA Acquisition Operations Division is responsible
+      <p id="yJvZsA" outputclass="List2">(3) The DLA Acquisition Operations Division is responsible
          for oversight of peer reviews.</p>
    </conbody>
 </concept>

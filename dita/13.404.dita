@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_13_404"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">13.404</ph> Contract clause.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">(S-90) DEVIATION 20-05 waives the requirements in FAR 52.213-1(c)(2) for the FDT Program.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_13_404" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">13.404</ph> Contract clause.</title>
+   <conbody>
+      <p outputclass="Normal">(S-90) DEVIATION 20-05 waives the requirements in FAR 52.213-1(c)(2) for the FDT Program.</p>
    </conbody>
 </concept>

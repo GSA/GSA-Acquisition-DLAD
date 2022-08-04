@@ -1,139 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_16"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber">Part 16</ph> - TYPES OF CONTRACTS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_16.1.dita#DLAD_SUBPART_16_1"
-                        class="- topic/xref ">Subpart 16.1 - SELECTING CONTRACT TYPES</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_16" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 16</ph> - TYPES OF CONTRACTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.1.dita#DLAD_SUBPART_16_1">Subpart 16.1 - SELECTING CONTRACT TYPES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.190.dita#DLAD_16_190"
-                              class="- topic/xref ">16.190 Long-term contracting.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.190.dita#DLAD_16_190">16.190 Long-term contracting.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.191.dita#DLAD_16_191"
-                              class="- topic/xref ">16.191 Bridge contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.191.dita#DLAD_16_191">16.191 Bridge contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_16.2.dita#DLAD_SUBPART_16_2"
-                        class="- topic/xref ">Subpart 16.2 - FIXED-PRICE CONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.2.dita#DLAD_SUBPART_16_2">Subpart 16.2 - FIXED-PRICE CONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.203.dita#DLAD_16_203"
-                              class="- topic/xref ">16.203 Fixed-price contracts with economic price adjustment.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203.dita#DLAD_16_203">16.203 Fixed-price contracts with economic price adjustment.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.203-1.dita#DLAD_16_203-1"
-                              class="- topic/xref ">16.203-1 Description.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-1.dita#DLAD_16_203-1">16.203-1 Description.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.203-2.dita#DLAD_16_203-2"
-                              class="- topic/xref ">16.203-2 Application.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-2.dita#DLAD_16_203-2">16.203-2 Application.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.203-3.dita#DLAD_16_203-3"
-                              class="- topic/xref ">16.203-3 Limitations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-3.dita#DLAD_16_203-3">16.203-3 Limitations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.203-4.dita#DLAD_16_203-4"
-                              class="- topic/xref ">16.203-4 Contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.203-4.dita#DLAD_16_203-4">16.203-4 Contract clauses.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.290.dita#DLAD_16_290"
-                              class="- topic/xref ">16.290 Procurement notes.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.290.dita#DLAD_16_290">16.290 Procurement notes.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_16.5.dita#DLAD_SUBPART_16_5"
-                        class="- topic/xref ">Subpart 16.5 - INDEFINITE DELIVERY CONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.5.dita#DLAD_SUBPART_16_5">Subpart 16.5 - INDEFINITE DELIVERY CONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li rev="Please change" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.501-2.dita#DLAD_16_501-2"
-                              class="- topic/xref ">16.501-2 General.</xref>
+               <ul otherprops="TOC">
+                  <li rev="Please change">
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.501-2.dita#DLAD_16_501-2">16.501-2 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.504.dita#DLAD_16_504"
-                              class="- topic/xref ">16.504 Indefinite-quantity contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.504.dita#DLAD_16_504">16.504 Indefinite-quantity contracts.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.505.dita#DLAD_16_505"
-                              class="- topic/xref ">16.505 Ordering.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.505.dita#DLAD_16_505">16.505 Ordering.</xref>
                      </p>
                   </li>
-                  <li rev="change Please" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.590.dita#DLAD_16_590"
-                              class="- topic/xref ">16.590 Procurement notes.</xref>
+                  <li rev="change Please">
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.590.dita#DLAD_16_590">16.590 Procurement notes.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_16.6.dita#DLAD_SUBPART_16_6"
-                        class="- topic/xref ">Subpart 16.6 - TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_16.6.dita#DLAD_SUBPART_16_6">Subpart 16.6 - TIME-AND-MATERIALS, LABOR-HOUR, AND LETTER CONTRACTS</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="16.601.dita#DLAD_16_601"
-                              class="- topic/xref ">16.601 Time-and-materials contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="16.601.dita#DLAD_16_601">16.601 Time-and-materials contracts.</xref>
                      </p>
                   </li>
                </ul>

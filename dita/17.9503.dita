@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_17_9503"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.9503</ph> Pricing.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) A PV contract or other tailored logistics support contract must comply with one of
-            the established PV pricing models in Subpart <xref href="SUBPART_15.4.dita#DLAD_SUBPART_15_4"
-               xtrc="15.4"
-               class="- topic/xref ">Subpart 15.4 - CONTRACT PRICING</xref>.</p>
-      <p class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Catalog pricing</i>. The initial catalog of DLA approved items available for
-            ordering under the TLSC is created at time of contract award<b class="+ topic/ph hi-d/b ">.</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_9503" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9503</ph> Pricing.</title>
+   <conbody>
+      <p>(a) A PV contract or other tailored logistics support contract must comply with one of
+            the established PV pricing models in Subpart <xref href="SUBPART_15.4.dita#DLAD_SUBPART_15_4" xtrc="15.4">Subpart 15.4 - CONTRACT PRICING</xref>.</p>
+      <p>(b) <i>Catalog pricing</i>. The initial catalog of DLA approved items available for
+            ordering under the TLSC is created at time of contract award<b>.</b>
       </p>
    </conbody>
 </concept>

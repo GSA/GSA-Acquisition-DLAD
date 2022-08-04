@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_17_9202"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.9202</ph> Policy.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) The contracting officer must document that the use of a reopener requirement is the most appropriate means of overcoming a contingency that will significantly affect the contract price.</p>
-      <p class="- topic/p ">(b) The contracting officer must—</p>
-      <p outputclass="List2" class="- topic/p ">(1) Ask the ACO to provide a recommended reopener requirement, if applicable.</p>
-      <p outputclass="List2" class="- topic/p ">(2) Query CBAR and the ACO, regarding the adequacy of the contractor’s accounting system to provide all necessary cost data in the form required to price adjustments. (Obtain a review of the adequacy of the accounting system if necessary.</p>
-      <p outputclass="List2" class="- topic/p ">(3) Obtain cost or pricing data applicable to the cost element and markup factors, to establish the base level from which adjustment will be made.</p>
-      <p outputclass="List2" class="- topic/p ">(4) Prepare proposed schedule for each affected CLIN, which identifies each specific rate, factor, element of cost, profit, etc., to be covered by the reopener requirement; and explicitly describes or provides an example of the precise methodology to be used to calculate any resulting price adjustment. Consider whether it is appropriate to retroactively apply a price, as subsequently finalized, to items already delivered on time and to late deliveries.</p>
-      <p outputclass="List2" class="- topic/p ">(5) If the reopener provides for an upward adjustment, advise the budget office to commit funds over and above the contract price to the amount of the ceiling established. If the award is funded by a Military Inter-Departmental Purchase Request, obtain confirmation from the requiring activity that funds have been set aside to cover the potential increase.</p>
-      <p outputclass="List2" class="- topic/p ">(6) Obtain HCA approval of the reopener requirement prior to conclusion of negotiations. The approval includes basis and limitations for use.</p>
-      <p outputclass="List2" class="- topic/p ">(7) Incorporate amounts and methods reached through preaward discussions or negotiations with the contractor in a document executed by both parties and attached to the PNM; or incorporate calculations supporting the contracting officer’s interpretation of negotiations in the PNM. Ensure confidential contractor information is not included in the contract.</p>
-      <p outputclass="List2" class="- topic/p ">(8) Indicate in a contract administration delegation letter if the award contains a reopener requirement. Advise the ACO of any awards retained for administration that will be affected by a prospective forward pricing rate agreement (FPRA) or forward pricing rate recommendation (FPRR).</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_9202" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9202</ph> Policy.</title>
+   <conbody>
+      <p>(a) The contracting officer must document that the use of a reopener requirement is the most appropriate means of overcoming a contingency that will significantly affect the contract price.</p>
+      <p>(b) The contracting officer must—</p>
+      <p outputclass="List2">(1) Ask the ACO to provide a recommended reopener requirement, if applicable.</p>
+      <p outputclass="List2">(2) Query CBAR and the ACO, regarding the adequacy of the contractor’s accounting system to provide all necessary cost data in the form required to price adjustments. (Obtain a review of the adequacy of the accounting system if necessary.</p>
+      <p outputclass="List2">(3) Obtain cost or pricing data applicable to the cost element and markup factors, to establish the base level from which adjustment will be made.</p>
+      <p outputclass="List2">(4) Prepare proposed schedule for each affected CLIN, which identifies each specific rate, factor, element of cost, profit, etc., to be covered by the reopener requirement; and explicitly describes or provides an example of the precise methodology to be used to calculate any resulting price adjustment. Consider whether it is appropriate to retroactively apply a price, as subsequently finalized, to items already delivered on time and to late deliveries.</p>
+      <p outputclass="List2">(5) If the reopener provides for an upward adjustment, advise the budget office to commit funds over and above the contract price to the amount of the ceiling established. If the award is funded by a Military Inter-Departmental Purchase Request, obtain confirmation from the requiring activity that funds have been set aside to cover the potential increase.</p>
+      <p outputclass="List2">(6) Obtain HCA approval of the reopener requirement prior to conclusion of negotiations. The approval includes basis and limitations for use.</p>
+      <p outputclass="List2">(7) Incorporate amounts and methods reached through preaward discussions or negotiations with the contractor in a document executed by both parties and attached to the PNM; or incorporate calculations supporting the contracting officer’s interpretation of negotiations in the PNM. Ensure confidential contractor information is not included in the contract.</p>
+      <p outputclass="List2">(8) Indicate in a contract administration delegation letter if the award contains a reopener requirement. Advise the ACO of any awards retained for administration that will be affected by a prospective forward pricing rate agreement (FPRA) or forward pricing rate recommendation (FPRR).</p>
    </conbody>
 </concept>

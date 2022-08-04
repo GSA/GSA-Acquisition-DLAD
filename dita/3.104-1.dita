@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_3_104-1"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3.104-1</ph> Definitions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">“<i class="+ topic/ph hi-d/i ">Contracting activity ethics official</i>” means the Chief Counsel.</p>
-      <p outputclass="Normal" class="- topic/p ">“<i class="+ topic/ph hi-d/i ">Contracting office ethics official</i>” means the designated Counsel.</p>
-      <p outputclass="Normal" class="- topic/p ">“<i class="+ topic/ph hi-d/i ">Designated agency ethics official</i>” means the General Counsel.</p>
-      <p outputclass="Normal" class="- topic/p ">“<i class="+ topic/ph hi-d/i ">Ombudsman for Procurement Integrity</i>” means the DLA Acquisition Deputy Director.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_3_104-1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">3.104-1</ph> Definitions.</title>
+   <conbody>
+      <p outputclass="Normal">“<i>Contracting activity ethics official</i>” means the Chief Counsel.</p>
+      <p outputclass="Normal">“<i>Contracting office ethics official</i>” means the designated Counsel.</p>
+      <p outputclass="Normal">“<i>Designated agency ethics official</i>” means the General Counsel.</p>
+      <p outputclass="Normal">“<i>Ombudsman for Procurement Integrity</i>” means the DLA Acquisition Deputy Director.</p>
    </conbody>
 </concept>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_7_105"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">7.105</ph> Contents of written acquisition plans.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(b)(1)(iv) For any bundled requirement, contracting officers shall—</p>
-      <p outputclass="List2" class="- topic/p ">(1) Notify the DLA Office of Small Business Programs (OSBP) for acquisitions valued over $2 million prior to acquisition plan approval;</p>
-      <p outputclass="List2" class="- topic/p ">(2) Regardless of dollar value, document on the DD Form 2579, Small Business Coordination Record, the impact of any bundling that might adversely affect participation of small businesses in the acquisition; and</p>
-      <p outputclass="List2" class="- topic/p "> (3) Attach the list of incumbent contractors and contracts affected by the bundling to the DD Form 2579.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_7_105" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">7.105</ph> Contents of written acquisition plans.</title>
+   <conbody>
+      <p>(b)(1)(iv) For any bundled requirement, contracting officers shall—</p>
+      <p outputclass="List2">(1) Notify the DLA Office of Small Business Programs (OSBP) for acquisitions valued over $2 million prior to acquisition plan approval;</p>
+      <p outputclass="List2">(2) Regardless of dollar value, document on the DD Form 2579, Small Business Coordination Record, the impact of any bundling that might adversely affect participation of small businesses in the acquisition; and</p>
+      <p outputclass="List2"> (3) Attach the list of incumbent contractors and contracts affected by the bundling to the DD Form 2579.</p>
    </conbody>
 </concept>

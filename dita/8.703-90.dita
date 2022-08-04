@@ -1,43 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_8_703-90"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">8.703-90</ph> Policy for additions of AbilityOne products to the procurement list.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) The 1971 Supply Management Relationship Agreement between DoD and GSA gives DoD authority to buy assigned items for the Federal Government. DoD assigned this authority to DLA.</p>
-      <p class="- topic/p ">(b) DLA works with AbilityOne to add DLA-managed and bought items to its procurement list.</p>
-      <p outputclass="List2" class="- topic/p ">(1) Refer to the <xref href="https://www.abilityone.gov/procurement_list/services_commodity.html"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">AbilityOne Procurement List</u>
-         </xref> (<xref href="https://www.abilityone.gov/procurement_list/services_commodity.html"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://www.abilityone.gov/procurement_list/services_commodity.html</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_8_703-90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">8.703-90</ph> Policy for additions of AbilityOne products to the procurement list.</title>
+   <conbody>
+      <p>(a) The 1971 Supply Management Relationship Agreement between DoD and GSA gives DoD authority to buy assigned items for the Federal Government. DoD assigned this authority to DLA.</p>
+      <p>(b) DLA works with AbilityOne to add DLA-managed and bought items to its procurement list.</p>
+      <p outputclass="List2">(1) Refer to the <xref href="https://www.abilityone.gov/procurement_list/services_commodity.html" scope="external" format="html">
+            <u>AbilityOne Procurement List</u>
+         </xref> (<xref href="https://www.abilityone.gov/procurement_list/services_commodity.html" scope="external" format="html">
+            <u>https://www.abilityone.gov/procurement_list/services_commodity.html</u>
          </xref>) for general guidance</p>
-      <p outputclass="List2" class="- topic/p ">(2) When adding NSNs managed by DLA to the list, the AbilityOne liaison works with the contracting officer and the Small Business Office to gain approval. All parties must consider requirements, pricing, costs, drawings and specifications, and proposed delivery schedules. The contracting officer signs the price concurrence letter, AbilityOne form CBSD 1005, when receiving an agreeable price proposal. The contracting officer must complete the actions within 30 days.</p>
-      <p outputclass="List2" class="- topic/p ">(3) AbilityOne must send a business case analysis with supporting documents to the contracting officer and the Small Business Office when adding managed or procured items assigned to DLA for Total Government Requirement (TGR) or a Broad Government Requirement (BGR).</p>
-      <p outputclass="List3" class="- topic/p ">(i) Central Nonprofit Agency (CNA), NIB, or Source America sends the BCA to the Small Business Office AbilityOne liaison to begin the review. The Small Business Office verifies the NSN and contacts the NSN owner. When the material does not match an NSN, DLA cannot create a new NSN.</p>
-      <p outputclass="List3" class="- topic/p ">(ii) The procuring organization shall name a contracting officer to review the BCA and evaluate the AbilityOne request. The contracting officer must have responsibility for the DLA item proposed for addition. The contracting officer must:</p>
-      <p outputclass="List4" class="- topic/p ">(A) Review the BCA and supporting documents.</p>
-      <p outputclass="List4" class="- topic/p ">(B) Conduct a market comparison to document price reasonableness. The contracting officer must find the price fair and reasonable. DLA does not expect AbilityOne to offer the lowest price or to offer prices matching out-of-date prices, loss leaders, salvage prices, or sale prices, especially when using raw materials that have high market volatility. AbilityOne pricing is based on free on board (f.o.b.) origin.</p>
-      <p outputclass="List2" class="- topic/p ">(4) When the BCA adequately identifies a need, the contracting officer should consider sponsorship regardless of demand history.</p>
-      <p outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i "> </i>(i) When considering adding an NSN to the AbilityOne list, the contracting officer reviews for long-term contract coverage. If a long-term contract exists for the item, the contracting officer may base price reasonableness on comparison with the current contract price.</p>
-      <p outputclass="List3" class="- topic/p ">(ii) When comparing the proposed fair market price (FMP) to an f.o.b. destination contract price, the contracting officer should add the estimated freight to the proposed FMP for an accurate comparison.</p>
-      <p outputclass="List3" class="- topic/p ">(iii) When that cost is unreasonably higher than the current DLA f.o.b. destination contract price, the contracting officer documents the addition as not in the Government’s best interest. The contracting officer tells the AbilityOne liaison the decision. The CNA may either propose a lower price or withdraw the BCA.</p>
-      <p outputclass="List2" class="- topic/p ">(5) If the contracting officer agrees with the proposed addition, the contracting officer shall sign and electronically send AbilityOne Form CBSD 1005 to the AbilityOne liaison. Include the BCA number for the proposal. Contracting officers shall make their best efforts to complete these actions within 30 days. The AbilityOne liaison sends the addition information to the CNA.</p>
-      <p outputclass="List2" class="- topic/p ">(6) The CNA confirms receipt and tells AbilityOne it is ready for production. The contracting officer decides the suitable contracting vehicle for the item. The contracting officer should consider the Government-wide nature of the procurement list and ensure item availability to all Federal agencies. </p>
-      <p outputclass="List3" class="- topic/p ">(i) For NSNs on long-term contract or BPA, the contracting officer shall confirm when the current option period expires.</p>
-      <p outputclass="List3" class="- topic/p ">(ii) DLA may add NSNs to AbilityOne agreements after receipt of the addition notice and the CNA ready letter.</p>
-      <p outputclass="List3" class="- topic/p ">(iii) DLA cannot add NSNs on requirements contracts to AbilityOne agreements until after the current option period expires.</p>
-      <p outputclass="List3" class="- topic/p ">(iv) For NSNs on a prime vendor contract, the contracting officer decides whether to have the prime vendor buy the product from AbilityOne or remove the NSN from the contract. If the prime vendor removes the item from contract, then DLA can add it to an AbilityOne agreement.</p>
+      <p outputclass="List2">(2) When adding NSNs managed by DLA to the list, the AbilityOne liaison works with the contracting officer and the Small Business Office to gain approval. All parties must consider requirements, pricing, costs, drawings and specifications, and proposed delivery schedules. The contracting officer signs the price concurrence letter, AbilityOne form CBSD 1005, when receiving an agreeable price proposal. The contracting officer must complete the actions within 30 days.</p>
+      <p outputclass="List2">(3) AbilityOne must send a business case analysis with supporting documents to the contracting officer and the Small Business Office when adding managed or procured items assigned to DLA for Total Government Requirement (TGR) or a Broad Government Requirement (BGR).</p>
+      <p outputclass="List3">(i) Central Nonprofit Agency (CNA), NIB, or Source America sends the BCA to the Small Business Office AbilityOne liaison to begin the review. The Small Business Office verifies the NSN and contacts the NSN owner. When the material does not match an NSN, DLA cannot create a new NSN.</p>
+      <p outputclass="List3">(ii) The procuring organization shall name a contracting officer to review the BCA and evaluate the AbilityOne request. The contracting officer must have responsibility for the DLA item proposed for addition. The contracting officer must:</p>
+      <p outputclass="List4">(A) Review the BCA and supporting documents.</p>
+      <p outputclass="List4">(B) Conduct a market comparison to document price reasonableness. The contracting officer must find the price fair and reasonable. DLA does not expect AbilityOne to offer the lowest price or to offer prices matching out-of-date prices, loss leaders, salvage prices, or sale prices, especially when using raw materials that have high market volatility. AbilityOne pricing is based on free on board (f.o.b.) origin.</p>
+      <p outputclass="List2">(4) When the BCA adequately identifies a need, the contracting officer should consider sponsorship regardless of demand history.</p>
+      <p outputclass="Normal">
+         <i> </i>(i) When considering adding an NSN to the AbilityOne list, the contracting officer reviews for long-term contract coverage. If a long-term contract exists for the item, the contracting officer may base price reasonableness on comparison with the current contract price.</p>
+      <p outputclass="List3">(ii) When comparing the proposed fair market price (FMP) to an f.o.b. destination contract price, the contracting officer should add the estimated freight to the proposed FMP for an accurate comparison.</p>
+      <p outputclass="List3">(iii) When that cost is unreasonably higher than the current DLA f.o.b. destination contract price, the contracting officer documents the addition as not in the Government’s best interest. The contracting officer tells the AbilityOne liaison the decision. The CNA may either propose a lower price or withdraw the BCA.</p>
+      <p outputclass="List2">(5) If the contracting officer agrees with the proposed addition, the contracting officer shall sign and electronically send AbilityOne Form CBSD 1005 to the AbilityOne liaison. Include the BCA number for the proposal. Contracting officers shall make their best efforts to complete these actions within 30 days. The AbilityOne liaison sends the addition information to the CNA.</p>
+      <p outputclass="List2">(6) The CNA confirms receipt and tells AbilityOne it is ready for production. The contracting officer decides the suitable contracting vehicle for the item. The contracting officer should consider the Government-wide nature of the procurement list and ensure item availability to all Federal agencies. </p>
+      <p outputclass="List3">(i) For NSNs on long-term contract or BPA, the contracting officer shall confirm when the current option period expires.</p>
+      <p outputclass="List3">(ii) DLA may add NSNs to AbilityOne agreements after receipt of the addition notice and the CNA ready letter.</p>
+      <p outputclass="List3">(iii) DLA cannot add NSNs on requirements contracts to AbilityOne agreements until after the current option period expires.</p>
+      <p outputclass="List3">(iv) For NSNs on a prime vendor contract, the contracting officer decides whether to have the prime vendor buy the product from AbilityOne or remove the NSN from the contract. If the prime vendor removes the item from contract, then DLA can add it to an AbilityOne agreement.</p>
    </conbody>
 </concept>

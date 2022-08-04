@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_34_7101"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">34.7101</ph> Solicitation provision and contract clause.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a)(S-90) Cost and Software Data Reporting (CSDR) requirements apply to sustainment solicitations and contracts/subcontracts that supports Major Defense Acquisition Programs and Major Automated Information Systems over $50 million, regardless of contract type, in accordance with DoD Manual 5000.04-M-1, Cost and Software Data Reporting (CSDR) Manual, and DoD Instruction 5000.73, Cost Analysis Guidance and Procedures. If CSDR requirements apply to a DLA acquisition, the contracting officer shall coordinate the Request for Proposal (RFP) CSDR plan content and negotiation with the responsible Program Management Office (PMO). Procuring organizations shall submit their proposed RFP plan, or a request for waiver (see 34.7101(a)(S-91), to DLA Acquisition Pricing at least 70 days prior to the estimated RFP release date. DLA Acquisition Pricing will review the proposed RFP plan or request for waiver and forward it to the Deputy Director, Cost Assessment (DDCA), Office of the Secretary of Defense (OSD) for final approval within 60 days of the RFP release date. After negotiations and award, procuring organizations shall forward final CSDR plans to DLA Acquisition Pricing within 30 days from date for award for submission to OSD. The Cost Assessment and Program Evaluation (OSD CAPE) Office maintains polices and guidance concerning CSDR requirements at <xref href="https://cade.osd.mil/policy/csdr-timeline"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Cost Assessment Data Enterprise (CADE) Cost and Sortware Data Reporting (CSDR) Policies</u>
-         </xref> (<xref href="https://cade.osd.mil/policy/csdr-timeline"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://cade.osd.mil/policy/csdr-timeline</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_34_7101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">34.7101</ph> Solicitation provision and contract clause.</title>
+   <conbody>
+      <p>(a)(S-90) Cost and Software Data Reporting (CSDR) requirements apply to sustainment solicitations and contracts/subcontracts that supports Major Defense Acquisition Programs and Major Automated Information Systems over $50 million, regardless of contract type, in accordance with DoD Manual 5000.04-M-1, Cost and Software Data Reporting (CSDR) Manual, and DoD Instruction 5000.73, Cost Analysis Guidance and Procedures. If CSDR requirements apply to a DLA acquisition, the contracting officer shall coordinate the Request for Proposal (RFP) CSDR plan content and negotiation with the responsible Program Management Office (PMO). Procuring organizations shall submit their proposed RFP plan, or a request for waiver (see 34.7101(a)(S-91), to DLA Acquisition Pricing at least 70 days prior to the estimated RFP release date. DLA Acquisition Pricing will review the proposed RFP plan or request for waiver and forward it to the Deputy Director, Cost Assessment (DDCA), Office of the Secretary of Defense (OSD) for final approval within 60 days of the RFP release date. After negotiations and award, procuring organizations shall forward final CSDR plans to DLA Acquisition Pricing within 30 days from date for award for submission to OSD. The Cost Assessment and Program Evaluation (OSD CAPE) Office maintains polices and guidance concerning CSDR requirements at <xref href="https://cade.osd.mil/policy/csdr-timeline" scope="external" format="html">
+            <u>Cost Assessment Data Enterprise (CADE) Cost and Sortware Data Reporting (CSDR) Policies</u>
+         </xref> (<xref href="https://cade.osd.mil/policy/csdr-timeline" scope="external" format="html">
+            <u>https://cade.osd.mil/policy/csdr-timeline</u>
          </xref>).</p>
-      <p outputclass="Normal" class="- topic/p ">(S-91) In accordance with DoD Manual 5000.04-M-1, DDCA has the authority to approve waivers for CSDR requirements. Procuring organizations shall forward requests for waivers to DLA Acquisition Pricing, accompanied by—</p>
-      <p class="- topic/p ">(i) For commercial acquisitions, a copy of the commercial item determination and a memorandum supporting the rationale for a waiver based on commerciality, both signed by the contracting officer; or</p>
-      <p outputclass="Normal" class="- topic/p ">(ii) For competitive acquisitions, documentation supporting the basis for the contracting officer’s determination that adequate competition will continue to exist.</p>
+      <p outputclass="Normal">(S-91) In accordance with DoD Manual 5000.04-M-1, DDCA has the authority to approve waivers for CSDR requirements. Procuring organizations shall forward requests for waivers to DLA Acquisition Pricing, accompanied by—</p>
+      <p>(i) For commercial acquisitions, a copy of the commercial item determination and a memorandum supporting the rationale for a waiver based on commerciality, both signed by the contracting officer; or</p>
+      <p outputclass="Normal">(ii) For competitive acquisitions, documentation supporting the basis for the contracting officer’s determination that adequate competition will continue to exist.</p>
    </conbody>
 </concept>

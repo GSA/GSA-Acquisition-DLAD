@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_19_505"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">19.505</ph> Rejecting Small Business Administration recommendations.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(b) If the CCO approves the action of the contracting officer, the next level of appeal shall be the HCA. If the HCA approves the action of the contracting officer, the procurement center representative shall be so advised and may proceed with the appeal actions prescribed in FAR 19.505(c).</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_19_505" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">19.505</ph> Rejecting Small Business Administration recommendations.</title>
+   <conbody>
+      <p>(b) If the CCO approves the action of the contracting officer, the next level of appeal shall be the HCA. If the HCA approves the action of the contracting officer, the procurement center representative shall be so advised and may proceed with the appeal actions prescribed in FAR 19.505(c).</p>
    </conbody>
 </concept>

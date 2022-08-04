@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_45_103-70"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">45.103-70</ph> Furnishing Government Property to Contractors.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(1) The product specialist makes the determination and documents the requirement in the Material Master. The requirement will be identified on the PR.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_45_103-70" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">45.103-70</ph> Furnishing Government Property to Contractors.</title>
+   <conbody>
+      <p>(1) The product specialist makes the determination and documents the requirement in the Material Master. The requirement will be identified on the PR.</p>
    </conbody>
 </concept>

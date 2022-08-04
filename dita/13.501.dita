@@ -1,39 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_13_501"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">13.501</ph> Special documentation        requirements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="rer2eB" class="- topic/p ">(b) Contract file documentation.</p>
-      <p id="rre3B3" outputclass="List2" class="- topic/p ">(3) Contracting officers shall use the Market Research
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_13_501" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">13.501</ph> Special documentation        requirements.</title>
+   <conbody>
+      <p id="rer2eB">(b) Contract file documentation.</p>
+      <p id="rre3B3" outputclass="List2">(3) Contracting officers shall use the Market Research
             for Commercial Items and Commerciality Determination Memorandum (MRCICDM) format at
-                <xref href="53.9013.dita#DLAD_53_9013" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">53.9013</u>53.9013 Simplified acquisition procedures.</xref>
-         <xref href="53.9013.dita#DLAD_53_9013/428jiuqx" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">(b)</u>53.9013 Simplified acquisition procedures.</xref> to document the market
+                <xref href="53.9013.dita#DLAD_53_9013">
+            <u>53.9013</u>53.9013 Simplified acquisition procedures.</xref>
+         <xref href="53.9013.dita#DLAD_53_9013/428jiuqx">
+            <u>(b)</u>53.9013 Simplified acquisition procedures.</xref> to document the market
             research the procuring organization conducted to determine whether the item is
             commercial. Each procuring organization may add standardized supplemental information
             only by appending it at the end of the MRCICDM format, in order to foster uniform
             presentation across the Agency. Contracting officers are encouraged, but are not
-            required, to use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">53.9013</u>53.9013 Simplified acquisition procedures.</xref>
-         <xref href="53.9013.dita#DLAD_53_9013/Gltewj" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">(a)</u>53.9013 Simplified acquisition procedures.</xref> or Alternate SAAD format
-            at <xref href="53.9013.dita#DLAD_53_9013" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">53.9013</u>53.9013 Simplified acquisition procedures.</xref>
-         <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">(c)</u>53.9013 Simplified acquisition procedures.</xref>, as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">13.106-3</u>13.106-3 Award and documentation.</xref>
-         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">(b)</u>13.106-3 Award and documentation.</xref> and <xref href="15.406-1.dita#DLAD_15_406-1" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">15.406-1</u>15.406-1 Prenegotiation objectives.</xref>
-         <xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1" class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">(b)(1)</u>15.406-1 Prenegotiation objectives.</xref>, in place of a PNM, to
+            required, to use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013">
+            <u>53.9013</u>53.9013 Simplified acquisition procedures.</xref>
+         <xref href="53.9013.dita#DLAD_53_9013/Gltewj">
+            <u>(a)</u>53.9013 Simplified acquisition procedures.</xref> or Alternate SAAD format
+            at <xref href="53.9013.dita#DLAD_53_9013">
+            <u>53.9013</u>53.9013 Simplified acquisition procedures.</xref>
+         <xref href="53.9013.dita#DLAD_53_9013/0c86im0j">
+            <u>(c)</u>53.9013 Simplified acquisition procedures.</xref>, as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3">
+            <u>13.106-3</u>13.106-3 Award and documentation.</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
+            <u>(b)</u>13.106-3 Award and documentation.</xref> and <xref href="15.406-1.dita#DLAD_15_406-1">
+            <u>15.406-1</u>15.406-1 Prenegotiation objectives.</xref>
+         <xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1">
+            <u>(b)(1)</u>15.406-1 Prenegotiation objectives.</xref>, in place of a PNM, to
             document the basis for award of actions valued within the thresholds at FAR
             13.500(a).</p>
    </conbody>

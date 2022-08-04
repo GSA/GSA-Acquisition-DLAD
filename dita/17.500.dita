@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_17_500"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.500</ph> Scope of subpart.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="p_P17_505" outputclass="Normal" class="- topic/p ">Follow the procedures in DLAM 4010.01, <xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf"
-               scope="external"
-               format="pdf"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Outbound Military Interdepartmental Purchase Request (MIPR) for Service Orders</u>
-         </xref> (<xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf"
-               scope="external"
-               format="pdf"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_500" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.500</ph> Scope of subpart.</title>
+   <conbody>
+      <p id="p_P17_505" outputclass="Normal">Follow the procedures in DLAM 4010.01, <xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf" scope="external" format="pdf">
+            <u>Outbound Military Interdepartmental Purchase Request (MIPR) for Service Orders</u>
+         </xref> (<xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf" scope="external" format="pdf">
+            <u>https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf</u>
          </xref>). </p>
    </conbody>
 </concept>

@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_9_100-90"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">9.100-90</ph> Business Decision Analytics (BDA) dashboard.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) The BDA dashboard is a decision support capability tool. It is available for use on an optional basis by contracting officers, acquisition specialists, product specialists, fraud counsel, and other personnel involved in the acquisition process. It identifies potential item, price, and supplier risk areas prior to award and recommends mitigation strategies to minimize these risks. It consolidates data from multiple sources (e.g., DUN and Bradstreet, Supplier Performance Risk System SPRS (formally PPIRS-SR NG), SAM, etc.) into one dashboard.</p>
-      <p class="- topic/p ">(b) Using the BDA dashboard does not reduce the contracting officer’s authorities or responsibilities. For example, contracting officers shall not (1) use BDA data as the sole basis for making determinations of responsibility or price reasonableness; or (2) use supplier risk data in place of the SPRS Delivery Score and Quality Classification. When evaluating acquisition risk, contracting officers should consider using the BDA dashboard as an additional source of information to help mitigate risks of suspect suppliers, potential overpayment, and procuring counterfeit and/or non-conforming spare parts. In the event of any data inconsistencies, the originating data source takes precedence over BDA data.</p>
-      <p class="- topic/p ">(c) Conditions when contracting officers should consider using the BDA dashboard include, but are not limited to—</p>
-      <p outputclass="List2" class="- topic/p ">(1) First time buys;</p>
-      <p outputclass="List2" class="- topic/p ">(2) Long time between procurements;</p>
-      <p outputclass="List2" class="- topic/p ">(3) Critical items;</p>
-      <p outputclass="List2" class="- topic/p ">(4) First article;</p>
-      <p outputclass="List2" class="- topic/p ">(5) Cases when prices have drastically increased;</p>
-      <p outputclass="List2" class="- topic/p ">(6) New suppliers; and/or</p>
-      <p outputclass="List2" class="- topic/p ">(7) Suspect suppliers.</p>
-      <p class="- topic/p ">(d) Contracting officers shall notify Office of Counsel (Procurement Fraud) and the DCRL Monitor of any suspect product or supplier activity for possible inclusion on the DCRL.</p>
-      <p class="- topic/p ">(e) Contracting officers shall document the contract file in Records Management.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_9_100-90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.100-90</ph> Business Decision Analytics (BDA) dashboard.</title>
+   <conbody>
+      <p>(a) The BDA dashboard is a decision support capability tool. It is available for use on an optional basis by contracting officers, acquisition specialists, product specialists, fraud counsel, and other personnel involved in the acquisition process. It identifies potential item, price, and supplier risk areas prior to award and recommends mitigation strategies to minimize these risks. It consolidates data from multiple sources (e.g., DUN and Bradstreet, Supplier Performance Risk System SPRS (formally PPIRS-SR NG), SAM, etc.) into one dashboard.</p>
+      <p>(b) Using the BDA dashboard does not reduce the contracting officer’s authorities or responsibilities. For example, contracting officers shall not (1) use BDA data as the sole basis for making determinations of responsibility or price reasonableness; or (2) use supplier risk data in place of the SPRS Delivery Score and Quality Classification. When evaluating acquisition risk, contracting officers should consider using the BDA dashboard as an additional source of information to help mitigate risks of suspect suppliers, potential overpayment, and procuring counterfeit and/or non-conforming spare parts. In the event of any data inconsistencies, the originating data source takes precedence over BDA data.</p>
+      <p>(c) Conditions when contracting officers should consider using the BDA dashboard include, but are not limited to—</p>
+      <p outputclass="List2">(1) First time buys;</p>
+      <p outputclass="List2">(2) Long time between procurements;</p>
+      <p outputclass="List2">(3) Critical items;</p>
+      <p outputclass="List2">(4) First article;</p>
+      <p outputclass="List2">(5) Cases when prices have drastically increased;</p>
+      <p outputclass="List2">(6) New suppliers; and/or</p>
+      <p outputclass="List2">(7) Suspect suppliers.</p>
+      <p>(d) Contracting officers shall notify Office of Counsel (Procurement Fraud) and the DCRL Monitor of any suspect product or supplier activity for possible inclusion on the DCRL.</p>
+      <p>(e) Contracting officers shall document the contract file in Records Management.</p>
    </conbody>
 </concept>

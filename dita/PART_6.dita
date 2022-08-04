@@ -1,88 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_6"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">Part 6</ph> - COMPETITION REQUIREMENTS</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_6.2.dita#DLAD_SUBPART_6_2"
-                        class="- topic/xref ">Subpart 6.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_6" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 6</ph> - COMPETITION REQUIREMENTS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.2.dita#DLAD_SUBPART_6_2">Subpart 6.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.202.dita#DLAD_6_202"
-                              class="- topic/xref ">6.202 Establishing or maintaining alternative sources.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.202.dita#DLAD_6_202">6.202 Establishing or maintaining alternative sources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_6.3.dita#DLAD_SUBPART_6_3"
-                        class="- topic/xref ">Subpart 6.3 - OTHER THAN FULL AND OPEN COMPETITION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.3.dita#DLAD_SUBPART_6_3">Subpart 6.3 - OTHER THAN FULL AND OPEN COMPETITION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.303.dita#DLAD_6_303"
-                              class="- topic/xref ">6.303 Justifications.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.303.dita#DLAD_6_303">6.303 Justifications.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.303-2.dita#DLAD_6_303-2"
-                              class="- topic/xref ">6.303-2 Content.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.303-2.dita#DLAD_6_303-2">6.303-2 Content.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.305.dita#DLAD_6_305"
-                              class="- topic/xref ">6.305 Availability of the justification.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.305.dita#DLAD_6_305">6.305 Availability of the justification.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.305-90.dita#DLAD_6_305-90"
-                              class="- topic/xref ">6.305-90 Oversight program.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.305-90.dita#DLAD_6_305-90">6.305-90 Oversight program.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="SUBPART_6.5.dita#DLAD_SUBPART_6_5"
-                        class="- topic/xref ">Subpart 6.5 - ADVOCATES FOR COMPETITION</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.5.dita#DLAD_SUBPART_6_5">Subpart 6.5 - ADVOCATES FOR COMPETITION</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.501.dita#DLAD_6_501"
-                              class="- topic/xref ">6.501 Requirement.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.501.dita#DLAD_6_501">6.501 Requirement.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="6.503.dita#DLAD_6_503"
-                              class="- topic/xref ">6.503 Annual reporting requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="6.503.dita#DLAD_6_503">6.503 Annual reporting requirements.</xref>
                      </p>
                   </li>
                </ul>

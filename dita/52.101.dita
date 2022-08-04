@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_52_101"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">52.101</ph> Using Part 52.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="SyDaOL" class="- topic/p ">(b) Numbering.</p>
-      <p id="hEwYYi" outputclass="List2" class="- topic/p ">(2) Provisions or clauses that supplement Federal Acquisition Regulations (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS).</p>
-      <p id="ebxfKS" outputclass="List3" class="- topic/p ">(ii) Only those provisions and clauses in this directive that are codified are preceded by an assigned CFR chapter number.</p>
-      <p id="grNsyn" outputclass="Normal" class="- topic/p ">(B) See 1-301.91(c)</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_52_101" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">52.101</ph> Using Part 52.</title>
+   <conbody>
+      <p id="SyDaOL">(b) Numbering.</p>
+      <p id="hEwYYi" outputclass="List2">(2) Provisions or clauses that supplement Federal Acquisition Regulations (FAR) and Defense Federal Acquisition Regulation Supplement (DFARS).</p>
+      <p id="ebxfKS" outputclass="List3">(ii) Only those provisions and clauses in this directive that are codified are preceded by an assigned CFR chapter number.</p>
+      <p id="grNsyn" outputclass="Normal">(B) See 1-301.91(c)</p>
    </conbody>
 </concept>

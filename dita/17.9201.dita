@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_17_9201"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">17.9201</ph> General.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) A reopener requirement creates a right for an equitable adjustment in the contract price at a specified time or due to the occurrence or non-occurrence of an event or contingency of the type specified in FAR 31.205-7(c)(2).</p>
-      <p class="- topic/p ">(b) A reopener requirement provides a means of achieving an equitable resolution of the treatment of a significant contingent cost during both the initial pricing of a contract as well as at any time an equitable adjustment to such price is called for under the provisions of the requirement. Its use requires care to avoid a shift in risk from the contractor to the Government.  It should be used only in extraordinary circumstances involving high dollar value procurements and rarely less than the TINA threshold where the uncertainty associated with particular cost element(s) substantially impacts the contract price.</p>
-      <p class="- topic/p ">(c) Circumstances in which its use may be appropriate include, but are not limited to, the following:</p>
-      <p outputclass="List2" class="- topic/p ">(1) A forward pricing rate agreement (FPRA) or forward pricing rate recommendation (FPRR) is not achievable, because of uncertainties having a significant impact such as:</p>
-      <p outputclass="List3" class="- topic/p ">(i) Supporting contractor budgetary data was not submitted;</p>
-      <p outputclass="List3" class="- topic/p ">(ii) A substantial portion of the business base has not yet materialized; or,</p>
-      <p outputclass="List3" class="- topic/p ">(iii) A potential for purchase, merger, or sale of part of a contractor’s operations exists<line-through class="+ topic/ph hi-d/line-through ">.</line-through>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_9201" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9201</ph> General.</title>
+   <conbody>
+      <p>(a) A reopener requirement creates a right for an equitable adjustment in the contract price at a specified time or due to the occurrence or non-occurrence of an event or contingency of the type specified in FAR 31.205-7(c)(2).</p>
+      <p>(b) A reopener requirement provides a means of achieving an equitable resolution of the treatment of a significant contingent cost during both the initial pricing of a contract as well as at any time an equitable adjustment to such price is called for under the provisions of the requirement. Its use requires care to avoid a shift in risk from the contractor to the Government.  It should be used only in extraordinary circumstances involving high dollar value procurements and rarely less than the TINA threshold where the uncertainty associated with particular cost element(s) substantially impacts the contract price.</p>
+      <p>(c) Circumstances in which its use may be appropriate include, but are not limited to, the following:</p>
+      <p outputclass="List2">(1) A forward pricing rate agreement (FPRA) or forward pricing rate recommendation (FPRR) is not achievable, because of uncertainties having a significant impact such as:</p>
+      <p outputclass="List3">(i) Supporting contractor budgetary data was not submitted;</p>
+      <p outputclass="List3">(ii) A substantial portion of the business base has not yet materialized; or,</p>
+      <p outputclass="List3">(iii) A potential for purchase, merger, or sale of part of a contractor’s operations exists<line-through>.</line-through>
       </p>
-      <p outputclass="List2" class="- topic/p ">(2) The price impact of a change in a requirement, term, or condition made during negotiations is significant but cannot be reasonably quantified and resolved prior to award.</p>
-      <p outputclass="List2" class="- topic/p ">(3) The offeror’s estimating system contains significant deficiencies (DFARS 215.811-70(g)(2)(vi) and (3)).</p>
+      <p outputclass="List2">(2) The price impact of a change in a requirement, term, or condition made during negotiations is significant but cannot be reasonably quantified and resolved prior to award.</p>
+      <p outputclass="List2">(3) The offeror’s estimating system contains significant deficiencies (DFARS 215.811-70(g)(2)(vi) and (3)).</p>
    </conbody>
 </concept>

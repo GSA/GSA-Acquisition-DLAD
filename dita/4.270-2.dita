@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_4_270-2"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">4.270-2</ph> Procedures.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a)(2) Contracting officers will accept or reject contract deficiency reports (CDRs) in EDA within 10 days of submission, and resolve the CDR within 30 days of submission. The DLA Acquisition Operations Division is responsible to track and report performance on a monthly basis to the SPE. Procuring organizations shall track and report monthly to the HCA.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_4_270-2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">4.270-2</ph> Procedures.</title>
+   <conbody>
+      <p>(a)(2) Contracting officers will accept or reject contract deficiency reports (CDRs) in EDA within 10 days of submission, and resolve the CDR within 30 days of submission. The DLA Acquisition Operations Division is responsible to track and report performance on a monthly basis to the SPE. Procuring organizations shall track and report monthly to the HCA.</p>
    </conbody>
 </concept>

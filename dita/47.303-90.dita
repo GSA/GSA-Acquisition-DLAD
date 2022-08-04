@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_47_303-90"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">47.303-90</ph> Export shipment of wood products.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">For wood products requiring export shipment, the contracting officer shall insert procurement note L30 in solicitations over the SAT that include FAR 52.247-51. </p>
-      <p outputclass="Normal" class="- topic/p ">*****</p>
-      <p outputclass="Normal" class="- topic/p ">L30 Computation of Cube – Wood Products (AUG 2017)  </p>
-      <p outputclass="Normal" class="- topic/p ">For the purpose of applying the rates specified in paragraph (d) of Federal Acquisition Regulation (FAR) provision 52.247-51, use the following computations for the total cubic feet for each contract line-item number (CLIN):</p>
-      <p outputclass="Normal" class="- topic/p ">(1) Softwood lumber: Compute the cube based on the minimum size specified by the issue of the American Softwood Lumber Standard PS20-70 in effect on the date of the solicitation for nominal size, degree of surfacing, and moisture content specified for each CLIN. When a CLIN specification permits any stage of seasoning and offers are submitted based on furnishing dry lumber for specified CLINs, base the cube of the CLIN on the minimum dry size for the stated nominal size and degree of surfacing.</p>
-      <p outputclass="Normal" class="- topic/p ">(2) Hardwood lumber: Compute the cube based on the minimum size specified by the National Hardwood Lumber Association rules in effect on the date of the solicitation for the nominal size, degree of surfacing, and moisture content specified for each CLIN.</p>
-      <p outputclass="Normal" class="- topic/p ">(3) Poles, piling and logs: Compute the cube in board foot measure using the Brereton scale and the minimum butt and tip circumferences and the length specified for each CLIN. Compute measurement tons using the conversion factor of 480 board foot measure equals one measurement ton or 40 cubic feet.</p>
-      <p outputclass="Normal" class="- topic/p ">(4) Plywood: Compute the cube based on plywood being packaged as required by Product Standard PS-2 and PS-3.</p>
-      <p outputclass="Normal" class="- topic/p ">(5) Other wood products: Compute the cube based on the dimensions specified for each CLIN.</p>
-      <p outputclass="Normal" class="- topic/p ">*****</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_47_303-90" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">47.303-90</ph> Export shipment of wood products.</title>
+   <conbody>
+      <p outputclass="Normal">For wood products requiring export shipment, the contracting officer shall insert procurement note L30 in solicitations over the SAT that include FAR 52.247-51. </p>
+      <p outputclass="Normal">*****</p>
+      <p outputclass="Normal">L30 Computation of Cube – Wood Products (AUG 2017)  </p>
+      <p outputclass="Normal">For the purpose of applying the rates specified in paragraph (d) of Federal Acquisition Regulation (FAR) provision 52.247-51, use the following computations for the total cubic feet for each contract line-item number (CLIN):</p>
+      <p outputclass="Normal">(1) Softwood lumber: Compute the cube based on the minimum size specified by the issue of the American Softwood Lumber Standard PS20-70 in effect on the date of the solicitation for nominal size, degree of surfacing, and moisture content specified for each CLIN. When a CLIN specification permits any stage of seasoning and offers are submitted based on furnishing dry lumber for specified CLINs, base the cube of the CLIN on the minimum dry size for the stated nominal size and degree of surfacing.</p>
+      <p outputclass="Normal">(2) Hardwood lumber: Compute the cube based on the minimum size specified by the National Hardwood Lumber Association rules in effect on the date of the solicitation for the nominal size, degree of surfacing, and moisture content specified for each CLIN.</p>
+      <p outputclass="Normal">(3) Poles, piling and logs: Compute the cube in board foot measure using the Brereton scale and the minimum butt and tip circumferences and the length specified for each CLIN. Compute measurement tons using the conversion factor of 480 board foot measure equals one measurement ton or 40 cubic feet.</p>
+      <p outputclass="Normal">(4) Plywood: Compute the cube based on plywood being packaged as required by Product Standard PS-2 and PS-3.</p>
+      <p outputclass="Normal">(5) Other wood products: Compute the cube based on the dimensions specified for each CLIN.</p>
+      <p outputclass="Normal">*****</p>
    </conbody>
 </concept>

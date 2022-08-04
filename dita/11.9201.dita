@@ -1,251 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_11_9201"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">11.9201</ph> Acquisition of FAA certified parts for consumable items.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a) When special procedure code “46” applies to a consumable item, contracting officers shall acquire only FAA certified parts.</p>
-      <p class="- topic/p ">(b) Contracting officers shall—</p>
-      <p outputclass="Normal" class="- topic/p ">(1) For manufacturers, check the Enterprise Business System Approved Manufacturer’s Parts List to confirm a manufacturer is FAA-approved, and document the contract file prior to award.</p>
-      <p outputclass="Normal" class="- topic/p ">(2)(i) For dealers/distributors, check the <xref href="https://www.aviationsuppliers.org/FAA-AC-00-56B"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">FAA AC 00 56 List</u>
-         </xref> (<xref href="https://www.aviationsuppliers.org/FAA-AC-00-56B"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://www.aviationsuppliers.org/FAA-AC-00-56B</u>
-         </xref>) on the <xref href="Aviation%20Suppliers%20Association%20(ASA)%20website%20"
-               scope="external"
-               format="file"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Aviation Suppliers Association (ASA) website </u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_11_9201" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">11.9201</ph> Acquisition of FAA certified parts for consumable items.</title>
+   <conbody>
+      <p>(a) When special procedure code “46” applies to a consumable item, contracting officers shall acquire only FAA certified parts.</p>
+      <p>(b) Contracting officers shall—</p>
+      <p outputclass="Normal">(1) For manufacturers, check the Enterprise Business System Approved Manufacturer’s Parts List to confirm a manufacturer is FAA-approved, and document the contract file prior to award.</p>
+      <p outputclass="Normal">(2)(i) For dealers/distributors, check the <xref href="https://www.aviationsuppliers.org/FAA-AC-00-56B" scope="external" format="html">
+            <u>FAA AC 00 56 List</u>
+         </xref> (<xref href="https://www.aviationsuppliers.org/FAA-AC-00-56B" scope="external" format="html">
+            <u>https://www.aviationsuppliers.org/FAA-AC-00-56B</u>
+         </xref>) on the <xref href="Aviation%20Suppliers%20Association%20(ASA)%20website%20" scope="external" format="file">
+            <u>Aviation Suppliers Association (ASA) website </u>
          </xref>
-         <ph class="- topic/ph ">
-            <u class="+ topic/ph hi-d/u ">(</u>
-            <u class="+ topic/ph hi-d/u ">https://www.aviationsuppliers.org/</u>
+         <ph>
+            <u>(</u>
+            <u>https://www.aviationsuppliers.org/</u>
          </ph>) for the “Voluntary Industrial Distributor Accreditation Program Database” to confirm a dealer/distributor is FAA-approved. If so, contracting officers shall print a screenshot as evidence the offeror is eligible for award; or,</p>
-      <p outputclass="Normal" class="- topic/p ">(ii) For dealers/distributors not currently FAA-approved, contracting officers shall require submission of traceability documentation meeting the requirements in procurement note L32, paragraph (2)(b). Contracting officers shall ensure dealers/distributors provide documentation for the organizations listed in procurement note L32, paragraph (2)(b)(ii) to demonstrate they have a satisfactory quality system.</p>
-      <p class="- topic/p ">(c) Contracting officers shall include procurement note L32 in all solicitations for items that require FAA certification.</p>
-      <p outputclass="Normal" class="- topic/p ">*****</p>
-      <p outputclass="Normal" class="- topic/p ">L32 Federal Aviation Administration (FAA) Certified Parts (JUN 2020)</p>
-      <p outputclass="Normal" class="- topic/p ">(1) This item must be produced by an FAA-approved manufacturer. Material shall be new, unused, and not previously owned by the Government. To be considered for award, the offeror shall submit with its offer sufficient documentation, referencing the solicitation number in the title, to demonstrate it has one or more of the following FAA approvals/designations:</p>
-      <p outputclass="Normal" class="- topic/p ">(a) Manufacturers: Production Certificate Holder; Part Manufacturer Approval; Technical Standard Order Approval; and/or Direct Ship Authority.</p>
-      <p outputclass="Normal" class="- topic/p ">(b) Dealers/distributors: FAA Advisory Circular (AC) 00-56B accreditation; or FAA AC 00-56A accreditation until their accreditation expires, is superseded upon renewal, or is cancelled or removed by the accreditation organization.</p>
-      <p outputclass="Normal" class="- topic/p ">(2) Dealers/distributors asserting compliance with FAA AC 00-56A or FAA AC 00-56B must—</p>
-      <p outputclass="Normal" class="- topic/p ">(a) Be listed on the Voluntary Industrial Distributor Accreditation Program Database at Aviation Supplier Association (ASA) (http://www.aviationsuppliers.org/FAA-AC00-56), which the ASA maintains for the FAA; or</p>
-      <p outputclass="Normal" class="- topic/p ">(b) Provide with their offer traceability and system quality documentation, referencing the solicitation number in the title, that demonstrates the following:</p>
-      <p outputclass="List3" class="- topic/p ">(i) Unbroken chain of traceability, by lot and batch number or by serial number, from the original FAA-approved manufacturer through all entities that either purchased, received, stored, and/or redistributed the item(s); and</p>
-      <p outputclass="List3" class="- topic/p ">(ii) Quality system, for distributors of civil aeronautical parts, accredited by one or more of the following organizations:</p>
-      <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-            <colspec colname="col1"
-                     colwidth="94pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col2"
-                     colwidth="99pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col3"
-                     colwidth="90pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col4"
-                     colwidth="211.5pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <thead class="- topic/thead ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Quality System Standards Organization</b>
+      <p outputclass="Normal">(ii) For dealers/distributors not currently FAA-approved, contracting officers shall require submission of traceability documentation meeting the requirements in procurement note L32, paragraph (2)(b). Contracting officers shall ensure dealers/distributors provide documentation for the organizations listed in procurement note L32, paragraph (2)(b)(ii) to demonstrate they have a satisfactory quality system.</p>
+      <p>(c) Contracting officers shall include procurement note L32 in all solicitations for items that require FAA certification.</p>
+      <p outputclass="Normal">*****</p>
+      <p outputclass="Normal">L32 Federal Aviation Administration (FAA) Certified Parts (JUN 2020)</p>
+      <p outputclass="Normal">(1) This item must be produced by an FAA-approved manufacturer. Material shall be new, unused, and not previously owned by the Government. To be considered for award, the offeror shall submit with its offer sufficient documentation, referencing the solicitation number in the title, to demonstrate it has one or more of the following FAA approvals/designations:</p>
+      <p outputclass="Normal">(a) Manufacturers: Production Certificate Holder; Part Manufacturer Approval; Technical Standard Order Approval; and/or Direct Ship Authority.</p>
+      <p outputclass="Normal">(b) Dealers/distributors: FAA Advisory Circular (AC) 00-56B accreditation; or FAA AC 00-56A accreditation until their accreditation expires, is superseded upon renewal, or is cancelled or removed by the accreditation organization.</p>
+      <p outputclass="Normal">(2) Dealers/distributors asserting compliance with FAA AC 00-56A or FAA AC 00-56B must—</p>
+      <p outputclass="Normal">(a) Be listed on the Voluntary Industrial Distributor Accreditation Program Database at Aviation Supplier Association (ASA) (http://www.aviationsuppliers.org/FAA-AC00-56), which the ASA maintains for the FAA; or</p>
+      <p outputclass="Normal">(b) Provide with their offer traceability and system quality documentation, referencing the solicitation number in the title, that demonstrates the following:</p>
+      <p outputclass="List3">(i) Unbroken chain of traceability, by lot and batch number or by serial number, from the original FAA-approved manufacturer through all entities that either purchased, received, stored, and/or redistributed the item(s); and</p>
+      <p outputclass="List3">(ii) Quality system, for distributors of civil aeronautical parts, accredited by one or more of the following organizations:</p>
+      <table frame="all" rowsep="1" colsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="col1" colwidth="94pt" rowheader="headers" />
+            <colspec colname="col2" colwidth="99pt" rowheader="headers" />
+            <colspec colname="col3" colwidth="90pt" rowheader="headers" />
+            <colspec colname="col4" colwidth="211.5pt" rowheader="headers" />
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p>
+                        <b>Quality System Standards Organization</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Acceptable Quality System</b>
+                  <entry>
+                     <p>
+                        <b>Acceptable Quality System</b>
                      </p>
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Standard</b>
+                     <p>
+                        <b>Standard</b>
                      </p>
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">(Current Revision Required)</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Title</b>
+                     <p>
+                        <b>(Current Revision Required)</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Accreditation Organization</b>
+                  <entry>
+                     <p>
+                        <b>Title</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>
+                        <b>Accreditation Organization</b>
                      </p>
                   </entry>
                </row>
             </thead>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Aviation Suppliers Association (ASA)</p>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p>Aviation Suppliers Association (ASA)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">ASA-100</p>
+                  <entry>
+                     <p>ASA-100</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Quality System Standard</p>
+                  <entry>
+                     <p>Quality System Standard</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">List maintained by <xref href="https://www.aviationsuppliers.org/default.aspx"
-                              scope="external"
-                              format="aspx"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">Aviation Suppliers Association (ASA)</u>
-                        </xref> (<xref href="https://www.aviationsup"
-                              scope="external"
-                              format="aviationsup"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://www.aviationsup</u>
+                  <entry>
+                     <p>List maintained by <xref href="https://www.aviationsuppliers.org/default.aspx" scope="external" format="aspx">
+                           <u>Aviation Suppliers Association (ASA)</u>
+                        </xref> (<xref href="https://www.aviationsup" scope="external" format="aviationsup">
+                           <u>https://www.aviationsup</u>
                         </xref> pliers.org/default.aspx)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Transonic Aviation Consultants</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>Transonic Aviation Consultants</p>
                   </entry>
-                  <entry morerows="1" class="- topic/entry ">
-                     <p class="- topic/p ">TAC-2000</p>
+                  <entry morerows="1">
+                     <p>TAC-2000</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Aeronautical Parts Distributor Quality Assurance Standard</p>
+                  <entry>
+                     <p>Aeronautical Parts Distributor Quality Assurance Standard</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">List maintained by <xref href="http://transonicaviation.com/"
-                              scope="external"
-                              format="html"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">Transonic Aviation Consultants</u>
-                        </xref> (<xref href="http://transonicaviation.com/"
-                              scope="external"
-                              format="html"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://transonicaviation.com/</u>
+                  <entry>
+                     <p>List maintained by <xref href="http://transonicaviation.com/" scope="external" format="html">
+                           <u>Transonic Aviation Consultants</u>
+                        </xref> (<xref href="http://transonicaviation.com/" scope="external" format="html">
+                           <u>http://transonicaviation.com/</u>
                         </xref>) </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
+               <row rowsep="1">
+                  <entry />
+                  <entry />
+                  <entry />
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">International Organization for Standardization (ISO)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>International Organization for Standardization (ISO)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">ISO-9001</p>
+                  <entry>
+                     <p>ISO-9001</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Quality Management Systems Requirements</p>
+                  <entry>
+                     <p>Quality Management Systems Requirements</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Certification bodies accredited by International Accreditation Forum (IAF) accreditation body signatories (<xref href="https://www.iaf.nu/"
-                              scope="external"
-                              format="html"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://www.iaf.nu/</u>
+                  <entry>
+                     <p>Certification bodies accredited by International Accreditation Forum (IAF) accreditation body signatories (<xref href="https://www.iaf.nu/" scope="external" format="html">
+                           <u>https://www.iaf.nu/</u>
                         </xref>) </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">International</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>International</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">AS9100,</p>
+                  <entry>
+                     <p>AS9100,</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Quality</p>
+                  <entry>
+                     <p>Quality</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">List of organizations (certification</p>
+                  <entry>
+                     <p>List of organizations (certification</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Aerospace Quality Group (IAQG)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>Aerospace Quality Group (IAQG)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">AS9110</p>
-                     <p class="- topic/p ">AS9120</p>
-                     <p class="- topic/p ">(EN9100</p>
-                     <p class="- topic/p ">EN9110, and</p>
-                     <p class="- topic/p ">EN9120)</p>
+                  <entry>
+                     <p>AS9110</p>
+                     <p>AS9120</p>
+                     <p>(EN9100</p>
+                     <p>EN9110, and</p>
+                     <p>EN9120)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Management Systems</p>
+                  <entry>
+                     <p>Management Systems</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">bodies) is maintained on <xref href="https://www.iaqg.org/oasis/login"
-                              scope="external"
-                              format="html"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">IAQG Aerospace Supplier Information System (OASIS) Database Website</u>
-                        </xref> (<xref href="https://www.iaqg.org/oasis/login"
-                              scope="external"
-                              format="html"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://www.iaqg.org/oasis/login</u>
+                  <entry>
+                     <p>bodies) is maintained on <xref href="https://www.iaqg.org/oasis/login" scope="external" format="html">
+                           <u>IAQG Aerospace Supplier Information System (OASIS) Database Website</u>
+                        </xref> (<xref href="https://www.iaqg.org/oasis/login" scope="external" format="html">
+                           <u>https://www.iaqg.org/oasis/login</u>
                         </xref>)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
+               <row rowsep="1">
+                  <entry />
+                  <entry />
+                  <entry />
+                  <entry />
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
+               <row rowsep="1">
+                  <entry />
+                  <entry />
+                  <entry />
+                  <entry />
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
+               <row rowsep="1">
+                  <entry />
+                  <entry />
+                  <entry />
+                  <entry />
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry "/>
+               <row rowsep="1">
+                  <entry />
+                  <entry />
+                  <entry />
+                  <entry />
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p class="- topic/p ">*****</p>
-      <p class="- topic/p ">(d) Contracting officers shall insert procurement note H13 in solicitations and awards for consumable items that require production by an FAA-approved manufacturer.</p>
-      <p outputclass="Normal" class="- topic/p ">***** </p>
-      <p class="- topic/p ">H13 Federal Aviation Administration (FAA) Certified Parts – Shipment Documentation Requirements (JUN 2020)</p>
-      <p class="- topic/p ">(1) The contractor shall furnish acceptable documentation with each shipment demonstrating appropriate certification of the item. Acceptable documentation is one of the following:</p>
-      <p class="- topic/p ">(a) FAA Form 8130-3, Airworthiness Approval Tag;</p>
-      <p class="- topic/p ">(b) Certificate of Conformance with information equivalent to information on FAA Form 8130-3, and compliant with the Contract Deliverables Requirements List;</p>
-      <p class="- topic/p ">(c) European Aviation Safety Agency (EASA) Form 1, Authorized Release Certificate; or</p>
-      <p class="- topic/p ">(d) Transport Canada Civil Aviation (TCCA) Form One, Authorized Release Certificate Form One.</p>
-      <p class="- topic/p ">(2) The contractor shall provide with each shipment documentation that includes a statement confirming all items in the shipment are new, unused, and meet contract requirements.</p>
-      <p class="- topic/p ">(3) For each quantity unit pack (QUP) equal to each unit of issue, the contractor shall provide a copy of the documentation described in paragraph (1) of this procurement note. The contractor shall package the documentation with the material prior to shipment. If the material is manufactured in different lots, the contractor shall provide the documentation for each lot.</p>
-      <p class="- topic/p ">(4) The contractor shall indicate on the marking/labels that the appropriate documentation applies and is included inside the package. The contractor shall place marking/labels on the outside of the packaging.</p>
-      <p class="- topic/p ">*****</p>
+      <p>*****</p>
+      <p>(d) Contracting officers shall insert procurement note H13 in solicitations and awards for consumable items that require production by an FAA-approved manufacturer.</p>
+      <p outputclass="Normal">***** </p>
+      <p>H13 Federal Aviation Administration (FAA) Certified Parts – Shipment Documentation Requirements (JUN 2020)</p>
+      <p>(1) The contractor shall furnish acceptable documentation with each shipment demonstrating appropriate certification of the item. Acceptable documentation is one of the following:</p>
+      <p>(a) FAA Form 8130-3, Airworthiness Approval Tag;</p>
+      <p>(b) Certificate of Conformance with information equivalent to information on FAA Form 8130-3, and compliant with the Contract Deliverables Requirements List;</p>
+      <p>(c) European Aviation Safety Agency (EASA) Form 1, Authorized Release Certificate; or</p>
+      <p>(d) Transport Canada Civil Aviation (TCCA) Form One, Authorized Release Certificate Form One.</p>
+      <p>(2) The contractor shall provide with each shipment documentation that includes a statement confirming all items in the shipment are new, unused, and meet contract requirements.</p>
+      <p>(3) For each quantity unit pack (QUP) equal to each unit of issue, the contractor shall provide a copy of the documentation described in paragraph (1) of this procurement note. The contractor shall package the documentation with the material prior to shipment. If the material is manufactured in different lots, the contractor shall provide the documentation for each lot.</p>
+      <p>(4) The contractor shall indicate on the marking/labels that the appropriate documentation applies and is included inside the package. The contractor shall place marking/labels on the outside of the packaging.</p>
+      <p>*****</p>
    </conbody>
 </concept>

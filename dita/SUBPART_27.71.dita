@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_SUBPART_27_71"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Subpart" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Subpart 27.71</ph> - RIGHTS IN TECHNICAL DATA</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="dwYrys" outputclass="normal Ctr" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Added March 23, 2020 in accordance with PROCLTR 2020-01)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_27_71" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2 Subpart">
+      <ph props="autonumber">Subpart 27.71</ph> - RIGHTS IN TECHNICAL DATA</title>
+   <conbody>
+      <p id="dwYrys" outputclass="normal Ctr">
+         <i>(Added March 23, 2020 in accordance with PROCLTR 2020-01)</i>
       </p>
    </conbody>
 </concept>

@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="DLAD_6_501"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">6.501</ph> Requirement.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List2" class="- topic/p ">(1)<b class="+ topic/ph hi-d/b "> </b>The DLA Acquisition Deputy Director is the Agency Competition Advocate.</p>
-      <p outputclass="List2" class="- topic/p ">(2) The HCAs shall appoint competition advocates and alternates.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_6_501" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.501</ph> Requirement.</title>
+   <conbody>
+      <p outputclass="List2">(1)<b> </b>The DLA Acquisition Deputy Director is the Agency Competition Advocate.</p>
+      <p outputclass="List2">(2) The HCAs shall appoint competition advocates and alternates.</p>
    </conbody>
 </concept>
