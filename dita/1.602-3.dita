@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_1_602-3"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title id="0Vbhxp" outputclass="Heading 3" class="- topic/title ">
+      <ph id="OXZj8d" props="autonumber" class="- topic/ph ">1.602-3</ph> Ratification of unauthorized        commitments.</title>
+   <conbody id="GXQ04k" class="- topic/body  concept/conbody ">
+      <p id="p_P1_602_3_b" class="- topic/p ">(b) Policy.</p>
+      <p id="p_P1_602_3_b_2" outputclass="List2" class="- topic/p ">(2) The HCA is authorized to approve ratification
+            actions valued over the SAT. This authority is nondelegable.</p>
+      <p id="p_P1_602_3_b_3" outputclass="List2" class="- topic/p ">(3) The CCO is authorized to approve ratification
+            actions valued at or below the SAT. This authority is nondelegable.</p>
+      <p id="p_P1_602_3_c" class="- topic/p ">(c) <ph id="OzONdb" class="- topic/ph ">
+            <i id="ZjKWj0" class="+ topic/ph hi-d/i ">Limitations</i>
+         </ph>. The contracting officer shall—</p>
+      <p id="p_P1_602_3_c_S90" outputclass="List2" class="- topic/p ">(S-90) Prepare a request for ratification that
+            conforms to requirements in the Ratification of Unauthorized Commitments Checklist at
+                <xref href="PGI_1.602-3.dita#DLAD_PGI_1_602-3"
+               id="c8Iek9"
+               xtrc="PGI 1.602-3"
+               class="- topic/xref ">PGI 1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="PGI_1.602-3.dita#DLAD_PGI_1_602-3/uDgeOg"
+               id="y7yAPW"
+               xtrc="(c)"
+               class="- topic/xref ">PGI 1.602-3 Ratification of unauthorized commitments.</xref>); and</p>
+      <p id="ygvhP1" outputclass="List2" class="- topic/p ">(S-91) Submit the request to the CCO or HCA, as applicable (see <xref href="1.602-3.dita#DLAD_1_602-3"
+               id="jpgfZG"
+               xtrc="1.602-3"
+               class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_b"
+               id="XMhadL"
+               class="- topic/xref ">
+            <u id="PcwU3k" class="+ topic/ph hi-d/u ">(b)</u>1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_b_2"
+               id="03rsGX"
+               class="- topic/xref ">
+            <u id="qvNR2O" class="+ topic/ph hi-d/u ">(2)</u>1.602-3 Ratification of unauthorized commitments.</xref> and <xref href="1.602-3.dita#DLAD_1_602-3"
+               id="LX1vVb"
+               xtrc="1.602-3"
+               class="- topic/xref ">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_b"
+               id="3m4LvA"
+               class="- topic/xref ">
+            <u id="phmF7q" class="+ topic/ph hi-d/u ">(b)</u>1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_b_3"
+               id="VJJjT6"
+               class="- topic/xref ">
+            <u id="Qk2eWL" class="+ topic/ph hi-d/u ">(3)</u>1.602-3 Ratification of unauthorized commitments.</xref>).</p>
+      <p id="p_P1_602_3_d" class="- topic/p ">(d)<i id="5xSj14" class="+ topic/ph hi-d/i "> </i>
+         <ph id="zs9R0A" class="- topic/ph ">
+            <i id="3Lu49e" class="+ topic/ph hi-d/i ">Nonratifiable claims</i>
+         </ph>.</p>
+      <p id="p_P1_602_3_d_S90" outputclass="List2" class="- topic/p ">(S-90) An unauthorized commitment does not
+            exist when—</p>
+      <p id="VdD6ZU" outputclass="List3" class="- topic/p ">(i) The contractor—</p>
+      <p id="2VQH5b" outputclass="List4" class="- topic/p ">(A) Performed without a contract;</p>
+      <p id="BLWVA4" outputclass="List4" class="- topic/p ">(B) Acted in good faith; and</p>
+      <p id="23aFSd" outputclass="List4" class="- topic/p ">(C) Submitted a claim to the Government; and</p>
+      <p id="MfjJF7" outputclass="List3" class="- topic/p ">(ii) The Government—</p>
+      <p id="KEecfq" outputclass="List4" class="- topic/p ">(A) Did not direct the contractor to perform without a contract;
+            and</p>
+      <p id="114onA" outputclass="List4" class="- topic/p ">(B) Received a benefit from the contractor’s voluntary
+            performance.</p>
+      <p id="p_P1_602_3_d_S92" outputclass="List2" class="- topic/p ">(S-91) The contracting officer may recommend
+            payment on a quantum meruit basis for goods received or services
+                rendered<ph id="r5FCfT" class="- topic/ph ">
+            <i id="HcS8mu" class="+ topic/ph hi-d/i ">.</i>
+         </ph>
+      </p>
+      <p id="SAZ3hk" outputclass="List2" class="- topic/p ">
+         <ph id="2VzGbB" class="- topic/ph ">
+            <i id="rmxhUC" class="+ topic/ph hi-d/i ">(S-92)</i>
+         </ph> To request relief on a quantum meruit basis,
+            the contracting officer shall—</p>
+      <p id="DNJt7M" outputclass="List3" class="- topic/p ">(i) Prepare a request for relief that conforms to requirements in the
+            Quantum Meruit Checklist at <xref href="PGI_1.602-3.dita#DLAD_PGI_1_602-3"
+               id="59MefC"
+               xtrc="PGI 1.602-3"
+               class="- topic/xref ">PGI 1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="PGI_1.602-3.dita#DLAD_PGI_1_602-3/AruZgc"
+               id="xL4BZO"
+               class="- topic/xref ">
+            <u id="UWAWLd" class="+ topic/ph hi-d/u ">(d)</u>PGI 1.602-3 Ratification of unauthorized commitments.</xref>;</p>
+      <p id="WwyZri" outputclass="List3" class="- topic/p ">(ii) Coordinate the request through Office of Counsel and the
+            procuring organization chain of command; and</p>
+      <p id="79cvVK" outputclass="List3" class="- topic/p ">(iii) Submit the request to the DLA Acquisition Operations Division
+            for CAE approval. The CAE approval authority is nondelegable.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_9_304"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">9.304</ph> Exceptions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">FAT will not be applied for products identified to the following programs or assigned Acquisition Method Suffix Codes (AMSC):</p>
+      <p class="- topic/p ">(a) Reverse Engineering projects.</p>
+      <p class="- topic/p ">(b) Qualification with an AMSC Code T.</p>
+      <p class="- topic/p ">(c) Commercially available AMSC Code Z.</p>
+      <p class="- topic/p ">(d) Lack technical data AMSC Codes D, H, and P.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_SUBPART_51_1"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2 Subpart" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Subpart 51.1</ph> - CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="csqDEv" outputclass=" Ctr" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Revised October 24, 2016 through PROCLTR 2016-10)</i>
+      </p>
+   </conbody>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_16_203-2"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">16.203-2</ph> Application.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">(S-92) If it becomes apparent that an EPA clause is clearly justified in a solicitation or contract but was not included, the contracting officer may include a FAR or DFARS EPA clause or DLAD or procuring organization EPA procurement note by solicitation amendment or bilateral contract modification.</p>
+      <p class="- topic/p ">(S-93) Send proposed DLAD and procuring organization EPA procurement notes to the DLA Acquisition Compliance, Policy and Pricing Division for approval. General Counsel shall review proposed DLAD and procuring organization EPA procurement notes.</p>
+   </conbody>
+</concept>

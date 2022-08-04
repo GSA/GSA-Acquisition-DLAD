@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_15_403-4"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.403-4</ph> Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35).</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a)(1) The threshold applies to the contract value as defined in FAR 1.108(c).</p>
+      <p class="- topic/p ">(b)(1) Section 890 Pilot Program to Accelerate Contracting and Pricing Processes (Class</p>
+      <p outputclass="Normal" class="- topic/p ">Deviation 2020-O0020). The current deviation is (<xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA001700-20-DPC.pdf"
+               scope="external"
+               format="pdf"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Class Deviation 2020-O0020, Section 890 Pilot Program to Accelerate Contracting and Processes</u>
+         </xref> (<xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA001700-20-DPC.pdf"
+               scope="external"
+               format="pdf"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.acq.osd.mil/dpap/policy/policyvault/USA001700-20-DPC.pdf</u>
+         </xref>), and is available for procurements over $50 million. To request approval for an acquisition to be included in the pilot program, procuring organizations shall complete the <xref href="https://www.dla.mil/Portals/104/Documents/J7Acquisition/DPC_Application_Form_Sec-890_Pilot_Program.docx"
+               scope="external"
+               format="docx"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Application to Participate in Pilot Program Authorized Under Sec 890 of FY19 NDAA, As Amended by Sec 825 of FY20 NDAA, for Contract Actions Exceeding $50 Million</u>
+         </xref> (<xref href="https://www.dla.mil/Portals/104/Documents/J7Acquisition/DPC_Application_Form_Sec-890_Pilot_Program.docx"
+               scope="external"
+               format="docx"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.dla.mil/Portals/104/Documents/J7Acquisition/DPC_Application_Form_Sec-890_Pilot_Program.docx</u>
+         </xref>) and submit it to the DLA Acquisition Compliance, Policy and</p>
+      <p outputclass="Normal" class="- topic/p ">Pricing Division for review by the Pricing PM; who will review the application and, if</p>
+      <p outputclass="Normal" class="- topic/p ">found adequate, submit it to the Director, DPC/PCF. DPC will contact the contracting</p>
+      <p outputclass="Normal" class="- topic/p ">officer to schedule a meeting to discuss the details of the acquisition and determine if the</p>
+      <p outputclass="Normal" class="- topic/p ">action will be accepted into the pilot program.</p>
+   </conbody>
+</concept>

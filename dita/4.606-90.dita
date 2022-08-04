@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_4_606-90"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">4.606-90</ph> Source selection process data element.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) In accordance with (DPC) Memorandum <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000991-20-DPC.pdf"
+               scope="external"
+               format="pdf"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Reporting Source Selection Process in Federal Procurement Data System (FPDS)</u>
+         </xref> (<xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA000991-20-DPC.pdf"
+               scope="external"
+               format="pdf"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://www.acq.osd.mil/dpap/policy/policyvault/USA000991-20-DPC.pdf</u>
+         </xref>), dated May 21, 2020, contracting officers shall report the Source Selection Process data element in FPDS using one of the following codes, unless an exception at 4.606-90(b) applies:</p>
+      <p outputclass="Normal" class="- topic/p ">CODES FOR REPORTING “SOURCE SELECTION PROCESS” IN FPDS</p>
+      <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
+         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
+            <colspec colname="col1"
+                     colwidth="112.35pt"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col2"
+                     colwidth="157.5pt"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col3"
+                     colwidth="202.65pt"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Code </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Short Description </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Long Description </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">LPTA </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Lowest Price Technically Acceptable </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Select this option if contract award used the LPTA source selection process. LPTA is defined in FAR subpart 15.101-2, but select this option if the process was used for competitive procurements conducted in accordance with other subparts (e.g., 8, 12, 13, 16). </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">TO </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Trade-off </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Select this option if contract award used any type of best value trade-off process using price/cost and nonprice/cost factors to determine the successful offeror award. Trade-off is defined in FAR subpart 15.101-1, but select this option if the process was used for competitive procurements conducted in accordance with other subparts (e.g., 8, 12, 13, 16). </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">O </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Other </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Select this option if contract award did not use LPTA or a Trade-off process to determine the successful offeror (e.g., price-only, sole-source). </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="Normal" class="- topic/p ">(b) The Source Selection Process data element is not a required data field for blanket purchase agreements (BPAs) issued using part 13 procedures; task and delivery orders issued using single-award indefinite-delivery contracts; and call orders issued under single-award BPAs and using FAR part 8 procedures.</p>
+      <p class="- topic/p ">(c) Contracting officers shall not leave the Source Selection Process data field blank.</p>
+      <p class="- topic/p ">(d) Contracting officers shall enter—</p>
+      <p outputclass="List2" class="- topic/p ">(1) O for non-competitive awards.</p>
+      <p outputclass="List2" class="- topic/p ">(2) One of the choices in the table at 4.606-90(a) for competitive awards.</p>
+      <p outputclass="List2" class="- topic/p ">(3) LPTA or TO when the contracting officer used a source selection process on awards issued using FAR section 15.101.</p>
+      <p outputclass="List2" class="- topic/p ">(4) O for fully automated actions. In accordance with the DLA Master Solicitation for Automated Simplified Acquisitions, the program evaluates all qualified quotations based on price alone and does not consider quantity price breaks.</p>
+      <p outputclass="List2" class="- topic/p ">(5) TO for automated requirements that are evaluated and awarded manually. In accordance with the DLA Master Solicitation for Automated Simplified Acquisitions, manual evaluation factors include price, delivery, and past performance in accordance with the terms in the solicitation.</p>
+      <p outputclass="List2" class="- topic/p ">(6) The code consistent with the evaluation procedures cited in the RFQ/RFP for all manually solicited requirements, even if only one offeror responded.</p>
+      <p outputclass="List2" class="- topic/p ">(7) TO for all manual solicitations that may include language for a potential best value trade-off (e.g. use of past performance).</p>
+   </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_16_601"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">16.601</ph> Time-and-materials contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(d) Limitations. </p>
+      <p outputclass="List2" class="- topic/p ">(S-90) The contracting officer shall include “not to exceed” price ceilings in each option and delivery order.</p>
+      <p outputclass="List2" class="- topic/p ">(S-91) Contracting officers shall migrate time-and-material and labor-hour (T&amp;M/LH) vehicles to other contract types, preferably a fixed- price arrangement, when the service becomes repetitive and more predictable in nature.</p>
+      <p outputclass="List2" class="- topic/p ">(S-92) HCAs shall annually monitor their percentage of acquisition dollars being spent on T&amp;M/LH contracts and orders. HCAs shall report to the CAE at the close of the calendar year any percentages of T&amp;M/LH contract action dollars for the preceding fiscal year exceeding 8 percent of service dollars, including a discussion of the HCA’s strategy to decrease the use of T&amp;M/LH contract type and the risk mitigation measures used in administering these contract types.</p>
+   </conbody>
+</concept>

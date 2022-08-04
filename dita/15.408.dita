@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_15_408"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15.408</ph> Solicitation provisions and contract clauses.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="JyDBwZ" outputclass="Text Body" class="- topic/p ">(5) Insert DFARS 252.215-7009, Proposal Adequacy Checklist, in all solicitations that are sole source</p>
+      <p id="vdMwUr" outputclass="Text Body" class="- topic/p ">and exceed the TINA threshold.</p>
+   </conbody>
+</concept>

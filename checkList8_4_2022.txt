@@ -1,0 +1,2 @@
+Replace Uppercase PARTS, SUBPARTS and SUBCHAPTER to lower case
+Remove hidden non breaking space on titles

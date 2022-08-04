@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_4_1601"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">4.1601</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) This process, for Business Process Analyst use only, is located in the Procurement Job Aid applicable to PIIN maintenance in EP and ECC:</p>
+      <p outputclass="Normal" class="- topic/p ">Supplier Relationship Management (SRM)/EProcurement:</p>
+      <p outputclass="Normal" class="- topic/p ">
+         <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Table Maintenance - Maintaining PIIN Tables </u>
+         </xref>(<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance</u>
+         </xref>)</p>
+      <p class="- topic/p ">
+         <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Table Maintenance - Maintaining Basic Agreement PIIN/SPIIN Tables</u>
+         </xref>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u "> (</u>
+         </ph>
+         <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FTable%20Maintenance</u>
+         </xref>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">).</u>
+         </ph>
+      </p>
+      <p outputclass="Normal" class="- topic/p ">Enterprise Core Component (ECC):</p>
+      <p outputclass="Normal" class="- topic/p ">Table Maintenance - PIIN and Call Number Table Maintenance and Associated Error Workflow Tables (<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FPROCUREMENT%20DOCUMENTS%2FTable%20Maintenance"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FPROCUREMENT%20DOCUMENTS%2FTable%20Maintenance"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FPROCUREMENT%20DOCUMENTS%2FTable%20Maintenance</u>
+         </xref>
+         <ph class="- topic/ph ">
+            <u class="+ topic/ph hi-d/u ">).</u>
+         </ph>
+      </p>
+   </conbody>
+</concept>

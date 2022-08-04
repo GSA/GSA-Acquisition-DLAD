@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_11_9001"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">11.9001</ph> Notification of product        phase-out.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="jhgu54" class="- topic/p ">(a) All solicitations and contracts shall include procurement note C02.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+      <p outputclass="Normal" class="- topic/p ">C02 Manufacturing Phase-Out or Discontinuation of Production,
+            Diminishing Sources, and Obsolete Materials or Components (DEC 2016)</p>
+      <p outputclass="Normal" class="- topic/p ">The contractor shall notify the contracting officer immediately upon
+            determining the unavailability of obsolete materials or components. The contractor may
+            recommend a solution to include the impact on the contract price and delivery. The
+            contractor shall not initiate any item redesign or incur any additional costs without
+            the express, written authorization of the contracting officer.</p>
+      <p outputclass="Normal" class="- topic/p ">In the event that manufacturing phase-out or discontinuance of
+            production of such items is contemplated, the contractor is required to notify the
+            contracting officer and publish the discontinuance in the Government-Industry Data
+            Exchange Program (GIDEP), where feasible; and to provide immediate advance notice of
+            production phase-out to DLA DMSMS at dscc.dmsms@dla.mil.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+   </conbody>
+</concept>

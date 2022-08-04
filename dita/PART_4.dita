@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_4"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Part 4</ph> - ADMINISTRATIVE MATTERS</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.2.dita#DLAD_SUBPART_4_2"
+                        class="- topic/xref ">Subpart 4.2 - CONTRACT DISTRIBUTION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.270.dita#DLAD_4_270"
+                              class="- topic/xref ">4.270 Electronic Document Access.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.270-2.dita#DLAD_4_270-2"
+                              class="- topic/xref ">4.270-2 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.5.dita#DLAD_SUBPART_4_5"
+                        class="- topic/xref ">Subpart 4.5 - ELECTRONIC COMMERCE IN CONTRACTING</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.502.dita#DLAD_4_502"
+                              class="- topic/xref ">4.502 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.6.dita#DLAD_SUBPART_4_6"
+                        class="- topic/xref ">Subpart 4.6 - CONTRACTING REPORTING</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.606.dita#DLAD_4_606"
+                              class="- topic/xref ">4.606 Reporting Data.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.606-90.dita#DLAD_4_606-90"
+                              class="- topic/xref ">4.606-90 Source selection process data element.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.7.dita#DLAD_SUBPART_4_7"
+                        class="- topic/xref ">Subpart 4.7 - CONTRACTOR RECORDS RETENTION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.703.dita#DLAD_4_703"
+                              class="- topic/xref ">4.703 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.8.dita#DLAD_SUBPART_4_8"
+                        class="- topic/xref ">Subpart 4.8 - GOVERNMENT CONTRACT FILES</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.802.dita#DLAD_4_802"
+                              class="- topic/xref ">4.802 Contract files.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.804.dita#DLAD_4_804"
+                              class="- topic/xref ">4.804 Closeout of contract files.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.805.dita#DLAD_4_805"
+                              class="- topic/xref ">4.805 Storage, handling, and contract files.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.13.dita#DLAD_SUBPART_4_13"
+                        class="- topic/xref ">Subpart 4.13 - PERSONAL IDENTITY VERIFICATION</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.1302.dita#DLAD_4_1302"
+                              class="- topic/xref ">4.1302 Acquisition of approved products and services for personal identity verification.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.1303.dita#DLAD_4_1303"
+                              class="- topic/xref ">4.1303 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.1303-90.dita#DLAD_4_1303-90"
+                              class="- topic/xref ">4.1303-90 Personal identity verification of contractor personnel.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.16.dita#DLAD_SUBPART_4_16"
+                        class="- topic/xref ">Subpart 4.16 - UNIQUE PROCUREMENT INSTRUMENT IDENTIFIERS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.1601.dita#DLAD_4_1601"
+                              class="- topic/xref ">4.1601 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.71.dita#DLAD_SUBPART_4_71"
+                        class="- topic/xref ">Subpart 4.71 - UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.7103-2.dita#DLAD_4_7103-2"
+                              class="- topic/xref ">4.7103-2 Numbering procedures.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.7104-2.dita#DLAD_4_7104-2"
+                              class="- topic/xref ">4.7104-2 Numbering procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="SUBPART_4.73.dita#DLAD_SUBPART_4_73"
+                        class="- topic/xref ">Subpart 4.73 - SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.7301.dita#DLAD_4_7301"
+                              class="- topic/xref ">4.7301 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.7303-1.dita#DLAD_4_7303-1"
+                              class="- topic/xref ">4.7303-1 General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="4.7303-3.dita#DLAD_4_7303-3"
+                              class="- topic/xref ">4.7303-3 Cyber incident and compromise reporting.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

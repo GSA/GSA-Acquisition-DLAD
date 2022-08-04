@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_17_7404"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">17.7404</ph> Limitations.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) The CCO must—</p>
+      <p outputclass="List2" class="- topic/p ">(1) Monitor the procuring organization’s usage of UCAs for conformance with the DLAD and higher-level regulatory requirements; and</p>
+      <p outputclass="List2" class="- topic/p ">(2) Ensure UCAs are correctly coded in FPDS-NG.</p>
+   </conbody>
+</concept>

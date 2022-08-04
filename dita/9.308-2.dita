@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_9_308-2"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">9.308-2</ph> Testing performed by the Government.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a)(1) For manual acquisitions, the contracting officer shall obtain information in the material master under FAT guidance. For automated solicitations, the system pre-populates the information.</p>
+   </conbody>
+</concept>

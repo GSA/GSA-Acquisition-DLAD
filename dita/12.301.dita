@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_12_301"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">12.301</ph> Solicitation provisions and        contract clauses for acquisition(s) of commercial items.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="23Red" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Discretionary use of FAR provisions and clauses</i>. Pursuant to FAR
+            12.301 and 12.302, contracting officers must use their authority to tailor the standard
+            FAR Part 12 terms and conditions as necessary to meet the Government’s needs. (See <xref href="12.208.dita#DLAD_12_208" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">12.208</u>12.208</xref> concerning how to tailor FAR
+            52.212-4(a), Inspection/ Acceptance.) Subject to the procedures in FAR and DLAD 12.302,
+            the contracting officer may include other DLAD provisions, clauses and procurement
+            notes; and if necessary, make accompanying changes to the provision FAR 52.212-1 and
+            clause FAR 52.212-4.</p>
+      <p class="- topic/p ">(f) The DLA SPE has approved supplementation of the provisions and clauses in FAR Part 12
+            to require use of the following provisions, clauses, and procurement notes, when
+            applicable:</p>
+      <p outputclass="List2" class="- topic/p ">(S-90) Reserved.</p>
+      <p outputclass="List2" class="- topic/p ">(S-91) Procurement notes C01, Superseded Part Numbered Items, as
+            prescribed in <xref href="11.391.dita#DLAD_11_391" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.391</u>11.391 Part numbered items.</xref>(a); L04, Offers
+            for Part Numbered Items, as prescribed in <xref href="11.391.dita#DLAD_11_391" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.391</u>11.391 Part numbered items.</xref>(b); and M06, Evaluation of Offers of Alternate Product for
+            Part Numbered Items, as prescribed in <xref href="11.391.dita#DLAD_11_391" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.391</u>11.391 Part numbered items.</xref>(b).</p>
+      <p outputclass="List2" class="- topic/p ">(S-92) Provisions and clauses below, as prescribed in FAR
+            16.203-4(a), 16.506(a)-(f), and 17.208(c):</p>
+      <p outputclass="List3" class="- topic/p ">(i) FAR 52.216-2, Economic Price Adjustment – Standard Supplies;</p>
+      <p outputclass="List3" class="- topic/p ">(ii) FAR 52.216-18, Ordering;</p>
+      <p outputclass="List3" class="- topic/p ">(iii) FAR 52.216-19, Order Limitations;</p>
+      <p outputclass="List3" class="- topic/p ">(iv) FAR 52.216-20, Definite Quantity;</p>
+      <p outputclass="List3" class="- topic/p ">(v) FAR 52.216-21, Requirements;</p>
+      <p outputclass="List3" class="- topic/p ">(vi) FAR 52.216-22, Indefinite Quantity;</p>
+      <p outputclass="List3" class="- topic/p ">(vii) FAR 52.216-27, Single or Multiple Awards; and</p>
+      <p outputclass="List3" class="- topic/p ">(viii) FAR 52.217-5, Evaluation of Options.</p>
+      <p outputclass="List2" class="- topic/p ">(S-93) Provision FAR 52.215-20, Requirements for Certified Cost or
+            Pricing Data and Data Other Than Cost or Pricing Data, as prescribed in FAR 15.408(l);
+            and clause 52.215-21, Requirements for Certified Cost or Pricing Data and Data Other
+            Than Cost or Pricing Data – Modifications, as prescribed in FAR 15.408(m).</p>
+      <p outputclass="List2" class="- topic/p ">(S-94) Procurement note C02, Manufacturing Phase Out or
+            Discontinuation of Production, Diminishing Sources, and Obsolete Materials or
+            Components, as prescribed in <xref href="11.9001.dita#DLAD_11_9001" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.9001</u>11.9001 Notification of product phase-out.</xref>(a).</p>
+      <p outputclass="List2" class="- topic/p ">(S-95) Procurement note C03, Contractor Retention of Supply Chain
+            Traceability Documentation, as prescribed in <xref href="4.703.dita#DLAD_4_703" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">4.703</u>4.703 Policy.</xref>(a).</p>
+      <p outputclass="List2" class="- topic/p ">(S-96) Provision DFARS 252.209-7002, Disclosure of Ownership or
+            Control by a Foreign Government, as prescribed in DFARS 209.104-70.</p>
+      <p outputclass="List2" class="- topic/p ">(S-97) Procurement note H04, Sourcing for Critical Safety Items as
+            prescribed in <xref href="9.270-3.dita#DLAD_9_270-3" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.270-3</u>9.270-3 Policy.</xref>(a).</p>
+      <p outputclass="List2" class="- topic/p ">(S-98) Procurement note E05, Product Verification Testing, as
+            prescribed in 46.292.</p>
+      <p outputclass="List2" class="- topic/p ">(S-99) Procurement note E06, Inspection and Acceptance at Source, as
+            prescribed in 46.402.</p>
+      <p outputclass="List2" class="- topic/p ">(S-100) Clause FAR 52.211-5, Material Requirements, as prescribed in
+            FAR 11.304; procurement note C04, Unused Former Government Surplus Property, as
+            prescribed in <xref href="11.390.dita#DLAD_11_390" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.390</u>11.390 Unused former Government surplus property.</xref>(a); and
+            procurement note M05, Evaluation Factor for Unused Former Government Surplus Property,
+            as prescribed in <xref href="11.390.dita#DLAD_11_390" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">11.390</u>11.390 Unused former Government surplus property.</xref>(b)(1).</p>
+      <p outputclass="List2" class="- topic/p ">(S-101) Procurement notes H01, Qualified Products List (QPL) for
+            Federal Supply Class (FSC) 5935 Connector Assemblies and Contacts, as prescribed in
+                <xref href="9.202.dita#DLAD_9_202" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.202</u>9.202 Policy.</xref>(a)(2)(i); H02, Component
+            Qualified Products List (QPL)/Qualified Manufacturers List (QML), as prescribed in <xref href="9.202.dita#DLAD_9_202" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.202</u>9.202 Policy.</xref>(a)(2)(v); M01, Qualified Suppliers
+            for Federal Supply Class (FSC) 5961 Semiconductors and Hardware Devices and FSC 5962
+            Electronic Microcircuits, as prescribed in <xref href="9.202.dita#DLAD_9_202" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.202</u>9.202 Policy.</xref>(a)(2)(ii); and M03, Qualified Suppliers List for
+            Manufacturers (QSLM)/Qualified Suppliers List for Distributors (QSLD) for Troop Support,
+            as prescribed in <xref href="9.202.dita#DLAD_9_202" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.202</u>9.202 Policy.</xref>(a)(2)(iv).</p>
+      <p outputclass="List2" class="- topic/p ">(S-102) Procurement notes L01, Electronic Award Transmission; and
+            L02, Electronic Order Transmission, as prescribed in <xref href="4.502.dita#DLAD_4_502" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">4.502</u>4.502 Policy.</xref>(b).</p>
+      <p outputclass="List2" class="- topic/p ">(S-103) Procurement note C05, Changes to Key Personnel, as prescribed
+            in <xref href="37.103.dita#DLAD_37_103" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">37.103</u>37.103 Contracting officer responsibility.</xref>(S-90).</p>
+      <p outputclass="List2" class="- topic/p ">(S-104) Reserved.</p>
+      <p outputclass="List2" class="- topic/p ">(S-105) Clause FAR 52.232-17, Interest, as prescribed in FAR
+            32.611.</p>
+      <p outputclass="List2" class="- topic/p ">(S-106) Clause FAR 52.242-13, Bankruptcy, as prescribed in FAR
+            42.903.</p>
+      <p outputclass="List2" class="- topic/p ">(S-107) Clause FAR 52.242-15, Stop Work Order, as prescribed in FAR
+            42.1305(b)(1).</p>
+      <p outputclass="List2" class="- topic/p ">(S-108) Provision 52.233-9001, Disputes – Agreement to Use
+            Alternative Dispute Resolution (ADR), as prescribed in <xref href="33.214.dita#DLAD_33_214" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">33.214</u>33.214 Alternative dispute resolution (ADR).</xref>; and procurement note L06,
+            Agency Protests, as prescribed in <xref href="33.103.dita#DLAD_33_103" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">33.103</u>33.103 Protests to the agency.</xref>(d)(4).</p>
+      <p outputclass="List2" class="- topic/p ">(S-109) Procurement note L07, Site Visit Instructions, as prescribed
+            in <xref href="37.110.dita#DLAD_37_110" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">37.110</u>37.110 Solicitation provisions and contract clauses.</xref>(a).</p>
+      <p outputclass="List2" class="- topic/p ">(S-110) Procurement notes E01, Supplemental First Article Exhibit
+            Disposition – Contractor Maintained, and E02, Supplemental First Article Exhibit
+            Disposition – Government Maintained, as prescribed in <xref href="9.306.dita#DLAD_9_306" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.306</u>9.306 Solicitation requirements.</xref>(h); procurement note H03, Supplemental First Article
+            Testing Requirements, as prescribed in <xref href="9.306.dita#DLAD_9_306" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.306</u>9.306 Solicitation requirements.</xref>(a); and procurement note M04, Evaluation Factor for Government
+            Testing of First Articles, as prescribed in <xref href="9.306.dita#DLAD_9_306" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">9.306</u>9.306 Solicitation requirements.</xref>(i).</p>
+      <p outputclass="List2" class="- topic/p ">(S-111) Procurement note L08, Use of Supplier Performance Risk System
+            (SPRS) in Past Performance Evaluations, as prescribed in <xref href="15.303.dita#DLAD_15_303" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">15.303</u>15.303 Responsibilities.</xref>(c)(3)(i).</p>
+      <p outputclass="List2" class="- topic/p ">(S-112) Procurement notes L09, Reverse Auction, as prescribed in
+                <xref href="15.407-90.dita#DLAD_15_407-90" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">15.407-90</u>15.407-90 Reverse Auction.</xref>(c); and L10,
+            Competing Individual Delivery Orders Through Reverse Auctions, as prescribed in <xref href="15.407-90.dita#DLAD_15_407-90" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">15.407-90</u>15.407-90 Reverse Auction.</xref>(d).</p>
+      <p outputclass="List2" class="- topic/p ">(S-113) Clauses <xref href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/52_246.htm"
+               scope="external"
+               format="html"
+               class="- topic/xref ">FAR 52.246-11</xref>, Higher-Level Contract Quality
+            Requirement, as prescribed in 46.311; and 52.246-2, Inspection of Supplies – Fixed
+            Price, as prescribed in 46.302.</p>
+      <p outputclass="List2" class="- topic/p ">(S-114) Procurement notes E03, Production Lot Testing – Contractor,
+            as prescribed in 46.291(a); and E04, Production Lot Testing – Government, as prescribed
+            in 46.291(b).</p>
+   </conbody>
+</concept>

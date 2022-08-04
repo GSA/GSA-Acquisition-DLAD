@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="DLAD_17_9501"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">17.9501</ph> Definitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">“Distribution and handling fee”</i> means the portion of the total item price listed in the catalog that is paid for stocking, handling, and delivering the item, as awarded under the contract. It does not include the cost of the actual item that the tailored logistics provider may have manufactured itself or procured from another supplier. It is expressed in fixed dollar amounts only, not in percentages, except for those prime vendor acquisitions that uses negative distribution fees to obtain discounts of off prices established under other contract vehicles (e.g. the Pharmaceutical PV program).</p>
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">“Distribution and pricing agreement (DAPA)”</i> means an agreement with a manufacturer or supplier that establishes both the selling price of a product and an affirmation from the DAPA-holder to allow contractor<line-through class="+ topic/ph hi-d/line-through ">s</line-through> to distribute its products. A DAPA allows for delivery of selected products at specified prices.</p>
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">“Market basket”</i> means a representative sample of items that may be bought under the program used for price evaluation under a proposed contract action. Proposed pricing for items in the market basket is determined fair and reasonable prior to inclusion in any resulting contract. May also be referred to under other names such as “Price Evaluation List.</p>
+      <p outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">“National allowance pricing agreement (NAPA)”</i> means an agreement with a manufacturer or supplier that provides discounts on a national basis. Tailored logistics support contracts require contractors to pass on these savings to the end customer.</p>
+   </conbody>
+</concept>
