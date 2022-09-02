@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_PGI_13_402">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_PGI_13_402" ditaarch:DITAArchVersion="1.3">
    <title id="5JQP6C" outputclass="Heading 2">
-      <ph class="- topic/ph " id="V06MYa" props="autonumber">PGI 13.402</ph> Conditions for use.</title>
+      <ph id="V06MYa" props="autonumber">PGI 13.402</ph> Conditions for use.</title>
    <conbody id="lJWjYz">
       <p id="p_P_PGI_13_402_f">(f)(1) <i id="9X9don">Monthly reports</i>: The DLA Information Operations
          Analytics Center for Excellence (ACE) shall provide monthly reports to the DLA Acquisition
@@ -155,11 +155,13 @@
       </p>
       <p id="kRAmXX" outputclass="List2">(5) Contracting officers shall use the SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="1TkWoj">
             <u id="fUasYg">53.9013</u>
-         </xref><xref href="53.9013.dita#DLAD_53_9013/Gltewj" id="Y4b7X2">
+         </xref>
+         <xref href="53.9013.dita#DLAD_53_9013/Gltewj" id="Y4b7X2">
             <u id="mGRF9B">(a)</u>
          </xref> or the alternate SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="fm6jpo">
             <u id="P7fFzr">53.9013</u>
-         </xref> <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" id="qFVuqb">
+         </xref>
+         <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" id="qFVuqb">
             <u id="lmCl3O">(c)</u>
          </xref>, as applicable, to document the use of fast payment procedures for purchase orders,
          when applicable, and verify compliance with the applicable fast payment threshold. If the

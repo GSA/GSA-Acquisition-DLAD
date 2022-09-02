@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_51_101" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">51.101</ph> Policy.</title><conbody><p>(a)(1) DEVIATION 2020-04 is a class deviation that permits contracting officers to authorize contractors access to DLA-managed items under other than cost-reimbursement contracts. The deviation will remain in effect until March 30, 2025. This deviation shall not apply to commodities where contractor access to discounted or favorable pricing is prohibited by law, such as pharmaceuticals. </p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_51_101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">51.101</ph> Policy.</title>
+   <conbody>
+      <p>(a)(1) DEVIATION 2020-04 is a class deviation that permits contracting officers to authorize contractors access to DLA-managed items under other than cost-reimbursement contracts. The deviation will remain in effect until March 30, 2025. This deviation shall not apply to commodities where contractor access to discounted or favorable pricing is prohibited by law, such as pharmaceuticals. </p>
+   </conbody>
+</concept>

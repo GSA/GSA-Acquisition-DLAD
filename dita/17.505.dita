@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_17_505" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">17.505</ph> Contracting officer review.</title><conbody><p>(a) DoD policy requires DoD warranted contracting officer review of all non-Economy Act orders over $500,000. DLA policy requires that a DLA warranted contracting officer review the assisted acquisition from a non-DoD entity of either supplies or services valued over the SAT. This review must be accomplished prior to sending the order to the funds certifier or issuing the military inter-departmental purchase request (MIPR) to the non-DoD activity. If the requesting official is different from the contracting officer, the requesting official must also review the acquisition package to ensure compliance with FAR, and DFARS. Contracting officers must not split requirements into smaller amounts in order to avoid contracting officer review.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_505" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.505</ph> Contracting officer review.</title>
+   <conbody>
+      <p>(a) DoD policy requires DoD warranted contracting officer review of all non-Economy Act orders over $500,000. DLA policy requires that a DLA warranted contracting officer review the assisted acquisition from a non-DoD entity of either supplies or services valued over the SAT. This review must be accomplished prior to sending the order to the funds certifier or issuing the military inter-departmental purchase request (MIPR) to the non-DoD activity. If the requesting official is different from the contracting officer, the requesting official must also review the acquisition package to ensure compliance with FAR, and DFARS. Contracting officers must not split requirements into smaller amounts in order to avoid contracting officer review.</p>
+   </conbody>
+</concept>

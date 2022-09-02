@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_45_602-2" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">45.602-2</ph> Reutilization Priorities.</title><conbody><p>(d) Dispose of the property identified in FAR Subpart 45.602-2(d) in accordance with <xref href="http://dtic.mil/whs/directives/corres/pdf/416102p.pdf" scope="external" format="pdf"><u>DOD Instruction 4161.02, Accountability and Management of Government Contract Property</u></xref>, dated April 27, 2012, and <xref href="http://www.dtic.mil/whs/directives/corres/pdf/416021_vol2.pdf" scope="external" format="pdf"><u>DOD Manual 4160.21, Volume 2, Defense Materiel Disposition: Property Disposal and Reclamation</u></xref>, dated October 22, 2015.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_45_602-2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">45.602-2</ph> Reutilization Priorities.</title>
+   <conbody>
+      <p>(d) Dispose of the property identified in FAR Subpart 45.602-2(d) in accordance with <xref href="http://dtic.mil/whs/directives/corres/pdf/416102p.pdf" scope="external" format="pdf">
+            <u>DOD Instruction 4161.02, Accountability and Management of Government Contract Property</u>
+         </xref>, dated April 27, 2012, and <xref href="http://www.dtic.mil/whs/directives/corres/pdf/416021_vol2.pdf" scope="external" format="pdf">
+            <u>DOD Manual 4160.21, Volume 2, Defense Materiel Disposition: Property Disposal and Reclamation</u>
+         </xref>, dated October 22, 2015.</p>
+   </conbody>
+</concept>

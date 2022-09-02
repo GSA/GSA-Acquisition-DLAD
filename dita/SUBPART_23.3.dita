@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DLAD_SUBPART_23_3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_23_3" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
-      <ph props="autonumber">SUBPART 23.3</ph> – HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA SHEETS</title>
+      <ph props="autonumber">Subpart 23.3</ph> - HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA SHEETS</title>
    <conbody>
       <p id="eyvpaZ" outputclass="normal Ctr">
          <i>(Revised</i>

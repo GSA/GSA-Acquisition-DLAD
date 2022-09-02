@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_37">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 37</ph> – SERVICE CONTRACTING</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_37" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 37</ph> - SERVICE CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_37.1.dita#DLAD_SUBPART_37_1">SUBPART 37.1 – SERVICE CONTRACTS – GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_37.1.dita#DLAD_SUBPART_37_1">Subpart 37.1 - SERVICE CONTRACTS - GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,7 +30,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_37.2.dita#DLAD_SUBPART_37_2">SUBPART 37.2 – ADVISORY AND ASSISTANCE SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_37.2.dita#DLAD_SUBPART_37_2">Subpart 37.2 - ADVISORY AND ASSISTANCE SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

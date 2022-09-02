@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_105-3" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">1.105-3</ph> Copies.</title>
-    <conbody>
-        <p outputclass="Normal">(S-90) The DLA Acquisition Compliance, Policy and Pricing
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_1_105-3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.105-3</ph> Copies.</title>
+   <conbody>
+      <p outputclass="Normal">(S-90) The DLA Acquisition Compliance, Policy and Pricing
             Division—</p>
-        <p outputclass="List2">(1) Maintains the published version of the <xref href="https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx" scope="external" format="aspx"><u>Defense Logistics Acquisition Directive (DLAD) with Procedures,
-                    Guidance, and Information (PGI)</u></xref> (<xref href="https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx" scope="external" format="aspx"><u>https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx</u></xref>) on
-            the <xref href="https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx" scope="external" format="aspx"><u>Acquisition -- J7 SharePoint
-                    Website</u></xref><ph><u> (</u></ph><xref href="https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx" scope="external" format="aspx"><u>https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx</u></xref>) (scroll
+      <p outputclass="List2">(1) Maintains the published version of the <xref href="https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx" scope="external" format="aspx">
+            <u>Defense Logistics Acquisition Directive (DLAD) with Procedures,
+                    Guidance, and Information (PGI)</u>
+         </xref> (<xref href="https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx" scope="external" format="aspx">
+            <u>https://www.dla.mil/HQ/Acquisition/Offers/DLAD.aspx</u>
+         </xref>) on
+            the <xref href="https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx" scope="external" format="aspx">
+            <u>Acquisition -- J7 SharePoint
+                    Website</u>
+         </xref>
+         <ph>
+            <u> (</u>
+         </ph>
+         <xref href="https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx" scope="external" format="aspx">
+            <u>https://dlamil.dps.mil/Sites/Acquisition/Pages/default.aspx</u>
+         </xref>) (scroll
             to Defense Logistics Acquisition Directive (DLAD) Revision 5 with PGI); and</p>
-        <p outputclass="Normal">see <xref href="https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/" scope="external" format="html"><u>DLA Acquisition Policy and Directives (J7)</u></xref> (<xref href="https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/" scope="external" format="html"><u>https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/</u></xref>), and
+      <p outputclass="Normal">see <xref href="https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/" scope="external" format="html">
+            <u>DLA Acquisition Policy and Directives (J7)</u>
+         </xref> (<xref href="https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/" scope="external" format="html">
+            <u>https://www.dla.mil/HQ/Acquisition/Policy-and-Directives/</u>
+         </xref>), and
             scroll to Defense Logistics Acquisition Directive (DLAD) Revision 5 with PGI); and</p>
-        <p outputclass="List2">(2) Provides the published version of the DLAD for posting on <xref href="https://www.acquisition.gov/" scope="external" format="html"><u>ACQUISITION.GOV</u></xref> (<xref href="https://www.acquisition.gov/" scope="external" format="html"><u>https://www.acquisition.gov/</u></xref>).</p>
-        <p outputclass="Normal">(S-91) The DLA Transformation Policy Management Division maintains
-            the <xref href="https://issue-p.dla.mil/Pages/default.aspx" scope="external" format="aspx"><u>Official Repository for DLA Issuances</u></xref> (<xref href="https://issue-p.dla.mil/Pages/default.aspx" scope="external" format="aspx"><u>https://issue-p.dla.mil/Pages/default.aspx</u></xref>).</p>
-    </conbody>
+      <p outputclass="List2">(2) Provides the published version of the DLAD for posting on <xref href="https://www.acquisition.gov/" scope="external" format="html">
+            <u>ACQUISITION.GOV</u>
+         </xref> (<xref href="https://www.acquisition.gov/" scope="external" format="html">
+            <u>https://www.acquisition.gov/</u>
+         </xref>).</p>
+      <p outputclass="Normal">(S-91) The DLA Transformation Policy Management Division maintains
+            the <xref href="https://issue-p.dla.mil/Pages/default.aspx" scope="external" format="aspx">
+            <u>Official Repository for DLA Issuances</u>
+         </xref> (<xref href="https://issue-p.dla.mil/Pages/default.aspx" scope="external" format="aspx">
+            <u>https://issue-p.dla.mil/Pages/default.aspx</u>
+         </xref>).</p>
+   </conbody>
 </concept>

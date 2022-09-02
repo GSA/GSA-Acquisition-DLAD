@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_32_904" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">32.904</ph> Determining payment due dates.</title><conbody><p id="p_P32_904_b_1_S_90">(b)(1)(S-90) DLA is placing renewed emphasis on contract funding controls as a result of reduced cash reserves and audit readiness. Contracting officers shall not specify contract payment terms providing for payment earlier than the 30-day period specified in FAR 52.232-25, Prompt Payment, or the prompt payment regulations referenced in FAR 52.212-4, Contract Terms and Conditions – Commercial Items, as applicable; unless the contracting officer negotiates adequate consideration in exchange for more favorable contract payment terms.</p><p outputclass="List2">(S-91) Consideration may include, but is not limited to, the following:</p><p outputclass="List4">(A) Reduced pricing or discounts;</p><p outputclass="List4">(B) Expedited delivery schedule;</p><p outputclass="List4">(C) Warranty guarantees;</p><p outputclass="List4">(D) Additional testing of a critical part; or</p><p outputclass="List4">(E) Prioritization.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_32_904" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">32.904</ph> Determining payment due dates.</title>
+   <conbody>
+      <p id="p_P32_904_b_1_S_90">(b)(1)(S-90) DLA is placing renewed emphasis on contract funding controls as a result of reduced cash reserves and audit readiness. Contracting officers shall not specify contract payment terms providing for payment earlier than the 30-day period specified in FAR 52.232-25, Prompt Payment, or the prompt payment regulations referenced in FAR 52.212-4, Contract Terms and Conditions – Commercial Items, as applicable; unless the contracting officer negotiates adequate consideration in exchange for more favorable contract payment terms.</p>
+      <p outputclass="List2">(S-91) Consideration may include, but is not limited to, the following:</p>
+      <p outputclass="List4">(A) Reduced pricing or discounts;</p>
+      <p outputclass="List4">(B) Expedited delivery schedule;</p>
+      <p outputclass="List4">(C) Warranty guarantees;</p>
+      <p outputclass="List4">(D) Additional testing of a critical part; or</p>
+      <p outputclass="List4">(E) Prioritization.</p>
+   </conbody>
+</concept>

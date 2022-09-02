@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_39">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 39</ph> – ACQUISITION OF INFORMATION TECHNOLOGY (IT)</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_39" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 39</ph> - ACQUISITION OF INFORMATION TECHNOLOGY (IT)</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DLAD_SUBPART_39_2">SUBPART 39.2 – ELECTRONIC AND INFORMATION TECHNOLOGY (EIT)</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.2.dita#DLAD_SUBPART_39_2">Subpart 39.2 - ELECTRONIC AND INFORMATION TECHNOLOGY (EIT)</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,7 +30,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.74.dita#DLAD_SUBPART_39_74">SUBPART 39.74 – TELECOMMUNICATIONS SERVICES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.74.dita#DLAD_SUBPART_39_74">Subpart 39.74 - TELECOMMUNICATIONS SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -43,13 +42,12 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_39.90.dita#DLAD_SUBPART_39_90">SUBPART 39.90 – PROCEDURES, APPROVALS AND TOOLS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_39.90.dita#DLAD_SUBPART_39_90">Subpart 39.90 - PROCEDURES, APPROVALS AND TOOLS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="39.9001.dita#DLAD_39_9001">39.9001 Procedures for IT
-        procurement.</xref>
+                        <xref outputclass="fm:TOC" href="39.9001.dita#DLAD_39_9001">39.9001 Procedures for IT procurement.</xref>
                      </p>
                   </li>
                   <li>

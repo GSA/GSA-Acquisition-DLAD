@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_6">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 6</ph> – COMPETITION REQUIREMENTS</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_6" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 6</ph> - COMPETITION REQUIREMENTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_6.2.dita#DLAD_SUBPART_6_2">SUBPART 6.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.2.dita#DLAD_SUBPART_6_2">Subpart 6.2 - FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -21,7 +20,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_6.3.dita#DLAD_SUBPART_6_3">SUBPART 6.3 – OTHER THAN FULL AND OPEN COMPETITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.3.dita#DLAD_SUBPART_6_3">Subpart 6.3 - OTHER THAN FULL AND OPEN COMPETITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -48,7 +47,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_6.5.dita#DLAD_SUBPART_6_5">SUBPART 6.5 –ADVOCATES FOR COMPETITION</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_6.5.dita#DLAD_SUBPART_6_5">Subpart 6.5 - ADVOCATES FOR COMPETITION</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

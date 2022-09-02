@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_5_303" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5.303</ph> Announcement of contract awards.</title><conbody><p>(a) Public announcement. Submit the required information via email in paragraph form to the DLA Public Affairs Office at DLAContractAwards@dla.mil two full work days prior to the date of award. Failure to submit the information timely requires a revision to the proposed award date.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_5_303" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5.303</ph> Announcement of contract awards.</title>
+   <conbody>
+      <p>(a) Public announcement. Submit the required information via email in paragraph form to the DLA Public Affairs Office at DLAContractAwards@dla.mil two full work days prior to the date of award. Failure to submit the information timely requires a revision to the proposed award date.</p>
+   </conbody>
+</concept>

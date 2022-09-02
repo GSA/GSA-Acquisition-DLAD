@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_4_804" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">4.804</ph> Closeout of contract
-        files.</title>
-    <conbody>
-        <p>(S-90) Contracting officers shall follow the FAR standard timeframe for closeout.
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_4_804" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">4.804</ph> Closeout of contract        files.</title>
+   <conbody>
+      <p>(S-90) Contracting officers shall follow the FAR standard timeframe for closeout.
             Contracting officers shall assess the validity of their unliquidated obligations (ULOs)
             that are 120 calendar days or more past the contract delivery date in accordance with
-                <xref href="https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf" scope="external" format="pdf"><u>DLAM 7010.02, Unliquidated Obligations (ULO) and
-                    Undelivered Orders (UDO) Management </u></xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf" scope="external" format="pdf"><u>https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf</u></xref><ph><u> </u></ph>).</p>
-        <p outputclass="Normal">(S-91)(1) Definition.</p>
-        <p outputclass="Normal"><i>“Excess funds” </i>means any funding amount remaining obligated
+                <xref href="https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf" scope="external" format="pdf">
+            <u>DLAM 7010.02, Unliquidated Obligations (ULO) and
+                    Undelivered Orders (UDO) Management </u>
+         </xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf" scope="external" format="pdf">
+            <u>https://issue-p.dla.mil/Published_Issuances/Unliquidated%20Obligations%20(ULO)%20and%20Undelivered%20Orders%20(UDO)%20Management.pdf</u>
+         </xref>
+         <ph>
+            <u> </u>
+         </ph>).</p>
+      <p outputclass="Normal">(S-91)(1) Definition.</p>
+      <p outputclass="Normal">
+         <i>“Excess funds” </i>means any funding amount remaining obligated
             on a contract at the time of contract closeout that is not needed to pay for contract
             performance or for contract adjustments (see DLAM 7010.02, Encl. 3, Table 1 for valid
             reasons funds should remain obligated). Excess funds are a subset of “unliquidated
             obligation(s).”</p>
-        <p outputclass="List2">(2) Contracting officers shall deobligate excess funds via bilateral
-            or unilateral (see <xref href="43.103.dita#DLAD_43_103/p_P43_103_b_S90"><u>43.103(b)(S-90)</u></xref>)
+      <p outputclass="List2">(2) Contracting officers shall deobligate excess funds via bilateral
+            or unilateral (see <xref href="43.103.dita#DLAD_43_103/p_P43_103_b_S90">
+            <u>43.103(b)(S-90)</u>43.103 Types of contract modifications.</xref>)
             contract modification as part of the contract closeout process. The record of the
             contract obligation amount is maintained in DLA’s electronic business system and shall
             be updated to remove all deobligated excess funds as part of contract closeout.</p>
-    </conbody>
+   </conbody>
 </concept>

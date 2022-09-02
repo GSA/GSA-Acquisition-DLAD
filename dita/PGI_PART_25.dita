@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PGI_PART_25">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI PART 25</ph> – FOREIGN ACQUISITION</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PGI_PART_25" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">PGI Part 25</ph> - FOREIGN ACQUISITION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="PGI_SUBPART_25.79.dita#DLAD_PGI_SUBPART_25_79">PGI SUBPART 25.79 – EXPORT CONTROL</xref>
+                  <xref outputclass="fm:TOC" href="PGI_SUBPART_25.79.dita#DLAD_PGI_SUBPART_25_79">PGI SUBPART 25.79 - EXPORT CONTROL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

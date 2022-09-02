@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DLAD_53_9007">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_53_9007" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">53.9007</ph> Acquisition planning.</title>
    <conbody>
       <p id="p_P53_9007_a">(a) Template - Streamlined Acquisition Plan (SAP).</p>
       <p id="pfJqTI" outputclass="Normal">The following format may be used as prescribed in <xref href="7.103.dita#DLAD_7_103">
-            <u>7.103</u>
-      </xref><u>(d)(i)(B)</u>. <i>This Streamlined Acquisition Plan (SAP) format is for illustration purposes
+            <u>7.103</u>7.103 Agency-head responsibilities.</xref>
+         <u>(d)(i)(B)</u>. <i>This Streamlined Acquisition Plan (SAP) format is for illustration purposes
             only. It mirrors the fillable version in the contract writing system.</i>
       </p>
       <p id="MsrBoW" outputclass="normal Ctr">

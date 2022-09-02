@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_53_213-92" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">53.213-92</ph> Request for Quotation (DLA Form 1231).</title><conbody><p outputclass="Normal">This form is used against automated simplified acquisitions.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_53_213-92" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">53.213-92</ph> Request for Quotation (DLA Form 1231).</title>
+   <conbody>
+      <p outputclass="Normal">This form is used against automated simplified acquisitions.</p>
+   </conbody>
+</concept>

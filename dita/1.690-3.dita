@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_690-3" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">1.690-3</ph> Strategic solution analysis
-        reviews.</title>
-    <conbody>
-        <p>(a) Major Subordinate Commands (MSCs) shall use the <xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx" scope="external" format="docx"><u>Strategic Solution Analysis Template</u></xref>
-                (<xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx" scope="external" format="docx"><u>https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx</u></xref>)
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_1_690-3" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.690-3</ph> Strategic solution analysis        reviews.</title>
+   <conbody>
+      <p>(a) Major Subordinate Commands (MSCs) shall use the <xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx" scope="external" format="docx">
+            <u>Strategic Solution Analysis Template</u>
+         </xref>
+                (<xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx" scope="external" format="docx">
+            <u>https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/Acquisition%20Home%20Page/Template%20-%20Strategic%20Solution%20Analysis%2020180913.docx</u>
+         </xref>)
             when analyzing and recommending strategic solutions, for sustainment strategies, that
             would impact multiple MSCs.</p>
-        <p>(b) MSCs shall complete the Strategic Solution Analysis Template during the requirement
+      <p>(b) MSCs shall complete the Strategic Solution Analysis Template during the requirement
             development phase and prior to approval of the acquisition strategy.</p>
-        <p>(c) The MSC who is leading the strategic solution to conduct the analysis shall
+      <p>(c) The MSC who is leading the strategic solution to conduct the analysis shall
             coordinate with the other MSCs, and obtain approval from the Enterprise Operations
             Planning Council prior to approval of the acquisition strategy.</p>
-        <p>(d) The Strategic Solution Analysis is in addition to the requirements of DLAI 5010.06,
-            “Business Case Analysis” (see <xref href="1.690-5.dita"><u>1.690-5</u></xref>).</p>
-    </conbody>
+      <p>(d) The Strategic Solution Analysis is in addition to the requirements of DLAI 5010.06,
+            “Business Case Analysis” (see <xref href="1.690-5.dita">
+            <u>1.690-5</u>
+         </xref>).</p>
+   </conbody>
 </concept>

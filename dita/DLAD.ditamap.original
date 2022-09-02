@@ -10,38 +10,40 @@
    <title id="title_P1" outputclass="Title" class="- topic/title ">DLAD</title>
    <topicref navtitle="Volume X - Parts xxxx to xxxx"
              href="Volume_I.dita"
-             outputclass="Volume"
-             props="NoTitle"
+             outputclass="subtopic"
+             props=""
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
-             xtrf="Volume"
+             xtrf="subtopic"
              class="- map/topicref ">
       <topicref navtitle="Defense Logistics Acquisition Directive"
                 href="Cover_1.dita"
-                props="NoTitle"
+                props=""
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="Cover_1.html"
                 class="- map/topicref "/>
    </topicref>
    <topicref href="PART_1.dita"
              navtitle="PART 1 – FEDERAL ACQUISITION REGULATIONS SYSTEM"
              outputclass="Part"
-             props="PART 1"
+             props="Part 1"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_1"
              class="- map/topicref ">
       <topicref href="SUBPART_1.1.dita"
                 navtitle="SUBPART 1.1 – PURPOSE, AUTHORITY, ISSUANCE"
-                props="PART 1.1"
+                props="Subpart 1.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_1"
+                xtrc="DLAD_SUBPART_1_1.html"
                 class="- map/topicref ">
          <topicref href="1.105.dita"
                    navtitle="1.105 Issuance."
@@ -50,6 +52,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_105"
+                   xtrc="DLAD_1_105.html"
                    class="- map/topicref "/>
          <topicref href="1.105-3.dita"
                    navtitle="1.105-3 Copies."
@@ -58,6 +61,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_105-3"
+                   xtrc="DLAD_1_105-3.html"
                    class="- map/topicref "/>
          <topicref href="1.170.dita"
                    navtitle="1.170 Peer reviews."
@@ -66,15 +70,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_170"
+                   xtrc="DLAD_1_170.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.2.dita"
                 navtitle="SUBPART 1.2 – ADMINISTRATION"
-                props="PART 1.2"
+                props="Subpart 1.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_2"
+                xtrc="DLAD_SUBPART_1_2.html"
                 class="- map/topicref ">
          <topicref href="1.201-90.dita"
                    navtitle="1.201-90 Maintenance of the DLAD."
@@ -83,6 +89,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_201-90"
+                   xtrc="DLAD_1_201-90.html"
                    class="- map/topicref "/>
          <topicref href="1.201-91.dita"
                    navtitle="1.201-91 Amendment of regulations."
@@ -91,15 +98,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_201-91"
+                   xtrc="DLAD_1_201-91.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.3.dita"
                 navtitle="SUBPART 1.3 – AGENCY ACQUISITION REGULATIONS"
-                props="PART 1.3"
+                props="Subpart 1.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_3"
+                xtrc="DLAD_SUBPART_1_3.html"
                 class="- map/topicref ">
          <topicref href="1.301.dita"
                    navtitle="1.301 Policy."
@@ -108,6 +117,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_301"
+                   xtrc="DLAD_1_301.html"
                    class="- map/topicref "/>
          <topicref href="1.304.dita"
                    navtitle="1.304 Agency control and compliance procedures."
@@ -116,15 +126,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_304"
+                   xtrc="DLAD_1_304.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.4.dita"
                 navtitle="SUBPART 1.4 – DEVIATIONS FROM THE FAR"
-                props="PART 1.4"
+                props="Subpart 1.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_4"
+                xtrc="DLAD_SUBPART_1_4.html"
                 class="- map/topicref ">
          <topicref href="1.402.dita"
                    navtitle="1.402 Policy."
@@ -133,15 +145,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_402"
+                   xtrc="DLAD_1_402.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.5.dita"
                 navtitle="SUBPART 1.5 – AGENCY AND PUBLIC PARTICIPATION"
-                props="PART 1.5"
+                props="Subpart 1.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_5"
+                xtrc="DLAD_SUBPART_1_5.html"
                 class="- map/topicref ">
          <topicref href="1.501-2.dita"
                    navtitle="1.501-2 Opportunity for public comments."
@@ -150,15 +164,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_501-2"
+                   xtrc="DLAD_1_501-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_1.6.dita"
                 navtitle="SUBPART 1.6 – CAREER DEVELOPMENT, CONTRACTING AUTHORITY AND RESPONSIBILITIES"
-                props="PART 1.6"
+                props="Subpart 1.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_1_6"
+                xtrc="DLAD_SUBPART_1_6.html"
                 class="- map/topicref ">
          <topicref href="1.601.dita"
                    navtitle="1.601 General."
@@ -167,6 +183,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_601"
+                   xtrc="DLAD_1_601.html"
                    class="- map/topicref "/>
          <topicref href="1.601-90.dita"
                    navtitle="1.601-90 Critical acquisition responsibilities."
@@ -175,6 +192,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_601-90"
+                   xtrc="DLAD_1_601-90.html"
                    class="- map/topicref "/>
          <topicref href="1.601-91.dita"
                    navtitle="1.601-91 Contract Quality Review         (CQR) Program."
@@ -183,6 +201,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_601-91"
+                   xtrc="DLAD_1_601-91.html"
                    class="- map/topicref "/>
          <topicref href="1.602-2.dita"
                    navtitle="1.602-2 Responsibilities."
@@ -191,6 +210,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-2"
+                   xtrc="DLAD_1_602-2.html"
                    class="- map/topicref "/>
          <topicref href="1.602-2-90.dita"
                    navtitle="1.602-2-90 Automated Procurement Systems Internal Controls (APSIC) Program."
@@ -199,6 +219,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-2-90"
+                   xtrc="DLAD_1_602-2-90.html"
                    class="- map/topicref "/>
          <topicref href="1.602-2-91.dita"
                    navtitle="1.602-2-91 Pricing Oversight Program."
@@ -207,6 +228,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-2-91"
+                   xtrc="DLAD_1_602-2-91.html"
                    class="- map/topicref "/>
          <topicref href="1.602-3.dita"
                    navtitle="1.602-3 Ratification of unauthorized         commitments."
@@ -215,6 +237,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-3"
+                   xtrc="DLAD_1_602-3.html"
                    class="- map/topicref "/>
          <topicref href="1.602-90.dita"
                    navtitle="1.602-90 Contracting Officer (KO)         Warrant Program."
@@ -223,6 +246,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-90"
+                   xtrc="DLAD_1_602-90.html"
                    class="- map/topicref "/>
          <topicref href="1.602-91.dita"
                    navtitle="1.602-91 Nonappropriated funds."
@@ -231,6 +255,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-91"
+                   xtrc="DLAD_1_602-91.html"
                    class="- map/topicref "/>
          <topicref href="1.603-3-90.dita"
                    navtitle="1.603-3-90 Micro–purchase contracting authority."
@@ -239,6 +264,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_603-3-90"
+                   xtrc="DLAD_1_603-3-90.html"
                    class="- map/topicref "/>
          <topicref href="1.603-3-91.dita"
                    navtitle="1.603-3-91 Ordering officers."
@@ -247,6 +273,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_603-3-91"
+                   xtrc="DLAD_1_603-3-91.html"
                    class="- map/topicref "/>
          <topicref href="1.604.dita"
                    navtitle="1.604 Contracting officer’s         representative (COR)."
@@ -255,6 +282,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_604"
+                   xtrc="DLAD_1_604.html"
                    class="- map/topicref "/>
          <topicref href="1.670.dita"
                    navtitle="1.670 Appointment of property administrators and plant clearance officers."
@@ -263,6 +291,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_670"
+                   xtrc="DLAD_1_670.html"
                    class="- map/topicref "/>
          <topicref href="1.690.dita"
                    navtitle="1.690 Contract clearance and oversight."
@@ -271,6 +300,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690"
+                   xtrc="DLAD_1_690.html"
                    class="- map/topicref "/>
          <topicref href="1.690-1.dita"
                    navtitle="1.690-1 Establishment of clearance authority."
@@ -279,6 +309,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690-1"
+                   xtrc="DLAD_1_690-1.html"
                    class="- map/topicref "/>
          <topicref href="1.690-2.dita"
                    navtitle="1.690-2 Portfolio reviews."
@@ -287,6 +318,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690-2"
+                   xtrc="DLAD_1_690-2.html"
                    class="- map/topicref "/>
          <topicref href="1.690-3.dita"
                    navtitle="1.690-3 Strategic solution analysis         reviews."
@@ -295,6 +327,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690-3"
+                   xtrc="DLAD_1_690-3.html"
                    class="- map/topicref "/>
          <topicref href="1.690-4.dita"
                    navtitle="1.690-4 Strategic contract (STRATCON)         oversight."
@@ -303,6 +336,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690-4"
+                   xtrc="DLAD_1_690-4.html"
                    class="- map/topicref "/>
          <topicref href="1.690-5.dita"
                    navtitle="1.690-5 Business case analysis (BCA)."
@@ -311,6 +345,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690-5"
+                   xtrc="DLAD_1_690-5.html"
                    class="- map/topicref "/>
          <topicref href="1.691.dita"
                    navtitle="1.691 Legal review."
@@ -319,24 +354,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_691"
+                   xtrc="DLAD_1_691.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_2.dita"
              navtitle="PART 2 – DEFINITIONS OF WORDS AND TERMS"
              outputclass="Part"
-             props="PART 2"
+             props="Part 2"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_2"
              class="- map/topicref ">
       <topicref href="SUBPART_2.1.dita"
                 navtitle="SUBPART 2.1 – DEFINITIONS"
-                props="PART 2.1"
+                props="Subpart 2.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_2_1"
+                xtrc="DLAD_SUBPART_2_1.html"
                 class="- map/topicref ">
          <topicref href="2.101.dita"
                    navtitle="2.101 Definitions."
@@ -345,24 +382,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_2_101"
+                   xtrc="DLAD_2_101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_3.dita"
              navtitle="PART 3 – IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
              outputclass="Part"
-             props="PART 3"
+             props="Part 3"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_3"
              class="- map/topicref ">
       <topicref href="SUBPART_3.1.dita"
                 navtitle="SUBPART 3.1 – SAFEGUARDS"
-                props="PART 3.1"
+                props="Subpart 3.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_1"
+                xtrc="DLAD_SUBPART_3_1.html"
                 class="- map/topicref ">
          <topicref href="3.103.dita"
                    navtitle="3.103 Independent pricing."
@@ -371,6 +410,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_103"
+                   xtrc="DLAD_3_103.html"
                    class="- map/topicref "/>
          <topicref href="3.104.dita"
                    navtitle="3.104 Procurement integrity."
@@ -379,6 +419,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104"
+                   xtrc="DLAD_3_104.html"
                    class="- map/topicref "/>
          <topicref href="3.104-1.dita"
                    navtitle="3.104-1 Definitions."
@@ -387,6 +428,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-1"
+                   xtrc="DLAD_3_104-1.html"
                    class="- map/topicref "/>
          <topicref href="3.104-3.dita"
                    navtitle="3.104-3 Statutory and related prohibitions, restrictions, and requirements."
@@ -395,6 +437,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-3"
+                   xtrc="DLAD_3_104-3.html"
                    class="- map/topicref "/>
          <topicref href="3.104-4.dita"
                    navtitle="3.104-4 Statutory and related prohibitions, restrictions, and requirements."
@@ -403,6 +446,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-4"
+                   xtrc="DLAD_3_104-4.html"
                    class="- map/topicref "/>
          <topicref href="3.104-7.dita"
                    navtitle="3.104-7 Violations or possible violations."
@@ -411,15 +455,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-7"
+                   xtrc="DLAD_3_104-7.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.2.dita"
                 navtitle="SUBPART 3.2 – CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL"
-                props="PART 3.2"
+                props="Subpart 3.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_2"
+                xtrc="DLAD_SUBPART_3_2.html"
                 class="- map/topicref ">
          <topicref href="3.203.dita"
                    navtitle="3.203 Reporting suspected violations of the FAR Gratuities clause."
@@ -428,6 +474,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_203"
+                   xtrc="DLAD_3_203.html"
                    class="- map/topicref "/>
          <topicref href="3.204.dita"
                    navtitle="3.204 Treatment of violations."
@@ -436,15 +483,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_204"
+                   xtrc="DLAD_3_204.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.3.dita"
                 navtitle="SUBPART 3.3 – REPORTS OF SUSPECTED ANTITRUST VIOLATIONS"
-                props="PART 3.3"
+                props="Subpart 3.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_3"
+                xtrc="DLAD_SUBPART_3_3.html"
                 class="- map/topicref ">
          <topicref href="3.301.dita"
                    navtitle="3.301 General."
@@ -453,15 +502,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_301"
+                   xtrc="DLAD_3_301.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.7.dita"
                 navtitle="SUBPART 3.7 – VOIDING AND RESCINDING CONTRACTS"
-                props="PART 3.7"
+                props="Subpart 3.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_7"
+                xtrc="DLAD_SUBPART_3_7.html"
                 class="- map/topicref ">
          <topicref href="3.705.dita"
                    navtitle="3.705 Procedures."
@@ -470,15 +521,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_705"
+                   xtrc="DLAD_3_705.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.8.dita"
                 navtitle="SUBPART 3.8 – LIMITATION ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS"
-                props="PART 3.8"
+                props="Subpart 3.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_8"
+                xtrc="DLAD_SUBPART_3_8.html"
                 class="- map/topicref ">
          <topicref href="3.806.dita"
                    navtitle="3.806 Processing suspected violations."
@@ -487,15 +540,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_806"
+                   xtrc="DLAD_3_806.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_3.9.dita"
                 navtitle="SUBPART 3.9 – WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES"
-                props="PART 3.9"
+                props="Subpart 3.9"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_3_9"
+                xtrc="DLAD_SUBPART_3_9.html"
                 class="- map/topicref ">
          <topicref href="3.903.dita"
                    navtitle="3.903 Policy."
@@ -504,24 +559,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_903"
+                   xtrc="DLAD_3_903.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_4.dita"
              navtitle="PART 4 – ADMINISTRATIVE MATTERS"
              outputclass="Part"
-             props="PART 4"
+             props="Part 4"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_4"
              class="- map/topicref ">
       <topicref href="SUBPART_4.2.dita"
                 navtitle="SUBPART 4.2 – CONTRACT DISTRIBUTION"
-                props="PART 4.2"
+                props="Subpart 4.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_2"
+                xtrc="DLAD_SUBPART_4_2.html"
                 class="- map/topicref ">
          <topicref href="4.270.dita"
                    navtitle="4.270 Electronic Document Access."
@@ -530,6 +587,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_270"
+                   xtrc="DLAD_4_270.html"
                    class="- map/topicref "/>
          <topicref href="4.270-2.dita"
                    navtitle="4.270-2 Procedures."
@@ -538,15 +596,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_270-2"
+                   xtrc="DLAD_4_270-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.5.dita"
                 navtitle="SUBPART 4.5 – ELECTRONIC COMMERCE IN CONTRACTING"
-                props="PART 4.5"
+                props="Subpart 4.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_5"
+                xtrc="DLAD_SUBPART_4_5.html"
                 class="- map/topicref ">
          <topicref href="4.502.dita"
                    navtitle="4.502 Policy."
@@ -555,15 +615,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_502"
+                   xtrc="DLAD_4_502.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.6.dita"
                 navtitle="SUBPART 4.6 – CONTRACTING REPORTING"
-                props="PART 4.6"
+                props="Subpart 4.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_6"
+                xtrc="DLAD_SUBPART_4_6.html"
                 class="- map/topicref ">
          <topicref href="4.606.dita"
                    navtitle="4.606 Reporting Data."
@@ -572,6 +634,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_606"
+                   xtrc="DLAD_4_606.html"
                    class="- map/topicref "/>
          <topicref href="4.606-90.dita"
                    navtitle="4.606-90 Source selection process data element."
@@ -580,15 +643,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_606-90"
+                   xtrc="DLAD_4_606-90.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.7.dita"
                 navtitle="SUBPART 4.7 – CONTRACTOR RECORDS RETENTION"
-                props="PART 4.7"
+                props="Subpart 4.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_7"
+                xtrc="DLAD_SUBPART_4_7.html"
                 class="- map/topicref ">
          <topicref href="4.703.dita"
                    navtitle="4.703 Policy."
@@ -597,15 +662,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_703"
+                   xtrc="DLAD_4_703.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.8.dita"
                 navtitle="SUBPART 4.8 – GOVERNMENT CONTRACT FILES"
-                props="PART 4.8"
+                props="Subpart 4.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_8"
+                xtrc="DLAD_SUBPART_4_8.html"
                 class="- map/topicref ">
          <topicref href="4.802.dita"
                    navtitle="4.802 Contract files."
@@ -614,6 +681,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_802"
+                   xtrc="DLAD_4_802.html"
                    class="- map/topicref "/>
          <topicref href="4.804.dita"
                    navtitle="4.804 Closeout of contract         files."
@@ -622,6 +690,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_804"
+                   xtrc="DLAD_4_804.html"
                    class="- map/topicref "/>
          <topicref href="4.805.dita"
                    navtitle="4.805 Storage, handling, and contract files."
@@ -630,15 +699,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_805"
+                   xtrc="DLAD_4_805.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.13.dita"
                 navtitle="SUBPART 4.13 – PERSONAL IDENTITY VERIFICATION"
-                props="PART 4.13"
+                props="Subpart 4.13"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_13"
+                xtrc="DLAD_SUBPART_4_13.html"
                 class="- map/topicref ">
          <topicref href="4.1302.dita"
                    navtitle="4.1302 Acquisition of approved products and services for personal identity verification."
@@ -647,6 +718,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1302"
+                   xtrc="DLAD_4_1302.html"
                    class="- map/topicref "/>
          <topicref href="4.1303.dita"
                    navtitle="4.1303 Contract clause."
@@ -655,6 +727,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1303"
+                   xtrc="DLAD_4_1303.html"
                    class="- map/topicref "/>
          <topicref href="4.1303-90.dita"
                    navtitle="4.1303-90 Personal identity verification of contractor personnel."
@@ -663,15 +736,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1303-90"
+                   xtrc="DLAD_4_1303-90.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.16.dita"
                 navtitle="SUBPART 4.16 – UNIQUE PROCUREMENT INSTRUMENT IDENTIFIERS"
-                props="PART 4.16"
+                props="Subpart 4.16"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_16"
+                xtrc="DLAD_SUBPART_4_16.html"
                 class="- map/topicref ">
          <topicref href="4.1601.dita"
                    navtitle="4.1601 Policy."
@@ -680,15 +755,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1601"
+                   xtrc="DLAD_4_1601.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.71.dita"
                 navtitle="SUBPART 4.71 – UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM"
-                props="PART 4.71"
+                props="Subpart 4.71"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_71"
+                xtrc="DLAD_SUBPART_4_71.html"
                 class="- map/topicref ">
          <topicref href="4.7103-2.dita"
                    navtitle="4.7103-2 Numbering procedures."
@@ -697,6 +774,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7103-2"
+                   xtrc="DLAD_4_7103-2.html"
                    class="- map/topicref "/>
          <topicref href="4.7104-2.dita"
                    navtitle="4.7104-2 Numbering         procedures."
@@ -705,15 +783,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7104-2"
+                   xtrc="DLAD_4_7104-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_4.73.dita"
                 navtitle="SUBPART 4.73 —SAFEGUARDING COVERED DEFENSE INFORMATION AND CYBER INCIDENT REPORTING"
-                props="PART 4.73"
+                props="Subpart 4.73"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_4_73"
+                xtrc="DLAD_SUBPART_4_73.html"
                 class="- map/topicref ">
          <topicref href="4.7301.dita"
                    navtitle="4.7301 Definitions."
@@ -722,6 +802,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7301"
+                   xtrc="DLAD_4_7301.html"
                    class="- map/topicref "/>
          <topicref href="4.7303-1.dita"
                    navtitle="4.7303-1 General."
@@ -730,6 +811,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7303-1"
+                   xtrc="DLAD_4_7303-1.html"
                    class="- map/topicref "/>
          <topicref href="4.7303-3.dita"
                    navtitle="4.7303-3 Cyber incident and         compromise reporting."
@@ -738,24 +820,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7303-3"
+                   xtrc="DLAD_4_7303-3.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_5.dita"
              navtitle="PART 5 – PUBLICIZING CONTRACT ACTIONS"
              outputclass="Part"
-             props="PART 5"
+             props="Part 5"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_5"
              class="- map/topicref ">
       <topicref href="SUBPART_5.1.dita"
                 navtitle="SUBPART 5.1 – DISSEMINATION OF INFORMATION"
-                props="PART 5.1"
+                props="Subpart 5.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_5_1"
+                xtrc="DLAD_SUBPART_5_1.html"
                 class="- map/topicref ">
          <topicref href="5.101.dita"
                    navtitle="5.101 Methods of disseminating information."
@@ -764,15 +848,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_101"
+                   xtrc="DLAD_5_101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5.2.dita"
                 navtitle="SUBPART 5.2 – SYNOPSES OF PROPOSED CONTRACT ACTIONS"
-                props="PART 5.2"
+                props="Subpart 5.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_5_2"
+                xtrc="DLAD_SUBPART_5_2.html"
                 class="- map/topicref ">
          <topicref href="5.201.dita"
                    navtitle="5.201 General."
@@ -781,6 +867,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_201"
+                   xtrc="DLAD_5_201.html"
                    class="- map/topicref "/>
          <topicref href="5.202.dita"
                    navtitle="5.202 Exceptions."
@@ -789,15 +876,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_202"
+                   xtrc="DLAD_5_202.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5.3.dita"
                 navtitle="SUBPART 5.3 – SYNOPSES OF CONTRACT AWARDS"
-                props="PART 5.3"
+                props="Subpart 5.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_5_3"
+                xtrc="DLAD_SUBPART_5_3.html"
                 class="- map/topicref ">
          <topicref href="5.301.dita"
                    navtitle="5.301 General."
@@ -806,6 +895,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_301"
+                   xtrc="DLAD_5_301.html"
                    class="- map/topicref "/>
          <topicref href="5.303.dita"
                    navtitle="5.303 Announcement of contract awards."
@@ -814,15 +904,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_303"
+                   xtrc="DLAD_5_303.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_5.4.dita"
                 navtitle="SUBPART 5.4 – RELEASE OF INFORMATION"
-                props="PART 5.4"
+                props="Subpart 5.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_5_4"
+                xtrc="DLAD_SUBPART_5_4.html"
                 class="- map/topicref ">
          <topicref href="5.404.dita"
                    navtitle="5.404 Release of long–range acquisition estimates."
@@ -831,6 +923,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_404"
+                   xtrc="DLAD_5_404.html"
                    class="- map/topicref "/>
          <topicref href="5.404-1.dita"
                    navtitle="5.404-1 Release procedures."
@@ -839,24 +932,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_404-1"
+                   xtrc="DLAD_5_404-1.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_6.dita"
              navtitle="PART 6 – COMPETITION REQUIREMENTS"
              outputclass="Part"
-             props="PART 6"
+             props="Part 6"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_6"
              class="- map/topicref ">
       <topicref href="SUBPART_6.2.dita"
                 navtitle="SUBPART 6.2 – FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES"
-                props="PART 6.2"
+                props="Subpart 6.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_6_2"
+                xtrc="DLAD_SUBPART_6_2.html"
                 class="- map/topicref ">
          <topicref href="6.202.dita"
                    navtitle="6.202 Establishing or maintaining alternative sources."
@@ -865,15 +960,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_202"
+                   xtrc="DLAD_6_202.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_6.3.dita"
                 navtitle="SUBPART 6.3 – OTHER THAN FULL AND OPEN COMPETITION"
-                props="PART 6.3"
+                props="Subpart 6.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_6_3"
+                xtrc="DLAD_SUBPART_6_3.html"
                 class="- map/topicref ">
          <topicref href="6.303.dita"
                    navtitle="6.303 Justifications."
@@ -882,6 +979,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_303"
+                   xtrc="DLAD_6_303.html"
                    class="- map/topicref "/>
          <topicref href="6.303-2.dita"
                    navtitle="6.303-2 Content."
@@ -890,6 +988,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_303-2"
+                   xtrc="DLAD_6_303-2.html"
                    class="- map/topicref "/>
          <topicref href="6.305.dita"
                    navtitle="6.305 Availability of the justification."
@@ -898,6 +997,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_305"
+                   xtrc="DLAD_6_305.html"
                    class="- map/topicref "/>
          <topicref href="6.305-90.dita"
                    navtitle="6.305-90 Oversight program."
@@ -906,15 +1006,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_305-90"
+                   xtrc="DLAD_6_305-90.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_6.5.dita"
                 navtitle="SUBPART 6.5 –ADVOCATES FOR COMPETITION"
-                props="PART 6.5"
+                props="Subpart 6.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_6_5"
+                xtrc="DLAD_SUBPART_6_5.html"
                 class="- map/topicref ">
          <topicref href="6.501.dita"
                    navtitle="6.501 Requirement."
@@ -923,6 +1025,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_501"
+                   xtrc="DLAD_6_501.html"
                    class="- map/topicref "/>
          <topicref href="6.503.dita"
                    navtitle="6.503 Annual reporting requirements."
@@ -931,24 +1034,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_503"
+                   xtrc="DLAD_6_503.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_7.dita"
              navtitle="PART 7 – ACQUISITION PLANNING"
              outputclass="Part"
-             props="PART 7"
+             props="Part 7"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_7"
              class="- map/topicref ">
       <topicref href="SUBPART_7.1.dita"
                 navtitle="SUBPART 7.1 – ACQUISITION PLANS"
-                props="PART 7.1"
+                props="Subpart 7.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_7_1"
+                xtrc="DLAD_SUBPART_7_1.html"
                 class="- map/topicref ">
          <topicref href="7.102.dita"
                    navtitle="7.102 Policy."
@@ -957,6 +1062,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_102"
+                   xtrc="DLAD_7_102.html"
                    class="- map/topicref "/>
          <topicref href="7.102-90.dita"
                    navtitle="7.102-90 Contract management plan (CMP)."
@@ -965,6 +1071,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_102-90"
+                   xtrc="DLAD_7_102-90.html"
                    class="- map/topicref "/>
          <topicref href="7.103.dita"
                    navtitle="7.103 Agency–head         responsibilities."
@@ -973,6 +1080,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_103"
+                   xtrc="DLAD_7_103.html"
                    class="- map/topicref "/>
          <topicref href="7.105.dita"
                    navtitle="7.105 Contents of written acquisition plans."
@@ -981,6 +1089,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_105"
+                   xtrc="DLAD_7_105.html"
                    class="- map/topicref "/>
          <topicref href="7.107.dita"
                    navtitle="7.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling."
@@ -989,6 +1098,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107"
+                   xtrc="DLAD_7_107.html"
                    class="- map/topicref "/>
          <topicref href="7.107-1.dita"
                    navtitle="7.107-1 General."
@@ -997,6 +1107,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107-1"
+                   xtrc="DLAD_7_107-1.html"
                    class="- map/topicref "/>
          <topicref href="7.107-2.dita"
                    navtitle="7.107-2 Consolidation."
@@ -1005,6 +1116,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107-2"
+                   xtrc="DLAD_7_107-2.html"
                    class="- map/topicref "/>
          <topicref href="7.107-3.dita"
                    navtitle="7.107-3 Bundling."
@@ -1013,6 +1125,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107-3"
+                   xtrc="DLAD_7_107-3.html"
                    class="- map/topicref "/>
          <topicref href="7.107-4.dita"
                    navtitle="7.107-4 Substantial bundling."
@@ -1021,6 +1134,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107-4"
+                   xtrc="DLAD_7_107-4.html"
                    class="- map/topicref "/>
          <topicref href="7.107-5.dita"
                    navtitle="7.107-5 Notifications."
@@ -1029,15 +1143,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107-5"
+                   xtrc="DLAD_7_107-5.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_7.2.dita"
                 navtitle="SUBPART 7.2 – PLANNING FOR THE PURCHASE OF SUPPLIES IN ECONOMIC QUANTITIES"
-                props="PART 7.2"
+                props="Subpart 7.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_7_2"
+                xtrc="DLAD_SUBPART_7_2.html"
                 class="- map/topicref ">
          <topicref href="7.204.dita"
                    navtitle="7.204 Responsibilities of contracting officers."
@@ -1046,13 +1162,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_204"
+                   xtrc="DLAD_7_204.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_8.dita"
              navtitle="PART 8 – REQUIRED SOURCES OF SUPPLIES AND SERVICES"
              outputclass="Part"
-             props="PART 8"
+             props="Part 8"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_8"
@@ -1064,14 +1181,16 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DLAD_8_003"
+                xtrc="DLAD_8_003.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_8.7.dita"
                 navtitle="SUBPART 8.7 – ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED"
-                props="PART 8.7"
+                props="Subpart 8.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_8_7"
+                xtrc="DLAD_SUBPART_8_7.html"
                 class="- map/topicref ">
          <topicref href="8.703.dita"
                    navtitle="8.703 Procurement List."
@@ -1080,6 +1199,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_8_703"
+                   xtrc="DLAD_8_703.html"
                    class="- map/topicref "/>
          <topicref href="8.703-90.dita"
                    navtitle="8.703-90 Policy for additions of AbilityOne products to the procurement list."
@@ -1088,15 +1208,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_8_703-90"
+                   xtrc="DLAD_8_703-90.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_8.90.dita"
                 navtitle="SUBPART 8.90 – DOD FEDERAL MALL (FEDMALL)"
-                props="PART 8.90"
+                props="Subpart 8.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_8_90"
+                xtrc="DLAD_SUBPART_8_90.html"
                 class="- map/topicref ">
          <topicref href="8.9000.dita"
                    navtitle="8.9000 FedMall."
@@ -1105,24 +1227,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_8_9000"
+                   xtrc="DLAD_8_9000.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_9.dita"
              navtitle="PART 9 – CONTRACTOR QUALIFICATIONS"
              outputclass="Part"
-             props="PART 9"
+             props="Part 9"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_9"
              class="- map/topicref ">
       <topicref href="SUBPART_9.1.dita"
                 navtitle="SUBPART 9.1 – RESPONSIBLE PROSPECTIVE CONTRACTORS"
-                props="PART 9.1"
+                props="Subpart 9.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_9_1"
+                xtrc="DLAD_SUBPART_9_1.html"
                 class="- map/topicref ">
          <topicref href="9.100.dita"
                    navtitle="9.100 Scope of subpart."
@@ -1131,6 +1255,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_100"
+                   xtrc="DLAD_9_100.html"
                    class="- map/topicref "/>
          <topicref href="9.100-90.dita"
                    navtitle="9.100-90 Business Decision Analytics (BDA) dashboard."
@@ -1139,6 +1264,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_100-90"
+                   xtrc="DLAD_9_100-90.html"
                    class="- map/topicref "/>
          <topicref href="9.104.dita"
                    navtitle="9.104 Standards."
@@ -1147,6 +1273,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_104"
+                   xtrc="DLAD_9_104.html"
                    class="- map/topicref "/>
          <topicref href="9.104-2.dita"
                    navtitle="9.104-2 Special Standards."
@@ -1155,6 +1282,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_104-2"
+                   xtrc="DLAD_9_104-2.html"
                    class="- map/topicref "/>
          <topicref href="9.105.dita"
                    navtitle="9.105 Procedures."
@@ -1163,6 +1291,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_105"
+                   xtrc="DLAD_9_105.html"
                    class="- map/topicref "/>
          <topicref href="9.105-1.dita"
                    navtitle="9.105-1 Obtaining         information."
@@ -1171,6 +1300,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_105-1"
+                   xtrc="DLAD_9_105-1.html"
                    class="- map/topicref "/>
          <topicref href="9.106.dita"
                    navtitle="9.106 Preaward surveys."
@@ -1179,6 +1309,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_106"
+                   xtrc="DLAD_9_106.html"
                    class="- map/topicref "/>
          <topicref href="9.106-2.dita"
                    navtitle="9.106-2 Requests for preaward surveys         (PAS)."
@@ -1187,15 +1318,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_106-2"
+                   xtrc="DLAD_9_106-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.2.dita"
                 navtitle="SUBPART 9.2 – QUALIFICATIONS REQUIREMENTS"
-                props="PART 9.2"
+                props="Subpart 9.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_9_2"
+                xtrc="DLAD_SUBPART_9_2.html"
                 class="- map/topicref ">
          <topicref href="9.202.dita"
                    navtitle="9.202 Policy."
@@ -1204,6 +1337,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_202"
+                   xtrc="DLAD_9_202.html"
                    class="- map/topicref "/>
          <topicref href="9.203.dita"
                    navtitle="9.203 QPL’s, QML’s, and QBL’s."
@@ -1212,6 +1346,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_203"
+                   xtrc="DLAD_9_203.html"
                    class="- map/topicref "/>
          <topicref href="9.204.dita"
                    navtitle="9.204 Responsibilities for establishment of a qualification requirement."
@@ -1220,6 +1355,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_204"
+                   xtrc="DLAD_9_204.html"
                    class="- map/topicref "/>
          <topicref href="9.270.dita"
                    navtitle="9.270 Aviation and ship critical safety items."
@@ -1228,6 +1364,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_270"
+                   xtrc="DLAD_9_270.html"
                    class="- map/topicref "/>
          <topicref href="9.270-3.dita"
                    navtitle="9.270-3 Policy."
@@ -1236,15 +1373,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_270-3"
+                   xtrc="DLAD_9_270-3.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.3.dita"
                 navtitle="SUBPART 9.3 – FIRST ARTICLE TESTING AND APPROVAL"
-                props="PART 9.3"
+                props="Subpart 9.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_9_3"
+                xtrc="DLAD_SUBPART_9_3.html"
                 class="- map/topicref ">
          <topicref href="9.302.dita"
                    navtitle="9.302 General."
@@ -1253,6 +1392,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_302"
+                   xtrc="DLAD_9_302.html"
                    class="- map/topicref "/>
          <topicref href="9.304.dita"
                    navtitle="9.304 Exceptions."
@@ -1261,6 +1401,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_304"
+                   xtrc="DLAD_9_304.html"
                    class="- map/topicref "/>
          <topicref href="9.306.dita"
                    navtitle="9.306 Solicitation requirements."
@@ -1269,6 +1410,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_306"
+                   xtrc="DLAD_9_306.html"
                    class="- map/topicref "/>
          <topicref href="9.308.dita"
                    navtitle="9.308 Contract clauses."
@@ -1277,6 +1419,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_308"
+                   xtrc="DLAD_9_308.html"
                    class="- map/topicref "/>
          <topicref href="9.308-1.dita"
                    navtitle="9.308-1 Testing performed by the contractor."
@@ -1285,6 +1428,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_308-1"
+                   xtrc="DLAD_9_308-1.html"
                    class="- map/topicref "/>
          <topicref href="9.308-2.dita"
                    navtitle="9.308-2 Testing performed by the Government."
@@ -1293,15 +1437,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_308-2"
+                   xtrc="DLAD_9_308-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_9.4.dita"
                 navtitle="SUBPART 9.4 – DEBARMENT, SUSPENSION, AND INELIGIBILITY"
-                props="PART 9.4"
+                props="Subpart 9.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_9_4"
+                xtrc="DLAD_SUBPART_9_4.html"
                 class="- map/topicref ">
          <topicref href="9.404.dita"
                    navtitle="9.404 System for Award Management Exclusions."
@@ -1310,6 +1456,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_404"
+                   xtrc="DLAD_9_404.html"
                    class="- map/topicref "/>
          <topicref href="9.405.dita"
                    navtitle="9.405 Effect of listing."
@@ -1318,6 +1465,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_405"
+                   xtrc="DLAD_9_405.html"
                    class="- map/topicref "/>
          <topicref href="9.405-1.dita"
                    navtitle="9.405-1 Continuation of current contracts."
@@ -1326,6 +1474,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_405-1"
+                   xtrc="DLAD_9_405-1.html"
                    class="- map/topicref "/>
          <topicref href="9.406.dita"
                    navtitle="9.406 Debarment."
@@ -1334,6 +1483,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406"
+                   xtrc="DLAD_9_406.html"
                    class="- map/topicref "/>
          <topicref href="9.406-3.dita"
                    navtitle="9.406-3 Procedures."
@@ -1342,6 +1492,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406-3"
+                   xtrc="DLAD_9_406-3.html"
                    class="- map/topicref "/>
          <topicref href="9.406-90.dita"
                    navtitle="9.406-90 Procedures for debarments based on poor performance."
@@ -1350,24 +1501,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406-90"
+                   xtrc="DLAD_9_406-90.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_11.dita"
              navtitle="PART 11 – DESCRIBING AGENCY NEEDS"
              outputclass="Part"
-             props="PART 11"
+             props="Part 11"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_11"
              class="- map/topicref ">
       <topicref href="SUBPART_11.1.dita"
                 navtitle="SUBPART 11.1 – SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS"
-                props="PART 11.1"
+                props="Subpart 11.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_1"
+                xtrc="DLAD_SUBPART_11_1.html"
                 class="- map/topicref ">
          <topicref href="11.103.dita"
                    navtitle="11.103 Market acceptance."
@@ -1376,15 +1529,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_103"
+                   xtrc="DLAD_11_103.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.2.dita"
                 navtitle="SUBPART 11.2 – USING AND MAINTAINING REQUIREMENTS DOCUMENTS"
-                props="PART 11.2"
+                props="Subpart 11.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_2"
+                xtrc="DLAD_SUBPART_11_2.html"
                 class="- map/topicref ">
          <topicref href="11.201.dita"
                    navtitle="11.201 Identification and availability of specifications."
@@ -1393,6 +1548,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_201"
+                   xtrc="DLAD_11_201.html"
                    class="- map/topicref "/>
          <topicref href="11.274.dita"
                    navtitle="11.274 Item identification and valuation requirements."
@@ -1401,6 +1557,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_274"
+                   xtrc="DLAD_11_274.html"
                    class="- map/topicref "/>
          <topicref href="11.274-2.dita"
                    navtitle="11.274-2 Policy for unique item identification."
@@ -1409,15 +1566,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_274-2"
+                   xtrc="DLAD_11_274-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.3.dita"
                 navtitle="SUBPART 11.3 – ACCEPTABLE MATERIAL"
-                props="PART 11.3"
+                props="Subpart 11.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_3"
+                xtrc="DLAD_SUBPART_11_3.html"
                 class="- map/topicref ">
          <topicref href="11.302.dita"
                    navtitle="11.302 Policy."
@@ -1426,6 +1585,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_302"
+                   xtrc="DLAD_11_302.html"
                    class="- map/topicref "/>
          <topicref href="11.390.dita"
                    navtitle="11.390 Unused former Government         surplus property."
@@ -1434,6 +1594,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_390"
+                   xtrc="DLAD_11_390.html"
                    class="- map/topicref "/>
          <topicref href="11.391.dita"
                    navtitle="11.391 Part numbered items."
@@ -1442,23 +1603,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_391"
+                   xtrc="DLAD_11_391.html"
                    class="- map/topicref "/>
          <topicref href="11.392.dita"
                    navtitle="11.392              Traceability documentation."
-                   props=""
+                   props="11.392"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_392"
+                   xtrc="DLAD_11_392.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.4.dita"
                 navtitle="SUBPART 11.4 – DELIVERY OR PERFORMANCE SCHEDULES"
-                props="PART 11.4"
+                props="Subpart 11.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_4"
+                xtrc="DLAD_SUBPART_11_4.html"
                 class="- map/topicref ">
          <topicref href="11.401.dita"
                    navtitle="11.401 General."
@@ -1467,6 +1631,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_401"
+                   xtrc="DLAD_11_401.html"
                    class="- map/topicref "/>
          <topicref href="11.402-90.dita"
                    navtitle="11.402-90 Time definite delivery (TDD) standards."
@@ -1475,6 +1640,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_402-90"
+                   xtrc="DLAD_11_402-90.html"
                    class="- map/topicref "/>
          <topicref href="11.402-91.dita"
                    navtitle="11.402-91 TDD standards exclusions."
@@ -1483,15 +1649,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_402-91"
+                   xtrc="DLAD_11_402-91.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.5.dita"
                 navtitle="SUBPART 11.5 – LIQUIDATED DAMAGES"
-                props="PART 11.5"
+                props="Subpart 11.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_5"
+                xtrc="DLAD_SUBPART_11_5.html"
                 class="- map/topicref ">
          <topicref href="11.501.dita"
                    navtitle="11.501 Policy."
@@ -1500,15 +1668,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_501"
+                   xtrc="DLAD_11_501.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.6.dita"
                 navtitle="SUBPART 11.6 – PRIORITIES AND ALLOCATIONS"
-                props="PART 11.6"
+                props="Subpart 11.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_6"
+                xtrc="DLAD_SUBPART_11_6.html"
                 class="- map/topicref ">
          <topicref href="11.603.dita"
                    navtitle="11.603 Procedures."
@@ -1517,15 +1687,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_603"
+                   xtrc="DLAD_11_603.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.7.dita"
                 navtitle="SUBPART 11.7 – VARIATION IN QUANTITY"
-                props="PART 11.7"
+                props="Subpart 11.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_7"
+                xtrc="DLAD_SUBPART_11_7.html"
                 class="- map/topicref ">
          <topicref href="11.701.dita"
                    navtitle="11.701 Supply contracts."
@@ -1534,15 +1706,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_701"
+                   xtrc="DLAD_11_701.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.90.dita"
                 navtitle="SUBPART 11.90 – PRODUCT PHASE–OUT"
-                props="PART 11.90"
+                props="Subpart 11.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_90"
+                xtrc="DLAD_SUBPART_11_90.html"
                 class="- map/topicref ">
          <topicref href="11.9001.dita"
                    navtitle="11.9001 Notification of product         phase–out."
@@ -1551,15 +1725,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9001"
+                   xtrc="DLAD_11_9001.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.91.dita"
                 navtitle="SUBPART 11.91 – ADDITIVE MANUFACTURING"
-                props="PART 11.91"
+                props="Subpart 11.91"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_91"
+                xtrc="DLAD_SUBPART_11_91.html"
                 class="- map/topicref ">
          <topicref href="11.9101.dita"
                    navtitle="11.9101 Procurement note."
@@ -1568,15 +1744,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9101"
+                   xtrc="DLAD_11_9101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_11.92.dita"
                 navtitle="SUBPART 11.92 – FEDERAL AVIATION ADMINISTRATION (FAA) CERTIFIED PARTS"
-                props="PART 11.92"
+                props="Subpart 11.92"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_11_92"
+                xtrc="DLAD_SUBPART_11_92.html"
                 class="- map/topicref ">
          <topicref href="11.9201.dita"
                    navtitle="11.9201 Acquisition of FAA certified parts for consumable items."
@@ -1585,6 +1763,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9201"
+                   xtrc="DLAD_11_9201.html"
                    class="- map/topicref "/>
          <topicref href="11.9202.dita"
                    navtitle="11.9202 Acquisition of FAA certified parts for depot level repairable (DLR) items."
@@ -1593,24 +1772,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9202"
+                   xtrc="DLAD_11_9202.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_12.dita"
              navtitle="PART 12 – ACQUISITION OF COMMERCIAL ITEMS"
              outputclass="Part"
-             props="PART 12"
+             props="Part 12"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_12"
              class="- map/topicref ">
       <topicref href="SUBPART_12.1.dita"
                 navtitle="SUBPART 12.1 – ACQUISITION OF COMMERCIAL ITEMS – GENERAL"
-                props="PART 12.1"
+                props="Subpart 12.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_1"
+                xtrc="DLAD_SUBPART_12_1.html"
                 class="- map/topicref ">
          <topicref href="12.102.dita"
                    navtitle="12.102 Applicability."
@@ -1619,32 +1800,36 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_102"
+                   xtrc="DLAD_12_102.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_12.2.dita"
                 navtitle="SUBPART 12.2 – SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS"
-                props="PART 12.2"
+                props="Subpart 12.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_2"
+                xtrc="DLAD_SUBPART_12_2.html"
                 class="- map/topicref ">
          <topicref href="12.208.dita"
                    navtitle="12.208              Contract quality assurance."
-                   props=""
+                   props="12.208"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_208"
+                   xtrc="DLAD_12_208.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_12.3.dita"
                 navtitle="SUBPART 12.3 – SOLICITATION PROVISIONS AND CONTRACT CLAUSES FOR THE ACQUISITION OF COMMERCIAL ITEMS"
-                props="PART 12.3"
+                props="Subpart 12.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_3"
+                xtrc="DLAD_SUBPART_12_3.html"
                 class="- map/topicref ">
          <topicref href="12.301.dita"
                    navtitle="12.301 Solicitation provisions and         contract clauses for acquisition(s) of commercial items."
@@ -1653,6 +1838,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_301"
+                   xtrc="DLAD_12_301.html"
                    class="- map/topicref "/>
          <topicref href="12.302.dita"
                    navtitle="12.302 Tailoring of provisions and         clauses for the acquisition of commercial items."
@@ -1661,15 +1847,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_302"
+                   xtrc="DLAD_12_302.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_12.4.dita"
                 navtitle="SUBPART 12.4 – UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS"
-                props="PART 12.4"
+                props="Subpart 12.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_4"
+                xtrc="DLAD_SUBPART_12_4.html"
                 class="- map/topicref ">
          <topicref href="12.403.dita"
                    navtitle="12.403 Termination."
@@ -1678,15 +1866,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_403"
+                   xtrc="DLAD_12_403.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_12.5.dita"
                 navtitle="SUBPART 12.5 – APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF COMMERCIAL ITEMS"
-                props="PART 12.5"
+                props="Subpart 12.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_5"
+                xtrc="DLAD_SUBPART_12_5.html"
                 class="- map/topicref ">
          <topicref href="12.504.dita"
                    navtitle="12.504 Applicability of certain laws to subcontracts for the acquisition of commercial items."
@@ -1695,13 +1885,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_504"
+                   xtrc="DLAD_12_504.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_13.dita"
              navtitle="PART 13 – SIMPLIFIED ACQUISITION PROCEDURES"
              outputclass="Part"
-             props="PART 13"
+             props="Part 13"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_13"
@@ -1713,14 +1904,16 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DLAD_13_003"
+                xtrc="DLAD_13_003.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_13.1.dita"
                 navtitle="SUBPART 13.1 – PROCEDURES"
-                props="PART 13.1"
+                props="Subpart 13.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_1"
+                xtrc="DLAD_SUBPART_13_1.html"
                 class="- map/topicref ">
          <topicref href="13.106.dita"
                    navtitle="13.106 Soliciting competition, evaluation of quotations or offers, award and documentation."
@@ -1729,6 +1922,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_106"
+                   xtrc="DLAD_13_106.html"
                    class="- map/topicref "/>
          <topicref href="13.106-3.dita"
                    navtitle="13.106-3 Award and         documentation."
@@ -1737,15 +1931,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_106-3"
+                   xtrc="DLAD_13_106-3.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.2.dita"
                 navtitle="SUBPART 13.2 – ACTIONS AT OR BELOW THE MICRO–PURCHASE THRESHOLD"
-                props="PART 13.2"
+                props="Subpart 13.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_2"
+                xtrc="DLAD_SUBPART_13_2.html"
                 class="- map/topicref ">
          <topicref href="13.201.dita"
                    navtitle="13.201 General."
@@ -1754,15 +1950,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_201"
+                   xtrc="DLAD_13_201.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.3.dita"
                 navtitle="SUBPART 13.3 – SIMPLIFIED ACQUISITION METHODS"
-                props="PART 13.3"
+                props="Subpart 13.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_3"
+                xtrc="DLAD_SUBPART_13_3.html"
                 class="- map/topicref ">
          <topicref href="13.301.dita"
                    navtitle="13.301 Governmentwide commercial purchase card."
@@ -1771,6 +1969,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_301"
+                   xtrc="DLAD_13_301.html"
                    class="- map/topicref "/>
          <topicref href="13.303.dita"
                    navtitle="13.303 Blanket purchase agreements (BPAs)."
@@ -1779,6 +1978,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303"
+                   xtrc="DLAD_13_303.html"
                    class="- map/topicref "/>
          <topicref href="13.303-2.dita"
                    navtitle="13.303-2 Establishment of BPAs."
@@ -1787,6 +1987,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303-2"
+                   xtrc="DLAD_13_303-2.html"
                    class="- map/topicref "/>
          <topicref href="13.303-3.dita"
                    navtitle="13.303-3 Preparation of BPAs."
@@ -1795,6 +1996,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303-3"
+                   xtrc="DLAD_13_303-3.html"
                    class="- map/topicref "/>
          <topicref href="13.390.dita"
                    navtitle="13.390 Indefinite delivery contracts (IDCs) below the simplified acquisition threshold (SAT)."
@@ -1803,15 +2005,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_390"
+                   xtrc="DLAD_13_390.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.4.dita"
                 navtitle="SUBPART 13.4 – FAST PAYMENT PROCEDURE"
-                props="PART 13.4"
+                props="Subpart 13.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_4"
+                xtrc="DLAD_SUBPART_13_4.html"
                 class="- map/topicref ">
          <topicref href="13.402.dita"
                    navtitle="13.402 Conditions for use."
@@ -1820,6 +2024,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_402"
+                   xtrc="DLAD_13_402.html"
                    class="- map/topicref "/>
          <topicref href="13.404.dita"
                    navtitle="13.404 Contract clause."
@@ -1828,15 +2033,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_404"
+                   xtrc="DLAD_13_404.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_13.5.dita"
                 navtitle="SUBPART 13.5 – SIMPLIFIED PROCEDURES FOR CERTAIN COMMERCIAL ITEMS"
-                props="PART 13.5"
+                props="Subpart 13.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_5"
+                xtrc="DLAD_SUBPART_13_5.html"
                 class="- map/topicref ">
          <topicref href="13.501.dita"
                    navtitle="13.501 Special documentation         requirements."
@@ -1845,24 +2052,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_501"
+                   xtrc="DLAD_13_501.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_15.dita"
              navtitle="PART 15 – CONTRACTING BY NEGOTIATION"
              outputclass="Part"
-             props="PART 15"
+             props="Part 15"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_15"
              class="- map/topicref ">
       <topicref href="SUBPART_15.3.dita"
                 navtitle="SUBPART 15.3 – SOURCE SELECTION"
-                props="PART 15.3"
+                props="Subpart 15.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_15_3"
+                xtrc="DLAD_SUBPART_15_3.html"
                 class="- map/topicref ">
          <topicref href="15.303.dita"
                    navtitle="15.303 Responsibilities."
@@ -1871,15 +2080,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_303"
+                   xtrc="DLAD_15_303.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.4.dita"
                 navtitle="SUBPART 15.4 – CONTRACT PRICING"
-                props="PART 15.4"
+                props="Subpart 15.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_15_4"
+                xtrc="DLAD_SUBPART_15_4.html"
                 class="- map/topicref ">
          <topicref href="15.402.dita"
                    navtitle="15.402 Pricing policy."
@@ -1888,6 +2099,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_402"
+                   xtrc="DLAD_15_402.html"
                    class="- map/topicref "/>
          <topicref href="15.403.dita"
                    navtitle="15.403 Obtaining certified cost or pricing data."
@@ -1896,6 +2108,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_403"
+                   xtrc="DLAD_15_403.html"
                    class="- map/topicref ">
             <topicref href="15.403-1.dita"
                       navtitle="15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35)"
@@ -1904,6 +2117,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_403-1"
+                      xtrc="DLAD_15_403-1.html"
                       class="- map/topicref "/>
             <topicref href="15.403-3.dita"
                       navtitle="15.403-3 Requiring data other than cost or pricing data."
@@ -1912,6 +2126,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_403-3"
+                      xtrc="DLAD_15_403-3.html"
                       class="- map/topicref "/>
             <topicref href="15.403-4.dita"
                       navtitle="15.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35)."
@@ -1920,6 +2135,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_403-4"
+                      xtrc="DLAD_15_403-4.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="15.404.dita"
@@ -1929,6 +2145,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_404"
+                   xtrc="DLAD_15_404.html"
                    class="- map/topicref ">
             <topicref href="15.404-1.dita"
                       navtitle="15.404-1 Proposal analysis         techniques."
@@ -1937,6 +2154,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_404-1"
+                      xtrc="DLAD_15_404-1.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="15.405.dita"
@@ -1946,6 +2164,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_405"
+                   xtrc="DLAD_15_405.html"
                    class="- map/topicref "/>
          <topicref href="15.406.dita"
                    navtitle="15.406 Documentation."
@@ -1954,6 +2173,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_406"
+                   xtrc="DLAD_15_406.html"
                    class="- map/topicref ">
             <topicref href="15.406-1.dita"
                       navtitle="15.406-1 Prenegotiation         objectives."
@@ -1962,14 +2182,16 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_406-1"
+                      xtrc="DLAD_15_406-1.html"
                       class="- map/topicref "/>
             <topicref href="15.406-3.dita"
                       navtitle="15.406-3              Documenting the negotiation."
-                      props=""
+                      props="15.406-3"
                       base="NoTitle"
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_15_406-3"
+                      xtrc="DLAD_15_406-3.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="15.407-90.dita"
@@ -1979,6 +2201,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_407-90"
+                   xtrc="DLAD_15_407-90.html"
                    class="- map/topicref "/>
          <topicref href="15.408.dita"
                    navtitle="15.408 Solicitation provisions and contract clauses."
@@ -1987,15 +2210,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_408"
+                   xtrc="DLAD_15_408.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_15.6.dita"
                 navtitle="SUBPART 15.6 – UNSOLICITED PROPOSALS"
-                props="PART 15.6"
+                props="Subpart 15.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_15_6"
+                xtrc="DLAD_SUBPART_15_6.html"
                 class="- map/topicref ">
          <topicref href="15.606.dita"
                    navtitle="15.606 Agency procedures."
@@ -2004,24 +2229,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_606"
+                   xtrc="DLAD_15_606.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_16.dita"
              navtitle="PART 16 – TYPES OF CONTRACTS"
              outputclass="Part"
-             props="PART 16"
+             props="Part 16"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_16"
              class="- map/topicref ">
       <topicref href="SUBPART_16.1.dita"
                 navtitle="SUBPART 16.1 – SELECTING CONTRACT TYPES"
-                props="PART 16.1"
+                props="Subpart 16.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_16_1"
+                xtrc="DLAD_SUBPART_16_1.html"
                 class="- map/topicref ">
          <topicref href="16.190.dita"
                    navtitle="16.190 Long–term contracting."
@@ -2030,6 +2257,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_190"
+                   xtrc="DLAD_16_190.html"
                    class="- map/topicref "/>
          <topicref href="16.191.dita"
                    navtitle="16.191 Bridge contracts."
@@ -2038,15 +2266,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_191"
+                   xtrc="DLAD_16_191.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_16.2.dita"
                 navtitle="SUBPART 16.2 – FIXED–PRICE CONTRACTS"
-                props="PART 16.2"
+                props="Subpart 16.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_16_2"
+                xtrc="DLAD_SUBPART_16_2.html"
                 class="- map/topicref ">
          <topicref href="16.203.dita"
                    navtitle="16.203 Fixed–price contracts with economic price adjustment."
@@ -2055,6 +2285,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203"
+                   xtrc="DLAD_16_203.html"
                    class="- map/topicref "/>
          <topicref href="16.203-1.dita"
                    navtitle="16.203-1 Description."
@@ -2063,6 +2294,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-1"
+                   xtrc="DLAD_16_203-1.html"
                    class="- map/topicref "/>
          <topicref href="16.203-2.dita"
                    navtitle="16.203-2 Application."
@@ -2071,6 +2303,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-2"
+                   xtrc="DLAD_16_203-2.html"
                    class="- map/topicref "/>
          <topicref href="16.203-3.dita"
                    navtitle="16.203-3 Limitations."
@@ -2079,6 +2312,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-3"
+                   xtrc="DLAD_16_203-3.html"
                    class="- map/topicref "/>
          <topicref href="16.203-4.dita"
                    navtitle="16.203-4 Contract clauses."
@@ -2087,6 +2321,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-4"
+                   xtrc="DLAD_16_203-4.html"
                    class="- map/topicref "/>
          <topicref href="16.290.dita"
                    navtitle="16.290 Procurement notes."
@@ -2095,15 +2330,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_290"
+                   xtrc="DLAD_16_290.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_16.5.dita"
                 navtitle="SUBPART 16.5 – INDEFINITE DELIVERY CONTRACTS"
-                props="PART 16.5"
+                props="Subpart 16.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_16_5"
+                xtrc="DLAD_SUBPART_16_5.html"
                 class="- map/topicref ">
          <topicref href="16.501-2.dita"
                    navtitle="16.501-2 General."
@@ -2112,6 +2349,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_501-2"
+                   xtrc="DLAD_16_501-2.html"
                    class="- map/topicref "/>
          <topicref href="16.504.dita"
                    navtitle="16.504 Indefinite–quantity contracts."
@@ -2120,6 +2358,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_504"
+                   xtrc="DLAD_16_504.html"
                    class="- map/topicref "/>
          <topicref href="16.505.dita"
                    navtitle="16.505 Ordering."
@@ -2128,6 +2367,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_505"
+                   xtrc="DLAD_16_505.html"
                    class="- map/topicref "/>
          <topicref href="16.590.dita"
                    navtitle="16.590 Procurement notes."
@@ -2136,15 +2376,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_590"
+                   xtrc="DLAD_16_590.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_16.6.dita"
                 navtitle="SUBPART 16.6 – TIME–AND–MATERIALS, LABOR–HOUR, AND LETTER CONTRACTS"
-                props="PART 16.6"
+                props="Subpart 16.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_16_6"
+                xtrc="DLAD_SUBPART_16_6.html"
                 class="- map/topicref ">
          <topicref href="16.601.dita"
                    navtitle="16.601 Time–and–materials contracts."
@@ -2153,24 +2395,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_601"
+                   xtrc="DLAD_16_601.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_17.dita"
              navtitle="PART 17 – SPECIAL CONTRACTING METHODS"
              outputclass="Part"
-             props="PART 17"
+             props="Part 17"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_17"
              class="- map/topicref ">
       <topicref href="SUBPART_17.1.dita"
                 navtitle="SUBPART 17.1 – MULTIYEAR CONTRACTING"
-                props="PART 17.1"
+                props="Subpart 17.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_1"
+                xtrc="DLAD_SUBPART_17_1.html"
                 class="- map/topicref ">
          <topicref href="17.170.dita"
                    navtitle="17.170 General."
@@ -2179,15 +2423,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_170"
+                   xtrc="DLAD_17_170.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.2.dita"
                 navtitle="SUBPART 17.2 – OPTIONS"
-                props="PART 17.2"
+                props="Subpart 17.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_2"
+                xtrc="DLAD_SUBPART_17_2.html"
                 class="- map/topicref ">
          <topicref href="17.204.dita"
                    navtitle="17.204 Contracts."
@@ -2196,6 +2442,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_204"
+                   xtrc="DLAD_17_204.html"
                    class="- map/topicref "/>
          <topicref href="17.206.dita"
                    navtitle="17.206 Evaluation."
@@ -2204,6 +2451,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_206"
+                   xtrc="DLAD_17_206.html"
                    class="- map/topicref "/>
          <topicref href="17.207.dita"
                    navtitle="17.207 Exercise of options."
@@ -2212,15 +2460,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_207"
+                   xtrc="DLAD_17_207.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.5.dita"
                 navtitle="SUBPART 17.5 –INTERAGENCY ACQUISITIONS"
-                props="PART 17.5"
+                props="Subpart 17.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_5"
+                xtrc="DLAD_SUBPART_17_5.html"
                 class="- map/topicref ">
          <topicref href="17.500.dita"
                    navtitle="17.500 Scope of subpart."
@@ -2229,6 +2479,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_500"
+                   xtrc="DLAD_17_500.html"
                    class="- map/topicref "/>
          <topicref href="17.505.dita"
                    navtitle="17.505 Contracting officer review."
@@ -2237,6 +2488,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_505"
+                   xtrc="DLAD_17_505.html"
                    class="- map/topicref "/>
          <topicref href="17.590.dita"
                    navtitle="17.590 Follow–up procedures for non–Economy Act transactions."
@@ -2245,6 +2497,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_590"
+                   xtrc="DLAD_17_590.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.74.dita"
@@ -2254,6 +2507,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_74"
+                xtrc="DLAD_SUBPART_17_74.html"
                 class="- map/topicref ">
          <topicref href="17.7404.dita"
                    navtitle="17.7404 Limitations."
@@ -2262,6 +2516,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7404"
+                   xtrc="DLAD_17_7404.html"
                    class="- map/topicref "/>
          <topicref href="17.7405.dita"
                    navtitle="17.7405 Plans and reports."
@@ -2270,15 +2525,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7405"
+                   xtrc="DLAD_17_7405.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.75.dita"
                 navtitle="SUBPART 17.75 – ACQUISITION OF REPLENISHMENT PARTS"
-                props="PART 17.75"
+                props="Subpart 17.75"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_75"
+                xtrc="DLAD_SUBPART_17_75.html"
                 class="- map/topicref ">
          <topicref href="17.7505.dita"
                    navtitle="17.7505 Limitations on price increases."
@@ -2287,15 +2544,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7505"
+                   xtrc="DLAD_17_7505.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.91.dita"
                 navtitle="SUBPART 17.91 – USE OF PUBLIC MANUFACTURERS"
-                props="PART 17.91"
+                props="Subpart 17.91"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_91"
+                xtrc="DLAD_SUBPART_17_91.html"
                 class="- map/topicref ">
          <topicref href="17.9100.dita"
                    navtitle="17.9100 Public (organic) manufacturing."
@@ -2304,15 +2563,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9100"
+                   xtrc="DLAD_17_9100.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.92.dita"
                 navtitle="SUBPART 17.92 – REOPENER REQUIREMENTS"
-                props="PART 17.92"
+                props="Subpart 17.92"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_92"
+                xtrc="DLAD_SUBPART_17_92.html"
                 class="- map/topicref ">
          <topicref href="17.9201.dita"
                    navtitle="17.9201 General."
@@ -2321,6 +2582,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9201"
+                   xtrc="DLAD_17_9201.html"
                    class="- map/topicref "/>
          <topicref href="17.9202.dita"
                    navtitle="17.9202 Policy."
@@ -2329,6 +2591,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9202"
+                   xtrc="DLAD_17_9202.html"
                    class="- map/topicref "/>
          <topicref href="17.9204.dita"
                    navtitle="17.9204 Reopener requirements."
@@ -2337,15 +2600,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9204"
+                   xtrc="DLAD_17_9204.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.93.dita"
                 navtitle="SUBPART 17.93 – SURGE AND SUSTAINMENT (S&amp;S)"
-                props="PART 17.93"
+                props="Subpart 17.93"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_93"
+                xtrc="DLAD_SUBPART_17_93.html"
                 class="- map/topicref ">
          <topicref href="17.9300.dita"
                    navtitle="17.9300 Scope."
@@ -2354,6 +2619,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9300"
+                   xtrc="DLAD_17_9300.html"
                    class="- map/topicref "/>
          <topicref href="17.9301.dita"
                    navtitle="17.9301 Definitions."
@@ -2362,6 +2628,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9301"
+                   xtrc="DLAD_17_9301.html"
                    class="- map/topicref "/>
          <topicref href="17.9302.dita"
                    navtitle="17.9302 Policy."
@@ -2370,6 +2637,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9302"
+                   xtrc="DLAD_17_9302.html"
                    class="- map/topicref "/>
          <topicref href="17.9303.dita"
                    navtitle="17.9303 Procedures."
@@ -2378,6 +2646,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9303"
+                   xtrc="DLAD_17_9303.html"
                    class="- map/topicref "/>
          <topicref href="17.9304.dita"
                    navtitle="17.9304 Description/specifications, instructions to offerors, and evaluation factors."
@@ -2386,6 +2655,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9304"
+                   xtrc="DLAD_17_9304.html"
                    class="- map/topicref "/>
          <topicref href="17.9305.dita"
                    navtitle="17.9305 Warstopper Program Material Buffer Availability."
@@ -2394,15 +2664,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9305"
+                   xtrc="DLAD_17_9305.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_17.95.dita"
                 navtitle="SUBPART 17.95 – TAILORED LOGISTICS SUPPORT CONTRACTING"
-                props="PART 17.95"
+                props="Subpart 17.95"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_17_95"
+                xtrc="DLAD_SUBPART_17_95.html"
                 class="- map/topicref ">
          <topicref href="17.9500.dita"
                    navtitle="17.9500 Scope of subpart."
@@ -2411,6 +2683,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9500"
+                   xtrc="DLAD_17_9500.html"
                    class="- map/topicref "/>
          <topicref href="17.9501.dita"
                    navtitle="17.9501 Definitions."
@@ -2419,6 +2692,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9501"
+                   xtrc="DLAD_17_9501.html"
                    class="- map/topicref "/>
          <topicref href="17.9502.dita"
                    navtitle="17.9502 General."
@@ -2427,6 +2701,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9502"
+                   xtrc="DLAD_17_9502.html"
                    class="- map/topicref "/>
          <topicref href="17.9503.dita"
                    navtitle="17.9503 Pricing."
@@ -2435,6 +2710,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9503"
+                   xtrc="DLAD_17_9503.html"
                    class="- map/topicref "/>
          <topicref href="17.9504.dita"
                    navtitle="17.9504 Post award actions and management oversight."
@@ -2443,24 +2719,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9504"
+                   xtrc="DLAD_17_9504.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_18.dita"
              navtitle="PART 18 – EMERGENCY ACQUISITIONS"
              outputclass="Part"
-             props="PART 18"
+             props="Part 18"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_18"
              class="- map/topicref ">
       <topicref href="SUBPART_18.2.dita"
                 navtitle="SUBPART 18.2 – EMERGENCY ACQUISITION FLEXIBILITIES"
-                props="PART 18.2"
+                props="Subpart 18.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_18_2"
+                xtrc="DLAD_SUBPART_18_2.html"
                 class="- map/topicref ">
          <topicref href="18.270.dita"
                    navtitle="18.270 Head of contracting activity determinations."
@@ -2469,24 +2747,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_18_270"
+                   xtrc="DLAD_18_270.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_19.dita"
              navtitle="PART 19 – SMALL BUSINESS PROGRAMS"
              outputclass="Part"
-             props="PART 19"
+             props="Part 19"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_19"
              class="- map/topicref ">
       <topicref href="SUBPART_19.2.dita"
                 navtitle="SUBPART 19.2 – POLICIES"
-                props="PART 19.2"
+                props="Subpart 19.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_2"
+                xtrc="DLAD_SUBPART_19_2.html"
                 class="- map/topicref ">
          <topicref href="19.201.dita"
                    navtitle="19.201 General policy."
@@ -2495,15 +2775,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_201"
+                   xtrc="DLAD_19_201.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.3.dita"
                 navtitle="SUBPART 19.3 – DETERMINATION OF STATUS AS A SMALL BUSINESS, HUBZONE SMALL BUSINESS, OR SMALL DISADVANTAGED BUSINESS CONCERN"
-                props="PART 19.3"
+                props="Subpart 19.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_3"
+                xtrc="DLAD_SUBPART_19_3.html"
                 class="- map/topicref ">
          <topicref href="19.301.dita"
                    navtitle="19.301 Representations and rerepresentations."
@@ -2512,15 +2794,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_301"
+                   xtrc="DLAD_19_301.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.5.dita"
                 navtitle="SUBPART 19.5 – SET–ASIDES FOR SMALL BUSINESS"
-                props="PART 19.5"
+                props="Subpart 19.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_5"
+                xtrc="DLAD_SUBPART_19_5.html"
                 class="- map/topicref ">
          <topicref href="19.502-2.dita"
                    navtitle="19.502-2 Total small business set–asides."
@@ -2529,6 +2813,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_502-2"
+                   xtrc="DLAD_19_502-2.html"
                    class="- map/topicref "/>
          <topicref href="19.505.dita"
                    navtitle="19.505 Rejecting Small Business Administration recommendations."
@@ -2537,6 +2822,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_505"
+                   xtrc="DLAD_19_505.html"
                    class="- map/topicref "/>
          <topicref href="19.590.dita"
                    navtitle="19.590 Cascading/combined set–aside logic clauses for Enterprise Business Systems applications."
@@ -2545,15 +2831,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_590"
+                   xtrc="DLAD_19_590.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.6.dita"
                 navtitle="SUBPART 19.6 – CERTIFICATES OF COMPETENCY"
-                props="PART 19.6"
+                props="Subpart 19.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_6"
+                xtrc="DLAD_SUBPART_19_6.html"
                 class="- map/topicref ">
          <topicref href="19.602.dita"
                    navtitle="19.602 Procedures."
@@ -2562,6 +2850,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602"
+                   xtrc="DLAD_19_602.html"
                    class="- map/topicref "/>
          <topicref href="19.602-1.dita"
                    navtitle="19.602-1 Referral."
@@ -2570,6 +2859,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-1"
+                   xtrc="DLAD_19_602-1.html"
                    class="- map/topicref "/>
          <topicref href="19.602-3.dita"
                    navtitle="19.602-3 Resolving differences between the Agency and the Small Business Administration."
@@ -2578,6 +2868,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-3"
+                   xtrc="DLAD_19_602-3.html"
                    class="- map/topicref "/>
          <topicref href="19.602-4.dita"
                    navtitle="19.602-4 Awarding the contract."
@@ -2586,15 +2877,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-4"
+                   xtrc="DLAD_19_602-4.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.7.dita"
                 navtitle="SUBPART 19.7 – THE SMALL BUSINESS SUBCONTRACTING PROGRAM"
-                props="PART 19.7"
+                props="Subpart 19.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_7"
+                xtrc="DLAD_SUBPART_19_7.html"
                 class="- map/topicref ">
          <topicref href="19.705.dita"
                    navtitle="19.705 Responsibilities of the contracting officer under the subcontracting assistance program."
@@ -2603,6 +2896,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705"
+                   xtrc="DLAD_19_705.html"
                    class="- map/topicref "/>
          <topicref href="19.705-4.dita"
                    navtitle="19.705-4 Reviewing the subcontracting plan."
@@ -2611,6 +2905,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705-4"
+                   xtrc="DLAD_19_705-4.html"
                    class="- map/topicref "/>
          <topicref href="19.705-5.dita"
                    navtitle="19.705-5 Awards involving subcontracting plans."
@@ -2619,15 +2914,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705-5"
+                   xtrc="DLAD_19_705-5.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_19.8.dita"
                 navtitle="SUBPART 19.8 – CONTRACTING WITH THE SMALL BUSINESS ADMINISTRATION"
-                props="PART 19.8"
+                props="Subpart 19.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_19_8"
+                xtrc="DLAD_SUBPART_19_8.html"
                 class="- map/topicref ">
          <topicref href="19.803.dita"
                    navtitle="19.803 Selecting acquisitions for the 8(a) program."
@@ -2636,13 +2933,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_803"
+                   xtrc="DLAD_19_803.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_22.dita"
              navtitle="PART 22 – APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
              outputclass="Part"
-             props="PART 22"
+             props="Part 22"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_22"
@@ -2654,14 +2952,16 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DLAD_22_001"
+                xtrc="DLAD_22_001.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_22.1.dita"
                 navtitle="SUBPART 22.1 – BASIC LABOR POLICIES"
-                props="PART 22.1"
+                props="Subpart 22.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_22_1"
+                xtrc="DLAD_SUBPART_22_1.html"
                 class="- map/topicref ">
          <topicref href="22.103-4.dita"
                    navtitle="22.103-4 Approvals."
@@ -2670,15 +2970,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_103-4"
+                   xtrc="DLAD_22_103-4.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_22.15.dita"
                 navtitle="SUBPART 22.15 – PROHIBITION OF ACQUISITION OF PRODUCTS PRODUCED BY FORCED OR INDENTURED CHILD LABOR"
-                props="PART 22.15"
+                props="Subpart 22.15"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_22_15"
+                xtrc="DLAD_SUBPART_22_15.html"
                 class="- map/topicref ">
          <topicref href="22.1503.dita"
                    navtitle="22.1503 Procedures for acquiring end products on the list of products requiring contractor certification as to forced or indentured child labor."
@@ -2687,15 +2989,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_1503"
+                   xtrc="DLAD_22_1503.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_22.74.dita"
                 navtitle="SUBPART 22.74 – RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS"
-                props="PART 22.74"
+                props="Subpart 22.74"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_22_74"
+                xtrc="DLAD_SUBPART_22_74.html"
                 class="- map/topicref ">
          <topicref href="22.7404.dita"
                    navtitle="22.7404 Waiver."
@@ -2704,24 +3008,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_7404"
+                   xtrc="DLAD_22_7404.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_23.dita"
              navtitle="PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE"
              outputclass="Part"
-             props="PART 23"
+             props="Part 23"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_23"
              class="- map/topicref ">
       <topicref href="SUBPART_23.3.dita"
                 navtitle="SUBPART 23.3 – HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA SHEETS"
-                props="PART 23.3"
+                props="Subpart 23.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_23_3"
+                xtrc="DLAD_SUBPART_23_3.html"
                 class="- map/topicref ">
          <topicref href="23.302.dita"
                    navtitle="23.302 Policy."
@@ -2730,24 +3036,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_23_302"
+                   xtrc="DLAD_23_302.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_25.dita"
              navtitle="PART 25 – FOREIGN ACQUISITION"
              outputclass="Part"
-             props="PART 25"
+             props="Part 25"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_25"
              class="- map/topicref ">
       <topicref href="SUBPART_25.1.dita"
                 navtitle="SUBPART 25.1 – BUY AMERICAN ACT – SUPPLIES"
-                props="PART 25.1"
+                props="Subpart 25.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_1"
+                xtrc="DLAD_SUBPART_25_1.html"
                 class="- map/topicref ">
          <topicref href="25.103.dita"
                    navtitle="25.103 Exceptions."
@@ -2756,15 +3064,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_103"
+                   xtrc="DLAD_25_103.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_25.8.dita"
                 navtitle="SUBPART 25.8 – OTHER INTERNATIONAL AGREEMENTS AND COORDINATION"
-                props="PART 25.8"
+                props="Subpart 25.8"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_8"
+                xtrc="DLAD_SUBPART_25_8.html"
                 class="- map/topicref ">
          <topicref href="25.802-71.dita"
                    navtitle="25.802-71 End use certificates."
@@ -2773,15 +3083,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_802-71"
+                   xtrc="DLAD_25_802-71.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_25.9.dita"
                 navtitle="SUBPART 25.9 – CUSTOMS AND DUTIES"
-                props="PART 25.9"
+                props="Subpart 25.9"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_9"
+                xtrc="DLAD_SUBPART_25_9.html"
                 class="- map/topicref ">
          <topicref href="25.903.dita"
                    navtitle="25.903 Exempted supplies."
@@ -2790,15 +3102,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_903"
+                   xtrc="DLAD_25_903.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_25.70.dita"
                 navtitle="SUBPART 25.70 – AUTHORIZATION ACTS, APPROPRIATIONS ACTS, AND OTHER STATUTORY RESTRICTIONS ON FOREIGN ACQUISITION"
-                props="PART 25.70"
+                props="Subpart 25.70"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_70"
+                xtrc="DLAD_SUBPART_25_70.html"
                 class="- map/topicref ">
          <topicref href="25.7002.dita"
                    navtitle="25.7002 Restrictions on food, clothing, fabrics, hand or measuring tools, and flags."
@@ -2807,6 +3121,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7002"
+                   xtrc="DLAD_25_7002.html"
                    class="- map/topicref "/>
          <topicref href="25.7002-2.dita"
                    navtitle="25.7002-2 Exceptions."
@@ -2815,15 +3130,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7002-2"
+                   xtrc="DLAD_25_7002-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_25.73.dita"
                 navtitle="SUBPART 25.73 – ACQUISITIONS FOR FOREIGN MILITARY SALES"
-                props="PART 25.73"
+                props="Subpart 25.73"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_73"
+                xtrc="DLAD_SUBPART_25_73.html"
                 class="- map/topicref ">
          <topicref href="25.7301.dita"
                    navtitle="25.7301 General."
@@ -2832,15 +3149,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7301"
+                   xtrc="DLAD_25_7301.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_25.79.dita"
                 navtitle="SUBPART 25.79 – EXPORT CONTROL"
-                props="PART 25.79"
+                props="Subpart 25.79"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_25_79"
+                xtrc="DLAD_SUBPART_25_79.html"
                 class="- map/topicref ">
          <topicref href="25.7901.dita"
                    navtitle="25.7901 Export–controlled items."
@@ -2849,6 +3168,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7901"
+                   xtrc="DLAD_25_7901.html"
                    class="- map/topicref ">
             <topicref href="25.7901-1.dita"
                       navtitle="25.7901-1 Definitions."
@@ -2857,6 +3177,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_25_7901-1"
+                      xtrc="DLAD_25_7901-1.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="25.7902-4.dita"
@@ -2866,24 +3187,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7902-4"
+                   xtrc="DLAD_25_7902-4.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_27.dita"
              navtitle="PART 27 – PATENTS, DATA, AND COPYRIGHTS"
              outputclass="Part"
-             props="PART 27"
+             props="Part 27"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_27"
              class="- map/topicref ">
       <topicref href="SUBPART_27.1.dita"
                 navtitle="SUBPART 27.1 – GENERAL"
-                props="PART 27.1"
+                props="Subpart 27.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_27_1"
+                xtrc="DLAD_SUBPART_27_1.html"
                 class="- map/topicref ">
          <topicref href="27.101.dita"
                    navtitle="27.101 Applicability."
@@ -2892,15 +3215,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_101"
+                   xtrc="DLAD_27_101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_27.2.dita"
                 navtitle="SUBPART 27.2 – PATENTS"
-                props="PART 27.2"
+                props="Subpart 27.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_27_2"
+                xtrc="DLAD_SUBPART_27_2.html"
                 class="- map/topicref ">
          <topicref href="27.201.dita"
                    navtitle="27.201 Patent and copyright infringement liability."
@@ -2909,6 +3234,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_201"
+                   xtrc="DLAD_27_201.html"
                    class="- map/topicref "/>
          <topicref href="27.201-2.dita"
                    navtitle="27.201-2 Contract clauses."
@@ -2917,15 +3243,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_201-2"
+                   xtrc="DLAD_27_201-2.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_27.71.dita"
                 navtitle="SUBPART 27.71 –– RIGHTS IN TECHNICAL DATA"
-                props="PART 27.71"
+                props="Subpart 27.71"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_27_71"
+                xtrc="DLAD_SUBPART_27_71.html"
                 class="- map/topicref ">
          <topicref href="27.7103-6.dita"
                    navtitle="27.7103-6 Contract clauses."
@@ -2934,15 +3262,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_7103-6"
+                   xtrc="DLAD_27_7103-6.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_27.90.dita"
                 navtitle="SUBPART 27.90 – EXPORT CONTROL OF TECHNICAL DATA"
-                props="PART 27.90"
+                props="Subpart 27.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_27_90"
+                xtrc="DLAD_SUBPART_27_90.html"
                 class="- map/topicref ">
          <topicref href="27.9001.dita"
                    navtitle="27.9001 Policy."
@@ -2951,6 +3281,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9001"
+                   xtrc="DLAD_27_9001.html"
                    class="- map/topicref "/>
          <topicref href="27.9002.dita"
                    navtitle="27.9002 Data subject to export control."
@@ -2959,6 +3290,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9002"
+                   xtrc="DLAD_27_9002.html"
                    class="- map/topicref "/>
          <topicref href="27.9003.dita"
                    navtitle="27.9003 Contractor eligibility."
@@ -2967,24 +3299,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9003"
+                   xtrc="DLAD_27_9003.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_28.dita"
              navtitle="PART 28 – BONDS AND INSURANCE"
-             props="PART 28"
+             props="Part 28"
              base="NoTitle"
-             outputclass="subtopic"
-             xtrf="subtopic"
+             outputclass="Part"
+             xtrf="Part"
              audience="DLAD_PART_28"
              class="- map/topicref ">
       <topicref href="SUBPART_28.1.dita"
                 navtitle="SUBPART 28.1 – BONDS AND OTHER FINANCIAL PROTECTIONS"
-                props="PART 28.1"
+                props="Subpart 28.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_28_1"
+                xtrc="DLAD_SUBPART_28_1.html"
                 class="- map/topicref ">
          <topicref href="28.106.dita"
                    navtitle="28.106 Administration."
@@ -2993,6 +3327,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_106"
+                   xtrc="DLAD_28_106.html"
                    class="- map/topicref ">
             <topicref href="28.106-90.dita"
                       navtitle="28.106-90 Review of bonds and consent of surety."
@@ -3001,16 +3336,18 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_28_106-90"
+                      xtrc="DLAD_28_106-90.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_28.3.dita"
                 navtitle="SUBPART 28.3 – INSURANCE"
-                props="PART 28.3"
+                props="Subpart 28.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_28_3"
+                xtrc="DLAD_SUBPART_28_3.html"
                 class="- map/topicref ">
          <topicref href="28.305.dita"
                    navtitle="28.305 Overseas workers’ compensation and war–hazard insurance."
@@ -3019,6 +3356,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_305"
+                   xtrc="DLAD_28_305.html"
                    class="- map/topicref "/>
          <topicref href="28.307.dita"
                    navtitle="28.307 Insurance under cost–reimbursement contracts."
@@ -3027,6 +3365,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_307"
+                   xtrc="DLAD_28_307.html"
                    class="- map/topicref ">
             <topicref href="28.307-1.dita"
                       navtitle="28.307-1 Group insurance plans."
@@ -3035,25 +3374,27 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_28_307-1"
+                      xtrc="DLAD_28_307-1.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
    </topicref>
    <topicref href="PART_30.dita"
              navtitle="PART 30 – COST ACCOUNTING STANDARDS ADMINISTRATION"
-             props="PART 30"
+             props="Part 30"
              base="NoTitle"
-             outputclass="subtopic"
-             xtrf="subtopic"
+             outputclass="Part"
+             xtrf="Part"
              audience="DLAD_PART_30"
              class="- map/topicref ">
       <topicref href="SUBPART_30.2.dita"
                 navtitle="SUBPART 30.2 – CAS PROGRAM REQUIREMENTS"
-                props="PART 30.2"
+                props="Subpart 30.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_30_2"
+                xtrc="DLAD_SUBPART_30_2.html"
                 class="- map/topicref ">
          <topicref navtitle="30.201-5 Waiver."
                    href="30.201-5.dita"
@@ -3063,13 +3404,14 @@
                    props="30.201-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
+                   xtrc="DLAD_30_201-5.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_32.dita"
              navtitle="PART 32 – CONTRACT FINANCING"
              outputclass="Part"
-             props="PART 32"
+             props="Part 32"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_32"
@@ -3081,6 +3423,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_32_006"
+                xtrc="DLAD_32_006.html"
                 class="- map/topicref ">
          <topicref href="32.006-3.dita"
                    navtitle="32.006-3 Responsibilities."
@@ -3089,6 +3432,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-3"
+                   xtrc="DLAD_32_006-3.html"
                    class="- map/topicref "/>
          <topicref href="32.006-4.dita"
                    navtitle="32.006-4 Procedures."
@@ -3097,6 +3441,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-4"
+                   xtrc="DLAD_32_006-4.html"
                    class="- map/topicref "/>
          <topicref href="32.006-5.dita"
                    navtitle="32.006-5 Reporting."
@@ -3105,15 +3450,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-5"
+                   xtrc="DLAD_32_006-5.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.1.dita"
                 navtitle="SUBPART 32.1 – NON–COMMERCIAL ITEM PURCHASE FINANCING"
-                props="PART 32.1"
+                props="Subpart 32.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_32_1"
+                xtrc="DLAD_SUBPART_32_1.html"
                 class="- map/topicref ">
          <topicref href="32.114.dita"
                    navtitle="32.114 Unusual contract financing."
@@ -3122,15 +3469,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_114"
+                   xtrc="DLAD_32_114.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.4.dita"
                 navtitle="SUBPART 32.4 – ADVANCE PAYMENTS FOR NON–COMMERCIAL ITEMS"
-                props="PART 32.4"
+                props="Subpart 32.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_32_4"
+                xtrc="DLAD_SUBPART_32_4.html"
                 class="- map/topicref ">
          <topicref href="32.402.dita"
                    navtitle="32.402 General."
@@ -3139,6 +3488,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_402"
+                   xtrc="DLAD_32_402.html"
                    class="- map/topicref "/>
          <topicref href="32.409.dita"
                    navtitle="32.409 Contracting officer action."
@@ -3147,15 +3497,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_409"
+                   xtrc="DLAD_32_409.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_32.5.dita"
                 navtitle="SUBPART 32.5 – PROGRESS PAYMENTS BASED ON COSTS"
-                props="PART 32.5"
+                props="Subpart 32.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_32_5"
+                xtrc="DLAD_SUBPART_32_5.html"
                 class="- map/topicref ">
          <topicref href="32.501.dita"
                    navtitle="32.501 General."
@@ -3164,6 +3516,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_501"
+                   xtrc="DLAD_32_501.html"
                    class="- map/topicref ">
             <topicref href="32.501-2.dita"
                       navtitle="32.501-2 Unusual progress payments."
@@ -3172,16 +3525,18 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_32_501-2"
+                      xtrc="DLAD_32_501-2.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
       <topicref href="SUBPART_32.9.dita"
                 navtitle="SUBPART 32.9 – PROMPT PAYMENT"
-                props="PART 32.9"
+                props="Subpart 32.9"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_32_9"
+                xtrc="DLAD_SUBPART_32_9.html"
                 class="- map/topicref ">
          <topicref href="32.904.dita"
                    navtitle="32.904 Determining payment due dates."
@@ -3190,6 +3545,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_904"
+                   xtrc="DLAD_32_904.html"
                    class="- map/topicref "/>
          <topicref href="32.905.dita"
                    navtitle="32.905 Payment documentation and         process."
@@ -3198,6 +3554,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_905"
+                   xtrc="DLAD_32_905.html"
                    class="- map/topicref "/>
          <topicref href="32.908.dita"
                    navtitle="32.908 Contract clauses."
@@ -3206,6 +3563,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_908"
+                   xtrc="DLAD_32_908.html"
                    class="- map/topicref ">
             <topicref href="32.908-94.dita"
                       navtitle="32.908-94 Transporter proof of         delivery (TPD)."
@@ -3214,6 +3572,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_32_908-94"
+                      xtrc="DLAD_32_908-94.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
@@ -3221,18 +3580,19 @@
    <topicref href="PART_33.dita"
              navtitle="PART 33 – PROTESTS, DISPUTES, AND APPEALS"
              outputclass="Part"
-             props="PART 33"
+             props="Part 33"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_33"
              class="- map/topicref ">
       <topicref href="SUBPART_33.1.dita"
                 navtitle="SUBPART 33.1 – PROTESTS"
-                props="PART 33.1"
+                props="Subpart 33.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_33_1"
+                xtrc="DLAD_SUBPART_33_1.html"
                 class="- map/topicref ">
          <topicref href="33.103.dita"
                    navtitle="33.103 Protests to the agency."
@@ -3241,6 +3601,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_103"
+                   xtrc="DLAD_33_103.html"
                    class="- map/topicref "/>
          <topicref href="33.104.dita"
                    navtitle="33.104 Protests to GAO."
@@ -3249,15 +3610,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_104"
+                   xtrc="DLAD_33_104.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_33.2.dita"
                 navtitle="SUBPART 33.2 – DISPUTES AND APPEALS"
-                props="PART 33.2"
+                props="Subpart 33.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_33_2"
+                xtrc="DLAD_SUBPART_33_2.html"
                 class="- map/topicref ">
          <topicref href="33.209.dita"
                    navtitle="33.209 Suspected fraudulent claims."
@@ -3266,6 +3629,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_209"
+                   xtrc="DLAD_33_209.html"
                    class="- map/topicref "/>
          <topicref href="33.211.dita"
                    navtitle="33.211 Contracting officer’s decision."
@@ -3274,6 +3638,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_211"
+                   xtrc="DLAD_33_211.html"
                    class="- map/topicref "/>
          <topicref href="33.212.dita"
                    navtitle="33.212 Contracting officer’s duties upon appeal."
@@ -3282,6 +3647,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_212"
+                   xtrc="DLAD_33_212.html"
                    class="- map/topicref "/>
          <topicref href="33.214.dita"
                    navtitle="33.214 Alternative dispute resolution         (ADR)."
@@ -3290,24 +3656,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_214"
+                   xtrc="DLAD_33_214.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_34.dita"
              navtitle="PART 34 – MAJOR SYSTEM ACQUISITION"
              outputclass="Part"
-             props="PART 34"
+             props="Part 34"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_34"
              class="- map/topicref ">
       <topicref href="34.71.dita"
                 navtitle="SUBPART 34.71  – COST AND SOFTWARE DATA REPORTING"
-                props="PART 34.71"
+                props="Subpart 34.71"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_34"
+                xtrc="DLAD_34.html"
                 class="- map/topicref ">
          <topicref href="34.7101.dita"
                    navtitle="34.7101 Solicitation provision and contract clause."
@@ -3316,6 +3684,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_34_7101"
+                   xtrc="DLAD_34_7101.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
@@ -3325,16 +3694,17 @@
              base="NoTitle"
              audience="DLAD_PART_37"
              otherprops=""
-             props="PART 37"
+             props="Part 37"
              xtrf="Part"
              class="- map/topicref ">
       <topicref href="SUBPART_37.1.dita"
                 navtitle="SUBPART 37.1 – SERVICE CONTRACTS – GENERAL"
-                props="PART 37.1"
+                props="Subpart 37.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_37_1"
+                xtrc="DLAD_SUBPART_37_1.html"
                 class="- map/topicref ">
          <topicref href="37.102.dita"
                    navtitle="37.102 Policy."
@@ -3343,6 +3713,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_102"
+                   xtrc="DLAD_37_102.html"
                    class="- map/topicref "/>
          <topicref href="37.103.dita"
                    navtitle="37.103 Contracting officer responsibility."
@@ -3351,6 +3722,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_103"
+                   xtrc="DLAD_37_103.html"
                    class="- map/topicref "/>
          <topicref href="37.110.dita"
                    navtitle="37.110 Solicitation provisions and contract clauses."
@@ -3359,15 +3731,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_110"
+                   xtrc="DLAD_37_110.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_37.2.dita"
                 navtitle="SUBPART 37.2 – ADVISORY AND ASSISTANCE SERVICES"
-                props="PART 37.2"
+                props="Subpart 37.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_37_2"
+                xtrc="DLAD_SUBPART_37_2.html"
                 class="- map/topicref ">
          <topicref href="37.270.dita"
                    navtitle="37.270 Acquisition of audit services."
@@ -3376,24 +3750,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_270"
+                   xtrc="DLAD_37_270.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_38.dita"
              navtitle="PART 38 – FEDERAL SUPPLY SCHEDULE CONTRACTING"
              outputclass="Part"
-             props="PART 38"
+             props="Part 38"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_38"
              class="- map/topicref ">
       <topicref href="SUBPART_38.90.dita"
                 navtitle="SUBPART 38.90 DLA–MANAGED FEDERAL SUPPLY SCHEDULES"
-                props="PART 38.90"
+                props="Subpart 38.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_38_90"
+                xtrc="DLAD_SUBPART_38_90.html"
                 class="- map/topicref ">
          <topicref href="38.9000.dita"
                    navtitle="38.9000 Scope."
@@ -3402,6 +3778,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9000"
+                   xtrc="DLAD_38_9000.html"
                    class="- map/topicref "/>
          <topicref href="38.9001.dita"
                    navtitle="38.9001 General."
@@ -3410,6 +3787,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9001"
+                   xtrc="DLAD_38_9001.html"
                    class="- map/topicref "/>
          <topicref href="38.9002.dita"
                    navtitle="38.9002 DLA–Managed Federal Supply Schedules for FedMall."
@@ -3418,24 +3796,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9002"
+                   xtrc="DLAD_38_9002.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_39.dita"
              navtitle="PART 39 – ACQUISITION OF INFORMATION TECHNOLOGY (IT)"
              outputclass="Part"
-             props="PART 39"
+             props="Part 39"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_39"
              class="- map/topicref ">
       <topicref href="SUBPART_39.2.dita"
                 navtitle="SUBPART 39.2 – ELECTRONIC AND INFORMATION TECHNOLOGY (EIT)"
-                props="PART 39.2"
+                props="Subpart 39.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_39_2"
+                xtrc="DLAD_SUBPART_39_2.html"
                 class="- map/topicref ">
          <topicref href="39.201.dita"
                    navtitle="39.201 Scope of subpart."
@@ -3444,6 +3824,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_201"
+                   xtrc="DLAD_39_201.html"
                    class="- map/topicref "/>
          <topicref href="39.203.dita"
                    navtitle="39.203 Applicability."
@@ -3452,6 +3833,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_203"
+                   xtrc="DLAD_39_203.html"
                    class="- map/topicref "/>
          <topicref href="39.204.dita"
                    navtitle="39.204 Exceptions."
@@ -3460,15 +3842,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_204"
+                   xtrc="DLAD_39_204.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_39.74.dita"
                 navtitle="SUBPART 39.74 – TELECOMMUNICATIONS SERVICES"
-                props="PART 39.74"
+                props="Subpart 39.74"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_39_74"
+                xtrc="DLAD_SUBPART_39_74.html"
                 class="- map/topicref ">
          <topicref href="39.7402.dita"
                    navtitle="39.7402 Policy."
@@ -3477,15 +3861,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_7402"
+                   xtrc="DLAD_39_7402.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_39.90.dita"
                 navtitle="SUBPART 39.90 – PROCEDURES, APPROVALS AND TOOLS"
-                props="PART 39.90"
+                props="Subpart 39.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_39_90"
+                xtrc="DLAD_SUBPART_39_90.html"
                 class="- map/topicref ">
          <topicref href="39.9001.dita"
                    navtitle="39.9001 Procedures for IT         procurement."
@@ -3494,6 +3880,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_9001"
+                   xtrc="DLAD_39_9001.html"
                    class="- map/topicref "/>
          <topicref href="39.9002.dita"
                    navtitle="39.9002 Documentation requirements for IT procurement."
@@ -3502,24 +3889,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_9002"
+                   xtrc="DLAD_39_9002.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_42.dita"
              navtitle="PART 42 – CONTRACT ADMINISTRATION"
              outputclass="Part"
-             props="PART 42"
+             props="Part 42"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_42"
              class="- map/topicref ">
       <topicref href="SUBPART_42.1.dita"
                 navtitle="SUBPART 42.1 – CONTRACT AUDIT SERVICES"
-                props="PART 42.1"
+                props="Subpart 42.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_42_1"
+                xtrc="DLAD_SUBPART_42_1.html"
                 class="- map/topicref ">
          <topicref href="42.101.dita"
                    navtitle="42.101 Contract audit responsibilities."
@@ -3528,15 +3917,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_101"
+                   xtrc="DLAD_42_101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_42.2.dita"
                 navtitle="SUBPART 42.2 – CONTRACT ADMINISTRATION SERVICES"
-                props="PART 42.2"
+                props="Subpart 42.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_42_2"
+                xtrc="DLAD_SUBPART_42_2.html"
                 class="- map/topicref ">
          <topicref href="42.202.dita"
                    navtitle="42.202 Assignment of contract administration."
@@ -3545,15 +3936,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_202"
+                   xtrc="DLAD_42_202.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_42.3.dita"
                 navtitle="SUBPART 42.3 – CONTRACT ADMINISTRATION OFFICE FUNCTIONS"
-                props="PART 42.3"
+                props="Subpart 42.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_42_3"
+                xtrc="DLAD_SUBPART_42_3.html"
                 class="- map/topicref ">
          <topicref href="42.302.dita"
                    navtitle="42.302 Contract administration functions."
@@ -3562,15 +3955,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_302"
+                   xtrc="DLAD_42_302.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_42.11.dita"
                 navtitle="SUBPART 42.11 – PRODUCTION SURVEILLANCE AND REPORTING"
-                props="PART 42.11"
+                props="Subpart 42.11"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_42_11"
+                xtrc="DLAD_SUBPART_42_11.html"
                 class="- map/topicref ">
          <topicref href="42.1101.dita"
                    navtitle="42.1101 General."
@@ -3579,6 +3974,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1101"
+                   xtrc="DLAD_42_1101.html"
                    class="- map/topicref "/>
          <topicref href="42.1104.dita"
                    navtitle="42.1104 Surveillance requirements."
@@ -3587,15 +3983,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1104"
+                   xtrc="DLAD_42_1104.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_42.15.dita"
                 navtitle="SUBPART 42.15 – CONTRACTOR PERFORMANCE INFORMATION"
-                props="PART 42.15"
+                props="Subpart 42.15"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_42_15"
+                xtrc="DLAD_SUBPART_42_15.html"
                 class="- map/topicref ">
          <topicref href="42.1503.dita"
                    navtitle="42.1503 Procedures."
@@ -3604,24 +4002,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1503"
+                   xtrc="DLAD_42_1503.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_43.dita"
              navtitle="PART 43 – CONTRACT MODIFICATIONS"
              outputclass="Part"
-             props="PART 43"
+             props="Part 43"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_43"
              class="- map/topicref ">
       <topicref href="SUBPART_43.1.dita"
                 navtitle="SUBPART 43.1 – GENERAL"
-                props="PART 43.1"
+                props="Subpart 43.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_43_1"
+                xtrc="DLAD_SUBPART_43_1.html"
                 class="- map/topicref ">
          <topicref href="43.102.dita"
                    navtitle="43.102 Policy."
@@ -3630,6 +4030,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_43_102"
+                   xtrc="DLAD_43_102.html"
                    class="- map/topicref "/>
          <topicref href="43.103.dita"
                    navtitle="43.103 Types of contract modifications."
@@ -3638,24 +4039,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_43_103"
+                   xtrc="DLAD_43_103.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_45.dita"
              navtitle="PART 45 – GOVERNMENT PROPERTY"
              outputclass="Part"
-             props="PART 45"
+             props="Part 45"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_45"
              class="- map/topicref ">
       <topicref href="SUBPART_45.1.dita"
                 navtitle="SUBPART 45.1 – GENERAL"
-                props="PART 45.1"
+                props="Subpart 45.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_45_1"
+                xtrc="DLAD_SUBPART_45_1.html"
                 class="- map/topicref ">
          <topicref href="45.101.dita"
                    navtitle="45.101 Definitions."
@@ -3664,6 +4067,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_101"
+                   xtrc="DLAD_45_101.html"
                    class="- map/topicref "/>
          <topicref href="45.103.dita"
                    navtitle="45.103 General."
@@ -3672,6 +4076,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_103"
+                   xtrc="DLAD_45_103.html"
                    class="- map/topicref ">
             <topicref href="45.103-70.dita"
                       navtitle="45.103-70 Furnishing Government Property to Contractors."
@@ -3680,6 +4085,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_45_103-70"
+                      xtrc="DLAD_45_103-70.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="45.105.dita"
@@ -3689,15 +4095,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_105"
+                   xtrc="DLAD_45_105.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_45.6.dita"
                 navtitle="SUBPART 45.6 – REPORTING, REUTILIZATION, AND DISPOSAL"
-                props="PART 45.6"
+                props="Subpart 45.6"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_45_6"
+                xtrc="DLAD_SUBPART_45_6.html"
                 class="- map/topicref ">
          <topicref href="45.602.dita"
                    navtitle="45.602 Reutilization of Government property."
@@ -3706,6 +4114,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_602"
+                   xtrc="DLAD_45_602.html"
                    class="- map/topicref ">
             <topicref href="45.602-2.dita"
                       navtitle="45.602-2 Reutilization Priorities."
@@ -3714,6 +4123,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_45_602-2"
+                      xtrc="DLAD_45_602-2.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
@@ -3721,7 +4131,7 @@
    <topicref href="PART_46.dita"
              navtitle="PART 46 – QUALITY ASSURANCE"
              outputclass="Part"
-             props="PART 46"
+             props="Part 46"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_46"
@@ -3733,14 +4143,16 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DLAD_46_000"
+                xtrc="DLAD_46_000.html"
                 class="- map/topicref "/>
       <topicref href="SUBPART_46.1.dita"
                 navtitle="SUBPART 46.1 – GENERAL"
-                props="PART 46.1"
+                props="Subpart 46.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_46_1"
+                xtrc="DLAD_SUBPART_46_1.html"
                 class="- map/topicref ">
          <topicref href="46.103.dita"
                    navtitle="46.103 Contracting office responsibilities."
@@ -3749,6 +4161,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_103"
+                   xtrc="DLAD_46_103.html"
                    class="- map/topicref "/>
          <topicref href="46.105.dita"
                    navtitle="46.105 Contractor responsibilities."
@@ -3757,15 +4170,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_105"
+                   xtrc="DLAD_46_105.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_46.2.dita"
                 navtitle="SUBPART 46.2 – CONTRACT QUALITY REQUIREMENTS"
-                props="PART 46.2"
+                props="Subpart 46.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_46_2"
+                xtrc="DLAD_SUBPART_46_2.html"
                 class="- map/topicref ">
          <topicref href="46.202.dita"
                    navtitle="46.202 Types of contract quality requirements."
@@ -3774,6 +4189,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_202"
+                   xtrc="DLAD_46_202.html"
                    class="- map/topicref ">
             <topicref href="46.202-4.dita"
                       navtitle="46.202-4 Higher–level contract quality requirements."
@@ -3782,6 +4198,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_46_202-4"
+                      xtrc="DLAD_46_202-4.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="46.290.dita"
@@ -3791,6 +4208,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_290"
+                   xtrc="DLAD_46_290.html"
                    class="- map/topicref "/>
          <topicref href="46.291.dita"
                    navtitle="46.291 Production lot testing."
@@ -3799,6 +4217,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_291"
+                   xtrc="DLAD_46_291.html"
                    class="- map/topicref "/>
          <topicref href="46.292.dita"
                    navtitle="46.292 Product verification testing."
@@ -3807,15 +4226,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_292"
+                   xtrc="DLAD_46_292.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_46.4.dita"
                 navtitle="SUBPART 46.4 – GOVERNMENT CONTRACT QUALITY ASSURANCE"
-                props="PART 46.4"
+                props="Subpart 46.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_46_4"
+                xtrc="DLAD_SUBPART_46_4.html"
                 class="- map/topicref ">
          <topicref href="46.401.dita"
                    navtitle="46.401 General."
@@ -3824,6 +4245,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_401"
+                   xtrc="DLAD_46_401.html"
                    class="- map/topicref "/>
          <topicref href="46.402.dita"
                    navtitle="46.402 Government contract quality assurance at source."
@@ -3832,6 +4254,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_402"
+                   xtrc="DLAD_46_402.html"
                    class="- map/topicref "/>
          <topicref href="46.407.dita"
                    navtitle="46.407 Nonconforming supplies or services."
@@ -3840,6 +4263,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_407"
+                   xtrc="DLAD_46_407.html"
                    class="- map/topicref "/>
          <topicref href="46.490.dita"
                    navtitle="46.490 Oversight of DoD supply chain integrity."
@@ -3848,15 +4272,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_490"
+                   xtrc="DLAD_46_490.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_46.7.dita"
                 navtitle="SUBPART 46.7 – WARRANTIES"
-                props="PART 46.7"
+                props="Subpart 46.7"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_46_7"
+                xtrc="DLAD_SUBPART_46_7.html"
                 class="- map/topicref ">
          <topicref href="46.703.dita"
                    navtitle="46.703 Criteria for use of warranties."
@@ -3865,6 +4291,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_703"
+                   xtrc="DLAD_46_703.html"
                    class="- map/topicref "/>
          <topicref href="46.704.dita"
                    navtitle="46.704 Authority for use of warranties."
@@ -3873,24 +4300,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_704"
+                   xtrc="DLAD_46_704.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_47.dita"
              navtitle="PART 47 – TRANSPORTATION"
              outputclass="Part"
-             props="PART 47"
+             props="Part 47"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_47"
              class="- map/topicref ">
       <topicref href="SUBPART_47.3.dita"
                 navtitle="SUBPART 47.3 – TRANSPORTATION IN SUPPLY CONTRACTS"
-                props="PART 47.3"
+                props="Subpart 47.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_47_3"
+                xtrc="DLAD_SUBPART_47_3.html"
                 class="- map/topicref ">
          <topicref href="47.303-90.dita"
                    navtitle="47.303-90 Export shipment of wood products."
@@ -3899,6 +4328,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_303-90"
+                   xtrc="DLAD_47_303-90.html"
                    class="- map/topicref "/>
          <topicref href="47.303-91.dita"
                    navtitle="47.303-91 DLR item compliance."
@@ -3907,6 +4337,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_303-91"
+                   xtrc="DLAD_47_303-91.html"
                    class="- map/topicref "/>
          <topicref href="47.305-3-90.dita"
                    navtitle="47.305-3-90 First Destination         Transportation (FDT), Government–arranged transportation."
@@ -3915,6 +4346,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-3-90"
+                   xtrc="DLAD_47_305-3-90.html"
                    class="- map/topicref "/>
          <topicref href="47.305-3-91.dita"
                    navtitle="47.305-3-91 First Destination Transportation (FDT) program – shipments originating from outside the contiguous United States."
@@ -3923,6 +4355,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-3-91"
+                   xtrc="DLAD_47_305-3-91.html"
                    class="- map/topicref "/>
          <topicref href="47.305-4-90.dita"
                    navtitle="47.305-4-90 Additional Wide Area Workflow (WAWF) information."
@@ -3931,6 +4364,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-4-90"
+                   xtrc="DLAD_47_305-4-90.html"
                    class="- map/topicref "/>
          <topicref href="47.305-10-90.dita"
                    navtitle="47.305-10-90 Procurement notes for         export shipping and U.S. Territories."
@@ -3939,6 +4373,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-10-90"
+                   xtrc="DLAD_47_305-10-90.html"
                    class="- map/topicref "/>
          <topicref href="47.305-90.dita"
                    navtitle="47.305-90 Procurement notes."
@@ -3947,24 +4382,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-90"
+                   xtrc="DLAD_47_305-90.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_50.dita"
              navtitle="PART 50 – EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT"
              outputclass="Part"
-             props="PART 50"
+             props="Part 50"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_50"
              class="- map/topicref ">
       <topicref href="SUBPART_50.1.dita"
                 navtitle="SUBPART 50.1 – EXTRAORDINARY CONTRACTUAL ACTIONS"
-                props="PART 50.1"
+                props="Subpart 50.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_50_1"
+                xtrc="DLAD_SUBPART_50_1.html"
                 class="- map/topicref ">
          <topicref href="50.101.dita"
                    navtitle="50.101 General."
@@ -3973,6 +4410,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_50_101"
+                   xtrc="DLAD_50_101.html"
                    class="- map/topicref ">
             <topicref href="50.101-3.dita"
                       navtitle="50.101-3 Records."
@@ -3981,6 +4419,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_50_101-3"
+                      xtrc="DLAD_50_101-3.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="50.103.dita"
@@ -3990,6 +4429,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_50_103"
+                   xtrc="DLAD_50_103.html"
                    class="- map/topicref ">
             <topicref href="50.103-5.dita"
                       navtitle="50.103-5 Processing cases."
@@ -3998,6 +4438,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_50_103-5"
+                      xtrc="DLAD_50_103-5.html"
                       class="- map/topicref "/>
             <topicref href="50.103-6.dita"
                       navtitle="50.103-6 Disposition."
@@ -4006,6 +4447,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_50_103-6"
+                      xtrc="DLAD_50_103-6.html"
                       class="- map/topicref "/>
          </topicref>
       </topicref>
@@ -4013,18 +4455,19 @@
    <topicref href="PART_51.dita"
              navtitle="PART 51 – USE OF GOVERNMENT SOURCES BY CONTRACTORS"
              outputclass="Part"
-             props="PART 51"
+             props="Part 51"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_51"
              class="- map/topicref ">
       <topicref href="SUBPART_51.1.dita"
                 navtitle="SUBPART 51.1 – CONTRACTOR USE OF GOVERNMENT SUPPLY SOURCES"
-                props="PART 51.1"
+                props="Subpart 51.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_51_1"
+                xtrc="DLAD_SUBPART_51_1.html"
                 class="- map/topicref ">
          <topicref href="51.100.dita"
                    navtitle="51.100 Scope of subpart."
@@ -4033,6 +4476,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_100"
+                   xtrc="DLAD_51_100.html"
                    class="- map/topicref "/>
          <topicref href="51.101.dita"
                    navtitle="51.101 Policy."
@@ -4041,6 +4485,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_101"
+                   xtrc="DLAD_51_101.html"
                    class="- map/topicref "/>
          <topicref href="51.102.dita"
                    navtitle="51.102 Authorization to use Government supply sources."
@@ -4049,6 +4494,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_102"
+                   xtrc="DLAD_51_102.html"
                    class="- map/topicref "/>
          <topicref href="51.102-90.dita"
                    navtitle="51.102-90 Special requirements."
@@ -4057,6 +4503,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_102-90"
+                   xtrc="DLAD_51_102-90.html"
                    class="- map/topicref "/>
          <topicref href="51.103-90.dita"
                    navtitle="51.103-90 Ordering from Government supply sources."
@@ -4065,24 +4512,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_103-90"
+                   xtrc="DLAD_51_103-90.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_52.dita"
              navtitle="PART 52 – SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
              outputclass="Part"
-             props="PART 52"
+             props="Part 52"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_52"
              class="- map/topicref ">
       <topicref href="SUBPART_52.1.dita"
                 navtitle="SUBPART 52.1 – INSTRUCTIONS FOR USING PROVISIONS AND CLAUSES"
-                props="PART 52.1"
+                props="Subpart 52.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_52_1"
+                xtrc="DLAD_SUBPART_52_1.html"
                 class="- map/topicref ">
          <topicref href="52.101.dita"
                    navtitle="52.101 Using Part 52."
@@ -4091,15 +4540,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_52_101"
+                   xtrc="DLAD_52_101.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_52.2.dita"
                 navtitle="SUBPART 52.2 – TEXTS OF PROVISIONS AND CLAUSES"
-                props="PART 52.2"
+                props="Subpart 52.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_52_2"
+                xtrc="DLAD_SUBPART_52_2.html"
                 class="- map/topicref ">
          <topicref href="52.200.dita"
                    navtitle="52.200 Scope of subpart."
@@ -4108,6 +4559,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_52_200"
+                   xtrc="DLAD_52_200.html"
                    class="- map/topicref "/>
          <topicref href="5452.233-9001.dita"
                    navtitle="5452.233-9001 Disputes – Agreement to         Use Alternative Dispute Resolution (ADR) ."
@@ -4116,24 +4568,26 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5452_233-9001"
+                   xtrc="DLAD_5452_233-9001.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_53.dita"
              navtitle="PART 53 – FORMS"
              outputclass="Part"
-             props="PART 53"
+             props="Part 53"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_53"
              class="- map/topicref ">
       <topicref href="SUBPART_53.2.dita"
                 navtitle="SUBPART 53.2 – PRESCRIPTION OF FORMS"
-                props="PART 53.2"
+                props="Subpart 53.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_53_2"
+                xtrc="DLAD_SUBPART_53_2.html"
                 class="- map/topicref ">
          <topicref href="53.213.dita"
                    navtitle="53.213 Small purchase and other simplified purchase procedures."
@@ -4142,6 +4596,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_213"
+                   xtrc="DLAD_53_213.html"
                    class="- map/topicref ">
             <topicref href="53.213-90.dita"
                       navtitle="53.213-90 Blanket purchase agreement delivery ticket (DLA Form 470)."
@@ -4150,6 +4605,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_53_213-90"
+                      xtrc="DLAD_53_213-90.html"
                       class="- map/topicref "/>
             <topicref href="53.213-91.dita"
                       navtitle="53.213-91 Shipping Instruction (DLA Form 1224)."
@@ -4158,6 +4614,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_53_213-91"
+                      xtrc="DLAD_53_213-91.html"
                       class="- map/topicref "/>
             <topicref href="53.213-92.dita"
                       navtitle="53.213-92 Request for Quotation (DLA Form 1231)."
@@ -4166,6 +4623,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       audience="DLAD_53_213-92"
+                      xtrc="DLAD_53_213-92.html"
                       class="- map/topicref "/>
          </topicref>
          <topicref href="53.219.dita"
@@ -4175,6 +4633,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_219"
+                   xtrc="DLAD_53_219.html"
                    class="- map/topicref "/>
          <topicref href="53.219-90.dita"
                    navtitle="53.219-90 Referral of Small Business for Certificate of Competency (CoC) Consideration (DLA Form 1756)."
@@ -4183,15 +4642,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_219-90"
+                   xtrc="DLAD_53_219-90.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_53.3.dita"
                 navtitle="SUBPART 53.3 – ILLUSTRATION OF FORMS"
-                props="PART 53.3"
+                props="Subpart 53.3"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_53_3"
+                xtrc="DLAD_SUBPART_53_3.html"
                 class="- map/topicref ">
          <topicref href="53.300.dita"
                    navtitle="53.300 General."
@@ -4201,15 +4662,17 @@
                    otherprops=""
                    props="53.300"
                    xtrf="subtopic"
+                   xtrc="DLAD_53_300.html"
                    class="- map/topicref "/>
       </topicref>
       <topicref href="SUBPART_53.90.dita"
                 navtitle="SUBPART 53.90 – FORMATS AND TEMPLATES"
-                props="PART 53.90"
+                props="Subpart 53.90"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_53_90"
+                xtrc="DLAD_SUBPART_53_90.html"
                 class="- map/topicref ">
          <topicref href="53.9001.dita"
                    navtitle="53.9001 Appointment of ordering officer."
@@ -4218,6 +4681,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9001"
+                   xtrc="DLAD_53_9001.html"
                    class="- map/topicref "/>
          <topicref href="53.9007.dita"
                    navtitle="53.9007 Acquisition planning."
@@ -4226,6 +4690,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9007"
+                   xtrc="DLAD_53_9007.html"
                    class="- map/topicref "/>
          <topicref href="53.9013.dita"
                    navtitle="53.9013 Simplified acquisition procedures."
@@ -4234,21 +4699,23 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9013"
+                   xtrc="DLAD_53_9013.html"
                    class="- map/topicref "/>
          <topicref href="53.9015.dita"
                    navtitle="53.9015              Contracting by negotiation."
-                   props=""
+                   props="53.9015"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9015"
+                   xtrc="DLAD_53_9015.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PGI_PART_1.dita"
              navtitle="PGI PART 1 – FEDERAL ACQUISITION REGULATIONS SYSTEM"
              outputclass="Part"
-             props="PGI PART 1"
+             props="PGI Part 1"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PGI_PART_1"
@@ -4260,6 +4727,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_PGI_SUBPART_1_6"
+                xtrc="DLAD_PGI_SUBPART_1_6.html"
                 class="- map/topicref ">
          <topicref href="PGI_1.601.dita"
                    navtitle="PGI 1.601 General."
@@ -4268,6 +4736,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_1_601"
+                   xtrc="DLAD_PGI_1_601.html"
                    class="- map/topicref "/>
          <topicref href="PGI_1.602-3.dita"
                    navtitle="PGI 1.602-3 Ratification of unauthorized commitments."
@@ -4276,13 +4745,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_1_602-3"
+                   xtrc="DLAD_PGI_1_602-3.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PGI_PART_3.dita"
              navtitle="PGI PART 3 IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
              outputclass="Part"
-             props="PGI PART 3"
+             props="PGI Part 3"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PGI_PART_3"
@@ -4294,6 +4764,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_PGI_SUBPART_3_1"
+                xtrc="DLAD_PGI_SUBPART_3_1.html"
                 class="- map/topicref ">
          <topicref href="PGI_3.104-4.dita"
                    navtitle="PGI 3.104-4 Statutory and related prohibitions, restrictions, and         requirements."
@@ -4302,13 +4773,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_3_104-4"
+                   xtrc="DLAD_PGI_3_104-4.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PGI_PART_13.dita"
              navtitle="PGI PART 13 – SIMPLIFIED ACQUISITION PROCEDURES"
              outputclass="Part"
-             props="PGI PART 13"
+             props="PGI Part 13"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PGI_PART_13"
@@ -4320,12 +4792,13 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="DLAD_PGI_13_402"
+                xtrc="DLAD_PGI_13_402.html"
                 class="- map/topicref "/>
    </topicref>
    <topicref href="PGI_PART_15.dita"
              navtitle="PGI PART 15 – CONTRACTING BY NEGOTIATION"
              outputclass="Part"
-             props="PGI PART 15"
+             props="PGI Part 15"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PGI_PART_15"
@@ -4337,6 +4810,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_PGI_SUBPART_15_4"
+                xtrc="DLAD_PGI_SUBPART_15_4.html"
                 class="- map/topicref ">
          <topicref href="PGI_15.403-3.dita"
                    navtitle="PGI 15.403-3 Requiring data other than certified cost or pricing         data."
@@ -4345,13 +4819,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_15_403_3"
+                   xtrc="DLAD_PGI_15_403_3.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PGI_PART_25.dita"
              navtitle="PGI PART 25 – FOREIGN ACQUISITION"
              outputclass="Part"
-             props="PGI PART 25"
+             props="PGI Part 25"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PGI_PART_25"
@@ -4363,6 +4838,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_PGI_SUBPART_25_79"
+                xtrc="DLAD_PGI_SUBPART_25_79.html"
                 class="- map/topicref ">
          <topicref href="PGI_25.7902-4.dita"
                    navtitle="PGI 25.7902-4 Procedures."
@@ -4371,6 +4847,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_25_7902_4"
+                   xtrc="DLAD_PGI_25_7902_4.html"
                    class="- map/topicref "/>
       </topicref>
    </topicref>

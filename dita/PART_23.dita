@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_23">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 23</ph> – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG–FREE WORKPLACE</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_23" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 23</ph> - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_23.3.dita#DLAD_SUBPART_23_3">SUBPART 23.3 – HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA SHEETS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_23.3.dita#DLAD_SUBPART_23_3">Subpart 23.3 - HAZARDOUS MATERIAL IDENTIFICATION AND MATERIAL SAFETY DATA SHEETS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_46_290" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">46.290</ph> Certificate of quality compliance (COQC).</title><conbody><p outputclass="Normal">A COQC is a quality assurance requirement in the form of a Contract Data Requirements List (CDRL) (DD Form 1423-1) deliverable to provide objective quality evidence for materials submitted by the supplier. The DLA Logistics Operations Technical Programs and Quality Assurance Division maintains the CDRL in the Document Management System, and it is referenced in the Material Master. The CDRL is incorporated into the PID in solicitations and contract awards from the Material Master.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_46_290" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">46.290</ph> Certificate of quality compliance (COQC).</title>
+   <conbody>
+      <p outputclass="Normal">A COQC is a quality assurance requirement in the form of a Contract Data Requirements List (CDRL) (DD Form 1423-1) deliverable to provide objective quality evidence for materials submitted by the supplier. The DLA Logistics Operations Technical Programs and Quality Assurance Division maintains the CDRL in the Document Management System, and it is referenced in the Material Master. The CDRL is incorporated into the PID in solicitations and contract awards from the Material Master.</p>
+   </conbody>
+</concept>

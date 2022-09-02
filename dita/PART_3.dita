@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_3">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 3</ph> – IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_3" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 3</ph> - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.1.dita#DLAD_SUBPART_3_1">SUBPART 3.1 – SAFEGUARDS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.1.dita#DLAD_SUBPART_3_1">Subpart 3.1 - SAFEGUARDS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -46,7 +45,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.2.dita#DLAD_SUBPART_3_2">SUBPART 3.2 – CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.2.dita#DLAD_SUBPART_3_2">Subpart 3.2 - CONTRACTOR GRATUITIES TO GOVERNMENT PERSONNEL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -63,7 +62,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.3.dita#DLAD_SUBPART_3_3">SUBPART 3.3 – REPORTS OF SUSPECTED ANTITRUST VIOLATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.3.dita#DLAD_SUBPART_3_3">Subpart 3.3 - REPORTS OF SUSPECTED ANTITRUST VIOLATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -75,7 +74,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.7.dita#DLAD_SUBPART_3_7">SUBPART 3.7 – VOIDING AND RESCINDING CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.7.dita#DLAD_SUBPART_3_7">Subpart 3.7 - VOIDING AND RESCINDING CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -87,7 +86,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.8.dita#DLAD_SUBPART_3_8">SUBPART 3.8 – LIMITATION ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.8.dita#DLAD_SUBPART_3_8">Subpart 3.8 - LIMITATION ON THE PAYMENT OF FUNDS TO INFLUENCE FEDERAL TRANSACTIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -99,7 +98,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_3.9.dita#DLAD_SUBPART_3_9">SUBPART 3.9 – WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_3.9.dita#DLAD_SUBPART_3_9">Subpart 3.9 - WHISTLEBLOWER PROTECTIONS FOR CONTRACTOR EMPLOYEES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

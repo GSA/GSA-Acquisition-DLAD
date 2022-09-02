@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_18_270" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">18.270</ph> Head of contracting activity determinations.</title><conbody><p outputclass="Normal">The DLA Acquisition Director has delegated authority to the contracting officer to make the determinations at—</p><p id="p_BM219_4">(a) 18.201(b) and (c);</p><p>(b) 18.202(a)-(d); and</p><p>(c) 18.204(b).</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_18_270" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">18.270</ph> Head of contracting activity determinations.</title>
+   <conbody>
+      <p outputclass="Normal">The DLA Acquisition Director has delegated authority to the contracting officer to make the determinations at—</p>
+      <p id="p_BM219_4">(a) 18.201(b) and (c);</p>
+      <p>(b) 18.202(a)-(d); and</p>
+      <p>(c) 18.204(b).</p>
+   </conbody>
+</concept>

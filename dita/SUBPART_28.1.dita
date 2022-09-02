@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DLAD_SUBPART_28_1">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_28_1" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
-      <ph props="autonumber">SUBPART 28.1</ph> – BONDS AND OTHER FINANCIAL PROTECTIONS</title>
+      <ph props="autonumber">Subpart 28.1</ph> - BONDS AND OTHER FINANCIAL PROTECTIONS</title>
    <conbody>
       <p id="LphCEA" outputclass="normal Ctr">
          <i>(Revised March 29, 2016 through PROCLTR 2016-06)</i>

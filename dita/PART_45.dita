@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="DLAD_PART_45">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 45</ph> – GOVERNMENT PROPERTY</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_45" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">Part 45</ph> - GOVERNMENT PROPERTY</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_45.1.dita#DLAD_SUBPART_45_1">SUBPART 45.1 – GENERAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_45.1.dita#DLAD_SUBPART_45_1">Subpart 45.1 - GENERAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -31,14 +30,14 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="45.105.dita#DLAD_45_105">45.105 Contractors’ Property Management System Compliance.</xref>
+                        <xref outputclass="fm:TOC" href="45.105.dita#DLAD_45_105">45.105 Contractors Property Management System Compliance.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_45.6.dita#DLAD_SUBPART_45_6">SUBPART 45.6 – REPORTING, REUTILIZATION, AND DISPOSAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_45.6.dita#DLAD_SUBPART_45_6">Subpart 45.6 - REPORTING, REUTILIZATION, AND DISPOSAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

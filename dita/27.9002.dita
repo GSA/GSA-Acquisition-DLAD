@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_27_9002" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">27.9002</ph> Data subject to export control.</title><conbody><p outputclass="Normal">When export control applies, STO CS003, Identifying Export Control Technical Data, appears on the purchase request (PR) trailer, and STO RQ032 appears in the POT.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_27_9002" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">27.9002</ph> Data subject to export control.</title>
+   <conbody>
+      <p outputclass="Normal">When export control applies, STO CS003, Identifying Export Control Technical Data, appears on the purchase request (PR) trailer, and STO RQ032 appears in the POT.</p>
+   </conbody>
+</concept>

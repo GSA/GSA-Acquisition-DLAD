@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_7_107-4" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">7.107-4</ph> Substantial bundling.</title><conbody><p>(b)(S-90) In addition to addressing the requirements at FAR 7.107-4(b)(1)-(6), the acquisition strategy shall also include documentation that each member of the acquisition team has, within the previous three-year period, completed the Contract Consolidation and Bundling course (ACQ-CCB), which is available in the DLA Learning Management System.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_7_107-4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">7.107-4</ph> Substantial bundling.</title>
+   <conbody>
+      <p>(b)(S-90) In addition to addressing the requirements at FAR 7.107-4(b)(1)-(6), the acquisition strategy shall also include documentation that each member of the acquisition team has, within the previous three-year period, completed the Contract Consolidation and Bundling course (ACQ-CCB), which is available in the DLA Learning Management System.</p>
+   </conbody>
+</concept>

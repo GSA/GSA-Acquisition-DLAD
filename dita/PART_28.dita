@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DLAD_PART_28">
-   <title outputclass="1 heading Ctr">
-      <ph props="autonumber">PART 28</ph> – BONDS AND INSURANCE</title>
-   <conbody>
-      <p id="SCaUja" outputclass="normal Ctr">
-         <i>(Revised March 29, 2016 through PROCLTR 2016-06)</i>
-      </p>
-   </conbody>
-</concept>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="DLAD_PART_28" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">Part 28</ph> - BONDS AND INSURANCE</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_28.1.dita#DLAD_SUBPART_28_1">Subpart 28.1 - BONDS AND OTHER FINANCIAL PROTECTIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="28.106.dita#DLAD_28_106">28.106 Administration.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="28.106-90.dita#DLAD_28_106-90">28.106-90 Review of bonds and consent of surety.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_28.3.dita#DLAD_SUBPART_28_3">Subpart 28.3 - INSURANCE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="28.305.dita#DLAD_28_305">28.305 Overseas workers compensation and war-hazard insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="28.307.dita#DLAD_28_307">28.307 Insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="28.307-1.dita#DLAD_28_307-1">28.307-1 Group insurance plans.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

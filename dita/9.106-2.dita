@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_9_106-2" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">9.106-2</ph> Requests for preaward surveys
-        (PAS).</title>
-    <conbody>
-        <p>(a) Requests for a formal PAS shall be forwarded to the PAS monitor. Informal PAS may be
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_9_106-2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.106-2</ph> Requests for preaward surveys        (PAS).</title>
+   <conbody>
+      <p>(a) Requests for a formal PAS shall be forwarded to the PAS monitor. Informal PAS may be
             requested by telephone or email to the DCMA PAS Manager/Quality Assurance Representative
             (QAR). Procuring organizations that use PAS<b> </b>will designate an organizational
             element to serve as the focal point for PAS and to be the principal point of contact
             with PAS monitors at surveying activities. The focal point will review formal PAS
             requests for completeness and accuracy before forwarding these requests to surveying
             activities. The PAS Monitor shall:</p>
-        <p outputclass="List2">(1) Send the completed report to the contracting officer for
+      <p outputclass="List2">(1) Send the completed report to the contracting officer for
             placement in Records Management.</p>
-        <p outputclass="List2">(2) Send all formal PAS documentation regarding a company's quality
+      <p outputclass="List2">(2) Send all formal PAS documentation regarding a company's quality
             control (if information is included in the survey results) to the product
             specialist.</p>
-    </conbody>
+   </conbody>
 </concept>

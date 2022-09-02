@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_27_9001" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">27.9001</ph> Policy.</title><conbody><p outputclass="Normal">Distribution, transfer, or disclosure of export-controlled technology, technical information, or data to foreign persons or companies may constitute an export under applicable export control regulations, requiring either an export license or an authorization for such distribution, transfer, or disclosure. The contracting officer shall comply with 4.7303-1, General; 25.7902-4, Procedures; DFARS 227.71, Rights in Technical Data; and DFARS PGI 225.7901-2, Export Control, General, to ensure that only contractors that meet the qualifications in STO RQ032, Export Control of Technical Data, have access to controlled technical data.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_27_9001" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">27.9001</ph> Policy.</title>
+   <conbody>
+      <p outputclass="Normal">Distribution, transfer, or disclosure of export-controlled technology, technical information, or data to foreign persons or companies may constitute an export under applicable export control regulations, requiring either an export license or an authorization for such distribution, transfer, or disclosure. The contracting officer shall comply with 4.7303-1, General; 25.7902-4, Procedures; DFARS 227.71, Rights in Technical Data; and DFARS PGI 225.7901-2, Export Control, General, to ensure that only contractors that meet the qualifications in STO RQ032, Export Control of Technical Data, have access to controlled technical data.</p>
+   </conbody>
+</concept>

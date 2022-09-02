@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="DLAD_SUBPART_4_7">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_4_7" ditaarch:DITAArchVersion="1.3">
    <title outputclass="heading 2 Subpart Ctr">
-      <ph props="autonumber">SUBPART 4.7</ph> – CONTRACTOR RECORDS RETENTION</title>
+      <ph props="autonumber">Subpart 4.7</ph> - CONTRACTOR RECORDS RETENTION</title>
    <conbody>
       <p id="p_P4_703" outputclass="normal Ctr">
          <i>(Revised June 11, 2020 through PROCLTR 2020-12)</i>
