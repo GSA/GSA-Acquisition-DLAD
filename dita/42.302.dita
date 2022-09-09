@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_42_302">
    <title outputclass="Heading 3">
       <ph props="autonumber">42.302</ph> Contract administration functions.</title>
    <conbody>
       <p id="xgyWyg">(a) The contracting officer shall follow the approved contract management plan
          (CMP) (reference <xref href="7.105.dita#DLAD_7_105">
-            <u>7.105</u>
-         </xref>(b)(19)).</p>
+            <u>7.105</u>7.105 Contents of written acquisition plans.</xref>(b)(19)).</p>
       <p id="RCaeMM" outputclass="List2">(13)(B)(1) Contracting officers shall designate the payment
          office as DoD Activity Address Code (DoDAAC) SL4701 for Enterprise Business System (EBS)
          contracts, except for contracts with progress or performance based payments and cost type
-         contracts, which shall be paid by MOCAS payment offices (<xref format="cfm" href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm" scope="external">
+         contracts, which shall be paid by MOCAS payment offices (<xref format="cfm"
+               href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm"
+               scope="external">
             <u>Contract Management Team Search</u>
-         </xref> (<xref format="cfm" href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm" scope="external">
+         </xref> (<xref format="cfm"
+               href="https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm"
+               scope="external">
             <u>https://pubmini.dcma.mil/CMT_View/CMT_View_Search.cfm</u>
          </xref>)), or for contracts with the Canadian Commercial Corporation when DCMA will perform
          contract administration: use payment office HQ0337. DLR contracting officers shall use the
@@ -21,16 +25,20 @@
          Contract Administration Services Components.</p>
       <p id="WCzbak" outputclass="Normal">(S-90) Post award administrators shall complete all PARs
          within an average of 30 days from the date of submission. This policy applies only to MSC
-         hardware items and the PAR reason codes listed below and in <xref format="pdf" href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf" scope="external">
+         hardware items and the PAR reason codes listed below and in <xref format="pdf"
+               href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf"
+               scope="external">
             <u>DLAI 5025.18, Enterprise Status Post-Award Request (PAR) Instruction</u>
-         </xref> (<xref format="pdf" href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf" scope="external">
+         </xref> (<xref format="pdf"
+               href="https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf"
+               scope="external">
             <u>https://issuances.dla.mil/Published_Issuances/Enterprise%20Status%20Post%20Award%20Request%20(PAR).pdf</u>
          </xref>) for both internal requests and requests from suppliers. This policy supersedes the
          PAR processing times in Enclosure 2, paragraph 5.(a)(1) of DLAI 5025.18.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <tbody>
                <row rowsep="1">
                   <entry>

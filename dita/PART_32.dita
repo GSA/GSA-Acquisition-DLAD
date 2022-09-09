@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_32">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 32</ph> – CONTRACT FINANCING</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 32</ph> – CONTRACT FINANCING</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -89,8 +89,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="32.905.dita#DLAD_32_905">32.905 Payment documentation and
-        process.</xref>
+                        <xref outputclass="fm:TOC" href="32.905.dita#DLAD_32_905">32.905 Payment documentation and process.</xref>
                      </p>
                   </li>
                   <li>
@@ -100,8 +99,7 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="32.908-94.dita#DLAD_32_908-94">32.908-94 Transporter proof of
-        delivery (TPD).</xref>
+                              <xref outputclass="fm:TOC" href="32.908-94.dita#DLAD_32_908-94">32.908-94 Transporter proof of delivery (TPD).</xref>
                            </p>
                         </li>
                      </ul>

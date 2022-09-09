@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_51_100" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">51.100</ph> Scope of subpart.</title><conbody><p>Government sources of supply include items in DLA inventories and on existing DLA contracts. For DLA-managed items, this includes items coded AAC D (centrally-managed, stocked, and issued); H (customer direct delivery, non-stocked items); and Z (numeric stockage objective (NSO) items).</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_51_100" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">51.100</ph> Scope of subpart.</title>
+   <conbody>
+      <p>Government sources of supply include items in DLA inventories and on existing DLA contracts. For DLA-managed items, this includes items coded AAC D (centrally-managed, stocked, and issued); H (customer direct delivery, non-stocked items); and Z (numeric stockage objective (NSO) items).</p>
+   </conbody>
+</concept>

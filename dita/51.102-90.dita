@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_51_102-90" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">51.102-90</ph> Special requirements.</title><conbody><p>(a) To demonstrate the benefits of permitting contractor access to Government sources of supply, the price of each item obtained from a Government source of supply should be the Government price charged to the contractor plus a handling fee determined fair and reasonable by the contracting officer.</p><p>(b) The items the contractor orders must be reconciled against the items authorized in the contract. Periodic reconciliation of the quantities that DLA sold to the contractor with the quantities of the same items that the contractor supplied to DoD customers, or holds under surge responsibilities, under the authorizing contract will provide the visibility needed to monitor contractor’s usage and trigger appropriate action for improper use.</p><p>(c) The contract shall include language requiring the contractor to verify that, as the contract nears completion, no purchases are made that would result in Government supply source items remaining with the contractor after contract completion. Special provisions must be made for surge items.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_51_102-90" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">51.102-90</ph> Special requirements.</title>
+   <conbody>
+      <p>(a) To demonstrate the benefits of permitting contractor access to Government sources of supply, the price of each item obtained from a Government source of supply should be the Government price charged to the contractor plus a handling fee determined fair and reasonable by the contracting officer.</p>
+      <p>(b) The items the contractor orders must be reconciled against the items authorized in the contract. Periodic reconciliation of the quantities that DLA sold to the contractor with the quantities of the same items that the contractor supplied to DoD customers, or holds under surge responsibilities, under the authorizing contract will provide the visibility needed to monitor contractor’s usage and trigger appropriate action for improper use.</p>
+      <p>(c) The contract shall include language requiring the contractor to verify that, as the contract nears completion, no purchases are made that would result in Government supply source items remaining with the contractor after contract completion. Special provisions must be made for surge items.</p>
+   </conbody>
+</concept>

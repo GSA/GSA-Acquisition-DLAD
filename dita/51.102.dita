@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_51_102" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">51.102</ph> Authorization to use Government supply sources.</title><conbody><p>(e)(4) Contractor access to DLA sources of supply is limited to DLA-managed national stock numbered (NSN) or part numbered (P/N) items provided to DoD customers specifically authorized under a DLA contract that will use a DLA supply source. The contract should specify any ceiling quantities that may apply to an item. The rationale supporting the decision to authorize use of a DLA source of supply will be coordinated with the managing contracting activity, documented in writing for each NSN or P/N, signed by the contracting officer authorizing use of the DLA supply source, approved by the CCO, and included in the contract file.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_51_102" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">51.102</ph> Authorization to use Government supply sources.</title>
+   <conbody>
+      <p>(e)(4) Contractor access to DLA sources of supply is limited to DLA-managed national stock numbered (NSN) or part numbered (P/N) items provided to DoD customers specifically authorized under a DLA contract that will use a DLA supply source. The contract should specify any ceiling quantities that may apply to an item. The rationale supporting the decision to authorize use of a DLA source of supply will be coordinated with the managing contracting activity, documented in writing for each NSN or P/N, signed by the contracting officer authorizing use of the DLA supply source, approved by the CCO, and included in the contract file.</p>
+   </conbody>
+</concept>

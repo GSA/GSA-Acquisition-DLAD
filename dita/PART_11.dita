@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_11">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 11</ph> – DESCRIBING AGENCY NEEDS</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 11</ph> – DESCRIBING AGENCY NEEDS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -53,8 +53,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="11.390.dita#DLAD_11_390">11.390 Unused former Government
-        surplus property.</xref>
+                        <xref outputclass="fm:TOC" href="11.390.dita#DLAD_11_390">11.390 Unused former Government surplus property.</xref>
                      </p>
                   </li>
                   <li>
@@ -62,9 +61,9 @@
                         <xref outputclass="fm:TOC" href="11.391.dita#DLAD_11_391">11.391 Part numbered items.</xref>
                      </p>
                   </li>
-                  <li rev="change Please change Please">
+                  <li rev="change Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="11.392.dita#DLAD_11_392">11.392Traceability documentation.</xref>
+                        <xref outputclass="fm:TOC" href="11.392.dita#DLAD_11_392">11.392 Traceability documentation.</xref>
                      </p>
                   </li>
                </ul>
@@ -134,8 +133,7 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="11.9001.dita#DLAD_11_9001">11.9001 Notification of product
-        phase–out.</xref>
+                        <xref outputclass="fm:TOC" href="11.9001.dita#DLAD_11_9001">11.9001 Notification of product phase–out.</xref>
                      </p>
                   </li>
                </ul>

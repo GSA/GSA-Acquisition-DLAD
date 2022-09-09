@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_8_9000" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">8.9000</ph> FedMall.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">8.9000</ph> FedMall.</title>
     <conbody>
         <p>(a) This subpart implements section 332 of the National Defense Authorization Act for
             Fiscal Year 1999 (Pub. L. 105-261), which requires a single, Defense-wide electronic
@@ -12,8 +14,12 @@
             and authorized local Agencies to search for and acquire products from government
             reserves and commercial sources. FedMall provides access to tens of millions of
             individual items of supply from centrally managed DoD and General Service Administration
-            (GSA) assets to commercial off-the-shelf products. Access the <xref href="https://www.fedmall.mil/" scope="external" format="html"><u>FedMall
-                    Website</u></xref> (<xref href="https://www.fedmall.mil/" scope="external" format="html"><u>https://www.fedmall.mil/</u></xref>).</p>
+            (GSA) assets to commercial off-the-shelf products. Access the <xref href="https://www.fedmall.mil/" scope="external" format="html">
+            <u>FedMall
+                    Website</u>
+         </xref> (<xref href="https://www.fedmall.mil/" scope="external" format="html">
+            <u>https://www.fedmall.mil/</u>
+         </xref>).</p>
         <p outputclass="Normal">(2) Contracting eBusiness, Defense Pricing and Contracting (DPC) in
             the Office of the Under Secretary of Defense (Acquisition and Sustainment), is the DoD
             Executive Agent for FedMall.</p>
@@ -24,14 +30,15 @@
             program.</p>
         <p outputclass="List2">(5) The DLA Contracting Services Office (DCSO) is responsible for
             awarding and administering the DLA-managed Federal Supply Schedules for FedMall (see
-                <xref href="38.9002.dita" xtrc="38.9002">38.9002</xref>).</p>
+                <xref href="38.9002.dita" xtrc="38.9002"/>).</p>
         <p outputclass="List2">(6) DLA may restrict items or types of items from placement on
             FedMall.</p>
         <p outputclass="List3">(i) FedMall catalogs will not include Qualified Product List (QPL)
             and critical safety items.</p>
         <p outputclass="List3">(ii) DLA-stocked NSNs will not be placed on FedMall unless the
             contract contains a unique ordering corridor available only to DLA personnel.</p>
-        <p>(c) <i>FedMall</i><i> catalog and item management reviews</i>.</p>
+        <p>(c) <i>FedMall</i>
+         <i> catalog and item management reviews</i>.</p>
         <p outputclass="List2">(1) Each procuring organization will appoint a FedMall point of
             contact—</p>
         <p outputclass="List3">(i) To review and approve FedMall items;</p>
@@ -44,15 +51,15 @@
             will periodically conduct reviews of FedMall catalog items for information assurance
             after contract award and throughout the life of the contract.</p>
         <p outputclass="List2">(4) Prior to adding items to a DLA-Managed Federal Supply Schedule
-            for FedMall (see <xref href="38.9002.dita" xtrc="38.9002">38.9002</xref>), DCSO will
+            for FedMall (see <xref href="38.9002.dita" xtrc="38.9002"/>), DCSO will
             perform a review of the catalog to cross-reference part numbered items to NSNs.</p>
         <p>(d) Ordering.</p>
         <p outputclass="Normal">(1) Ordering against contracts on FedMall is subject to the ordering
             requirements applicable to the particular contract. Ordering activities are responsible
             for complying with ordering requirements, including competition requirements.</p>
         <p outputclass="List2">(2) Ordering from FedMall may be—</p>
-        <p outputclass="List3">(i) Authorized for DoD contractors in accordance with Subpart <xref href="SUBPART_51.1.dita" xtrc="51.1">SUBPART 51.1</xref>; and</p>
+        <p outputclass="List3">(i) Authorized for DoD contractors in accordance with Subpart <xref href="SUBPART_51.1.dita" xtrc="51.1"/>; and</p>
         <p outputclass="List3">(ii) Conducted using the Government-wide commercial purchase card
-            (see <xref href="13.301.dita" xtrc="13.301">13.301</xref>).</p>
+            (see <xref href="13.301.dita" xtrc="13.301"/>).</p>
     </conbody>
 </concept>

@@ -1,32 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_1_602-2" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">1.602-2</ph> Responsibilities.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">1.602-2</ph> Responsibilities.</title>
     <conbody>
         <p id="p_P1_602_2_90">(d)(S-90) <i>Contracting Officer’s Representative (COR)</i>. For
             information on COR function and requirements, see DoDI 5000.72, Change 2, DoD Standard
-            for Contracting Officer’s Representative (COR) Certification <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d" scope="external" format="PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d"><u>DoDI 5000.72,
+            for Contracting Officer’s Representative (COR) Certification <xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d"
+               scope="external"
+               format="PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d">
+            <u>DoDI 5000.72,
                     Change 2, DoD Standard for Contracting Officer’s Representative (COR)
-                    Certification </u></xref>(<xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d" scope="external" format="PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d"><u>https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d</u></xref>).</p>
+                    Certification </u>
+         </xref>(<xref href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d"
+               scope="external"
+               format="PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d">
+            <u>https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.PDF?ver=Gz57VcITZqrt78aS_jH2Jg%3d%3d</u>
+         </xref>).</p>
         <p>(d)(S-91) <i>Joint Appointment Module (JAM) and Surveillance and Performance Monitoring
-                (SPM) Module.</i></p>
+                (SPM) Module.</i>
+      </p>
         <p outputclass="List3">(i) JAM is the enterprise-wide module for executing nomination and
             appointment functions. SPM is the enterprise- wide module for executing COR monitoring
-            functions. See <xref href="https://wawftraining.eb.mil/piee-landing/" scope="external" format="html"><u>Procurement Integrated Enterprise Environment (PIEE)</u></xref>
-                (<xref href="https://wawftraining.eb.mil/piee-landing/" scope="external" format="html"><u>https://wawftraining.eb.mil/piee-</u><u>landing/</u></xref>) for
-            access to JAM and SPM. For training, see <xref href="https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml" scope="external" format="xhtml"><u>Joint Appointment Module (JAM) - Web Based Training</u></xref>
-                (<xref href="https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml" scope="external" format="xhtml"><u>https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml</u></xref>), which
+            functions. See <xref href="https://wawftraining.eb.mil/piee-landing/"
+               scope="external"
+               format="html">
+            <u>Procurement Integrated Enterprise Environment (PIEE)</u>
+         </xref>
+                (<xref href="https://wawftraining.eb.mil/piee-landing/"
+               scope="external"
+               format="html">
+            <u>https://wawftraining.eb.mil/piee-</u>
+            <u>landing/</u>
+         </xref>) for
+            access to JAM and SPM. For training, see <xref href="https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml"
+               scope="external"
+               format="xhtml">
+            <u>Joint Appointment Module (JAM) - Web Based Training</u>
+         </xref>
+                (<xref href="https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml"
+               scope="external"
+               format="xhtml">
+            <u>https://wawftraining.eb.mil/wbt/xhtml/wbt/jam/index.xhtml</u>
+         </xref>), which
             includes SPM and Government Purchase Card (GPC) roles.</p>
         <p outputclass="List3">(ii) The DISA DECC Ogden Electronic Business Service Desk is
-            available to assist with technical problems with PIEE at <xref href="DLA%20Today%20News%20-%20Website%20to%20act%20as%20clearinghouse%20for%20employee___files" scope="external" format="file"><u>Government Customer Support - Submit
-                Issue</u></xref>
+            available to assist with technical problems with PIEE at <xref href="DLA%20Today%20News%20-%20Website%20to%20act%20as%20clearinghouse%20for%20employee___files"
+               scope="external"
+               format="file">
+            <u>Government Customer Support - Submit
+                Issue</u>
+         </xref>
         </p>
-        <p outputclass="Normal">(<xref href="https://wawf.eb.mil/xhtml/unauth/web/homepage/governmentCustomerSupport.xhtml" scope="external" format="xhtml"><u>https://wawf.eb.mil/xhtml/unauth/web/homepage/governmentCustomerSupport.xhtml</u></xref>).
+        <p outputclass="Normal">(<xref href="https://wawf.eb.mil/xhtml/unauth/web/homepage/governmentCustomerSupport.xhtml"
+               scope="external"
+               format="xhtml">
+            <u>https://wawf.eb.mil/xhtml/unauth/web/homepage/governmentCustomerSupport.xhtml</u>
+         </xref>).
             Department Administrators at each procuring organization can assist with access and
             navigation issues.</p>
         <p>(d)(S-92) For procedures associated with COR Program oversight roles and
-            responsibilities, see <xref href="https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf" scope="external" format="pdf"><u>DLAM 5025.14, Contracting Officer’s Representative
-                    (COR) Program</u></xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf" scope="external" format="pdf"><u>https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf</u></xref>).
+            responsibilities, see <xref href="https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf"
+               scope="external"
+               format="pdf">
+            <u>DLAM 5025.14, Contracting Officer’s Representative
+                    (COR) Program</u>
+         </xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://issue-p.dla.mil/Published_Issuances/COR%20PROGRAM%20CHANGE%201.pdf</u>
+         </xref>).
             Contracting officers shall appoint a nominated replacement COR, who is qualified and
             certified, within a maximum of 30 calendar days after the date either (i) the current
             COR appointment is terminated; or (ii) there is a requirement for a replacement due to a
@@ -36,6 +80,15 @@
             certified replacement COR in a timely manner to allow the contracting officer the
             ability to appoint the replacement within a maximum of 30 calendar days. Additional
             guidance on the appointment and duties of CORs is provided in the </p>
-        <p outputclass="Normal"><xref href="https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf" scope="external" format="pdf"><u>DoD COR Guidebook</u></xref> (<xref href="https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf" scope="external" format="pdf"><u>https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf</u></xref>).</p>
+        <p outputclass="Normal">
+         <xref href="https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf"
+               scope="external"
+               format="pdf">
+            <u>DoD COR Guidebook</u>
+         </xref> (<xref href="https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://www.acq.osd.mil/dpap/cpic/cp/docs/USA002477-17_DoD_COR_Guidebook.pdf</u>
+         </xref>).</p>
     </conbody>
 </concept>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_11_392">
    <title outputclass="Heading 3">
       <ph props="autonumber">
@@ -21,9 +22,13 @@
       <p id="kVaDds" outputclass="List3">(vii) The offeror’s/contractor’s phone number, address, email, or other vital information is missing, invalid, or suspicious;</p>
       <p id="pvhTZx" outputclass="List3">(viii) The contractor invoices without delivering the supplies;</p>
       <p id="esLfNI" outputclass="List3">(ix) Contractor is on the DCRL for traceability concerns.</p>
-      <p id="dhNgmr">Examples of acceptable preaward traceability documentation are found at the <xref format="html" href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external">
+      <p id="dhNgmr">Examples of acceptable preaward traceability documentation are found at the <xref format="html"
+               href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external">
             <u>Counterfeit Detection and Avoidance Program (CDAP)</u>
-         </xref> website (<xref format="html" href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external">
+         </xref> website (<xref format="html"
+               href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external">
             <u>http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u>
          </xref>).</p>
       <p id="OEHLat" outputclass="Normal">Postaward traceability.</p>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_4_7303-3" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">4.7303-3</ph> Cyber incident and
+    <title outputclass="Heading 3">
+      <ph props="autonumber">4.7303-3</ph> Cyber incident and
         compromise reporting.</title>
     <conbody>
         <p id="fdfe43S91">(a)(S-91) If the contracting officer receives notice from the DoD Cyber Crime Center
@@ -13,8 +15,16 @@
             individual responsible for all direct communications with the contractor regarding the
             cyber incident;</p>
         <p outputclass="List4" id="p_P4_7303_3_a_S91_i_B">(B) Submit a Special Situation Report
-            (Special SITREP) in accordance with instructions and template at <xref href="https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx" scope="external" format="aspx"><u>DLA DTM 17-017, Commander’s Critical Information
-                    Requirements (CCIR) Reporting Policy Changes</u></xref> (<xref href="https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx" scope="external" format="aspx"><u>https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx</u></xref>);
+            (Special SITREP) in accordance with instructions and template at <xref href="https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx"
+               scope="external"
+               format="aspx">
+            <u>DLA DTM 17-017, Commander’s Critical Information
+                    Requirements (CCIR) Reporting Policy Changes</u>
+         </xref> (<xref href="https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx"
+               scope="external"
+               format="aspx">
+            <u>https://dlamil.dps.mil/sites/InfoOps/CCIR/Forms/AllItems.aspx</u>
+         </xref>);
             and</p>
         <p outputclass="List4">(C) Contact the Damage Assessment Management Office (DAMO) (OSD
             Liaison Telephone (410) 694-4380), and request point of contact information if the DAMO
@@ -36,7 +46,14 @@
             officer before beginning the assessment.</p>
         <p outputclass="List2">(S-92) If the contracting officer receives notice from the DC3 and
             the requiring activity is external to DLA, the contracting officer shall—</p>
-        <p outputclass="List3">(i) Submit the Special SITREP (see <xref href="4.7303-3.dita#DLAD_4_7303-3"><u>4.7303-3</u></xref><xref href="4.7303-3.dita#DLAD_4_7303-3/fdfe43S91"><u>(a)(S-91)</u></xref><xref href="4.7303-3.dita#DLAD_4_7303-3/fff43i"><u>(i)</u></xref><xref href="4.7303-3.dita#DLAD_4_7303-3/p_P4_7303_3_a_S91_i_B"><u>(B)</u></xref>)); and</p>
+        <p outputclass="List3">(i) Submit the Special SITREP (see <xref href="4.7303-3.dita#DLAD_4_7303-3">
+            <u>4.7303-3</u>4.7303-3 Cyber incident and compromise reporting.</xref>
+         <xref href="4.7303-3.dita#DLAD_4_7303-3/fdfe43S91">
+            <u>(a)(S-91)</u>4.7303-3 Cyber incident and compromise reporting.</xref>
+         <xref href="4.7303-3.dita#DLAD_4_7303-3/fff43i">
+            <u>(i)</u>4.7303-3 Cyber incident and compromise reporting.</xref>
+         <xref href="4.7303-3.dita#DLAD_4_7303-3/p_P4_7303_3_a_S91_i_B">
+            <u>(B)</u>4.7303-3 Cyber incident and compromise reporting.</xref>)); and</p>
         <p outputclass="List3">(ii) Provide the DC3 notice to the DLA Cyber Emergency Response Team
             (CERT) (cert@dla.mil).</p>
     </conbody>

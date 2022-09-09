@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_53_9013">
    <title outputclass="Heading 3">
       <ph props="autonumber">53.9013</ph> Simplified acquisition procedures.</title>
@@ -7,15 +8,15 @@
       <p id="Gltewj">(a) <i>Simplified Acquisition Award Documentation (SAAD).</i>
       </p>
       <p id="mbazqX" outputclass="Normal">Contracting officers at DLA Aviation, DLA Land and
-         Maritime, and DLA Troop Support shall use the following format as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" xtrc="13.106-3">13.106-3</xref><xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
-            <u>(b)</u>
-         </xref>, <xref href="13.501.dita#DLAD_13_501" xtrc="13.501">13.501</xref><xref href="13.501.dita#DLAD_13_501/rer2eB">
-            <u>(b)</u>
-         </xref><xref href="13.501.dita#DLAD_13_501/rre3B3">
-            <u>(3)</u>
-         </xref>, and <xref href="15.406-1.dita#DLAD_15_406-1" xtrc="15.406-1">15.406-1</xref><xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1">
-            <u>15.406-1(b)(1)</u>
-         </xref>. (Mark “FOR OFFICIAL USE ONLY”, when applicable, at the bottom of the outside of
+         Maritime, and DLA Troop Support shall use the following format as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" xtrc="13.106-3">13.106-3 Award and documentation.</xref>
+         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
+            <u>(b)</u>13.106-3 Award and documentation.</xref>, <xref href="13.501.dita#DLAD_13_501" xtrc="13.501">13.501 Special documentation requirements.</xref>
+         <xref href="13.501.dita#DLAD_13_501/rer2eB">
+            <u>(b)</u>13.501 Special documentation requirements.</xref>
+         <xref href="13.501.dita#DLAD_13_501/rre3B3">
+            <u>(3)</u>13.501 Special documentation requirements.</xref>, and <xref href="15.406-1.dita#DLAD_15_406-1" xtrc="15.406-1">15.406-1 Prenegotiation objectives.</xref>
+         <xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1">
+            <u>15.406-1(b)(1)</u>15.406-1 Prenegotiation objectives.</xref>. (Mark “FOR OFFICIAL USE ONLY”, when applicable, at the bottom of the outside of
          the front cover (if there is one), the title page, the first page, and the outside of the
          back cover (if there is one) pursuant to DOD Manual 5200.1, Vol 4, Enclosure 3,
          2.c.(3)(b).) <i>This Simplified Acquisition Award Documentation (SAAD) format is for
@@ -42,11 +43,11 @@
       <p id="kubnvN" outputclass="Normal">☐ Procurement is a First Time Buy</p>
       <p id="qClJSR" outputclass="Normal">☐ Commercial</p>
       <p id="hzoLbr" outputclass="Normal">☐ For non-competitive actions over $1M Contract Business
-         Analysis Repository (CBAR) was checked IAW DLAD <xref href="15.404-1.dita#DLAD_15_404-1" xtrc="15.404-1">15.404-1</xref><xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a">
-            <u>(a)</u>
-         </xref><xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a_5_S90">
-            <u>(5)(S-90)</u>
-         </xref>
+         Analysis Repository (CBAR) was checked IAW DLAD <xref href="15.404-1.dita#DLAD_15_404-1" xtrc="15.404-1">15.404-1 Proposal analysis techniques.</xref>
+         <xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a">
+            <u>(a)</u>15.404-1 Proposal analysis techniques.</xref>
+         <xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a_5_S90">
+            <u>(5)(S-90)</u>15.404-1 Proposal analysis techniques.</xref>
       </p>
       <p id="pqXyVO" outputclass="Normal">☐ Fast Pay (FAR 13.402(a)-(f))</p>
       <p id="SmwHNQ" outputclass="Normal">☐ Special Emergency Procurement Authority (SEPA)
@@ -65,9 +66,9 @@
       <p id="XslZGu" outputclass="Normal">
          <b>Narrative:</b>
       </p>
-      <p id="77auehgc" outputclass="Normal"></p>
-      <p id="9d04i33a" outputclass="Normal"></p>
-      <p id="l9wvaflx" outputclass="Normal"></p>
+      <p id="77auehgc" outputclass="Normal"/>
+      <p id="9d04i33a" outputclass="Normal"/>
+      <p id="l9wvaflx" outputclass="Normal"/>
       <p id="rLysAq" outputclass="Normal">
          <b>
             <u>Price Reasonableness Determination</u>
@@ -75,7 +76,7 @@
       </p>
       <p id="IrbUQx" outputclass="Normal">
          <b>Limitation on Price Increases (DFARS 217.7505/DLAD</b>
-         <xref href="17.7505.dita#DLAD_17_7505" xtrc="17.7505">17.7505</xref>
+         <xref href="17.7505.dita#DLAD_17_7505" xtrc="17.7505">17.7505 Limitations on price increases.</xref>
          <b>):</b>
       </p>
       <p id="kgicmq" outputclass="Normal">For Micro-Purchases:</p>
@@ -94,14 +95,14 @@
       <p id="gubfOp" outputclass="Normal">
          <b>Price Reasonableness Code (PRC):</b>
       </p>
-      <p id="WisOPT" outputclass="Normal"></p>
+      <p id="WisOPT" outputclass="Normal"/>
       <p id="KuInlk" outputclass="Normal">
          <b>Basis for Award- <u>FAR</u>
             <u>13.106-3(a), DLAD 13.106-3(a) &amp; DLAD</u>
          </b>
-         <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3">15.406-3</xref><xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
-            <u>(a)(11)</u>
-         </xref>
+         <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3">15.406-3 Documenting the negotiation.</xref>
+         <xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
+            <u>(a)(11)</u>15.406-3 Documenting the negotiation.</xref>
          <b>
             <u>:</u>
          </b>
@@ -159,9 +160,9 @@
             negotiations that were conducted. Attach or provide the location within the contract
             file for all supporting documentation):</b>
       </p>
-      <p id="SuhONo" outputclass="Normal"></p>
-      <p id="itfVDM" outputclass="Normal"></p>
-      <p id="NMvyou" outputclass="Normal"></p>
+      <p id="SuhONo" outputclass="Normal"/>
+      <p id="itfVDM" outputclass="Normal"/>
+      <p id="NMvyou" outputclass="Normal"/>
       <p id="nwgcwI" outputclass="Normal">
          <b>Determination of Responsibility:</b>
       </p>
@@ -183,16 +184,16 @@
             the findings, determinations, and conclusions also enumerated above for the
             above-identified procurement.</b>
       </p>
-      <p id="p_P53_9013_b"></p>
+      <p id="p_P53_9013_b"/>
       <p id="428jiuqx">(b) <i>Market Research for Commercial Items and Commerciality Determination
             Memorandum for Record (MRCICDM).</i>
       </p>
       <p id="kXRnRn" outputclass="Normal">The contracting officer shall use the MRCICDM format as
-         prescribed in <xref href="13.501.dita#DLAD_13_501" xtrc="13.501)">13.501</xref><xref href="13.501.dita#DLAD_13_501/rer2eB">
-            <u>(b)</u>
-         </xref><xref href="13.501.dita#DLAD_13_501/rre3B3">
-            <u>(3)</u>
-         </xref>. The contracting officer shall include a “Source Selection Information” legend when
+         prescribed in <xref href="13.501.dita#DLAD_13_501" xtrc="13.501)">13.501 Special documentation requirements.</xref>
+         <xref href="13.501.dita#DLAD_13_501/rer2eB">
+            <u>(b)</u>13.501 Special documentation requirements.</xref>
+         <xref href="13.501.dita#DLAD_13_501/rre3B3">
+            <u>(3)</u>13.501 Special documentation requirements.</xref>. The contracting officer shall include a “Source Selection Information” legend when
          applicable pursuant to FAR 2.101 and 3.104. Procuring organizations may append the MRCICDM
          to the acquisition plan, and the acquisition plan may refer to the MRCICDM in sections
          regarding market research and sustainability. <i>This Market Research for Commercial Items
@@ -225,7 +226,7 @@
             <u>(contracting officer insert)</u>
          </i>
       </p>
-      <p id="qqfDNm" outputclass="Normal"></p>
+      <p id="qqfDNm" outputclass="Normal"/>
       <p id="i7nkpra" outputclass="Normal">PART I</p>
       <p id="lsDeia" outputclass="Normal">In accordance with FAR 10.002(b) and FAR 2.101,
          Definitions, the cognizant functional element of the procuring organization has conducted a
@@ -300,7 +301,7 @@
             <u>(contracting officer insert response)</u>
          </i>
       </p>
-      <p id="XVnaeL" outputclass="Normal"></p>
+      <p id="XVnaeL" outputclass="Normal"/>
       <p id="xq78gib" outputclass="Normal">PART II</p>
       <p id="zjEMyr" outputclass="Normal">Check one or more of the following, as applicable, to
          identify techniques the reviewer(s) used to conduct market research and determine
@@ -347,7 +348,7 @@
             <u>(contracting officer insert response)</u>
          </i>
       </p>
-      <p id="SxfuFD" outputclass="Normal"></p>
+      <p id="SxfuFD" outputclass="Normal"/>
       <p id="jp2skdmn" outputclass="Normal">SUMMARY OF MARKET RESEARCH:</p>
       <p id="wyXJin" outputclass="Normal">Contacted product specialist or other technical
          representative on: <i>
@@ -381,7 +382,7 @@
             <u>(contracting officer insert response)</u>
          </i>
       </p>
-      <p id="BXvjhZ"></p>
+      <p id="BXvjhZ"/>
       <p id="nqqruo9k">Part III</p>
       <p id="KFBLbn">Check one of the following to indicate the type of contract:</p>
       <p id="nskbAT">() Firm Fixed Price (FFP)</p>
@@ -390,7 +391,7 @@
          award FFP or FP w/EPA type contracts, with limited exceptions (see FAR 12.207). If the
          contracting officer determines the requirement is not commercial, document the contract
          type selection in the acquisition plan.</p>
-      <p id="nhNoRA"></p>
+      <p id="nhNoRA"/>
       <p id="jnpyyyrb">Part IV</p>
       <p id="JqIySK">Check one of the following to indicate if consolidation or bundling
          applies:</p>
@@ -402,7 +403,7 @@
          following):</p>
       <p id="CFkLfR" outputclass="Normal">() Commercial</p>
       <p id="puCAkm" outputclass="Normal">() Noncommercial</p>
-      <p id="xnYmQR" outputclass="Normal"></p>
+      <p id="xnYmQR" outputclass="Normal"/>
       <p id="fk2m9ghw" outputclass="Normal">APPROVALS:</p>
       <p id="JvxyXo" outputclass="Normal">Name of Contracting Officer: <i>
             <u>(contracting officer insert response)</u>
@@ -436,7 +437,7 @@
       <p id="qypsXn" outputclass="Normal">(Applies when contracting officer based commercial item
          determination on subsections (1)(ii), (3), (4), or (6) of the “commercial item” definition
          at FAR 2.101.)</p>
-      <p id="p_P53_9013_c"></p>
+      <p id="p_P53_9013_c"/>
       <p id="0c86im0j">(c) <i>Alternate Simplified Acquisition Award Documentation (SAAD).</i>
       </p>
       <p id="p__Hlk70606206" outputclass="Normal">Contracting officers at DLA Distribution, DLA
@@ -454,7 +455,7 @@
             Award Documentation (SAAD) format is for illustration purposes only. It mirrors the
             fillable version maintained by DLA Distribution.</i>
       </p>
-      <p id="zaejhu" outputclass="Normal"></p>
+      <p id="zaejhu" outputclass="Normal"/>
       <p id="wbapbc748" outputclass="Ctr normal">
          <b>Alternate Simplified Acquisition Award Documentation (Alt. SAAD)</b>
          <b>
@@ -465,9 +466,9 @@
       <p id="sXdGXy" outputclass="Normal">Buyer: PR#:</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
             <tbody>
                <row>
                   <entry>
@@ -501,14 +502,14 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="ulboaM" outputclass="Normal"></p>
+      <p id="ulboaM" outputclass="Normal"/>
       <p id="NkLNEz" outputclass="Normal">
          <b>Select one of the following thresholds:</b>
       </p>
       <p id="prbv8y7g" outputclass="Normal">
          <b>Choose from the dropdown list:</b>
       </p>
-      <p id="yb6l069f" outputclass="Normal"></p>
+      <p id="yb6l069f" outputclass="Normal"/>
       <p id="ssyBdE" outputclass="Normal">
          <b>
             <u>B: Other determinations:</u>
@@ -546,15 +547,15 @@
                sufficient documentation of not using RA; KO must document in separate MFR.</i>
          </b>
       </p>
-      <p id="BsWfhR" outputclass="Normal"></p>
+      <p id="BsWfhR" outputclass="Normal"/>
       <p id="g7s4ntdn" outputclass="Normal">Synopsis:</p>
       <p id="e8pf71si" outputclass="Normal">
          <i>Choose from the dropdown list:</i>
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <tbody>
                <row>
                   <entry>
@@ -574,7 +575,7 @@
                </row>
                <row>
                   <entry>
-                     <p id="JRkRdF"></p>
+                     <p id="JRkRdF"/>
                   </entry>
                   <entry>
                      <p id="PIpJvy">
@@ -587,7 +588,7 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="nnclTz" outputclass="Normal"></p>
+      <p id="nnclTz" outputclass="Normal"/>
       <p id="MpxqGZ" outputclass="Normal">
          <b>
             <u>C. Non-Cost/Price Factors &amp; Evaluation:</u>
@@ -605,8 +606,8 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <tbody>
                <row>
                   <entry>
@@ -623,7 +624,7 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="KNmsNy"></p>
+      <p id="KNmsNy"/>
       <p id="hLnokE" outputclass="Normal">
          <b>2. <u>Past Performance Evaluation/Determination Method:</u>
          </b>
@@ -633,8 +634,8 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <tbody>
                <row>
                   <entry>
@@ -663,17 +664,17 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1"/>
             <tbody>
                <row>
                   <entry>
-                     <p id="qhEUwY"></p>
+                     <p id="qhEUwY"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="ZUcZKH" outputclass="Normal"></p>
+      <p id="ZUcZKH" outputclass="Normal"/>
       <p id="AszBYe" outputclass="Normal">
          <b>
             <u>E. Basis for Award- <i>(FAR 13.103-3, DLAD 13.106(a) and DLAD 15.406-3(a)(11):</i>
@@ -744,7 +745,7 @@
             <i>.</i>
          </b>
       </p>
-      <p id="gfKomY" outputclass="Normal"></p>
+      <p id="gfKomY" outputclass="Normal"/>
       <p id="terYrv" outputclass="List8">
          <b>
             <i>
@@ -757,11 +758,11 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="5">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
+            <colspec colname="5" colnum="5"/>
             <tbody>
                <row>
                   <entry>
@@ -773,13 +774,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="SZhYdM"></p>
+                     <p id="SZhYdM"/>
                   </entry>
                   <entry>
-                     <p id="BvYXfx"></p>
+                     <p id="BvYXfx"/>
                   </entry>
                   <entry>
-                     <p id="KCncOd"></p>
+                     <p id="KCncOd"/>
                   </entry>
                </row>
                <row>
@@ -797,10 +798,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="flDEgd"></p>
+                     <p id="flDEgd"/>
                   </entry>
                   <entry>
-                     <p id="ACzmsH"></p>
+                     <p id="ACzmsH"/>
                   </entry>
                </row>
                <row>
@@ -825,7 +826,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="IaYOnv"></p>
+                     <p id="IaYOnv"/>
                   </entry>
                </row>
                <row>
@@ -835,7 +836,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="TsAmtf"></p>
+                     <p id="TsAmtf"/>
                   </entry>
                </row>
                <row>
@@ -852,7 +853,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="PIwJPn"></p>
+                     <p id="PIwJPn"/>
                   </entry>
                </row>
                <row>
@@ -911,17 +912,17 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1"/>
             <tbody>
                <row>
                   <entry>
-                     <p id="pooNtA"></p>
+                     <p id="pooNtA"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="TRjfDR" outputclass="Normal"></p>
+      <p id="TRjfDR" outputclass="Normal"/>
       <p id="JAmZpn" outputclass="Normal">Best Value Tradeoff Determination: <ph outputclass="List4">☐ Section Not Applicable</ph>
       </p>
       <p id="QTlbtk" outputclass="Normal">
@@ -942,11 +943,11 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1"/>
             <tbody>
                <row>
                   <entry>
-                     <p id="VKOutO"></p>
+                     <p id="VKOutO"/>
                   </entry>
                </row>
             </tbody>
@@ -967,7 +968,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1"/>
             <tbody>
                <row>
                   <entry>
@@ -997,7 +998,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1"/>
             <tbody>
                <row>
                   <entry>

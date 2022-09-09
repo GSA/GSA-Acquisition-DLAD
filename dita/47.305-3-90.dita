@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_47_305-3-90" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">47.305-3-90</ph> First Destination
+    <title outputclass="Heading 3">
+      <ph props="autonumber">47.305-3-90</ph> First Destination
         Transportation (FDT), Government–arranged transportation.</title>
     <conbody>
         <p outputclass="Normal">FDT is a program designed to reduce the cost of first destination
@@ -9,7 +11,8 @@
             Government contracts and rates. DEVIATION 20-05 authorizes use of f.o.b. origin and
             inspection/acceptance at destination under the FDT program. This deviation expires on
             May 15, 2023. FDT applies to solicitations and contracts issued by DLA Aviation, DLA
-            Land and Maritime, and DLA Troop Support, unless one of the exclusions in <xref href="47.305-3-90.dita#DLAD_47_305-3-90"><u>47.305-3-90</u></xref>(a)-(c) applies:</p>
+            Land and Maritime, and DLA Troop Support, unless one of the exclusions in <xref href="47.305-3-90.dita#DLAD_47_305-3-90">
+            <u>47.305-3-90</u>47.305-3-90 First Destination Transportation (FDT), Government–arranged transportation.</xref>(a)-(c) applies:</p>
         <p>(a) Agency-wide:</p>
         <p outputclass="List2">(1) Inspection and acceptance at origin;</p>
         <p outputclass="List2">(2) Contracts with Classified, Controlled, or Sensitive Items;</p>
@@ -61,20 +64,41 @@
         <p>(d) The contracting officer shall include procurement note C15 in solicitations and
             contracts issued by DLA Aviation, DLA Land and Maritime, and DLA Troop Support with
             f.o.b. origin and inspection/acceptance at destination for automated solicitations,
-            except as specified in <xref href="47.305-3-90.dita#DLAD_47_305-3-90"><u>47.305-3-90</u></xref>(a)-(c).</p>
+            except as specified in <xref href="47.305-3-90.dita#DLAD_47_305-3-90">
+            <u>47.305-3-90</u>47.305-3-90 First Destination Transportation (FDT), Government–arranged transportation.</xref>(a)-(c).</p>
         <p outputclass="Normal">*****</p>
         <p id="p_P47_305_3_90_C15" outputclass="Normal">C15 First Destination Transportation (FDT)
             Program, Government-Arranged Transportation for Automated Awards (AUG 2017)</p>
         <p outputclass="Normal">(1) Definitions.</p>
-        <p outputclass="Normal">“<i>Government-arranged</i><i> t</i><i>ransportation</i>” means the
+        <p outputclass="Normal">“<i>Government-arranged</i>
+         <i> t</i>
+         <i>ransportation</i>” means the
             Government is responsible for transportation costs, providing the carrier, and
             scheduling the shipment pickup contingent upon proper contractor notification in VSM
             (see procurement note C20).</p>
         <p outputclass="Normal">(2) The contractor shall:</p>
         <p outputclass="Normal">(a) Use the VSM to notify the Government that the materiel is ready
-            to ship. The Government can take up to two<u> (2)</u><u> </u><u>full</u><u> </u><u>business </u><u>days</u><u> to schedule</u><u> </u><u>the shipment.
-                P</u><u>ick-up</u><u> should </u><u>occur</u><u> </u><u>within</u><u> </u><u>five
-                (5)</u><u> </u><u>business </u><u>days</u> of the contractor’s notification. The
+            to ship. The Government can take up to two<u> (2)</u>
+         <u> </u>
+         <u>full</u>
+         <u> </u>
+         <u>business </u>
+         <u>days</u>
+         <u> to schedule</u>
+         <u> </u>
+         <u>the shipment.
+                P</u>
+         <u>ick-up</u>
+         <u> should </u>
+         <u>occur</u>
+         <u> </u>
+         <u>within</u>
+         <u> </u>
+         <u>five
+                (5)</u>
+         <u> </u>
+         <u>business </u>
+         <u>days</u> of the contractor’s notification. The
             contractor shall plan for sufficient time for scheduling the shipment and standard
             ground transportation for its material to arrive at the destination by the Contract
             Delivery Date (CDD).</p>
@@ -96,12 +120,16 @@
         <p>(e) The contracting officer shall include procurement note C16 in solicitations and
             contracts issued by DLA Aviation, DLA Land and Maritime, and DLA Troop Support with
             f.o.b. origin and inspection/acceptance at destination for manual solicitations, except
-            as specified in <xref href="47.305-3-90.dita"><u>47.305-3-90</u></xref>(a)-(c).</p>
+            as specified in <xref href="47.305-3-90.dita">
+            <u>47.305-3-90</u>
+         </xref>(a)-(c).</p>
         <p outputclass="Normal">*****</p>
         <p id="p_P47_305_3_90_C16" outputclass="Normal">C16 First Destination Transportation (FDT)
             Program, Government-Arranged Transportation for Manual Awards (AUG 2017)</p>
         <p outputclass="Normal">(1) Definitions.</p>
-        <p outputclass="Normal">“<i>Government-arranged</i><i> t</i><i>ransportation</i>” means the
+        <p outputclass="Normal">“<i>Government-arranged</i>
+         <i> t</i>
+         <i>ransportation</i>” means the
             Government is responsible for transportation costs, providing the carrier, and
             scheduling the shipment pickup contingent upon proper contractor notification in VSM
             (see procurement note C20).</p>
@@ -110,9 +138,27 @@
             offers a better value to the Government.</p>
         <p outputclass="Normal">(3) The contractor shall:</p>
         <p outputclass="Normal">(a) Use the VSM to notify the Government that the materiel is ready
-            to ship. The Government can take up to two<u> (2)</u><u> </u><u>full</u><u> </u><u>business </u><u>days</u><u> to schedule</u><u> </u><u>the shipment.
-                P</u><u>ick-up</u><u> should </u><u>occur</u><u> </u><u>within</u><u> </u><u>five
-                (5)</u><u> </u><u>business </u><u>days</u> of the contractor’s notification. The
+            to ship. The Government can take up to two<u> (2)</u>
+         <u> </u>
+         <u>full</u>
+         <u> </u>
+         <u>business </u>
+         <u>days</u>
+         <u> to schedule</u>
+         <u> </u>
+         <u>the shipment.
+                P</u>
+         <u>ick-up</u>
+         <u> should </u>
+         <u>occur</u>
+         <u> </u>
+         <u>within</u>
+         <u> </u>
+         <u>five
+                (5)</u>
+         <u> </u>
+         <u>business </u>
+         <u>days</u> of the contractor’s notification. The
             contractor shall plan for sufficient time for scheduling the shipment and standard
             ground transportation for its material to arrive at the destination by the Contract
             Delivery Date (CDD).</p>

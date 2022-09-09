@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_1">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 1</ph> – FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 1</ph> – FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -104,8 +104,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.601-91.dita#DLAD_1_601-91">1.601-91 Contract Quality Review
-        (CQR) Program.</xref>
+                        <xref outputclass="fm:TOC" href="1.601-91.dita#DLAD_1_601-91">1.601-91 Contract Quality Review (CQR) Program.</xref>
                      </p>
                   </li>
                   <li>
@@ -125,14 +124,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.602-3.dita#DLAD_1_602-3">1.602-3 Ratification of unauthorized
-        commitments.</xref>
+                        <xref outputclass="fm:TOC" href="1.602-3.dita#DLAD_1_602-3">1.602-3 Ratification of unauthorized commitments.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.602-90.dita#DLAD_1_602-90">1.602-90 Contracting Officer (KO)
-        Warrant Program.</xref>
+                        <xref outputclass="fm:TOC" href="1.602-90.dita#DLAD_1_602-90">1.602-90 Contracting Officer (KO) Warrant Program.</xref>
                      </p>
                   </li>
                   <li>
@@ -152,8 +149,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.604.dita#DLAD_1_604">1.604 Contracting officer’s
-        representative (COR).</xref>
+                        <xref outputclass="fm:TOC" href="1.604.dita#DLAD_1_604">1.604 Contracting officer’s representative (COR).</xref>
                      </p>
                   </li>
                   <li>
@@ -178,14 +174,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.690-3.dita#DLAD_1_690-3">1.690-3 Strategic solution analysis
-        reviews.</xref>
+                        <xref outputclass="fm:TOC" href="1.690-3.dita#DLAD_1_690-3">1.690-3 Strategic solution analysis reviews.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="1.690-4.dita#DLAD_1_690-4">1.690-4 Strategic contract (STRATCON)
-        oversight.</xref>
+                        <xref outputclass="fm:TOC" href="1.690-4.dita#DLAD_1_690-4">1.690-4 Strategic contract (STRATCON) oversight.</xref>
                      </p>
                   </li>
                   <li>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_12">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 12</ph> – ACQUISITION OF COMMERCIAL ITEMS</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 12</ph> – ACQUISITION OF COMMERCIAL ITEMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -24,9 +24,9 @@
                   <xref outputclass="fm:TOC" href="SUBPART_12.2.dita#DLAD_SUBPART_12_2">SUBPART 12.2 – SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="change Please change Please">
+                  <li rev="change Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="12.208.dita#DLAD_12_208">12.208Contract quality assurance.</xref>
+                        <xref outputclass="fm:TOC" href="12.208.dita#DLAD_12_208">12.208 Contract quality assurance.</xref>
                      </p>
                   </li>
                </ul>
@@ -38,14 +38,12 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="12.301.dita#DLAD_12_301">12.301 Solicitation provisions and
-        contract clauses for acquisition(s) of commercial items.</xref>
+                        <xref outputclass="fm:TOC" href="12.301.dita#DLAD_12_301">12.301 Solicitation provisions and contract clauses for acquisition(s) of commercial items.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="12.302.dita#DLAD_12_302">12.302 Tailoring of provisions and
-        clauses for the acquisition of commercial items.</xref>
+                        <xref outputclass="fm:TOC" href="12.302.dita#DLAD_12_302">12.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>
                      </p>
                   </li>
                </ul>

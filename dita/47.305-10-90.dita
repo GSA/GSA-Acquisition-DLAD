@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_47_305-10-90" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">47.305-10-90</ph> Procurement notes for
+    <title outputclass="Heading 3">
+      <ph props="autonumber">47.305-10-90</ph> Procurement notes for
         export shipping and U.S. Territories.</title>
     <conbody>
         <p>(a) The contracting officer shall include procurement note C18 in solicitations and
@@ -10,7 +12,8 @@
             through the Container Consolidation Points (CCPs) at San Joaquin, California (W62N2A)
             and New Cumberland, Pennsylvania (W25N14). The contracting officer shall use FAR
             52.247-52 when using procurement note C18. The contracting officer shall not include
-            procurement note C18 in solicitations and contracts under the FDT Program (see <xref href="47.305-3-90.dita#DLAD_47_305-3-90"><u>47.305-3-90</u></xref>).</p>
+            procurement note C18 in solicitations and contracts under the FDT Program (see <xref href="47.305-3-90.dita#DLAD_47_305-3-90">
+            <u>47.305-3-90</u>47.305-3-90 First Destination Transportation (FDT), Government–arranged transportation.</xref>).</p>
         <p outputclass="Normal">*****</p>
         <p outputclass="Normal">C18 Shipping Instructions for Export and U.S. Territories (AUG
             2017)</p>
@@ -86,7 +89,8 @@
             Air Force, and the customer is outside the contiguous United States. Contracting
             officers shall include FAR 52.247-52 if procurement note C19 applies. Contracting
             officers shall not include procurement note C19 in solicitations and contracts under the
-            FDT Program (see <xref href="47.305-3-90.dita#DLAD_47_305-3-90"><u>47.305-3-90</u></xref>).</p>
+            FDT Program (see <xref href="47.305-3-90.dita#DLAD_47_305-3-90">
+            <u>47.305-3-90</u>47.305-3-90 First Destination Transportation (FDT), Government–arranged transportation.</xref>).</p>
         <p outputclass="Normal">*****</p>
         <p outputclass="Normal">DLA Distribution </p>
         <p outputclass="Normal">Attention: Transportation Division</p>
@@ -119,7 +123,11 @@
         <p outputclass="List3">(iv) Package shipments of petroleum products, liquid substances, and
             materials, or any other product defined as hazardous in accordance with United Nations
             Economic Commission for Europe (UNECE) European Agreement concerning the International
-            Carriage of Dangerous Goods by Road (ADR) (<xref href="http://www.unece.org/trans/danger/publi/adr/adr2007/07ContentsE.html" scope="external" format="html"><u>http://www.unece.org/trans/danger/publi/adr/adr2007/07ContentsE.html</u></xref>).</p>
+            Carriage of Dangerous Goods by Road (ADR) (<xref href="http://www.unece.org/trans/danger/publi/adr/adr2007/07ContentsE.html"
+               scope="external"
+               format="html">
+            <u>http://www.unece.org/trans/danger/publi/adr/adr2007/07ContentsE.html</u>
+         </xref>).</p>
         <p outputclass="Normal">(2) Shipping documentation.</p>
         <p outputclass="Normal">(a) The contractor shall insert the following information in the
             description of articles space on all shipping documents:</p>
@@ -186,9 +194,17 @@
             activity as directed by the Transportation Office (see paragraph (1)(a) of this
             procurement note).</p>
         <p outputclass="Normal">(a) Excluded material:</p>
-        <p outputclass="List3">(i) Any material listed in <xref href="https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf" scope="external" format="pdf"><u>Defense Transportation Regulation (DTR) DOD 4500.9-R, (Chapter
-                    203)</u></xref><ph><u>
-                    (</u><u>https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf</u></ph>),
+        <p outputclass="List3">(i) Any material listed in <xref href="https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf"
+               scope="external"
+               format="pdf">
+            <u>Defense Transportation Regulation (DTR) DOD 4500.9-R, (Chapter
+                    203)</u>
+         </xref>
+         <ph>
+            <u>
+                    (</u>
+            <u>https://www.ustranscom.mil/dtr/part-ii/dtr_part_ii_203.pdf</u>
+         </ph>),
             Tables 203-10, Mandatory CCP Exclusions); Table 203-11 (Additional CCP Exclusions for
             DDSP and DDJC);, and Table 203-12 (Additional Mandatory CCP Exclusions for DDSP). Note:
             All shipments destined for CENTCOM AOR require application of radio frequency

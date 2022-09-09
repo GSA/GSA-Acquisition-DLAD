@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_16">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 16</ph> – TYPES OF CONTRACTS</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 16</ph> – TYPES OF CONTRACTS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -81,7 +81,7 @@
                         <xref outputclass="fm:TOC" href="16.505.dita#DLAD_16_505">16.505 Ordering.</xref>
                      </p>
                   </li>
-                  <li rev="change Please change Please change Please change Please change Please change Please">
+                  <li rev="change Please">
                      <p>
                         <xref outputclass="fm:TOC" href="16.590.dita#DLAD_16_590">16.590 Procurement notes.</xref>
                      </p>

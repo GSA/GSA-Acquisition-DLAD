@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PGI_PART_1">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PGI PART 1</ph> – FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PGI PART 1</ph> – FEDERAL ACQUISITION REGULATIONS SYSTEM</title>
       <body>
          <ul otherprops="TOC">
             <li>

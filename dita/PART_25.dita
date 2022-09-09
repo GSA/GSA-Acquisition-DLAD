@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_25">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 25</ph> – FOREIGN ACQUISITION</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 25</ph> – FOREIGN ACQUISITION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -74,7 +74,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_25.79.dita#DLAD_SUBPART_25_79"> SUBPART 25.79 – EXPORT CONTROL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_25.79.dita#DLAD_SUBPART_25_79">SUBPART 25.79 – EXPORT CONTROL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -84,14 +84,14 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="25.7901-1.dita#DLAD_25_7901-1"> 25.7901-1 Definitions.</xref>
+                              <xref outputclass="fm:TOC" href="25.7901-1.dita#DLAD_25_7901-1">25.7901-1 Definitions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="25.7902-4.dita#DLAD_25_7902-4"> 25.7902-4 Procedures.</xref>
+                        <xref outputclass="fm:TOC" href="25.7902-4.dita#DLAD_25_7902-4">25.7902-4 Procedures.</xref>
                      </p>
                   </li>
                </ul>

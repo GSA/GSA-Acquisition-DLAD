@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_1_105" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">1.105</ph> Issuance.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">1.105</ph> Issuance.</title>
 </concept>

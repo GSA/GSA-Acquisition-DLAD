@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_7_102" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">7.102</ph> Policy.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">7.102</ph> Policy.</title>
     <conbody>
         <p>(a) Written acquisition plans are required for all acquisitions expected to exceed the
             simplified acquisition threshold (SAT), including those accomplished by means of direct
@@ -15,7 +17,8 @@
         <p outputclass="List2">(3) Acquisition of replenishment parts, below DFARS 207.103
             thresholds (where applicable).</p>
         <p>(b) Acquisition plans shall be completed and approved prior to solicitation issuance. The
-            clearance authority levels in DLAD <xref href="1.690-1.dita#DLAD_1_690-1"><u>1.690-1</u></xref>
+            clearance authority levels in DLAD <xref href="1.690-1.dita#DLAD_1_690-1">
+            <u>1.690-1</u>1.690-1 Establishment of clearance authority.</xref>
             apply.</p>
         <p>(c) For urgent requirements, the HCA is authorized to waive the requirement for approval
             prior to solicitation issuance.</p>

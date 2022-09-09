@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_1_603-3-91" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">1.603-3-91</ph> Ordering officers.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">1.603-3-91</ph> Ordering officers.</title>
     <conbody>
         <p>(a)(l) This policy covers DLA ordering officers only.</p>
         <p outputclass="List2">(2) Contracting officers have the authority to appoint qualified DLA
@@ -16,23 +18,37 @@
         <p outputclass="Normal">*****</p>
         <p outputclass="Normal">L23 Ordering Officers (FEB 2018)</p>
         <p>(1) The following Government employees have ordering officer authority for
-                    [<i><u>contracting officer insert contract or ordering vehicle
-            number</u></i>]:</p>
+                    [<i>
+            <u>contracting officer insert contract or ordering vehicle
+            number</u>
+         </i>]:</p>
         <table frame="all" rowsep="1" colsep="1">
             <tgroup cols="3" colsep="1">
-                <colspec colname="col1" colwidth="155.6pt" />
-                <colspec colname="col2" colwidth="155.45pt" />
-                <colspec colname="col3" colwidth="156.45pt" />
+                <colspec colname="col1" colwidth="155.6pt"/>
+                <colspec colname="col2" colwidth="155.45pt"/>
+                <colspec colname="col3" colwidth="156.45pt"/>
                 <tbody>
                     <row rowsep="1">
-                        <entry><p id="p_ColumnTitle_Designated_Ordering_Officers">Name</p></entry>
-                        <entry><p>Title</p></entry>
-                        <entry><p>Contact Information</p></entry>
+                        <entry>
+                     <p id="p_ColumnTitle_Designated_Ordering_Officers">Name</p>
+                  </entry>
+                        <entry>
+                     <p>Title</p>
+                  </entry>
+                        <entry>
+                     <p>Contact Information</p>
+                  </entry>
                     </row>
                     <row rowsep="1">
-                        <entry><p>[<i>contracting officer insert</i>]</p></entry>
-                        <entry><p>[<i>contracting officer insert</i>]</p></entry>
-                        <entry><p>[<i>contracting officer insert</i>]</p></entry>
+                        <entry>
+                     <p>[<i>contracting officer insert</i>]</p>
+                  </entry>
+                        <entry>
+                     <p>[<i>contracting officer insert</i>]</p>
+                  </entry>
+                        <entry>
+                     <p>[<i>contracting officer insert</i>]</p>
+                  </entry>
                     </row>
                 </tbody>
             </tgroup>
@@ -45,7 +61,10 @@
         <p>*****</p>
         <p id="p_P1_602_2_91_c">(c) Appointment of ordering officer.</p>
         <p outputclass="List2">(1) The contracting officer shall appoint a DLA ordering officer
-            using the appointment letter in <xref href="53.9001.dita#DLAD_53_9001"><u>53.9001</u></xref><xref href="53.9001.dita#DLAD_53_9001/p_P53_9001_a"><u>(a)</u></xref>. The contracting officer shall insert the IDC or BPA number and
+            using the appointment letter in <xref href="53.9001.dita#DLAD_53_9001">
+            <u>53.9001</u>53.9001 Appointment of ordering officer.</xref>
+         <xref href="53.9001.dita#DLAD_53_9001/p_P53_9001_a">
+            <u>(a)</u>53.9001 Appointment of ordering officer.</xref>. The contracting officer shall insert the IDC or BPA number and
             the name and contact information of the appointed ordering officer in procurement note
             L23 in the contract.</p>
         <p outputclass="List3">(i) The contracting officer shall present the appointment letter to
@@ -53,8 +72,10 @@
             The DLA ordering officer shall sign the appointment letter to signify receipt of
             instructions and understanding.</p>
         <p outputclass="List3">(ii) The contracting officer shall include the appointment letter,
-            and training documents, as stated in <xref href="1.603-3-91.dita#DLAD_1_603-3-91"><u>1.603-3-91</u></xref>
-            <xref href="1.603-3-91.dita#DLAD_1_603-3-91/p_P1_603_3_91_f"><u>(f)</u></xref>, in
+            and training documents, as stated in <xref href="1.603-3-91.dita#DLAD_1_603-3-91">
+            <u>1.603-3-91</u>1.603-3-91 Ordering officers.</xref>
+            <xref href="1.603-3-91.dita#DLAD_1_603-3-91/p_P1_603_3_91_f">
+            <u>(f)</u>1.603-3-91 Ordering officers.</xref>, in
             the contract file and send an electronic copy to the procuring organization warrant
             program manager.</p>
         <p outputclass="List2">(2) The procuring organization warrant program manager shall record
@@ -93,7 +114,19 @@
             ordering officers who—</p>
         <p outputclass="List2">(1) Are DLA employees.</p>
         <p outputclass="List2">(2) Have completed, at a minimum, the following continuous learning
-            courses through <xref href="https://www.dau.edu/" scope="external" format="html"><u>Defense Acquisition University</u></xref><ph><i> (</i></ph><xref href="https://www.dau.edu/" scope="external" format="html"><u>https://www.dau.edu/</u></xref><ph><i>):</i></ph></p>
+            courses through <xref href="https://www.dau.edu/" scope="external" format="html">
+            <u>Defense Acquisition University</u>
+         </xref>
+         <ph>
+            <i> (</i>
+         </ph>
+         <xref href="https://www.dau.edu/" scope="external" format="html">
+            <u>https://www.dau.edu/</u>
+         </xref>
+         <ph>
+            <i>):</i>
+         </ph>
+      </p>
         <p outputclass="List3">(i) CLC005 Simplified Acquisition Procedures.</p>
         <p outputclass="List3">(ii) CLM049 Procurement Fraud Indicators.</p>
         <p outputclass="List3">(iii) DLA Annual Ethics Training or CLM003 Overview of Acquisition

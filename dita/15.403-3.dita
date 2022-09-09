@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_15_403-3" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">15.403-3</ph> Requiring data other than cost or pricing data.</title><conbody><p>(a) General.</p><p outputclass="List2">(4) The HCA’s authority is not delegable.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_15_403-3" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">15.403-3</ph> Requiring data other than cost or pricing data.</title>
+   <conbody>
+      <p>(a) General.</p>
+      <p outputclass="List2">(4) The HCA’s authority is not delegable.</p>
+   </conbody>
+</concept>

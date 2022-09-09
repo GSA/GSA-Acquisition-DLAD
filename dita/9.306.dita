@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_9_306">
    <title outputclass="Heading 3">
       <ph props="autonumber">9.306</ph> Solicitation requirements.</title>
@@ -97,8 +98,8 @@
       <p id="ZDZUdq" outputclass="Normal">The cost to the Government for first article testing is a factor in evaluating offers. The contracting officer will add the Government’s testing cost to the offered price of the applicable item. Unless cited elsewhere in the solicitation, the testing cost is:</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -110,7 +111,7 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="nnxsKc"></p>
+                     <p id="nnxsKc"/>
                   </entry>
                   <entry>
                      <p id="DtWXhL">$</p>
@@ -118,7 +119,7 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="ejtjvh"></p>
+                     <p id="ejtjvh"/>
                   </entry>
                   <entry>
                      <p id="KIFrSE">$</p>

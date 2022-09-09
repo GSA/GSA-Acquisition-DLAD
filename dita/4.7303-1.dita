@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_4_7303-1" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">4.7303-1</ph> General.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">4.7303-1</ph> General.</title>
     <conbody>
         <p outputclass="Normal">Contracting officers shall follow the guidance at DFARS PGI
             204.7303-1(a) and (b), Safeguarding Covered Defense Information and Cyber Incident
@@ -24,7 +26,7 @@
             officers that the requiring activity expects the solicitation to result in a contract,
             task order, or delivery order that will involve controlled technical information.</p>
         <p>(b) DLA may require additional contractor qualifications to access controlled technical
-            information. For export-controlled items, see subpart <xref href="SUBPART_25.79.dita" xtrc="25.79">SUBPART 25.79</xref>.</p>
+            information. For export-controlled items, see subpart <xref href="SUBPART_25.79.dita" xtrc="25.79"/>.</p>
         <p outputclass="Normal">(S-90) The requiring activity may be internal to DLA or external.
             Contracting officers should coordinate with the supply planner or other customer-facing
             personnel to identify the requiring activity, if unknown. Contracting officers should

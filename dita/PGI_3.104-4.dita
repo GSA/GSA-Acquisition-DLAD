@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_PGI_3_104-4" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">PGI 3.104-4</ph> Statutory and related prohibitions, restrictions, and
+    <title outputclass="Heading 3">
+      <ph props="autonumber">PGI 3.104-4</ph> Statutory and related prohibitions, restrictions, and
         requirements.</title>
     <conbody>
         <p>(a) Contractor and Agency personnel that require NDAs due to their assigned activities

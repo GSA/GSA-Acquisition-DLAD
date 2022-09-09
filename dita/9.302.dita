@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_9_302" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">9.302</ph> General.</title><conbody><p outputclass="Normal">When placing a First Article Test (FAT) requirement in the Technical Data package (TDP), the activity imposing the requirement must provide justification for requiring a FAT in lieu of using less costly methods for ensuring the desired quality (e.g., DCMA inspections, Product Verification inspection, or Production Lot testing). Solicitations may be amended by the contracting officer to remove the requirement for FAT. The contracting officer is the final authority for imposing FAT and shall document the contract file when the requirement is removed or waived.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_9_302" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.302</ph> General.</title>
+   <conbody>
+      <p outputclass="Normal">When placing a First Article Test (FAT) requirement in the Technical Data package (TDP), the activity imposing the requirement must provide justification for requiring a FAT in lieu of using less costly methods for ensuring the desired quality (e.g., DCMA inspections, Product Verification inspection, or Production Lot testing). Solicitations may be amended by the contracting officer to remove the requirement for FAT. The contracting officer is the final authority for imposing FAT and shall document the contract file when the requirement is removed or waived.</p>
+   </conbody>
+</concept>

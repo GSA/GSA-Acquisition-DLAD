@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_39_9001" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">39.9001</ph> Procedures for IT
+    <title outputclass="Heading 3">
+      <ph props="autonumber">39.9001</ph> Procedures for IT
         procurement.</title>
     <conbody>
         <p>(a) The requiring activity shall coordinate all mid-tier requirements with DLA

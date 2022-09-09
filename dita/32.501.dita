@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_32_501">
    <title outputclass="Heading 3">
       <ph props="autonumber">32.501</ph> General.</title>
    <conbody>
-      <p id="g44vb7"></p>
+      <p id="g44vb7"/>
    </conbody>
 </concept>

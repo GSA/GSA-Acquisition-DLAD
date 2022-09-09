@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_53_9015">
    <title outputclass="Heading 3">
       <ph props="autonumber">
@@ -10,14 +11,12 @@
    <conbody>
       <p id="p_P53_9015_a">(a) Price Negotiation Memorandum Format <b>–</b> Competitive.</p>
       <p id="SAeJwB" outputclass="Normal">Contracting officers shall use the PNM Format <b>–</b> Competitive as prescribed in <xref href="15.406-3.dita#DLAD_15_406-3">
-            <u>15.406-3</u>
-         </xref>
+            <u>15.406-3</u>15.406-3 Documenting the negotiation.</xref>
          <u>
             <ph id="vkpaew2o" rev="change Please">(a)(S-90)</ph>
          </u>
          <ph id="n5drki5" rev="change Please"> </ph> and <xref href="15.406-3.dita#DLAD_15_406-3">
-            <u>15.406-3</u>
-         </xref>
+            <u>15.406-3</u>15.406-3 Documenting the negotiation.</xref>
          <u>
             <ph id="29ss62yl" rev="change Please">(a)(S-91)</ph>
          </u>. <i>This Price Negotiation Format</i>
@@ -31,10 +30,10 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -52,24 +51,32 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="eRwWeA">The contracting officer shall include a “Source Selection Information” legend when applicable pursuant to FAR 2.101 and 3.104. Refer to DFARS PGI 215.406-3(11)(A) for documents uploaded into CBAR. Mark “CONTROLLED UNCLASSIFIED INFORMATION (CUI)” pursuant to <xref format="PDF?ver=2020-03-06-100640-800" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800" scope="external">
+                     <p id="eRwWeA">The contracting officer shall include a “Source Selection Information” legend when applicable pursuant to FAR 2.101 and 3.104. Refer to DFARS PGI 215.406-3(11)(A) for documents uploaded into CBAR. Mark “CONTROLLED UNCLASSIFIED INFORMATION (CUI)” pursuant to <xref format="PDF?ver=2020-03-06-100640-800"
+                              href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>DoD Instruction 5200.48, Controlled Unclassified Information (CUI)</u>
-                        </xref> (<xref format="PDF?ver=2020-03-06-100640-800" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800" scope="external">
+                        </xref> (<xref format="PDF?ver=2020-03-06-100640-800"
+                              href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800</u>
-                        </xref>) and <xref format="pdf?ver=2020-03-06-100640-800" href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800" scope="external">
+                        </xref>) and <xref format="pdf?ver=2020-03-06-100640-800"
+                              href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>DLA Instruction 5200.48, Controlled Unclassified Information (CUI)</u>
-                        </xref> (<xref format="pdf?ver=2020-03-06-100640-800" href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800" scope="external">
+                        </xref> (<xref format="pdf?ver=2020-03-06-100640-800"
+                              href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800</u>
                         </xref>).</p>
                   </entry>
                   <entry>
-                     <p id="xENKrM"></p>
+                     <p id="xENKrM"/>
                   </entry>
                   <entry>
-                     <p id="ECLLQM"></p>
+                     <p id="ECLLQM"/>
                   </entry>
                   <entry>
-                     <p id="TcrhqY"></p>
+                     <p id="TcrhqY"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -79,13 +86,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="hysBWO"></p>
+                     <p id="hysBWO"/>
                   </entry>
                   <entry>
-                     <p id="sUOFvj"></p>
+                     <p id="sUOFvj"/>
                   </entry>
                   <entry>
-                     <p id="AwWyiw"></p>
+                     <p id="AwWyiw"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -93,13 +100,13 @@
                      <p id="kLuwKk" outputclass="List2">a. Contractor name, division or group and location</p>
                   </entry>
                   <entry>
-                     <p id="QOcTiv"></p>
+                     <p id="QOcTiv"/>
                   </entry>
                   <entry>
-                     <p id="cavRMz"></p>
+                     <p id="cavRMz"/>
                   </entry>
                   <entry>
-                     <p id="vKSYjH"></p>
+                     <p id="vKSYjH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -107,13 +114,13 @@
                      <p id="FvbmxI" outputclass="List2">b. Contract or RFP number</p>
                   </entry>
                   <entry>
-                     <p id="MllDNH"></p>
+                     <p id="MllDNH"/>
                   </entry>
                   <entry>
-                     <p id="BgOrbu"></p>
+                     <p id="BgOrbu"/>
                   </entry>
                   <entry>
-                     <p id="aLfrpG"></p>
+                     <p id="aLfrpG"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -121,13 +128,13 @@
                      <p id="oOZEkn" outputclass="List2">c. Item or service acquired</p>
                   </entry>
                   <entry>
-                     <p id="oYfgvh"></p>
+                     <p id="oYfgvh"/>
                   </entry>
                   <entry>
-                     <p id="XVbUDa"></p>
+                     <p id="XVbUDa"/>
                   </entry>
                   <entry>
-                     <p id="vsSomK"></p>
+                     <p id="vsSomK"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -137,13 +144,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="JxIJNj"></p>
+                     <p id="JxIJNj"/>
                   </entry>
                   <entry>
-                     <p id="VjFCeB"></p>
+                     <p id="VjFCeB"/>
                   </entry>
                   <entry>
-                     <p id="eHDICS"></p>
+                     <p id="eHDICS"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -151,13 +158,13 @@
                      <p id="XKdPtE" outputclass="List2">a. Contractor and proposal selected for award and date</p>
                   </entry>
                   <entry>
-                     <p id="dKgwyx"></p>
+                     <p id="dKgwyx"/>
                   </entry>
                   <entry>
-                     <p id="xvYAmT"></p>
+                     <p id="xvYAmT"/>
                   </entry>
                   <entry>
-                     <p id="krFNQV"></p>
+                     <p id="krFNQV"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -165,13 +172,13 @@
                      <p id="DwmYLX" outputclass="List2">b. Offerors</p>
                   </entry>
                   <entry>
-                     <p id="XKcnSt"></p>
+                     <p id="XKcnSt"/>
                   </entry>
                   <entry>
-                     <p id="liIEmA"></p>
+                     <p id="liIEmA"/>
                   </entry>
                   <entry>
-                     <p id="dQaDtx"></p>
+                     <p id="dQaDtx"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -179,13 +186,13 @@
                      <p id="zfJtDN" outputclass="List2">c. Tabular Summary of: proposed price, government estimate, and final proposal revision</p>
                   </entry>
                   <entry>
-                     <p id="PqkVLC"></p>
+                     <p id="PqkVLC"/>
                   </entry>
                   <entry>
-                     <p id="Tffurr"></p>
+                     <p id="Tffurr"/>
                   </entry>
                   <entry>
-                     <p id="nNpdoT"></p>
+                     <p id="nNpdoT"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -193,13 +200,13 @@
                      <p id="tWqfVD" outputclass="List2">Major Price Items or CLINS</p>
                   </entry>
                   <entry>
-                     <p id="xBDajJ"></p>
+                     <p id="xBDajJ"/>
                   </entry>
                   <entry>
-                     <p id="kNAuwV"></p>
+                     <p id="kNAuwV"/>
                   </entry>
                   <entry>
-                     <p id="vjXVIp"></p>
+                     <p id="vjXVIp"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -207,13 +214,13 @@
                      <p id="hcfuHa" outputclass="List2">Total</p>
                   </entry>
                   <entry>
-                     <p id="hEfzwt"></p>
+                     <p id="hEfzwt"/>
                   </entry>
                   <entry>
-                     <p id="HiMceV"></p>
+                     <p id="HiMceV"/>
                   </entry>
                   <entry>
-                     <p id="dIaKWo"></p>
+                     <p id="dIaKWo"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -221,13 +228,13 @@
                      <p id="vKzhCD" outputclass="List2">Profit/fee %</p>
                   </entry>
                   <entry>
-                     <p id="tVdvpu"></p>
+                     <p id="tVdvpu"/>
                   </entry>
                   <entry>
-                     <p id="wPBkBB"></p>
+                     <p id="wPBkBB"/>
                   </entry>
                   <entry>
-                     <p id="enppMr"></p>
+                     <p id="enppMr"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -235,13 +242,13 @@
                      <p id="bDvdnU" outputclass="List2">CPAF (base and award fee) ($ and %)</p>
                   </entry>
                   <entry>
-                     <p id="RJyJiO"></p>
+                     <p id="RJyJiO"/>
                   </entry>
                   <entry>
-                     <p id="qvFWke"></p>
+                     <p id="qvFWke"/>
                   </entry>
                   <entry>
-                     <p id="yTdHJm"></p>
+                     <p id="yTdHJm"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -249,13 +256,13 @@
                      <p id="BxRSKZ" outputclass="List2">Contract type</p>
                   </entry>
                   <entry>
-                     <p id="eEfJfz"></p>
+                     <p id="eEfJfz"/>
                   </entry>
                   <entry>
-                     <p id="bqvSQs"></p>
+                     <p id="bqvSQs"/>
                   </entry>
                   <entry>
-                     <p id="LtZeJc"></p>
+                     <p id="LtZeJc"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -263,13 +270,13 @@
                      <p id="tRyMMY" outputclass="List2">d. Clearance authority</p>
                   </entry>
                   <entry>
-                     <p id="wdKVfQ"></p>
+                     <p id="wdKVfQ"/>
                   </entry>
                   <entry>
-                     <p id="VuHjGl"></p>
+                     <p id="VuHjGl"/>
                   </entry>
                   <entry>
-                     <p id="lWwGSS"></p>
+                     <p id="lWwGSS"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -277,13 +284,13 @@
                      <p id="AgBkvh" outputclass="List3">(1) Approval authority</p>
                   </entry>
                   <entry>
-                     <p id="OxFVHn"></p>
+                     <p id="OxFVHn"/>
                   </entry>
                   <entry>
-                     <p id="avEnTk"></p>
+                     <p id="avEnTk"/>
                   </entry>
                   <entry>
-                     <p id="WsvHDD"></p>
+                     <p id="WsvHDD"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -291,13 +298,13 @@
                      <p id="wrNgBB" outputclass="List3">(2) Approval date, meeting dates, and participants</p>
                   </entry>
                   <entry>
-                     <p id="zArJGy"></p>
+                     <p id="zArJGy"/>
                   </entry>
                   <entry>
-                     <p id="SjJKtc"></p>
+                     <p id="SjJKtc"/>
                   </entry>
                   <entry>
-                     <p id="krmswo"></p>
+                     <p id="krmswo"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -307,13 +314,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="KdnBTo"></p>
+                     <p id="KdnBTo"/>
                   </entry>
                   <entry>
-                     <p id="qWijVp"></p>
+                     <p id="qWijVp"/>
                   </entry>
                   <entry>
-                     <p id="llytDS"></p>
+                     <p id="llytDS"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -321,13 +328,13 @@
                      <p id="mSbWic">a. Description of item or services</p>
                   </entry>
                   <entry>
-                     <p id="KIufvo"></p>
+                     <p id="KIufvo"/>
                   </entry>
                   <entry>
-                     <p id="ZJFRaG"></p>
+                     <p id="ZJFRaG"/>
                   </entry>
                   <entry>
-                     <p id="OUuOKM"></p>
+                     <p id="OUuOKM"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -335,13 +342,13 @@
                      <p id="UpyFCl">b. Explain method used for line item or unit prices</p>
                   </entry>
                   <entry>
-                     <p id="bIkbjy"></p>
+                     <p id="bIkbjy"/>
                   </entry>
                   <entry>
-                     <p id="ArstfM"></p>
+                     <p id="ArstfM"/>
                   </entry>
                   <entry>
-                     <p id="ItLsDz"></p>
+                     <p id="ItLsDz"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -349,13 +356,13 @@
                      <p id="sCCrVd">c. Personnel: List names, title, organization and telephone number of participants in price analysis and as applicable, cost realism discussions</p>
                   </entry>
                   <entry>
-                     <p id="VfrBwJ"></p>
+                     <p id="VfrBwJ"/>
                   </entry>
                   <entry>
-                     <p id="JEAuum"></p>
+                     <p id="JEAuum"/>
                   </entry>
                   <entry>
-                     <p id="NqlFxX"></p>
+                     <p id="NqlFxX"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -363,13 +370,13 @@
                      <p id="giAiGi">d. Significant dates:</p>
                   </entry>
                   <entry>
-                     <p id="jviMBI"></p>
+                     <p id="jviMBI"/>
                   </entry>
                   <entry>
-                     <p id="krQroi"></p>
+                     <p id="krQroi"/>
                   </entry>
                   <entry>
-                     <p id="pyFMRO"></p>
+                     <p id="pyFMRO"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -377,13 +384,13 @@
                      <p id="krFIwH" outputclass="List2">(1) Proposal date</p>
                   </entry>
                   <entry>
-                     <p id="rOOnPs"></p>
+                     <p id="rOOnPs"/>
                   </entry>
                   <entry>
-                     <p id="gvywwc"></p>
+                     <p id="gvywwc"/>
                   </entry>
                   <entry>
-                     <p id="FNTmBm"></p>
+                     <p id="FNTmBm"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -391,13 +398,13 @@
                      <p id="cpxHXu" outputclass="List2">(2) Discussion (s)/date (s)</p>
                   </entry>
                   <entry>
-                     <p id="MBRNGo"></p>
+                     <p id="MBRNGo"/>
                   </entry>
                   <entry>
-                     <p id="yLFDCz"></p>
+                     <p id="yLFDCz"/>
                   </entry>
                   <entry>
-                     <p id="XUlwHa"></p>
+                     <p id="XUlwHa"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -405,13 +412,13 @@
                      <p id="aClSSU" outputclass="List2">(3) Final proposal revision date</p>
                   </entry>
                   <entry>
-                     <p id="zDVlpP"></p>
+                     <p id="zDVlpP"/>
                   </entry>
                   <entry>
-                     <p id="HmtYQA"></p>
+                     <p id="HmtYQA"/>
                   </entry>
                   <entry>
-                     <p id="mYfANv"></p>
+                     <p id="mYfANv"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -419,13 +426,13 @@
                      <p id="fCGsca" outputclass="List2">(4) Other significant date (s) (acquisition review board dates, competitive range determination, solicitation amendments, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="wCSGOb"></p>
+                     <p id="wCSGOb"/>
                   </entry>
                   <entry>
-                     <p id="UMsElm"></p>
+                     <p id="UMsElm"/>
                   </entry>
                   <entry>
-                     <p id="adIghI"></p>
+                     <p id="adIghI"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -435,13 +442,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="xpQivu"></p>
+                     <p id="xpQivu"/>
                   </entry>
                   <entry>
-                     <p id="Mdtemi"></p>
+                     <p id="Mdtemi"/>
                   </entry>
                   <entry>
-                     <p id="nllmMB"></p>
+                     <p id="nllmMB"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -449,13 +456,13 @@
                      <p id="aUgQDj">a. Acquisition background</p>
                   </entry>
                   <entry>
-                     <p id="wbGvRW"></p>
+                     <p id="wbGvRW"/>
                   </entry>
                   <entry>
-                     <p id="pohXQi"></p>
+                     <p id="pohXQi"/>
                   </entry>
                   <entry>
-                     <p id="xgnFZE"></p>
+                     <p id="xgnFZE"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -463,13 +470,13 @@
                      <p id="hQQfLQ">b. Discuss period of performance and delivery schedule</p>
                   </entry>
                   <entry>
-                     <p id="mPuOCO"></p>
+                     <p id="mPuOCO"/>
                   </entry>
                   <entry>
-                     <p id="hhbszA"></p>
+                     <p id="hhbszA"/>
                   </entry>
                   <entry>
-                     <p id="TeXLbX"></p>
+                     <p id="TeXLbX"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -477,13 +484,13 @@
                      <p id="tTVPwx">c. Outside influences or unusual time constraints (i.e., Funding limitations, higher level, Congressional influences)</p>
                   </entry>
                   <entry>
-                     <p id="TtZKWL"></p>
+                     <p id="TtZKWL"/>
                   </entry>
                   <entry>
-                     <p id="RwEYeK"></p>
+                     <p id="RwEYeK"/>
                   </entry>
                   <entry>
-                     <p id="AaeLQn"></p>
+                     <p id="AaeLQn"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -491,13 +498,13 @@
                      <p id="kUFWyP">d. Unique features or special pricing provisions (economic price adjustment, incentives, warranties, special progress payments, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="lEeHnw"></p>
+                     <p id="lEeHnw"/>
                   </entry>
                   <entry>
-                     <p id="KLOgWS"></p>
+                     <p id="KLOgWS"/>
                   </entry>
                   <entry>
-                     <p id="FJRrIH"></p>
+                     <p id="FJRrIH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -506,13 +513,13 @@
                      <p id="hyJMLs">individual orders may exceed the SAT. Ensure compliance with all FAR and DLAD fast payment procedures for contracts that will authorize use of these procedures.</p>
                   </entry>
                   <entry>
-                     <p id="qlriwT"></p>
+                     <p id="qlriwT"/>
                   </entry>
                   <entry>
-                     <p id="kzfJDd"></p>
+                     <p id="kzfJDd"/>
                   </entry>
                   <entry>
-                     <p id="dIdKro"></p>
+                     <p id="dIdKro"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -522,13 +529,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="UKFymh"></p>
+                     <p id="UKFymh"/>
                   </entry>
                   <entry>
-                     <p id="xrGQLm"></p>
+                     <p id="xrGQLm"/>
                   </entry>
                   <entry>
-                     <p id="qpjHZQ"></p>
+                     <p id="qpjHZQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -536,13 +543,13 @@
                      <p id="EhpeaW">a. Reasonableness, completeness, cost realism if applicable, and balance</p>
                   </entry>
                   <entry>
-                     <p id="TZNkFo"></p>
+                     <p id="TZNkFo"/>
                   </entry>
                   <entry>
-                     <p id="LeQfzj"></p>
+                     <p id="LeQfzj"/>
                   </entry>
                   <entry>
-                     <p id="rpOYbI"></p>
+                     <p id="rpOYbI"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -550,13 +557,13 @@
                      <p id="PTqUft" outputclass="List2">(1) Description of price analysis technique (s) used, results, and appropriateness in determining price reasonableness and completeness</p>
                   </entry>
                   <entry>
-                     <p id="nNRoBt"></p>
+                     <p id="nNRoBt"/>
                   </entry>
                   <entry>
-                     <p id="qSDvfe"></p>
+                     <p id="qSDvfe"/>
                   </entry>
                   <entry>
-                     <p id="RRvtkE"></p>
+                     <p id="RRvtkE"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -564,13 +571,13 @@
                      <p id="ExnihS">(a) Description of the basis of any escalation rates used for adjusting historical prices or for forecasting option year prices. See DoD Contract Pricing Reference Guide, Volume 2 Quantitative Techniques, Chapter 1 Using Price Index Numbers for potential sources of information, calculating adjustments, and other relevant topics. .</p>
                   </entry>
                   <entry>
-                     <p id="rBSJMx"></p>
+                     <p id="rBSJMx"/>
                   </entry>
                   <entry>
-                     <p id="ZnSrWL"></p>
+                     <p id="ZnSrWL"/>
                   </entry>
                   <entry>
-                     <p id="GfEFPZ"></p>
+                     <p id="GfEFPZ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -578,13 +585,13 @@
                      <p id="wgpAnB">(b) Description of GSA Schedule prices, if any. Contracting officer must check GSA for any relevant price information and document the results</p>
                   </entry>
                   <entry>
-                     <p id="lQqnTg"></p>
+                     <p id="lQqnTg"/>
                   </entry>
                   <entry>
-                     <p id="gzyjlP"></p>
+                     <p id="gzyjlP"/>
                   </entry>
                   <entry>
-                     <p id="OQsJkI"></p>
+                     <p id="OQsJkI"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -592,13 +599,13 @@
                      <p id="UpOcAo" outputclass="List2">(2) Description of the cost realism analysis technique (s) and their result (s) (if performed)</p>
                   </entry>
                   <entry>
-                     <p id="zBEUjV"></p>
+                     <p id="zBEUjV"/>
                   </entry>
                   <entry>
-                     <p id="TIOlht"></p>
+                     <p id="TIOlht"/>
                   </entry>
                   <entry>
-                     <p id="dPEIaL"></p>
+                     <p id="dPEIaL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -606,13 +613,13 @@
                      <p id="rXkUbY" outputclass="List2">(3) Description of assessment of unbalanced pricing and any associated risks</p>
                   </entry>
                   <entry>
-                     <p id="TuybMC"></p>
+                     <p id="TuybMC"/>
                   </entry>
                   <entry>
-                     <p id="XQsdxx"></p>
+                     <p id="XQsdxx"/>
                   </entry>
                   <entry>
-                     <p id="lzRRxL"></p>
+                     <p id="lzRRxL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -620,13 +627,13 @@
                      <p id="dXTtTL" outputclass="List2">(4) Document decision to conduct discussions and date (s). Document decision to award without discussions.</p>
                   </entry>
                   <entry>
-                     <p id="QNteIs"></p>
+                     <p id="QNteIs"/>
                   </entry>
                   <entry>
-                     <p id="rthzGE"></p>
+                     <p id="rthzGE"/>
                   </entry>
                   <entry>
-                     <p id="iauVaH"></p>
+                     <p id="iauVaH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -634,13 +641,13 @@
                      <p id="iJnfMy" outputclass="List2">(5) Description and listing of major differences between the proposal and the final proposal revision prices</p>
                   </entry>
                   <entry>
-                     <p id="CZROvY"></p>
+                     <p id="CZROvY"/>
                   </entry>
                   <entry>
-                     <p id="JwNyqk"></p>
+                     <p id="JwNyqk"/>
                   </entry>
                   <entry>
-                     <p id="uzlUjD"></p>
+                     <p id="uzlUjD"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -648,13 +655,13 @@
                      <p id="cUiJzN">b. Adequate price competition determination description</p>
                   </entry>
                   <entry>
-                     <p id="SoxScl"></p>
+                     <p id="SoxScl"/>
                   </entry>
                   <entry>
-                     <p id="rLRssL"></p>
+                     <p id="rLRssL"/>
                   </entry>
                   <entry>
-                     <p id="rdqiFC"></p>
+                     <p id="rdqiFC"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -662,13 +669,13 @@
                      <p id="NAjOpg" outputclass="List2">(1) Basis of determination statement of adequate price competition</p>
                   </entry>
                   <entry>
-                     <p id="fimnzV"></p>
+                     <p id="fimnzV"/>
                   </entry>
                   <entry>
-                     <p id="HrQKwN"></p>
+                     <p id="HrQKwN"/>
                   </entry>
                   <entry>
-                     <p id="zJbfYm"></p>
+                     <p id="zJbfYm"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -676,13 +683,13 @@
                      <p id="WKnRKX">(a) Best value to the Government and the significance of cost or price to all evaluation factors combined;</p>
                   </entry>
                   <entry>
-                     <p id="VZypvM"></p>
+                     <p id="VZypvM"/>
                   </entry>
                   <entry>
-                     <p id="ySmtWG"></p>
+                     <p id="ySmtWG"/>
                   </entry>
                   <entry>
-                     <p id="tRJvKC"></p>
+                     <p id="tRJvKC"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -690,13 +697,13 @@
                      <p id="YphUWC">(b) Lowest evaluated price; or</p>
                   </entry>
                   <entry>
-                     <p id="ViOcnA"></p>
+                     <p id="ViOcnA"/>
                   </entry>
                   <entry>
-                     <p id="kphHXR"></p>
+                     <p id="kphHXR"/>
                   </entry>
                   <entry>
-                     <p id="xgwBYB"></p>
+                     <p id="xgwBYB"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -704,13 +711,13 @@
                      <p id="YQQtCn">(c) Adequate price competition</p>
                   </entry>
                   <entry>
-                     <p id="FGBBEH"></p>
+                     <p id="FGBBEH"/>
                   </entry>
                   <entry>
-                     <p id="fcUahm"></p>
+                     <p id="fcUahm"/>
                   </entry>
                   <entry>
-                     <p id="cpzFFN"></p>
+                     <p id="cpzFFN"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -718,13 +725,13 @@
                      <p id="dwCaas" outputclass="List2">(2) Definitive statement the offered price selected is fair and reasonable based on adequate price competition.</p>
                   </entry>
                   <entry>
-                     <p id="OzneGq"></p>
+                     <p id="OzneGq"/>
                   </entry>
                   <entry>
-                     <p id="txWGmc"></p>
+                     <p id="txWGmc"/>
                   </entry>
                   <entry>
-                     <p id="EuLUKF"></p>
+                     <p id="EuLUKF"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -734,13 +741,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="YhGIwo"></p>
+                     <p id="YhGIwo"/>
                   </entry>
                   <entry>
-                     <p id="vLJCKg"></p>
+                     <p id="vLJCKg"/>
                   </entry>
                   <entry>
-                     <p id="zQnDcm"></p>
+                     <p id="zQnDcm"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -748,13 +755,13 @@
                      <p id="LttPFK">Listing of Government advisory reports (pricing, technical, should-cost, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="FQeTaD"></p>
+                     <p id="FQeTaD"/>
                   </entry>
                   <entry>
-                     <p id="yYfYkp"></p>
+                     <p id="yYfYkp"/>
                   </entry>
                   <entry>
-                     <p id="HthLLG"></p>
+                     <p id="HthLLG"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -764,13 +771,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="jsHZpX"></p>
+                     <p id="jsHZpX"/>
                   </entry>
                   <entry>
-                     <p id="oaECus"></p>
+                     <p id="oaECus"/>
                   </entry>
                   <entry>
-                     <p id="klpBbc"></p>
+                     <p id="klpBbc"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -780,13 +787,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="XOuiVL"></p>
+                     <p id="XOuiVL"/>
                   </entry>
                   <entry>
-                     <p id="Isvmgc"></p>
+                     <p id="Isvmgc"/>
                   </entry>
                   <entry>
-                     <p id="NbgkKA"></p>
+                     <p id="NbgkKA"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -794,30 +801,28 @@
                      <p id="hMMeVv">Attachments as identified in the document</p>
                   </entry>
                   <entry>
-                     <p id="hQmUUB"></p>
+                     <p id="hQmUUB"/>
                   </entry>
                   <entry>
-                     <p id="ileclI"></p>
+                     <p id="ileclI"/>
                   </entry>
                   <entry>
-                     <p id="fMDAVb"></p>
+                     <p id="fMDAVb"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="p_P53_9015_b" outputclass="Normal"></p>
+      <p id="p_P53_9015_b" outputclass="Normal"/>
       <p id="mRSImH">(b) Price Negotiation Memorandum Format<b>
             <u>–</u>
          </b>Non-Competitive.</p>
       <p id="gpzNiw" outputclass="Normal">Contracting officers shall use the PNM Format<b>
             <u>–</u>
          </b>Non-Competitive as prescribed in <xref href="15.406-3.dita#DLAD_15_406-3">
-            <u>15.406-3</u>
-         </xref>
+            <u>15.406-3</u>15.406-3 Documenting the negotiation.</xref>
          <u>(a)(S-90)</u> and <xref href="15.406-3.dita#DLAD_15_406-3">
-            <u>15.406-3</u>
-         </xref>
+            <u>15.406-3</u>15.406-3 Documenting the negotiation.</xref>
          <u>(a)(S-91)</u>. <i>This Price Negotiation Memorandum</i>
          <i>Format</i>
          <i>–Non-Competitive is for illustration purposes only. It mirrors the fillable version in the contract writing system.</i>
@@ -831,10 +836,10 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -852,25 +857,33 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="frQLXc">Mark “CONTROLLED UNCLASSIFIED INFORMATION (CUI)” pursuant to <xref format="PDF?ver=2020-03-06-100640-800" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800" scope="external">
+                     <p id="frQLXc">Mark “CONTROLLED UNCLASSIFIED INFORMATION (CUI)” pursuant to <xref format="PDF?ver=2020-03-06-100640-800"
+                              href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>DoD Instruction 5200.48, Controlled Unclassified Information (CUI)</u>
-                        </xref> (<xref format="PDF?ver=2020-03-06-100640-800" href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800" scope="external">
+                        </xref> (<xref format="PDF?ver=2020-03-06-100640-800"
+                              href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520048p.PDF?ver=2020-03-06-100640-800</u>
-                        </xref>) and <xref format="pdf?ver=2020-03-06-100640-800" href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800" scope="external">
+                        </xref>) and <xref format="pdf?ver=2020-03-06-100640-800"
+                              href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>DLA Instruction 5200.48, Controlled Unclassified Information (CUI)</u>
-                        </xref> (<xref format="pdf?ver=2020-03-06-100640-800" href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800" scope="external">
+                        </xref> (<xref format="pdf?ver=2020-03-06-100640-800"
+                              href="https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800"
+                              scope="external">
                            <u>https://issuances.dla.mil/Published_Issuances/Controlled%20Unclassified%20Information%20(CUI).pdf?ver=2020-03-06-100640-800</u>
                         </xref>).</p>
                      <p id="gpGwRO">The contracting officer shall include a “Source Selection Information” legend when applicable pursuant to FAR 2.101 and 3.104. Refer to DFARS PGI 215.406-3(11)(A) for documents uploaded into CBAR.</p>
                   </entry>
                   <entry>
-                     <p id="rOdsIl"></p>
+                     <p id="rOdsIl"/>
                   </entry>
                   <entry>
-                     <p id="winStg"></p>
+                     <p id="winStg"/>
                   </entry>
                   <entry>
-                     <p id="DgeWig"></p>
+                     <p id="DgeWig"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -880,13 +893,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="hXwcbc"></p>
+                     <p id="hXwcbc"/>
                   </entry>
                   <entry>
-                     <p id="qjzTwF"></p>
+                     <p id="qjzTwF"/>
                   </entry>
                   <entry>
-                     <p id="cnNOyj"></p>
+                     <p id="cnNOyj"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -894,13 +907,13 @@
                      <p id="eufAGF">a. Contractor name, division or group and location</p>
                   </entry>
                   <entry>
-                     <p id="GgEnfH"></p>
+                     <p id="GgEnfH"/>
                   </entry>
                   <entry>
-                     <p id="hPixRS"></p>
+                     <p id="hPixRS"/>
                   </entry>
                   <entry>
-                     <p id="deEkNJ"></p>
+                     <p id="deEkNJ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -908,13 +921,13 @@
                      <p id="QSWuvY">b. Contract or RFP Number (as applicable include modification number)</p>
                   </entry>
                   <entry>
-                     <p id="zggGwo"></p>
+                     <p id="zggGwo"/>
                   </entry>
                   <entry>
-                     <p id="dpZfrV"></p>
+                     <p id="dpZfrV"/>
                   </entry>
                   <entry>
-                     <p id="DCSbNM"></p>
+                     <p id="DCSbNM"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -922,13 +935,13 @@
                      <p id="wvjNlj">c. Item or service acquired</p>
                   </entry>
                   <entry>
-                     <p id="QiSgxN"></p>
+                     <p id="QiSgxN"/>
                   </entry>
                   <entry>
-                     <p id="arNkhM"></p>
+                     <p id="arNkhM"/>
                   </entry>
                   <entry>
-                     <p id="ZiYZsm"></p>
+                     <p id="ZiYZsm"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -936,13 +949,13 @@
                      <p id="lzRuPW">d. Delivery and/or Period of Performance</p>
                   </entry>
                   <entry>
-                     <p id="SBTbMV"></p>
+                     <p id="SBTbMV"/>
                   </entry>
                   <entry>
-                     <p id="avIceg"></p>
+                     <p id="avIceg"/>
                   </entry>
                   <entry>
-                     <p id="BDVjOb"></p>
+                     <p id="BDVjOb"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -952,13 +965,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="YWVCuA"></p>
+                     <p id="YWVCuA"/>
                   </entry>
                   <entry>
-                     <p id="wViYKF"></p>
+                     <p id="wViYKF"/>
                   </entry>
                   <entry>
-                     <p id="sfoagn"></p>
+                     <p id="sfoagn"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -966,13 +979,13 @@
                      <p id="uPxfgR">a. Date (s) of Negotiation and Agreement</p>
                   </entry>
                   <entry>
-                     <p id="FUtaaD"></p>
+                     <p id="FUtaaD"/>
                   </entry>
                   <entry>
-                     <p id="ApeaUm"></p>
+                     <p id="ApeaUm"/>
                   </entry>
                   <entry>
-                     <p id="qxzqtO"></p>
+                     <p id="qxzqtO"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -980,13 +993,13 @@
                      <p id="fbDOjG">b. Contract action type (new contract, supplemental agreement, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="VfuLiH"></p>
+                     <p id="VfuLiH"/>
                   </entry>
                   <entry>
-                     <p id="EogSKj"></p>
+                     <p id="EogSKj"/>
                   </entry>
                   <entry>
-                     <p id="uPkuEy"></p>
+                     <p id="uPkuEy"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -994,13 +1007,13 @@
                      <p id="sobVrk">c. Tabular summary of cost, FCCOM, profit or fee and price:</p>
                   </entry>
                   <entry>
-                     <p id="YuEdbK"></p>
+                     <p id="YuEdbK"/>
                   </entry>
                   <entry>
-                     <p id="BSLInz"></p>
+                     <p id="BSLInz"/>
                   </entry>
                   <entry>
-                     <p id="XDcQbJ"></p>
+                     <p id="XDcQbJ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1008,13 +1021,13 @@
                      <p id="rXdPaH" outputclass="List2">(1) Proposed and objective positions</p>
                   </entry>
                   <entry>
-                     <p id="YWqIjo"></p>
+                     <p id="YWqIjo"/>
                   </entry>
                   <entry>
-                     <p id="ZQpAKY"></p>
+                     <p id="ZQpAKY"/>
                   </entry>
                   <entry>
-                     <p id="DbZPqM"></p>
+                     <p id="DbZPqM"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1022,13 +1035,13 @@
                      <p id="dhvPZF" outputclass="List2">(2) Proposed, objective and considered negotiated positions</p>
                   </entry>
                   <entry>
-                     <p id="KMUqHp"></p>
+                     <p id="KMUqHp"/>
                   </entry>
                   <entry>
-                     <p id="fejrGW"></p>
+                     <p id="fejrGW"/>
                   </entry>
                   <entry>
-                     <p id="IljTDR"></p>
+                     <p id="IljTDR"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1036,13 +1049,13 @@
                      <p id="mrbzIh" outputclass="List2">(3) Separate summaries for options, etc.</p>
                   </entry>
                   <entry>
-                     <p id="LokukY"></p>
+                     <p id="LokukY"/>
                   </entry>
                   <entry>
-                     <p id="nYOyQa"></p>
+                     <p id="nYOyQa"/>
                   </entry>
                   <entry>
-                     <p id="yKQMXU"></p>
+                     <p id="yKQMXU"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1050,13 +1063,13 @@
                      <p id="HJQjDH" outputclass="List2">(4) Fee or profit rate for each position</p>
                   </entry>
                   <entry>
-                     <p id="FNdYqO"></p>
+                     <p id="FNdYqO"/>
                   </entry>
                   <entry>
-                     <p id="aciMQo"></p>
+                     <p id="aciMQo"/>
                   </entry>
                   <entry>
-                     <p id="sXildk"></p>
+                     <p id="sXildk"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1064,13 +1077,13 @@
                      <p id="giWDhB" outputclass="List2">(5) Award fee pool for each position (as applicable) Ceiling price and percentage for each position (as applicable for cost contracts)</p>
                   </entry>
                   <entry>
-                     <p id="yDJRXs"></p>
+                     <p id="yDJRXs"/>
                   </entry>
                   <entry>
-                     <p id="mLHuZT"></p>
+                     <p id="mLHuZT"/>
                   </entry>
                   <entry>
-                     <p id="GKYAUR"></p>
+                     <p id="GKYAUR"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1078,13 +1091,13 @@
                      <p id="stTIqi" outputclass="List2">(6) Contract type for each position (FFP, FP/EPA, CPFF, CPAF, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="tJuMOv"></p>
+                     <p id="tJuMOv"/>
                   </entry>
                   <entry>
-                     <p id="pemVmf"></p>
+                     <p id="pemVmf"/>
                   </entry>
                   <entry>
-                     <p id="mTYJtw"></p>
+                     <p id="mTYJtw"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1092,13 +1105,13 @@
                      <p id="kHzAcv">d. Approval authority</p>
                   </entry>
                   <entry>
-                     <p id="yGSYcF"></p>
+                     <p id="yGSYcF"/>
                   </entry>
                   <entry>
-                     <p id="ctwZEi"></p>
+                     <p id="ctwZEi"/>
                   </entry>
                   <entry>
-                     <p id="LVQaEq"></p>
+                     <p id="LVQaEq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1106,13 +1119,13 @@
                      <p id="XIORTk" outputclass="List2">(1) Approval authority</p>
                   </entry>
                   <entry>
-                     <p id="apnhan"></p>
+                     <p id="apnhan"/>
                   </entry>
                   <entry>
-                     <p id="rcjyfg"></p>
+                     <p id="rcjyfg"/>
                   </entry>
                   <entry>
-                     <p id="TzWYXp"></p>
+                     <p id="TzWYXp"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1120,13 +1133,13 @@
                      <p id="NuHPvH" outputclass="List2">(2) Approval date, meeting date (s), and participants</p>
                   </entry>
                   <entry>
-                     <p id="fxKmCP"></p>
+                     <p id="fxKmCP"/>
                   </entry>
                   <entry>
-                     <p id="JhtZFI"></p>
+                     <p id="JhtZFI"/>
                   </entry>
                   <entry>
-                     <p id="XUCXyy"></p>
+                     <p id="XUCXyy"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1134,13 +1147,13 @@
                      <p id="pCtoai" outputclass="List2">(3) Limitations and specific approving authority conditions</p>
                   </entry>
                   <entry>
-                     <p id="lwXtBf"></p>
+                     <p id="lwXtBf"/>
                   </entry>
                   <entry>
-                     <p id="ufxUqY"></p>
+                     <p id="ufxUqY"/>
                   </entry>
                   <entry>
-                     <p id="UBTwSM"></p>
+                     <p id="UBTwSM"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1150,13 +1163,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="TAyyBL"></p>
+                     <p id="TAyyBL"/>
                   </entry>
                   <entry>
-                     <p id="EIZdBV"></p>
+                     <p id="EIZdBV"/>
                   </entry>
                   <entry>
-                     <p id="ZQDFsg"></p>
+                     <p id="ZQDFsg"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1164,13 +1177,13 @@
                      <p id="mQwbIh">a. Item or service identification:</p>
                   </entry>
                   <entry>
-                     <p id="iHmbno"></p>
+                     <p id="iHmbno"/>
                   </entry>
                   <entry>
-                     <p id="SASAVr"></p>
+                     <p id="SASAVr"/>
                   </entry>
                   <entry>
-                     <p id="jVUAAN"></p>
+                     <p id="jVUAAN"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1178,13 +1191,13 @@
                      <p id="GuotOH" outputclass="List2">(1) Quantity and type</p>
                   </entry>
                   <entry>
-                     <p id="IcTUNX"></p>
+                     <p id="IcTUNX"/>
                   </entry>
                   <entry>
-                     <p id="syMlPc"></p>
+                     <p id="syMlPc"/>
                   </entry>
                   <entry>
-                     <p id="ObgaGf"></p>
+                     <p id="ObgaGf"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1192,13 +1205,13 @@
                      <p id="gHSDaW" outputclass="List2">(2) Previous buys for the same or similar items</p>
                   </entry>
                   <entry>
-                     <p id="TPtJfL"></p>
+                     <p id="TPtJfL"/>
                   </entry>
                   <entry>
-                     <p id="QHlOmN"></p>
+                     <p id="QHlOmN"/>
                   </entry>
                   <entry>
-                     <p id="mvZUhq"></p>
+                     <p id="mvZUhq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1206,13 +1219,13 @@
                      <p id="HYTXMY" outputclass="List4">(A) Date (s) of recent buys</p>
                   </entry>
                   <entry>
-                     <p id="SWDags"></p>
+                     <p id="SWDags"/>
                   </entry>
                   <entry>
-                     <p id="yJJwyp"></p>
+                     <p id="yJJwyp"/>
                   </entry>
                   <entry>
-                     <p id="pSBtvQ"></p>
+                     <p id="pSBtvQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1220,13 +1233,13 @@
                      <p id="iusZwH" outputclass="List4">(B) Quantity</p>
                   </entry>
                   <entry>
-                     <p id="BYwiXd"></p>
+                     <p id="BYwiXd"/>
                   </entry>
                   <entry>
-                     <p id="VQxUIQ"></p>
+                     <p id="VQxUIQ"/>
                   </entry>
                   <entry>
-                     <p id="Ggmlve"></p>
+                     <p id="Ggmlve"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1234,13 +1247,13 @@
                      <p id="ksUThT" outputclass="List4">(C) Contract type</p>
                   </entry>
                   <entry>
-                     <p id="xFkxTt"></p>
+                     <p id="xFkxTt"/>
                   </entry>
                   <entry>
-                     <p id="UIalPf"></p>
+                     <p id="UIalPf"/>
                   </entry>
                   <entry>
-                     <p id="sXTjfY"></p>
+                     <p id="sXTjfY"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1248,13 +1261,13 @@
                      <p id="ECHSbc" outputclass="List4">(D) Prior unit or total prices (target and finals if applicable and available: document separately recurring and nonrecurring costs)</p>
                   </entry>
                   <entry>
-                     <p id="rRcTiS"></p>
+                     <p id="rRcTiS"/>
                   </entry>
                   <entry>
-                     <p id="CyVaLG"></p>
+                     <p id="CyVaLG"/>
                   </entry>
                   <entry>
-                     <p id="ajKmaP"></p>
+                     <p id="ajKmaP"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1262,13 +1275,13 @@
                      <p id="YKJUfE" outputclass="List4">(E) Current unit or CLIN prices (may attach) with name of item, NSN, part number, quantities, etc., as applicable (document separately recurring nonrecurring costs)</p>
                   </entry>
                   <entry>
-                     <p id="ZJrYjF"></p>
+                     <p id="ZJrYjF"/>
                   </entry>
                   <entry>
-                     <p id="vHJaMB"></p>
+                     <p id="vHJaMB"/>
                   </entry>
                   <entry>
-                     <p id="cUGBEj"></p>
+                     <p id="cUGBEj"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1276,13 +1289,13 @@
                      <p id="sYQkDY" outputclass="List4">(F) Summary explanation of significant differences between the instant buy and most recent historical price (s)</p>
                   </entry>
                   <entry>
-                     <p id="DmuOST"></p>
+                     <p id="DmuOST"/>
                   </entry>
                   <entry>
-                     <p id="BtKTlg"></p>
+                     <p id="BtKTlg"/>
                   </entry>
                   <entry>
-                     <p id="RXPrZD"></p>
+                     <p id="RXPrZD"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1290,13 +1303,13 @@
                      <p id="wkQtYl" outputclass="List4">(G) Stock Position of Items (include date stock position, current unfilled orders, inventory consumption rate, due-in quantities, etc. Discuss any over or under position)</p>
                   </entry>
                   <entry>
-                     <p id="chiikr"></p>
+                     <p id="chiikr"/>
                   </entry>
                   <entry>
-                     <p id="BbrYgm"></p>
+                     <p id="BbrYgm"/>
                   </entry>
                   <entry>
-                     <p id="kEaKAH"></p>
+                     <p id="kEaKAH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1304,13 +1317,13 @@
                      <p id="dIhoUD">b. Explain method for line item or unit prices</p>
                   </entry>
                   <entry>
-                     <p id="lVjZrm"></p>
+                     <p id="lVjZrm"/>
                   </entry>
                   <entry>
-                     <p id="HRoTDS"></p>
+                     <p id="HRoTDS"/>
                   </entry>
                   <entry>
-                     <p id="GtedeP"></p>
+                     <p id="GtedeP"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1318,13 +1331,13 @@
                      <p id="rztFMs">c. Fact-finding and negotiation dates, places, names, titles, and office symbols for the government and the contractor</p>
                   </entry>
                   <entry>
-                     <p id="nYGeWk"></p>
+                     <p id="nYGeWk"/>
                   </entry>
                   <entry>
-                     <p id="MSnLYo"></p>
+                     <p id="MSnLYo"/>
                   </entry>
                   <entry>
-                     <p id="IfSUyQ"></p>
+                     <p id="IfSUyQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1332,13 +1345,13 @@
                      <p id="IUTrTY">d. Principal government and contractor negotiator identified</p>
                   </entry>
                   <entry>
-                     <p id="NUaCsu"></p>
+                     <p id="NUaCsu"/>
                   </entry>
                   <entry>
-                     <p id="FZHbWh"></p>
+                     <p id="FZHbWh"/>
                   </entry>
                   <entry>
-                     <p id="xiRsoy"></p>
+                     <p id="xiRsoy"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1348,13 +1361,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="RUeOON"></p>
+                     <p id="RUeOON"/>
                   </entry>
                   <entry>
-                     <p id="vDXvFB"></p>
+                     <p id="vDXvFB"/>
                   </entry>
                   <entry>
-                     <p id="TJSxhP"></p>
+                     <p id="TJSxhP"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1362,13 +1375,13 @@
                      <p id="GrgVsM">a. Acquisition background (contract type, pricing, etc.) indefinite-delivery contract and why it does or does not apply, surge and sustainment, etc.</p>
                   </entry>
                   <entry>
-                     <p id="jaNmqp"></p>
+                     <p id="jaNmqp"/>
                   </entry>
                   <entry>
-                     <p id="LRAvpV"></p>
+                     <p id="LRAvpV"/>
                   </entry>
                   <entry>
-                     <p id="SiNLKH"></p>
+                     <p id="SiNLKH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1376,13 +1389,13 @@
                      <p id="uzQGXI">b. Period of performance and delivery schedule (address resolution of differences between required, proposed and negotiated)</p>
                   </entry>
                   <entry>
-                     <p id="ONlZxq"></p>
+                     <p id="ONlZxq"/>
                   </entry>
                   <entry>
-                     <p id="gDiTAw"></p>
+                     <p id="gDiTAw"/>
                   </entry>
                   <entry>
-                     <p id="PRiCAH"></p>
+                     <p id="PRiCAH"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1390,13 +1403,13 @@
                      <p id="EguwcS">c. Outside influences and unusual time constraints</p>
                   </entry>
                   <entry>
-                     <p id="ydkFbF"></p>
+                     <p id="ydkFbF"/>
                   </entry>
                   <entry>
-                     <p id="tTNvTy"></p>
+                     <p id="tTNvTy"/>
                   </entry>
                   <entry>
-                     <p id="LGopBV"></p>
+                     <p id="LGopBV"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1404,13 +1417,13 @@
                      <p id="VhbFoe">d. Government furnished facilities, equipment or other support unique to this acquisition</p>
                   </entry>
                   <entry>
-                     <p id="ktQjGZ"></p>
+                     <p id="ktQjGZ"/>
                   </entry>
                   <entry>
-                     <p id="GwiVIJ"></p>
+                     <p id="GwiVIJ"/>
                   </entry>
                   <entry>
-                     <p id="PniSOd"></p>
+                     <p id="PniSOd"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1418,13 +1431,13 @@
                      <p id="ZVlHal">e. Unique features such as should cost, design-to-cost, life cycle cost, special payment procedures, and special provisions (clauses: savings, EPA, progress payments, performance based payments, validation of critical safety item and date , incentives, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="twjxJN"></p>
+                     <p id="twjxJN"/>
                   </entry>
                   <entry>
-                     <p id="RTVoxt"></p>
+                     <p id="RTVoxt"/>
                   </entry>
                   <entry>
-                     <p id="vYFkPa"></p>
+                     <p id="vYFkPa"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1432,13 +1445,13 @@
                      <p id="rKQNeI">f. Fast Payment Procedures. Discuss the authority for using fast payment procedures and whether they will apply to delivery orders issued under the contract. If using fast payment procedures, cite the applicable threshold from 13.402(a) or FAR 13.402(a). If DFARS 213.402(a)(ii) applies, state that individual orders may exceed the SAT. Ensure compliance with all FAR and DLAD fast payment procedures for contracts that will authorize use of these procedures.</p>
                   </entry>
                   <entry>
-                     <p id="KvQLsz"></p>
+                     <p id="KvQLsz"/>
                   </entry>
                   <entry>
-                     <p id="SmBIgj"></p>
+                     <p id="SmBIgj"/>
                   </entry>
                   <entry>
-                     <p id="HACMdq"></p>
+                     <p id="HACMdq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1448,13 +1461,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="YRaRDT"></p>
+                     <p id="YRaRDT"/>
                   </entry>
                   <entry>
-                     <p id="QeRgnT"></p>
+                     <p id="QeRgnT"/>
                   </entry>
                   <entry>
-                     <p id="TIRgnp"></p>
+                     <p id="TIRgnp"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1462,13 +1475,13 @@
                      <p id="bRctZW">a. Discussion of contractor price analysis, government price analysis, or no analysis performed</p>
                   </entry>
                   <entry>
-                     <p id="HWKCbn"></p>
+                     <p id="HWKCbn"/>
                   </entry>
                   <entry>
-                     <p id="KNqmyQ"></p>
+                     <p id="KNqmyQ"/>
                   </entry>
                   <entry>
-                     <p id="yUTYBi"></p>
+                     <p id="yUTYBi"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1476,13 +1489,13 @@
                      <p id="wYZahh" outputclass="List2">(1) Price element summary for proposed, objective, and considered negotiated amount. Discuss the position for proposed, objective and considered negotiated positions by topic.</p>
                   </entry>
                   <entry>
-                     <p id="ezxvFX"></p>
+                     <p id="ezxvFX"/>
                   </entry>
                   <entry>
-                     <p id="zOuxsk"></p>
+                     <p id="zOuxsk"/>
                   </entry>
                   <entry>
-                     <p id="xblYHq"></p>
+                     <p id="xblYHq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1490,13 +1503,13 @@
                      <p id="dEVECR" outputclass="List2">(2) Price reasonableness basis or estimating technique (attach exemption or waiver if used instead of certified cost or pricing data). If using GSA schedule, the contracting officer must include a GSA contract for any relevant price information and document the results</p>
                   </entry>
                   <entry>
-                     <p id="GdKQid"></p>
+                     <p id="GdKQid"/>
                   </entry>
                   <entry>
-                     <p id="XpGLaT"></p>
+                     <p id="XpGLaT"/>
                   </entry>
                   <entry>
-                     <p id="ngrvTp"></p>
+                     <p id="ngrvTp"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1504,13 +1517,13 @@
                      <p id="CLrIdl" outputclass="List2">(3) Identify submission of data other than cost or pricing data necessary to determine a reasonable price. Discuss rationale and required updates (attach sales data, catalogues, competitive price list, independent market prices, other data, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="eEbZPr"></p>
+                     <p id="eEbZPr"/>
                   </entry>
                   <entry>
-                     <p id="HpxAhy"></p>
+                     <p id="HpxAhy"/>
                   </entry>
                   <entry>
-                     <p id="vUQASi"></p>
+                     <p id="vUQASi"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1518,13 +1531,13 @@
                      <p id="LDerTk" outputclass="List2">(4) Identifies submission of subcontractor cost or pricing data necessary to determine a reasonable price. (Even if HCA waived the submission for prime contractor)</p>
                   </entry>
                   <entry>
-                     <p id="JBAhVd"></p>
+                     <p id="JBAhVd"/>
                   </entry>
                   <entry>
-                     <p id="TfTpmC"></p>
+                     <p id="TfTpmC"/>
                   </entry>
                   <entry>
-                     <p id="JvyMiR"></p>
+                     <p id="JvyMiR"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1532,13 +1545,13 @@
                      <p id="mZfPgN" outputclass="List2">(5) Price analysis and objective adjustments resulting from requirement changes</p>
                   </entry>
                   <entry>
-                     <p id="flrOot"></p>
+                     <p id="flrOot"/>
                   </entry>
                   <entry>
-                     <p id="AvwEcp"></p>
+                     <p id="AvwEcp"/>
                   </entry>
                   <entry>
-                     <p id="aDxMfD"></p>
+                     <p id="aDxMfD"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1546,13 +1559,13 @@
                      <p id="tuogDA" outputclass="List2">(6) Significant differences between objective and negotiated amounts</p>
                   </entry>
                   <entry>
-                     <p id="edxnPB"></p>
+                     <p id="edxnPB"/>
                   </entry>
                   <entry>
-                     <p id="qoblxR"></p>
+                     <p id="qoblxR"/>
                   </entry>
                   <entry>
-                     <p id="ZTwImn"></p>
+                     <p id="ZTwImn"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1560,13 +1573,13 @@
                      <p id="yWdzdq" outputclass="List2">(7) Use of advisory information and report (s) to support the objective, including significant differences, objective, and final negotiated agreement.</p>
                   </entry>
                   <entry>
-                     <p id="HbsBMy"></p>
+                     <p id="HbsBMy"/>
                   </entry>
                   <entry>
-                     <p id="LFfPrU"></p>
+                     <p id="LFfPrU"/>
                   </entry>
                   <entry>
-                     <p id="KonZnY"></p>
+                     <p id="KonZnY"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1574,13 +1587,13 @@
                      <p id="gmzArd">b. Discuss analysis and support for proposed, objective and (PNM) negotiated positions</p>
                   </entry>
                   <entry>
-                     <p id="uMzVoL"></p>
+                     <p id="uMzVoL"/>
                   </entry>
                   <entry>
-                     <p id="fcGPky"></p>
+                     <p id="fcGPky"/>
                   </entry>
                   <entry>
-                     <p id="WRRbyC"></p>
+                     <p id="WRRbyC"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1588,13 +1601,13 @@
                      <p id="uuQHXc">c. Identify proposal of record used to baseline the objective.</p>
                   </entry>
                   <entry>
-                     <p id="rvlEam"></p>
+                     <p id="rvlEam"/>
                   </entry>
                   <entry>
-                     <p id="AXNjUs"></p>
+                     <p id="AXNjUs"/>
                   </entry>
                   <entry>
-                     <p id="rFxNus"></p>
+                     <p id="rFxNus"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1602,13 +1615,13 @@
                      <p id="p_SW0035">d. When receiving certified cost and pricing data, a statement of the extent to which the contracting officer relied on contractor provided data except where specifically identified (including agreed to cut-off dates)</p>
                   </entry>
                   <entry>
-                     <p id="OboJhl"></p>
+                     <p id="OboJhl"/>
                   </entry>
                   <entry>
-                     <p id="HzGVLj"></p>
+                     <p id="HzGVLj"/>
                   </entry>
                   <entry>
-                     <p id="CtTLKx"></p>
+                     <p id="CtTLKx"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1616,13 +1629,13 @@
                      <p id="bNIUSS">e. For noncompetitive actions exceeding $1M, the contracting officer must search the Contract Business Analysis Repository (CBAR) and document the results of CBAR search.</p>
                   </entry>
                   <entry>
-                     <p id="vszcGk"></p>
+                     <p id="vszcGk"/>
                   </entry>
                   <entry>
-                     <p id="TBIkjC"></p>
+                     <p id="TBIkjC"/>
                   </entry>
                   <entry>
-                     <p id="FYCGrj"></p>
+                     <p id="FYCGrj"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1630,13 +1643,13 @@
                      <p id="IFneNb">f. When performing cost analysis, major cost element summary with subparagraph index for proposed, objective and considered negotiated amounts (including direct and indirect costs for labor, materials,)</p>
                   </entry>
                   <entry>
-                     <p id="PwtDIj"></p>
+                     <p id="PwtDIj"/>
                   </entry>
                   <entry>
-                     <p id="XdHVrY"></p>
+                     <p id="XdHVrY"/>
                   </entry>
                   <entry>
-                     <p id="WSTgxv"></p>
+                     <p id="WSTgxv"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1644,13 +1657,13 @@
                      <p id="DeOiYJ">g. Discussions of cost analysis performed for each major cost element for contractor proposed, government objective and considered negotiated positions in the following areas:</p>
                   </entry>
                   <entry>
-                     <p id="HVVGIV"></p>
+                     <p id="HVVGIV"/>
                   </entry>
                   <entry>
-                     <p id="aXIbJS"></p>
+                     <p id="aXIbJS"/>
                   </entry>
                   <entry>
-                     <p id="gdPUab"></p>
+                     <p id="gdPUab"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1658,13 +1671,13 @@
                      <p id="NvFVFG" outputclass="List2">(1) Summary breakout of major cost items</p>
                   </entry>
                   <entry>
-                     <p id="EwHTuE"></p>
+                     <p id="EwHTuE"/>
                   </entry>
                   <entry>
-                     <p id="Amcmup"></p>
+                     <p id="Amcmup"/>
                   </entry>
                   <entry>
-                     <p id="oVCZTB"></p>
+                     <p id="oVCZTB"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1672,13 +1685,13 @@
                      <p id="MrpGDG" outputclass="List4">(A) Labor hours by rate category</p>
                   </entry>
                   <entry>
-                     <p id="axyhwO"></p>
+                     <p id="axyhwO"/>
                   </entry>
                   <entry>
-                     <p id="xUzhNz"></p>
+                     <p id="xUzhNz"/>
                   </entry>
                   <entry>
-                     <p id="ZvQwiM"></p>
+                     <p id="ZvQwiM"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1686,13 +1699,13 @@
                      <p id="BAuMZc" outputclass="List4">(B) Identify and discuss indirect rate (s)</p>
                   </entry>
                   <entry>
-                     <p id="ZHMHVU"></p>
+                     <p id="ZHMHVU"/>
                   </entry>
                   <entry>
-                     <p id="aQyYeh"></p>
+                     <p id="aQyYeh"/>
                   </entry>
                   <entry>
-                     <p id="KbvFlC"></p>
+                     <p id="KbvFlC"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1700,13 +1713,13 @@
                      <p id="PoPCnA" outputclass="List4">(C) Materials and other costs by category</p>
                   </entry>
                   <entry>
-                     <p id="oasrvW"></p>
+                     <p id="oasrvW"/>
                   </entry>
                   <entry>
-                     <p id="kbLGno"></p>
+                     <p id="kbLGno"/>
                   </entry>
                   <entry>
-                     <p id="LFzwlW"></p>
+                     <p id="LFzwlW"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1714,13 +1727,13 @@
                      <p id="fUuqgN" outputclass="List4">(D) Subcontractor cost or pricing data</p>
                   </entry>
                   <entry>
-                     <p id="RkjLzS"></p>
+                     <p id="RkjLzS"/>
                   </entry>
                   <entry>
-                     <p id="QKgKUs"></p>
+                     <p id="QKgKUs"/>
                   </entry>
                   <entry>
-                     <p id="qlwIsN"></p>
+                     <p id="qlwIsN"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1728,13 +1741,13 @@
                      <p id="PUWZPm">1. Requirement, availability, adequacy of and reliance on subcontractor cost or pricing data</p>
                   </entry>
                   <entry>
-                     <p id="KuMpyX"></p>
+                     <p id="KuMpyX"/>
                   </entry>
                   <entry>
-                     <p id="BAhNYn"></p>
+                     <p id="BAhNYn"/>
                   </entry>
                   <entry>
-                     <p id="iTUlsS"></p>
+                     <p id="iTUlsS"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1742,13 +1755,13 @@
                      <p id="MVZlkq">2. Sole source or competitive</p>
                   </entry>
                   <entry>
-                     <p id="RUNlnW"></p>
+                     <p id="RUNlnW"/>
                   </entry>
                   <entry>
-                     <p id="sbBLHE"></p>
+                     <p id="sbBLHE"/>
                   </entry>
                   <entry>
-                     <p id="tLOGwc"></p>
+                     <p id="tLOGwc"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1756,13 +1769,13 @@
                      <p id="XfnWit">3. Extent and adequacy of the prime's review</p>
                   </entry>
                   <entry>
-                     <p id="lXljsm"></p>
+                     <p id="lXljsm"/>
                   </entry>
                   <entry>
-                     <p id="EYdHBp"></p>
+                     <p id="EYdHBp"/>
                   </entry>
                   <entry>
-                     <p id="daHyqf"></p>
+                     <p id="daHyqf"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1770,13 +1783,13 @@
                      <p id="inoOmJ">4. Why the contracting officer did not receive certified cost or pricing data when required (attach waiver or describe exemption)</p>
                   </entry>
                   <entry>
-                     <p id="ICTcwZ"></p>
+                     <p id="ICTcwZ"/>
                   </entry>
                   <entry>
-                     <p id="kATCox"></p>
+                     <p id="kATCox"/>
                   </entry>
                   <entry>
-                     <p id="xdduyE"></p>
+                     <p id="xdduyE"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1784,13 +1797,13 @@
                      <p id="wECkUr">5. Why the contracting officer received certified cost or pricing data when not required</p>
                   </entry>
                   <entry>
-                     <p id="rLKwLa"></p>
+                     <p id="rLKwLa"/>
                   </entry>
                   <entry>
-                     <p id="ZQSrPt"></p>
+                     <p id="ZQSrPt"/>
                   </entry>
                   <entry>
-                     <p id="kyvyJc"></p>
+                     <p id="kyvyJc"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1798,13 +1811,13 @@
                      <p id="qUkSOn" outputclass="List4">(E) Basis or estimating method used</p>
                   </entry>
                   <entry>
-                     <p id="glTrqq"></p>
+                     <p id="glTrqq"/>
                   </entry>
                   <entry>
-                     <p id="sTeQrw"></p>
+                     <p id="sTeQrw"/>
                   </entry>
                   <entry>
-                     <p id="DXgPVv"></p>
+                     <p id="DXgPVv"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1812,13 +1825,13 @@
                      <p id="NeqgPk" outputclass="List4">(F) Explanation of contractor data not relied on and reason for using other than contractor's data, identify data used to develop the government's position</p>
                   </entry>
                   <entry>
-                     <p id="mbHSEO"></p>
+                     <p id="mbHSEO"/>
                   </entry>
                   <entry>
-                     <p id="IfFxcT"></p>
+                     <p id="IfFxcT"/>
                   </entry>
                   <entry>
-                     <p id="uyCLQr"></p>
+                     <p id="uyCLQr"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1826,13 +1839,13 @@
                      <p id="ghBlWY" outputclass="List4">(G) Rationale, sources, and currency of the data used to set the objective (include modification change determined to be noncommercial where originally determined commercial)</p>
                   </entry>
                   <entry>
-                     <p id="YFwpra"></p>
+                     <p id="YFwpra"/>
                   </entry>
                   <entry>
-                     <p id="HaGmMM"></p>
+                     <p id="HaGmMM"/>
                   </entry>
                   <entry>
-                     <p id="AZEEHA"></p>
+                     <p id="AZEEHA"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1840,13 +1853,13 @@
                      <p id="xYsSPi" outputclass="List4">(H) Significant differences between the objective and negotiated amounts</p>
                   </entry>
                   <entry>
-                     <p id="hPXUbr"></p>
+                     <p id="hPXUbr"/>
                   </entry>
                   <entry>
-                     <p id="skJNqs"></p>
+                     <p id="skJNqs"/>
                   </entry>
                   <entry>
-                     <p id="zFiORN"></p>
+                     <p id="zFiORN"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1854,13 +1867,13 @@
                      <p id="IZlIwr" outputclass="List4">(I) Use of advisory reports supporting the objective, including significant differences between them, the objective, and the final negotiated agreement</p>
                   </entry>
                   <entry>
-                     <p id="KvGtVH"></p>
+                     <p id="KvGtVH"/>
                   </entry>
                   <entry>
-                     <p id="xvHBhH"></p>
+                     <p id="xvHBhH"/>
                   </entry>
                   <entry>
-                     <p id="vTUXcv"></p>
+                     <p id="vTUXcv"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1868,13 +1881,13 @@
                      <p id="CLNHWD" outputclass="List4">(J) For undefinitized contract actions: actual costs to date, % of completion, trends and, as applicable, the contractor's estimate to complete</p>
                   </entry>
                   <entry>
-                     <p id="dehPZa"></p>
+                     <p id="dehPZa"/>
                   </entry>
                   <entry>
-                     <p id="LAGQGh"></p>
+                     <p id="LAGQGh"/>
                   </entry>
                   <entry>
-                     <p id="mkNjQL"></p>
+                     <p id="mkNjQL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1882,13 +1895,13 @@
                      <p id="pJfgOD" outputclass="List2">(2) With incentive arrangements, describe the basis for share ratio (s) and ceiling price (s)</p>
                   </entry>
                   <entry>
-                     <p id="jCTSiU"></p>
+                     <p id="jCTSiU"/>
                   </entry>
                   <entry>
-                     <p id="qQpNUa"></p>
+                     <p id="qQpNUa"/>
                   </entry>
                   <entry>
-                     <p id="bZOysv"></p>
+                     <p id="bZOysv"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1896,13 +1909,13 @@
                      <p id="pLBmKd" outputclass="List2">(3) Profit (Fee). Explain how the contracting officer developed the objective</p>
                   </entry>
                   <entry>
-                     <p id="cGbaJa"></p>
+                     <p id="cGbaJa"/>
                   </entry>
                   <entry>
-                     <p id="awBoKG"></p>
+                     <p id="awBoKG"/>
                   </entry>
                   <entry>
-                     <p id="umjxXG"></p>
+                     <p id="umjxXG"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1910,13 +1923,13 @@
                      <p id="kIGQux" outputclass="List4">(A) If using WGM, state assigned weights and provide reasoning when weights are below or above normal. (DD 1547 Attached to the PNM)</p>
                   </entry>
                   <entry>
-                     <p id="trqMjH"></p>
+                     <p id="trqMjH"/>
                   </entry>
                   <entry>
-                     <p id="YWnHvK"></p>
+                     <p id="YWnHvK"/>
                   </entry>
                   <entry>
-                     <p id="SkYzqr"></p>
+                     <p id="SkYzqr"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1924,13 +1937,13 @@
                      <p id="PnKRsV" outputclass="List4">(B) If not using WGM, explain why and how the contracting officer developed the profit objective</p>
                   </entry>
                   <entry>
-                     <p id="FOhSgp"></p>
+                     <p id="FOhSgp"/>
                   </entry>
                   <entry>
-                     <p id="txmUyv"></p>
+                     <p id="txmUyv"/>
                   </entry>
                   <entry>
-                     <p id="HFTyGZ"></p>
+                     <p id="HFTyGZ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1938,13 +1951,13 @@
                      <p id="XitkSt" outputclass="List4">(C) List profit or fee rate (s) negotiated. If the contracting officer did not achieve WGM profit objectives during negotiations, explain why and support profit or fee rate negotiated</p>
                   </entry>
                   <entry>
-                     <p id="gkXaEp"></p>
+                     <p id="gkXaEp"/>
                   </entry>
                   <entry>
-                     <p id="wKayRV"></p>
+                     <p id="wKayRV"/>
                   </entry>
                   <entry>
-                     <p id="QaFDxQ"></p>
+                     <p id="QaFDxQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1952,13 +1965,13 @@
                      <p id="KpJrGF">h. Summarize and include a definitive statement on why the negotiated price is fair and reasonable. (Address the 25% limitation on price increases (DFARS 217.7505)</p>
                   </entry>
                   <entry>
-                     <p id="SxsCFy"></p>
+                     <p id="SxsCFy"/>
                   </entry>
                   <entry>
-                     <p id="icOpJV"></p>
+                     <p id="icOpJV"/>
                   </entry>
                   <entry>
-                     <p id="jHiCzl"></p>
+                     <p id="jHiCzl"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1966,13 +1979,13 @@
                      <p id="OWnkET">i. Description of the basis of any escalation rates used for adjusting historical prices and for forecasting option year prices. See DoD Contract Pricing Reference Guide, Volume 2 Quantitative Techniques, Chapter 1 Using Price Index Numbers for potential sources of information, calculating adjustments, and other relevant topics.</p>
                   </entry>
                   <entry>
-                     <p id="uikLBa"></p>
+                     <p id="uikLBa"/>
                   </entry>
                   <entry>
-                     <p id="ZqRwmD"></p>
+                     <p id="ZqRwmD"/>
                   </entry>
                   <entry>
-                     <p id="SJEkKh"></p>
+                     <p id="SJEkKh"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1982,13 +1995,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="qdlEls"></p>
+                     <p id="qdlEls"/>
                   </entry>
                   <entry>
-                     <p id="wzlXnl"></p>
+                     <p id="wzlXnl"/>
                   </entry>
                   <entry>
-                     <p id="JLRtBd"></p>
+                     <p id="JLRtBd"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1996,13 +2009,13 @@
                      <p id="pjPJCu">Listing of Government advisory reports (pricing, technical, should cost, etc.)</p>
                   </entry>
                   <entry>
-                     <p id="BcpJey"></p>
+                     <p id="BcpJey"/>
                   </entry>
                   <entry>
-                     <p id="fFYSFN"></p>
+                     <p id="fFYSFN"/>
                   </entry>
                   <entry>
-                     <p id="knYUxU"></p>
+                     <p id="knYUxU"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2012,13 +2025,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="apWbzl"></p>
+                     <p id="apWbzl"/>
                   </entry>
                   <entry>
-                     <p id="SAzqnR"></p>
+                     <p id="SAzqnR"/>
                   </entry>
                   <entry>
-                     <p id="kIKtVY"></p>
+                     <p id="kIKtVY"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2026,13 +2039,13 @@
                      <p id="iTKpYR">Include signatures of the author of the PNM, contracting officer and (as applicable) approval authority</p>
                   </entry>
                   <entry>
-                     <p id="YvBcYh"></p>
+                     <p id="YvBcYh"/>
                   </entry>
                   <entry>
-                     <p id="yVtbzE"></p>
+                     <p id="yVtbzE"/>
                   </entry>
                   <entry>
-                     <p id="mUnaYL"></p>
+                     <p id="mUnaYL"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2042,13 +2055,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="VgQrfR"></p>
+                     <p id="VgQrfR"/>
                   </entry>
                   <entry>
-                     <p id="jXnCge"></p>
+                     <p id="jXnCge"/>
                   </entry>
                   <entry>
-                     <p id="tyavWk"></p>
+                     <p id="tyavWk"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2056,13 +2069,13 @@
                      <p id="lojefO">a. DD Form 1547 - Weighted Guidelines</p>
                   </entry>
                   <entry>
-                     <p id="zEozho"></p>
+                     <p id="zEozho"/>
                   </entry>
                   <entry>
-                     <p id="oBbAsd"></p>
+                     <p id="oBbAsd"/>
                   </entry>
                   <entry>
-                     <p id="rpQGTz"></p>
+                     <p id="rpQGTz"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2070,13 +2083,13 @@
                      <p id="LYKVmU">b. DD Form 1861 - Facilities Capital Cost of Money (objective only)</p>
                   </entry>
                   <entry>
-                     <p id="YSqtss"></p>
+                     <p id="YSqtss"/>
                   </entry>
                   <entry>
-                     <p id="cuAPAT"></p>
+                     <p id="cuAPAT"/>
                   </entry>
                   <entry>
-                     <p id="Okonyh"></p>
+                     <p id="Okonyh"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -2084,13 +2097,13 @@
                      <p id="nIBxey">c. Other attachments identified in the PNM</p>
                   </entry>
                   <entry>
-                     <p id="DvLzTw"></p>
+                     <p id="DvLzTw"/>
                   </entry>
                   <entry>
-                     <p id="voLywo"></p>
+                     <p id="voLywo"/>
                   </entry>
                   <entry>
-                     <p id="jrDmre"></p>
+                     <p id="jrDmre"/>
                   </entry>
                </row>
             </tbody>

@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_13_402">
    <title outputclass="Heading 3">
       <ph props="autonumber">13.402</ph> Conditions for use.</title>
    <conbody>
-      <p id="MoWKqt">(a) DLA Troop Support Construction and Equipment Prime Vendor programs and DLA Aviation Chemicals and Packaged Petroleum, Oils, and Lubricants requirements for OCONUS are authorized to use fast payment procedures on individual orders up to $150,000. (Refer to PROCLTR 16-03<b>.)</b> DLA Troop Support Construction and Equipment is authorized to use fast payment procedures for its tailored logistics support of FSG 80 requirements on individual orders with a maximum threshold of $35,000 for CONUS and $150,000 for OCONUS. Tailored logistics support contracting initiatives (see <xref href="17.9500.dita#DLAD_17_9500">17.9500</xref>) are prime vendor programs for purposes of these authorities.</p>
-      <p id="rerEwe3">(f) Procuring organizations shall follow internal control procedures at <xref href="PGI_13.402.dita#DLAD_PGI_13_402" outputclass="fm:paraswithautonuminparens">PGI 13.402</xref>(f) to monitor contract actions using fast payment procedures. Contracting officers, contract compliance offices, and procurement policy offices shall ensure compliance with these controls.</p>
+      <p id="MoWKqt">(a) DLA Troop Support Construction and Equipment Prime Vendor programs and DLA Aviation Chemicals and Packaged Petroleum, Oils, and Lubricants requirements for OCONUS are authorized to use fast payment procedures on individual orders up to $150,000. (Refer to PROCLTR 16-03<b>.)</b> DLA Troop Support Construction and Equipment is authorized to use fast payment procedures for its tailored logistics support of FSG 80 requirements on individual orders with a maximum threshold of $35,000 for CONUS and $150,000 for OCONUS. Tailored logistics support contracting initiatives (see <xref href="17.9500.dita#DLAD_17_9500">17.9500 Scope of subpart.</xref>) are prime vendor programs for purposes of these authorities.</p>
+      <p id="rerEwe3">(f) Procuring organizations shall follow internal control procedures at <xref href="PGI_13.402.dita#DLAD_PGI_13_402"
+               outputclass="fm:paraswithautonuminparens">PGI 13.402 Conditions for use.</xref>(f) to monitor contract actions using fast payment procedures. Contracting officers, contract compliance offices, and procurement policy offices shall ensure compliance with these controls.</p>
       <p id="p_P13_404" outputclass="Normal">(S-90) Contracting officers shall only use fast payment procedures for—</p>
       <p id="qvguJq" outputclass="List2">(1) OCONUS DLA Direct shipments supporting Forward Stock Locations (FSL) initiatives if the Government will conduct inspection and acceptance at destination.</p>
       <p id="cXyeQX" outputclass="List2">(2) OCONUS Customer Direct shipments if the Government will conduct inspection and acceptance at destination.</p>

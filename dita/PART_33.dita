@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_33">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 33</ph> – PROTESTS, DISPUTES, AND APPEALS</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 33</ph> – PROTESTS, DISPUTES, AND APPEALS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -46,8 +46,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="33.214.dita#DLAD_33_214">33.214 Alternative dispute resolution
-        (ADR).</xref>
+                        <xref outputclass="fm:TOC" href="33.214.dita#DLAD_33_214">33.214 Alternative dispute resolution (ADR).</xref>
                      </p>
                   </li>
                </ul>

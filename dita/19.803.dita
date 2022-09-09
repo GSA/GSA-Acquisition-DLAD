@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_19_803" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">19.803</ph> Selecting acquisitions for the 8(a) program.</title><conbody><p>(a)(4)(S-90) The contracting officer shall coordinate with the procuring organization small business specialist to ensure follow-on 8(a) contract support is provided for that period of time reflected in the SBA approved business plan.</p><p>(c)(S-90) Contracting officers shall consider the 8(a) program as a possible method of satisfying all new requirements being processed for contract action. Contracting officers shall give special attention to commodities and services expected to be recurring requirements and for which there is a limited number of prospective small business sources.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_19_803" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">19.803</ph> Selecting acquisitions for the 8(a) program.</title>
+   <conbody>
+      <p>(a)(4)(S-90) The contracting officer shall coordinate with the procuring organization small business specialist to ensure follow-on 8(a) contract support is provided for that period of time reflected in the SBA approved business plan.</p>
+      <p>(c)(S-90) Contracting officers shall consider the 8(a) program as a possible method of satisfying all new requirements being processed for contract action. Contracting officers shall give special attention to commodities and services expected to be recurring requirements and for which there is a limited number of prospective small business sources.</p>
+   </conbody>
+</concept>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_11_9001" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">11.9001</ph> Notification of product
+    <title outputclass="Heading 3">
+      <ph props="autonumber">11.9001</ph> Notification of product
         phase–out.</title>
     <conbody>
         <p id="jhgu54">(a) All solicitations and contracts shall include procurement note C02.</p>

@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_6_305-90" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">6.305-90</ph> Oversight program.</title><conbody><p>The oversight required by Defense Pricing and Contracting (DPC) in response to GAO report GAO-14-304, “Federal Contracting: Noncompetitive Contracts Based on Urgency Need Additional Oversight” dated March 26, 2014, is:</p><p>(a) HCAs shall monitor FPDS-NG data monthly for compliance with justification and approval (J&amp;A) signature requirements and posting timelines for awards using the unusual and compelling urgency exception. The FPDS-NG data elements Extent Competed and Reason Not Competed and the FPDS code URG will be used in reporting.</p><p>(b) HCAs shall compile a quarterly report of the results of the monthly data collected as required in 6.305-90(a). Reports shall be submitted to the DLA Acquisition Operations</p><p>Division by the 5th working day after the end of the quarter. The report must include the following information:</p><p outputclass="List2">(1) FPDS-NG data elements: Solicitation number, contract number, original contract award dollarvalue (excluding options), award date, modification number, modification’s dollar value increase, and award date;</p><p outputclass="List2">(2) Period of performance/estimated completion date; J&amp;A approval authority’s name, title, and signature date; and J&amp;A posting date.</p><p outputclass="List2">(3) Identification of all contract actions not in compliance with required J&amp;A approval levels and posting timeframes and corrective action.</p><p>(c) The DLA Acquisition Operations Division will prepare an enterprise summary for the DLA Acquisition Director by the 10th working day after the end of the quarter.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_6_305-90" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.305-90</ph> Oversight program.</title>
+   <conbody>
+      <p>The oversight required by Defense Pricing and Contracting (DPC) in response to GAO report GAO-14-304, “Federal Contracting: Noncompetitive Contracts Based on Urgency Need Additional Oversight” dated March 26, 2014, is:</p>
+      <p>(a) HCAs shall monitor FPDS-NG data monthly for compliance with justification and approval (J&amp;A) signature requirements and posting timelines for awards using the unusual and compelling urgency exception. The FPDS-NG data elements Extent Competed and Reason Not Competed and the FPDS code URG will be used in reporting.</p>
+      <p>(b) HCAs shall compile a quarterly report of the results of the monthly data collected as required in 6.305-90(a). Reports shall be submitted to the DLA Acquisition Operations</p>
+      <p>Division by the 5th working day after the end of the quarter. The report must include the following information:</p>
+      <p outputclass="List2">(1) FPDS-NG data elements: Solicitation number, contract number, original contract award dollarvalue (excluding options), award date, modification number, modification’s dollar value increase, and award date;</p>
+      <p outputclass="List2">(2) Period of performance/estimated completion date; J&amp;A approval authority’s name, title, and signature date; and J&amp;A posting date.</p>
+      <p outputclass="List2">(3) Identification of all contract actions not in compliance with required J&amp;A approval levels and posting timeframes and corrective action.</p>
+      <p>(c) The DLA Acquisition Operations Division will prepare an enterprise summary for the DLA Acquisition Director by the 10th working day after the end of the quarter.</p>
+   </conbody>
+</concept>

@@ -3,13 +3,13 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_34">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 34</ph> – MAJOR SYSTEM ACQUISITION</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 34</ph> – MAJOR SYSTEM ACQUISITION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="34.71.dita#DLAD_34">SUBPART 34.71  – COST AND SOFTWARE DATA REPORTING</xref>
+                  <xref outputclass="fm:TOC" href="34.71.dita#DLAD_34">SUBPART 34.71 – COST AND SOFTWARE DATA REPORTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

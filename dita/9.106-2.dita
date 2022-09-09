@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_9_106-2" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">9.106-2</ph> Requests for preaward surveys
+    <title outputclass="Heading 3">
+      <ph props="autonumber">9.106-2</ph> Requests for preaward surveys
         (PAS).</title>
     <conbody>
         <p>(a) Requests for a formal PAS shall be forwarded to the PAS monitor. Informal PAS may be

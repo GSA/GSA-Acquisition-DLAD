@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_PGI_13_402">
    <title id="5JQP6C" outputclass="Heading 2">
       <ph class="- topic/ph " id="V06MYa" props="autonumber">PGI 13.402</ph> Conditions for use.</title>
@@ -155,11 +156,13 @@
       </p>
       <p id="kRAmXX" outputclass="List2">(5) Contracting officers shall use the SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="1TkWoj">
             <u id="fUasYg">53.9013</u>
-         </xref><xref href="53.9013.dita#DLAD_53_9013/Gltewj" id="Y4b7X2">
+         </xref>
+         <xref href="53.9013.dita#DLAD_53_9013/Gltewj" id="Y4b7X2">
             <u id="mGRF9B">(a)</u>
          </xref> or the alternate SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="fm6jpo">
             <u id="P7fFzr">53.9013</u>
-         </xref> <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" id="qFVuqb">
+         </xref> 
+         <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" id="qFVuqb">
             <u id="lmCl3O">(c)</u>
          </xref>, as applicable, to document the use of fast payment procedures for purchase orders,
          when applicable, and verify compliance with the applicable fast payment threshold. If the
@@ -175,9 +178,15 @@
          shall address the use of fast payment procedures in the contract award.</p>
       <p id="OhDXiM" outputclass="List2">(6) Contracting officers shall follow the job aids
          identified below when creating and maintaining contracts using fast payment procedures.</p>
-      <p id="sGnJuu" outputclass="List3">(i) Enterprise Core Component (ECC) Job Aids. See <xref format="aspx" href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx" id="KdJKtk" scope="external">
+      <p id="sGnJuu" outputclass="List3">(i) Enterprise Core Component (ECC) Job Aids. See <xref format="aspx"
+               href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
+               id="KdJKtk"
+               scope="external">
             <u id="81pKwb">EBS ONLINE HELP</u>
-         </xref> (<xref format="aspx" href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx" id="BjroPy" scope="external">
+         </xref> (<xref format="aspx"
+               href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
+               id="BjroPy"
+               scope="external">
             <u id="CvVHgP">https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx</u>
          </xref>), select “eProcurement”, and select “LTCs (Outline Agreements) in ECC” to
          access—</p>
@@ -185,9 +194,15 @@
          Agreement</p>
       <p id="vSfMiH" outputclass="List4">(B) ECC 778 OA Upload Spreadsheet Data Dictionary</p>
       <p id="zKbtYd" outputclass="List3">(ii) Supplier Relationship Management (SRM) Job Aids. See
-            <xref format="aspx" href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx" id="qqhzWm" scope="external">
+            <xref format="aspx"
+               href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
+               id="qqhzWm"
+               scope="external">
             <u id="jd5GkU">EBS ONLINE HELP</u>
-         </xref> (<xref format="aspx" href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx" id="ATU6Cr" scope="external">
+         </xref> (<xref format="aspx"
+               href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
+               id="ATU6Cr"
+               scope="external">
             <u id="qXf5Gm">https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx</u>
          </xref>), select “eProcurement”, and select “LTCs in SRM” to access—</p>
       <p id="uuZbLe" outputclass="List4">(A) Long-Term Contracts (LTCs): Creating and Maintaining

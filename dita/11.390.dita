@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_11_390" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">11.390</ph> Unused former Government
+    <title outputclass="Heading 3">
+      <ph props="autonumber">11.390</ph> Unused former Government
         surplus property.</title>
     <conbody>
         <p id="ff34a">(a) Solicitations shall include procurement note C04 unless there is a documented
@@ -28,7 +30,8 @@
         <p>(Address): _____________________________________________________________________</p>
         <p>(2) The offeror currently possesses the material Yes __No __</p>
         <p>If yes, the offeror purchased the material from a Government selling agency or other
-                source<b>.</b></p>
+                source<b>.</b>
+      </p>
         <p>Yes __No __ If yes, provide the following:</p>
         <p>Government Selling Agency: ______________________________________________________</p>
         <p>Contract Number: _______________________________________________________________</p>

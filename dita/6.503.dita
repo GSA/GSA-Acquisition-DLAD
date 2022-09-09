@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_6_503" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">6.503</ph> Annual reporting requirements.</title><conbody><p>(b)(2) Procuring organization competition advocates shall submit their annual competition report to the DLA Acquisition Operations Division by 15 November each year.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_6_503" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.503</ph> Annual reporting requirements.</title>
+   <conbody>
+      <p>(b)(2) Procuring organization competition advocates shall submit their annual competition report to the DLA Acquisition Operations Division by 15 November each year.</p>
+   </conbody>
+</concept>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_7">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 7</ph> – ACQUISITION PLANNING</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 7</ph> – ACQUISITION PLANNING</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -24,8 +24,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="7.103.dita#DLAD_7_103">7.103 Agency–head
-        responsibilities.</xref>
+                        <xref outputclass="fm:TOC" href="7.103.dita#DLAD_7_103">7.103 Agency–head responsibilities.</xref>
                      </p>
                   </li>
                   <li>

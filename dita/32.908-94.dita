@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_32_908-94" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">32.908-94</ph> Transporter proof of
+    <title outputclass="Heading 3">
+      <ph props="autonumber">32.908-94</ph> Transporter proof of
         delivery (TPD).</title>
     <conbody>
         <p>Insert procurement note H15, Transporter Proof of Delivery, in solicitations and awards
-            for supplies when applicable in accordance with <xref href="32.905.dita#DLAD_32_905">32.905</xref><xref href="32.905.dita#DLAD_32_905/sdd23c">(c)</xref><xref href="32.905.dita#DLAD_32_905/ererS90">(S-90)(1)</xref><xref href="32.905.dita#DLAD_32_905/ererS90i">(i)</xref> and when either the clause at
+            for supplies when applicable in accordance with <xref href="32.905.dita#DLAD_32_905"/>
+         <xref href="32.905.dita#DLAD_32_905/sdd23c"/>
+         <xref href="32.905.dita#DLAD_32_905/ererS90"/>
+         <xref href="32.905.dita#DLAD_32_905/ererS90i"/> and when either the clause at
             52.232-25, Prompt Payment, or the clause at 52.212-4, Contract Terms and Conditions –
             Commercial Items, is used.</p>
         <p>*****</p>

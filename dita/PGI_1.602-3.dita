@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_PGI_1_602-3">
    <title outputclass="Heading 3">
       <ph props="autonumber">PGI 1.602-3</ph> Ratification of unauthorized commitments.</title>
    <conbody>
-      <p id="uDgeOg">(c) Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3" outputclass="fm:paraswithautonuminparens">1.602-3</xref>
+      <p id="uDgeOg">(c) Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3"
+               outputclass="fm:paraswithautonuminparens">1.602-3 Ratification of unauthorized commitments.</xref>
          <u>(c)(S-90):</u>
       </p>
       <p id="ylSPet" outputclass="Ctr normal">
@@ -33,7 +35,8 @@
       <p id="GELMbF" outputclass="Normal">1. Prepare a determination and findings (D&amp;F). Include the following:</p>
       <p id="QgfPoU" outputclass="Normal">a. [ ] Summary statement of facts;</p>
       <p id="DANWIb" outputclass="Normal">b. [ ] Office of Counsel coordination;</p>
-      <p id="cPxOPR" outputclass="Normal">c. [ ] Recommendation for approval of ratification action or other disposition (see <xref href="1.602-3.dita#DLAD_1_602-3" outputclass="fm:paraswithautonuminparens">1.602-3</xref>
+      <p id="cPxOPR" outputclass="Normal">c. [ ] Recommendation for approval of ratification action or other disposition (see <xref href="1.602-3.dita#DLAD_1_602-3"
+               outputclass="fm:paraswithautonuminparens">1.602-3 Ratification of unauthorized commitments.</xref>
          <u>(d)</u> if requesting relief on a quantum meruit basis);</p>
       <p id="QUFasa" outputclass="List1">d. [ ] Documentation of corrective action(s) taken or proposed to prevent a recurrence; and</p>
       <p id="XjBLnr" outputclass="Normal">e. [ ] Documentation affirming the circumstances meet the following limitations in FAR 1.602-3(c):</p>
@@ -46,9 +49,9 @@
       <p id="qIDrnh" outputclass="List3">(vii) [ ] Proper type of funds are available and were available at the time the unauthorized commitment was made.</p>
       <p id="vMpFSg" outputclass="List3">(viii) [ ] The ratification is in accordance with any other limitations prescribed under local/regional procedures.</p>
       <p id="AruZgc">(d) Nonratifiable claims.</p>
-      <p id="nBRWzh" outputclass="Normal">Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3">1.602-3</xref>
-         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d">Nonratifiable claims</xref>
-         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d_S92">.</xref>:</p>
+      <p id="nBRWzh" outputclass="Normal">Use the following checklist as prescribed at <xref href="1.602-3.dita#DLAD_1_602-3">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d">1.602-3 Ratification of unauthorized commitments.</xref>
+         <xref href="1.602-3.dita#DLAD_1_602-3/p_P1_602_3_d_S92">1.602-3 Ratification of unauthorized commitments.</xref>:</p>
       <p id="teWQaV" outputclass="Ctr normal">
          <b>Quantum Meruit Checklist.</b>
       </p>

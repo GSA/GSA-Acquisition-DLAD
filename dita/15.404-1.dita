@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_15_404-1" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">15.404-1</ph> Proposal analysis
+    <title outputclass="Heading 3">
+      <ph props="autonumber">15.404-1</ph> Proposal analysis
         techniques.</title>
     <conbody>
         <p id="p_P15_404_1_a">(a) General.</p>

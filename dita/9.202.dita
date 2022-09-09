@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_9_202" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">9.202</ph> Policy.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">9.202</ph> Policy.</title>
     <conbody>
         <p>(a)(1) The CCO is the designee.</p>
         <p outputclass="List3">(i) QPL and QML qualification requirement documentation and
