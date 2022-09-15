@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_38" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">Part 38</ph> - FEDERAL SUPPLY SCHEDULE CONTRACTING</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_38">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 38</ph> – FEDERAL SUPPLY SCHEDULE CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_38.90.dita#DLAD_SUBPART_38_90">Subpart 38.90 - DLA-MANAGED FEDERAL SUPPLY SCHEDULES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_38.90.dita#DLAD_SUBPART_38_90">SUBPART 38.90 DLA–MANAGED FEDERAL SUPPLY SCHEDULES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -23,7 +24,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="38.9002.dita#DLAD_38_9002">38.9002 DLA-Managed Federal Supply Schedules for FedMall.</xref>
+                        <xref outputclass="fm:TOC" href="38.9002.dita#DLAD_38_9002">38.9002 DLA–Managed Federal Supply Schedules for FedMall.</xref>
                      </p>
                   </li>
                </ul>

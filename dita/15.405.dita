@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_15_405" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">15.405</ph> Price negotiation.</title>
-   <conbody>
-      <p>(a)(S-90) For every price reasonableness determination, the contracting officer shall
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_15_405" xml:lang="en-US">
+    <title outputclass="Heading 3"><ph props="autonumber">15.405</ph> Price negotiation.</title>
+    <conbody>
+        <p>(a)(S-90) For every price reasonableness determination, the contracting officer shall
             accomplish price or cost analysis, as appropriate, to determine the price to be either
             reasonable or unreasonable.&#xa0;The offeror's refusal to provide and/or certify cost or
             pricing data or information other than cost or pricing data does not relieve the
             contracting officer from the requirement to perform a proposal analysis; and such
             refusal does not provide a sufficient basis for determining the price unfair or
             unreasonable.</p>
-      <p id="p_P15_405_d_S90">(d)(S-90).When award is still necessary, even though the contracting
+        <p id="p_P15_405_d_S90">(d)(S-90).When award is still necessary, even though the contracting
             officer determines a price, profit, or fee is unreasonable, or when the contracting
             officer cannot determine if a price, profit, or fee is reasonable, the contracting
             officer shall refer the contract action to a level above the contracting officer in
@@ -26,10 +25,7 @@
             CCO documenting the results of the negotiations and the reason the award is necessary.
             The contracting officer shall append a copy of this memorandum to the Price Negotiation
             Memorandum (PNM) in the contract file, if a PNM is applicable. If the contracting
-            officer uses the SAAD format, in accordance with <xref href="13.106-3.dita#DLAD_13_106-3">
-            <u>13.106-3</u>13.106-3 Award and documentation.</xref>
-         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
-            <u>(b)</u>13.106-3 Award and documentation.</xref>, the contracting officer shall append the memorandum to the
+            officer uses the SAAD format, in accordance with <xref href="13.106-3.dita#DLAD_13_106-3"><u>13.106-3</u></xref><xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b"><u>(b)</u></xref>, the contracting officer shall append the memorandum to the
             SAAD.</p>
-   </conbody>
+    </conbody>
 </concept>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_47" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">Part 47</ph> - TRANSPORTATION</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_47">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 47</ph> – TRANSPORTATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_47.3.dita#DLAD_SUBPART_47_3">Subpart 47.3 - TRANSPORTATION IN SUPPLY CONTRACTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_47.3.dita#DLAD_SUBPART_47_3">SUBPART 47.3 – TRANSPORTATION IN SUPPLY CONTRACTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -23,12 +24,13 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="47.305-3-90.dita#DLAD_47_305-3-90">47.305-3-90 First Destination Transportation (FDT), Government-arranged transportation.</xref>
+                        <xref outputclass="fm:TOC" href="47.305-3-90.dita#DLAD_47_305-3-90">47.305-3-90 First Destination
+        Transportation (FDT), Government–arranged transportation.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="47.305-3-91.dita#DLAD_47_305-3-91">47.305-3-91 First Destination Transportation (FDT) program - shipments originating from outside the contiguous United States.</xref>
+                        <xref outputclass="fm:TOC" href="47.305-3-91.dita#DLAD_47_305-3-91">47.305-3-91 First Destination Transportation (FDT) program – shipments originating from outside the contiguous United States.</xref>
                      </p>
                   </li>
                   <li>
@@ -38,7 +40,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="47.305-10-90.dita#DLAD_47_305-10-90">47.305-10-90 Procurement notes for export shipping and U.S. Territories.</xref>
+                        <xref outputclass="fm:TOC" href="47.305-10-90.dita#DLAD_47_305-10-90">47.305-10-90 Procurement notes for
+        export shipping and U.S. Territories.</xref>
                      </p>
                   </li>
                   <li>

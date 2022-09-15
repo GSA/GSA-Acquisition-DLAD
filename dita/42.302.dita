@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_42_302" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_42_302">
    <title outputclass="Heading 3">
       <ph props="autonumber">42.302</ph> Contract administration functions.</title>
    <conbody>
       <p id="xgyWyg">(a) The contracting officer shall follow the approved contract management plan
          (CMP) (reference <xref href="7.105.dita#DLAD_7_105">
-            <u>7.105</u>7.105 Contents of written acquisition plans.</xref>(b)(19)).</p>
+            <u>7.105</u>
+         </xref>(b)(19)).</p>
       <p id="RCaeMM" outputclass="List2">(13)(B)(1) Contracting officers shall designate the payment
          office as DoD Activity Address Code (DoDAAC) SL4701 for Enterprise Business System (EBS)
          contracts, except for contracts with progress or performance based payments and cost type
@@ -28,8 +29,8 @@
          PAR processing times in Enclosure 2, paragraph 5.(a)(1) of DLAI 5025.18.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
             <tbody>
                <row rowsep="1">
                   <entry>

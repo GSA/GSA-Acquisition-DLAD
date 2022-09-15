@@ -1,10 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_16_190" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">16.190</ph> Long-term contracting.</title>
-   <conbody>
-      <p outputclass="Normal">Contracting officers shall establish and process LTCs in accordance with the following:</p>
-      <p outputclass="Normal">Use LTCs for stock replenishment consumable items that have frequent, consistent, and predictable demands, as well as non-replenishment items having at least 12 demands per year. Renew items currently on LTC, provided they have had at least 4 demands in the previous year. Exclude items if they have 2 years DLA stock on hand, unless the PLT is 18 months or greater or there is no planned buy within 2 years. The DLR sites will follow the<b> </b>Military Service procedures for managing items on LTCs.</p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_16_190" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">16.190</ph> Long–term contracting.</title><conbody><p outputclass="Normal">Contracting officers shall establish and process LTCs in accordance with the following:</p><p outputclass="Normal">Use LTCs for stock replenishment consumable items that have frequent, consistent, and predictable demands, as well as non-replenishment items having at least 12 demands per year. Renew items currently on LTC, provided they have had at least 4 demands in the previous year. Exclude items if they have 2 years DLA stock on hand, unless the PLT is 18 months or greater or there is no planned buy within 2 years. The DLR sites will follow the<b> </b>Military Service procedures for managing items on LTCs.</p></conbody></concept>

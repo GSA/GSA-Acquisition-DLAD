@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_39_204" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">39.204</ph> Exceptions.</title>
-   <conbody>
-      <p outputclass="Normal">Contracting officers shall coordinate with Office of Counsel and DLA Information Operations, Section 508 office when seeking an exception to the requirement for an acquisition of EIT supplies or services to meet the applicable accessibility standards at 36 CFR Part 1194, EIT Accessibility Standards.</p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_39_204" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">39.204</ph> Exceptions.</title><conbody><p outputclass="Normal">Contracting officers shall coordinate with Office of Counsel and DLA Information Operations, Section 508 office when seeking an exception to the requirement for an acquisition of EIT supplies or services to meet the applicable accessibility standards at 36 CFR Part 1194, EIT Accessibility Standards.</p></conbody></concept>

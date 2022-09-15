@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_33_2" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_SUBPART_33_2">
    <title outputclass="Heading 2 Subpart">
-      <ph props="autonumber">Subpart 33.2</ph> - DISPUTES AND APPEALS</title>
+      <ph props="autonumber">SUBPART 33.2</ph> – DISPUTES AND APPEALS</title>
    <conbody>
       <p id="ftSGzW" outputclass="normal Ctr">
          <i>(Revised December 16, 2016 through PROCLTR 2017-04)</i>

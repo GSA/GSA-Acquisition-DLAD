@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_4_7303-1" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">4.7303-1</ph> General.</title>
-   <conbody>
-      <p outputclass="Normal">Contracting officers shall follow the guidance at DFARS PGI
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_4_7303-1" xml:lang="en-US">
+    <title outputclass="Heading 3"><ph props="autonumber">4.7303-1</ph> General.</title>
+    <conbody>
+        <p outputclass="Normal">Contracting officers shall follow the guidance at DFARS PGI
             204.7303-1(a) and (b), Safeguarding Covered Defense Information and Cyber Incident
             Reporting, Procedures, General.</p>
-      <p>(a) In addition to the requirements at DFARS PGI 204.7303-1(a):</p>
-      <p outputclass="List2">(1) For services and items without a material master that require
+        <p>(a) In addition to the requirements at DFARS PGI 204.7303-1(a):</p>
+        <p outputclass="List2">(1) For services and items without a material master that require
             access to controlled technical data or information<b>, </b>the requiring activity will
             provide a performance work statement (PWS) or performance specification that identifies
             the need for contractors to access covered defense information (CDI). Contracting
@@ -17,19 +16,19 @@
             and conditions that may potentially arise after award that may result in the generation
             of CDI to confirm the requiring activity identified the need for contractors to access
             CDI.</p>
-      <p outputclass="List2">(2) For NSN and LSN items that require access to controlled technical
+        <p outputclass="List2">(2) For NSN and LSN items that require access to controlled technical
             data or information, the product specialist will update the Purchase Order Text (POT) to
             include Standard Text Objects (STOs) RD002, Covered Defense Information Applies, or
             RD003, Covered Defense Information Potentially Applies; and RQ032, Export Control of
             Technical Data (see 25.7901-4(S-90). These STOs constitute notice to contracting
             officers that the requiring activity expects the solicitation to result in a contract,
             task order, or delivery order that will involve controlled technical information.</p>
-      <p>(b) DLA may require additional contractor qualifications to access controlled technical
-            information. For export-controlled items, see subpart <xref href="SUBPART_25.79.dita" xtrc="25.79" />.</p>
-      <p outputclass="Normal">(S-90) The requiring activity may be internal to DLA or external.
+        <p>(b) DLA may require additional contractor qualifications to access controlled technical
+            information. For export-controlled items, see subpart <xref href="SUBPART_25.79.dita" xtrc="25.79">SUBPART 25.79</xref>.</p>
+        <p outputclass="Normal">(S-90) The requiring activity may be internal to DLA or external.
             Contracting officers should coordinate with the supply planner or other customer-facing
             personnel to identify the requiring activity, if unknown. Contracting officers should
             collaborate with the requiring activity to identify covered defense information and/or
             operationally critical support.</p>
-   </conbody>
+    </conbody>
 </concept>

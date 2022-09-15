@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_4_71" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_SUBPART_4_71">
    <title outputclass="Ctr 2 heading Subpart">
-      <ph props="autonumber">Subpart 4.71</ph> - UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</title>
+      <ph props="autonumber">SUBPART 4.71</ph> – UNIFORM CONTRACT LINE ITEM NUMBERING SYSTEM</title>
    <conbody>
       <p id="to0Epy"></p>
    </conbody>

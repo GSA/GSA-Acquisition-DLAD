@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_11" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">Part 11</ph> - DESCRIBING AGENCY NEEDS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_11">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 11</ph> – DESCRIBING AGENCY NEEDS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.1.dita#DLAD_SUBPART_11_1">Subpart 11.1 - SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.1.dita#DLAD_SUBPART_11_1">SUBPART 11.1 – SELECTING AND DEVELOPING REQUIREMENTS DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -20,7 +21,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.2.dita#DLAD_SUBPART_11_2">Subpart 11.2 - USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.2.dita#DLAD_SUBPART_11_2">SUBPART 11.2 – USING AND MAINTAINING REQUIREMENTS DOCUMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -42,7 +43,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.3.dita#DLAD_SUBPART_11_3">Subpart 11.3 - ACCEPTABLE MATERIAL</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.3.dita#DLAD_SUBPART_11_3">SUBPART 11.3 – ACCEPTABLE MATERIAL</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -52,7 +53,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="11.390.dita#DLAD_11_390">11.390 Unused former Government surplus property.</xref>
+                        <xref outputclass="fm:TOC" href="11.390.dita#DLAD_11_390">11.390 Unused former Government
+        surplus property.</xref>
                      </p>
                   </li>
                   <li>
@@ -60,16 +62,16 @@
                         <xref outputclass="fm:TOC" href="11.391.dita#DLAD_11_391">11.391 Part numbered items.</xref>
                      </p>
                   </li>
-                  <li rev="change Please">
+                  <li rev="change Please change Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="11.392.dita#DLAD_11_392">11.392 Traceability documentation.</xref>
+                        <xref outputclass="fm:TOC" href="11.392.dita#DLAD_11_392">11.392Traceability documentation.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.4.dita#DLAD_SUBPART_11_4">Subpart 11.4 - DELIVERY OR PERFORMANCE SCHEDULES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.4.dita#DLAD_SUBPART_11_4">SUBPART 11.4 – DELIVERY OR PERFORMANCE SCHEDULES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -91,7 +93,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.5.dita#DLAD_SUBPART_11_5">Subpart 11.5 - LIQUIDATED DAMAGES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.5.dita#DLAD_SUBPART_11_5">SUBPART 11.5 – LIQUIDATED DAMAGES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -103,7 +105,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.6.dita#DLAD_SUBPART_11_6">Subpart 11.6 - PRIORITIES AND ALLOCATIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.6.dita#DLAD_SUBPART_11_6">SUBPART 11.6 – PRIORITIES AND ALLOCATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -115,7 +117,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.7.dita#DLAD_SUBPART_11_7">Subpart 11.7 - VARIATION IN QUANTITY</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.7.dita#DLAD_SUBPART_11_7">SUBPART 11.7 – VARIATION IN QUANTITY</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -127,19 +129,20 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.90.dita#DLAD_SUBPART_11_90">Subpart 11.90 - PRODUCT PHASE-OUT</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.90.dita#DLAD_SUBPART_11_90">SUBPART 11.90 – PRODUCT PHASE–OUT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="11.9001.dita#DLAD_11_9001">11.9001 Notification of product phase-out.</xref>
+                        <xref outputclass="fm:TOC" href="11.9001.dita#DLAD_11_9001">11.9001 Notification of product
+        phase–out.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.91.dita#DLAD_SUBPART_11_91">Subpart 11.91 - ADDITIVE MANUFACTURING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.91.dita#DLAD_SUBPART_11_91">SUBPART 11.91 – ADDITIVE MANUFACTURING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -151,7 +154,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_11.92.dita#DLAD_SUBPART_11_92">Subpart 11.92 - FEDERAL AVIATION ADMINISTRATION (FAA) CERTIFIED PARTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_11.92.dita#DLAD_SUBPART_11_92">SUBPART 11.92 – FEDERAL AVIATION ADMINISTRATION (FAA) CERTIFIED PARTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

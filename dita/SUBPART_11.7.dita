@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_SUBPART_11_7" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_SUBPART_11_7">
    <title outputclass="heading 2 Subpart Ctr">
-      <ph props="autonumber">Subpart 11.7</ph> - VARIATION IN QUANTITY</title>
+      <ph props="autonumber">SUBPART 11.7</ph> – VARIATION IN QUANTITY</title>
    <conbody>
       <p id="BBEdRz" outputclass="normal Ctr">
          <i>(Revised September 9, 2016 through PROCLTR 2016-09)</i>

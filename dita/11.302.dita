@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_11_302" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">11.302</ph> Policy.</title>
-   <conbody>
-      <p id="ereD3r">(b) Acceptable material includes unused former Government surplus property unless
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_11_302" xml:lang="en-US">
+    <title outputclass="Heading 3"><ph props="autonumber">11.302</ph> Policy.</title>
+    <conbody>
+        <p id="ereD3r">(b) Acceptable material includes unused former Government surplus property unless
             restricted by the ESA. Offers for used, reconditioned, or remanufactured supplies must
             be coordinated with the product specialist. When the product specialist coordinates with
             the ESA, the ESA evaluation cost shall be included as an evaluation factor.</p>
-   </conbody>
+    </conbody>
 </concept>

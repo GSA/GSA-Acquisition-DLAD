@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_25_7301" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">25.7301</ph> General.</title>
-   <conbody>
-      <p>(c)(iv) DEVIATION 2016-03 implements an exception granted to DLA by the Defense Security Cooperation Agency (DSCA) to allow FMS medical equipment and medical systems that the contracting officer has determined require manufacturer or distributor delivery and installation to be shipped as f.o.b. destination.</p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_25_7301" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">25.7301</ph> General.</title><conbody><p>(c)(iv) DEVIATION 2016-03 implements an exception granted to DLA by the Defense Security Cooperation Agency (DSCA) to allow FMS medical equipment and medical systems that the contracting officer has determined require manufacturer or distributor delivery and installation to be shipped as f.o.b. destination.</p></conbody></concept>

@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_4_7103-2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">4.7103-2</ph> Numbering procedures.</title>
-   <conbody>
-      <p outputclass="Normal">DEVIATION 20-01 authorizes DLA Disposition Services to use a hazardous waste (HW) Profile-Based CLIN/sub-CLIN numbering structure. This deviation expires on November 17, 2022.</p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_4_7103-2" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">4.7103-2</ph> Numbering procedures.</title><conbody><p outputclass="Normal">DEVIATION 20-01 authorizes DLA Disposition Services to use a hazardous waste (HW) Profile-Based CLIN/sub-CLIN numbering structure. This deviation expires on November 17, 2022.</p></conbody></concept>

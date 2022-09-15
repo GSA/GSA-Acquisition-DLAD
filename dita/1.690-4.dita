@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_1_690-4" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">1.690-4</ph> Strategic contract (STRATCON)        oversight.</title>
-   <conbody>
-      <p>(a) The SPE and the Senior Services Manager (SSM) (for acquisition of services) reserve
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_1_690-4" xml:lang="en-US">
+    <title outputclass="Heading 3"><ph props="autonumber">1.690-4</ph> Strategic contract (STRATCON)
+        oversight.</title>
+    <conbody>
+        <p>(a) The SPE and the Senior Services Manager (SSM) (for acquisition of services) reserve
             the right to review any acquisition.</p>
-      <p>(b) Procuring organizations shall report forecasted strategic contracts as defined in
-            DLAD <xref href="2.101.dita">
-            <u>2.101</u>
-         </xref> to the DLA Acquisition Operations
+        <p>(b) Procuring organizations shall report forecasted strategic contracts as defined in
+            DLAD <xref href="2.101.dita"><u>2.101</u></xref> to the DLA Acquisition Operations
             Division by the 10th of each month. The DLA Acquisition Operations Division will
             recommend acquisitions or contracts to be reviewed by the SPE/SSM.</p>
-      <p>(c) The SPE/SSM shall advise the HCAs of acquisitions that have been selected for
+        <p>(c) The SPE/SSM shall advise the HCAs of acquisitions that have been selected for
             review.</p>
-      <p>(d) HCAs shall consider holding Acquisition Strategy Review Panels (ASRPs) and Integrated
-            Acquisition Review Boards (IARBs) for strategic contracts (see definitions in <xref href="2.101.dita">
-            <u>2.101</u>
-         </xref>).</p>
-   </conbody>
+        <p>(d) HCAs shall consider holding Acquisition Strategy Review Panels (ASRPs) and Integrated
+            Acquisition Review Boards (IARBs) for strategic contracts (see definitions in <xref href="2.101.dita"><u>2.101</u></xref>).</p>
+    </conbody>
 </concept>

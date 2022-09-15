@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_53_9013" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_53_9013">
    <title outputclass="Heading 3">
       <ph props="autonumber">53.9013</ph> Simplified acquisition procedures.</title>
    <conbody>
       <p id="Gltewj">(a) <i>Simplified Acquisition Award Documentation (SAAD).</i>
       </p>
       <p id="mbazqX" outputclass="Normal">Contracting officers at DLA Aviation, DLA Land and
-         Maritime, and DLA Troop Support shall use the following format as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" xtrc="13.106-3">13.106-3 Award and documentation.</xref>
-         <xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
-            <u>(b)</u>13.106-3 Award and documentation.</xref>, <xref href="13.501.dita#DLAD_13_501" xtrc="13.501">13.501 Special documentation requirements.</xref>
-         <xref href="13.501.dita#DLAD_13_501/rer2eB">
-            <u>(b)</u>13.501 Special documentation requirements.</xref>
-         <xref href="13.501.dita#DLAD_13_501/rre3B3">
-            <u>(3)</u>13.501 Special documentation requirements.</xref>, and <xref href="15.406-1.dita#DLAD_15_406-1" xtrc="15.406-1">15.406-1 Prenegotiation objectives.</xref>
-         <xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1">
-            <u>15.406-1(b)(1)</u>15.406-1 Prenegotiation objectives.</xref>. (Mark “FOR OFFICIAL USE ONLY”, when applicable, at the bottom of the outside of
+         Maritime, and DLA Troop Support shall use the following format as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" xtrc="13.106-3">13.106-3</xref><xref href="13.106-3.dita#DLAD_13_106-3/p_P13_106_3_b">
+            <u>(b)</u>
+         </xref>, <xref href="13.501.dita#DLAD_13_501" xtrc="13.501">13.501</xref><xref href="13.501.dita#DLAD_13_501/rer2eB">
+            <u>(b)</u>
+         </xref><xref href="13.501.dita#DLAD_13_501/rre3B3">
+            <u>(3)</u>
+         </xref>, and <xref href="15.406-1.dita#DLAD_15_406-1" xtrc="15.406-1">15.406-1</xref><xref href="15.406-1.dita#DLAD_15_406-1/fdfdb1">
+            <u>15.406-1(b)(1)</u>
+         </xref>. (Mark “FOR OFFICIAL USE ONLY”, when applicable, at the bottom of the outside of
          the front cover (if there is one), the title page, the first page, and the outside of the
          back cover (if there is one) pursuant to DOD Manual 5200.1, Vol 4, Enclosure 3,
          2.c.(3)(b).) <i>This Simplified Acquisition Award Documentation (SAAD) format is for
@@ -42,11 +42,11 @@
       <p id="kubnvN" outputclass="Normal">☐ Procurement is a First Time Buy</p>
       <p id="qClJSR" outputclass="Normal">☐ Commercial</p>
       <p id="hzoLbr" outputclass="Normal">☐ For non-competitive actions over $1M Contract Business
-         Analysis Repository (CBAR) was checked IAW DLAD <xref href="15.404-1.dita#DLAD_15_404-1" xtrc="15.404-1">15.404-1 Proposal analysis techniques.</xref>
-         <xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a">
-            <u>(a)</u>15.404-1 Proposal analysis techniques.</xref>
-         <xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a_5_S90">
-            <u>(5)(S-90)</u>15.404-1 Proposal analysis techniques.</xref>
+         Analysis Repository (CBAR) was checked IAW DLAD <xref href="15.404-1.dita#DLAD_15_404-1" xtrc="15.404-1">15.404-1</xref><xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a">
+            <u>(a)</u>
+         </xref><xref href="15.404-1.dita#DLAD_15_404-1/p_P15_404_1_a_5_S90">
+            <u>(5)(S-90)</u>
+         </xref>
       </p>
       <p id="pqXyVO" outputclass="Normal">☐ Fast Pay (FAR 13.402(a)-(f))</p>
       <p id="SmwHNQ" outputclass="Normal">☐ Special Emergency Procurement Authority (SEPA)
@@ -75,7 +75,7 @@
       </p>
       <p id="IrbUQx" outputclass="Normal">
          <b>Limitation on Price Increases (DFARS 217.7505/DLAD</b>
-         <xref href="17.7505.dita#DLAD_17_7505" xtrc="17.7505">17.7505 Limitations on price increases.</xref>
+         <xref href="17.7505.dita#DLAD_17_7505" xtrc="17.7505">17.7505</xref>
          <b>):</b>
       </p>
       <p id="kgicmq" outputclass="Normal">For Micro-Purchases:</p>
@@ -99,9 +99,9 @@
          <b>Basis for Award- <u>FAR</u>
             <u>13.106-3(a), DLAD 13.106-3(a) &amp; DLAD</u>
          </b>
-         <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3">15.406-3 Documenting the negotiation.</xref>
-         <xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
-            <u>(a)(11)</u>15.406-3 Documenting the negotiation.</xref>
+         <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3">15.406-3</xref><xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
+            <u>(a)(11)</u>
+         </xref>
          <b>
             <u>:</u>
          </b>
@@ -188,11 +188,11 @@
             Memorandum for Record (MRCICDM).</i>
       </p>
       <p id="kXRnRn" outputclass="Normal">The contracting officer shall use the MRCICDM format as
-         prescribed in <xref href="13.501.dita#DLAD_13_501" xtrc="13.501)">13.501 Special documentation requirements.</xref>
-         <xref href="13.501.dita#DLAD_13_501/rer2eB">
-            <u>(b)</u>13.501 Special documentation requirements.</xref>
-         <xref href="13.501.dita#DLAD_13_501/rre3B3">
-            <u>(3)</u>13.501 Special documentation requirements.</xref>. The contracting officer shall include a “Source Selection Information” legend when
+         prescribed in <xref href="13.501.dita#DLAD_13_501" xtrc="13.501)">13.501</xref><xref href="13.501.dita#DLAD_13_501/rer2eB">
+            <u>(b)</u>
+         </xref><xref href="13.501.dita#DLAD_13_501/rre3B3">
+            <u>(3)</u>
+         </xref>. The contracting officer shall include a “Source Selection Information” legend when
          applicable pursuant to FAR 2.101 and 3.104. Procuring organizations may append the MRCICDM
          to the acquisition plan, and the acquisition plan may refer to the MRCICDM in sections
          regarding market research and sustainability. <i>This Market Research for Commercial Items
@@ -465,9 +465,9 @@
       <p id="sXdGXy" outputclass="Normal">Buyer: PR#:</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
             <tbody>
                <row>
                   <entry>
@@ -553,8 +553,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
             <tbody>
                <row>
                   <entry>
@@ -605,8 +605,8 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
             <tbody>
                <row>
                   <entry>
@@ -633,8 +633,8 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
             <tbody>
                <row>
                   <entry>
@@ -663,7 +663,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
             <tbody>
                <row>
                   <entry>
@@ -757,11 +757,11 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="5">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
             <tbody>
                <row>
                   <entry>
@@ -911,7 +911,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
             <tbody>
                <row>
                   <entry>
@@ -942,7 +942,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
             <tbody>
                <row>
                   <entry>
@@ -967,7 +967,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
             <tbody>
                <row>
                   <entry>
@@ -997,7 +997,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" />
             <tbody>
                <row>
                   <entry>

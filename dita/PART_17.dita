@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_17" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">Part 17</ph> - SPECIAL CONTRACTING METHODS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_17">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 17</ph> – SPECIAL CONTRACTING METHODS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.1.dita#DLAD_SUBPART_17_1">Subpart 17.1 - MULTIYEAR CONTRACTING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.1.dita#DLAD_SUBPART_17_1">SUBPART 17.1 – MULTIYEAR CONTRACTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -20,7 +21,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.2.dita#DLAD_SUBPART_17_2">Subpart 17.2 - OPTIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.2.dita#DLAD_SUBPART_17_2">SUBPART 17.2 – OPTIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -42,7 +43,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.5.dita#DLAD_SUBPART_17_5">Subpart 17.5 - INTERAGENCY ACQUISITIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.5.dita#DLAD_SUBPART_17_5">SUBPART 17.5 –INTERAGENCY ACQUISITIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -57,14 +58,14 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="17.590.dita#DLAD_17_590">17.590 Follow-up procedures for non-Economy Act transactions.</xref>
+                        <xref outputclass="fm:TOC" href="17.590.dita#DLAD_17_590">17.590 Follow–up procedures for non–Economy Act transactions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.74.dita#DLAD_SUBPART_17_74">17.74 SUBPART - UNDEFINITIZED CONTRACT ACTIONS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.74.dita#DLAD_SUBPART_17_74">SUBPART 17.74 – UNDEFINITIZED CONTRACT ACTIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -81,7 +82,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.75.dita#DLAD_SUBPART_17_75">Subpart 17.75 - ACQUISITION OF REPLENISHMENT PARTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.75.dita#DLAD_SUBPART_17_75">SUBPART 17.75 – ACQUISITION OF REPLENISHMENT PARTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -93,7 +94,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.91.dita#DLAD_SUBPART_17_91">Subpart 17.91 - USE OF PUBLIC MANUFACTURERS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.91.dita#DLAD_SUBPART_17_91">SUBPART 17.91 – USE OF PUBLIC MANUFACTURERS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -105,7 +106,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.92.dita#DLAD_SUBPART_17_92">Subpart 17.92 - REOPENER REQUIREMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.92.dita#DLAD_SUBPART_17_92">SUBPART 17.92 – REOPENER REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -127,7 +128,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.93.dita#DLAD_SUBPART_17_93">Subpart 17.93 - SURGE AND SUSTAINMENT (S&amp;S)</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.93.dita#DLAD_SUBPART_17_93">SUBPART 17.93 – SURGE AND SUSTAINMENT (S&amp;S)</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -164,7 +165,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_17.95.dita#DLAD_SUBPART_17_95">Subpart 17.95 - TAILORED LOGISTICS SUPPORT CONTRACTING</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_17.95.dita#DLAD_SUBPART_17_95">SUBPART 17.95 – TAILORED LOGISTICS SUPPORT CONTRACTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

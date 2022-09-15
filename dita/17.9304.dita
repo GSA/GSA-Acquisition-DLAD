@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_17_9304" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="DLAD_17_9304">
    <title outputclass="Heading 3">
       <ph props="autonumber">17.9304</ph> Description/specifications, instructions to offerors, and evaluation factors.</title>
    <conbody>
@@ -66,17 +66,16 @@
       <p id="MeBxEZ" outputclass="Normal">(3) The contracting officer will include the S&amp;S price in the overall price evaluation.</p>
       <p id="ZGnnzo" outputclass="Normal">*****</p>
       <p id="lPgCzb">(h) The contracting officer, after coordination with the industrial specialist, submits requests for changes or exceptions to the above procurement notes to the DLA Acquisition Programs Division for approval.</p>
-      <p id="DSF432er">
-         <b>17.9305 Warstopper Program Material Buffer Availability.</b>
-      </p>
+   
+      <p id="DSF432er"><b>17.9305 Warstopper Program Material Buffer Availability.</b></p>
       <p id="DhcOOk" outputclass="Normal">Contracting officers shall include procurement note C07 in solicitations and long-term supply contracts to notify suppliers that may be candidates to support industrial mobilization and/or material disruptions of the potential availability of key raw materials.</p>
       <p id="oACNun" outputclass="Normal">*****</p>
       <p id="eLfOXP" outputclass="Normal">C07 Warstopper Program Material Buffer Availability (JAN 2021)</p>
       <p id="snuJoX" outputclass="Normal">(1) The Warstopper Program Material Buffer (Buffer) helps decrease lead times for raw material to support defense contracts relating to military systems with a wartime requirement. The <xref format="html" href="https://ibms.dape.dla.mil/wicap" scope="external">
-            <u>Worldwide Web Industrial Capabilities Program (WICAP)</u>
-         </xref> website (<xref format="html" href="https://ibms.dape.dla.mil/wicap" scope="external">
-            <u>https://ibms.dape.dla.mil/wicap</u>
-         </xref>) identifies current material buffer suppliers and materials.If buffer material is unavailable or the quantity of material is inadequate to complete the requirement, the contractor shall contact the contracting officer representative (COR) for guidance. When a buffer is established, the contractor shall use the following process to submit requests for buffer material. A defense contractor (or sub-tier contractor supporting a prime contractor) with a current, active U.S. Government contract shall submit a valid request to use buffer material to the COR for the respective buffer material. The COR will review the submittal and approve or disapprove the request. The contractor shall include the following information in the request:</p>
+         <u>Worldwide Web Industrial Capabilities Program (WICAP)</u>
+      </xref> website (<xref format="html" href="https://ibms.dape.dla.mil/wicap" scope="external">
+         <u>https://ibms.dape.dla.mil/wicap</u>
+      </xref>) identifies current material buffer suppliers and materials.If buffer material is unavailable or the quantity of material is inadequate to complete the requirement, the contractor shall contact the contracting officer representative (COR) for guidance. When a buffer is established, the contractor shall use the following process to submit requests for buffer material. A defense contractor (or sub-tier contractor supporting a prime contractor) with a current, active U.S. Government contract shall submit a valid request to use buffer material to the COR for the respective buffer material. The COR will review the submittal and approve or disapprove the request. The contractor shall include the following information in the request:</p>
       <p id="jxbkZO" outputclass="Normal">(a) Requestor’s name;</p>
       <p id="rCzCjv" outputclass="Normal">(b) U.S. Government contract number;</p>
       <p id="TjFcPY" outputclass="Normal">(c) Defense Priorities and Allocations System (DPAS) rating;</p>
@@ -120,8 +119,8 @@
       <p id="hGLaFV" outputclass="Normal">*****</p>
       <p id="HfxWHn" outputclass="Normal">L20 Surge and Sustainment (S&amp;S) – Capability Assessment Plan (CAP) – DLA Troop Support – Medical (FEB 2017)</p>
       <p id="AyKxwF" outputclass="Normal">Offerors must complete the CAP electronically using the industrial preparedness system (IPSYS) industrial capability survey tool through the <xref format="aspx" href="https://www.medical.dla.mil/registration/consent/default.aspx" scope="external">
-            <u>DLA Troop Support DMM online Directorate of Medical Materiel</u>
-         </xref>, single sign-on application website at<ph> </ph>
+         <u>DLA Troop Support DMM online Directorate of Medical Materiel</u>
+      </xref>, single sign-on application website at<ph> </ph>
          <xref format="aspx" href="https://www.medical.dla.mil/registration/consent/default.aspx" scope="external">
             <u>https://www.medical.dla.mil/registration/consent/default.aspx</u>
          </xref>.</p>
@@ -147,5 +146,6 @@
       <p id="UtFoHn" outputclass="Normal">(3) The contracting officer will include the S&amp;S price in the overall price evaluation.</p>
       <p id="Afzyac" outputclass="Normal">*****</p>
       <p id="ppCfCk">(h) The contracting officer, after coordination with the industrial specialist, submits requests for changes or exceptions to the above procurement notes to the DLA Acquisition Programs Division for approval.</p>
+   
    </conbody>
 </concept>

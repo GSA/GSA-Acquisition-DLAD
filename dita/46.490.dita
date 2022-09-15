@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_46_490" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">46.490</ph> Oversight of DoD supply chain integrity.</title>
-   <conbody>
-      <p outputclass="Normal">Quality Notifications (QNs) for product quality deficiency reports (PQDRs), supply discrepancy reports (SDRs), Government Industry Data Exchange Program (GIDEP) documents, or testing requirements will be processed to the contracting officer in workflow. The QN coordinator may require the contracting officer to suspend the open procurement action(s) pending investigation and/or will require return of the material to the contractor.</p>
-      <p outputclass="Normal">QNs relating to suspect material shall be retained in the QN coordinator workflow for processing. If contracting officer support is required, a task will be submitted to them.</p>
-      <p outputclass="Normal">Any concern of suspect material entering the supply chain shall be referred to the Counterfeit Material/Unauthorized Product Substitution (CM/UPS) team.</p>
-   </conbody>
-</concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_46_490" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">46.490</ph> Oversight of DoD supply chain integrity.</title><conbody><p outputclass="Normal">Quality Notifications (QNs) for product quality deficiency reports (PQDRs), supply discrepancy reports (SDRs), Government Industry Data Exchange Program (GIDEP) documents, or testing requirements will be processed to the contracting officer in workflow. The QN coordinator may require the contracting officer to suspend the open procurement action(s) pending investigation and/or will require return of the material to the contractor.</p><p outputclass="Normal">QNs relating to suspect material shall be retained in the QN coordinator workflow for processing. If contracting officer support is required, a task will be submitted to them.</p><p outputclass="Normal">Any concern of suspect material entering the supply chain shall be referred to the Counterfeit Material/Unauthorized Product Substitution (CM/UPS) team.</p></conbody></concept>

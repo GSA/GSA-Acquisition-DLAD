@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_53" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">Part 53</ph> - FORMS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_53">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 53</ph> – FORMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_53.2.dita#DLAD_SUBPART_53_2">Subpart 53.2 - PRESCRIPTION OF FORMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_53.2.dita#DLAD_SUBPART_53_2">SUBPART 53.2 – PRESCRIPTION OF FORMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -47,7 +48,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_53.3.dita#DLAD_SUBPART_53_3">Subpart 53.3 - ILLUSTRATION OF FORMS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_53.3.dita#DLAD_SUBPART_53_3">SUBPART 53.3 – ILLUSTRATION OF FORMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -59,7 +60,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_53.90.dita#DLAD_SUBPART_53_90">Subpart 53.90 - FORMATS AND TEMPLATES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_53.90.dita#DLAD_SUBPART_53_90">SUBPART 53.90 – FORMATS AND TEMPLATES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -77,9 +78,9 @@
                         <xref outputclass="fm:TOC" href="53.9013.dita#DLAD_53_9013">53.9013 Simplified acquisition procedures.</xref>
                      </p>
                   </li>
-                  <li rev="Please changechange Please">
+                  <li rev="Please change Please change change Please change Please change Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="53.9015.dita#DLAD_53_9015">53.9015 Contracting by negotiation.</xref>
+                        <xref outputclass="fm:TOC" href="53.9015.dita#DLAD_53_9015">53.9015Contracting by negotiation.</xref>
                      </p>
                   </li>
                </ul>

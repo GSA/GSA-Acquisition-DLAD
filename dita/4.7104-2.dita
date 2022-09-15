@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_4_7104-2" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">4.7104-2</ph> Numbering        procedures.</title>
-   <conbody>
-      <p>Reference <xref href="4.7103-2.dita#DLAD_4_7103-2">
-            <u>4.7103-2</u>4.7103-2 Numbering procedures.</xref>.</p>
-   </conbody>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="DLAD_4_7104-2" xml:lang="en-US">
+    <title outputclass="Heading 3"><ph props="autonumber">4.7104-2</ph> Numbering
+        procedures.</title>
+    <conbody>
+        <p>Reference <xref href="4.7103-2.dita#DLAD_4_7103-2"><u>4.7103-2</u></xref>.</p>
+    </conbody>
 </concept>

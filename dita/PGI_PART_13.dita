@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PGI_PART_13" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="Ctr 1 heading">
-         <ph props="autonumber">PGI Part 13</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PGI_PART_13">
+      <title outputclass="Ctr 1 heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PGI PART 13</ph> – SIMPLIFIED ACQUISITION PROCEDURES</title>
       <body>
          <ul otherprops="TOC">
             <li>

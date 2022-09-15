@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="DLAD_PART_22" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 heading Ctr">
-         <ph props="autonumber">Part 22</ph> - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_22">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">PART 22</ph> – APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -13,7 +14,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_22.1.dita#DLAD_SUBPART_22_1">Subpart 22.1 - BASIC LABOR POLICIES</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_22.1.dita#DLAD_SUBPART_22_1">SUBPART 22.1 – BASIC LABOR POLICIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -25,7 +26,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_22.15.dita#DLAD_SUBPART_22_15">Subpart 22.15 - PROHIBITION OF ACQUISITION OF PRODUCTS PRODUCED BY FORCED OR INDENTURED CHILD LABOR</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_22.15.dita#DLAD_SUBPART_22_15">SUBPART 22.15 – PROHIBITION OF ACQUISITION OF PRODUCTS PRODUCED BY FORCED OR INDENTURED CHILD LABOR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -37,7 +38,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="SUBPART_22.74.dita#DLAD_SUBPART_22_74">Subpart 22.74 - RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS</xref>
+                  <xref outputclass="fm:TOC" href="SUBPART_22.74.dita#DLAD_SUBPART_22_74">SUBPART 22.74 – RESTRICTIONS ON THE USE OF MANDATORY ARBITRATION AGREEMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
