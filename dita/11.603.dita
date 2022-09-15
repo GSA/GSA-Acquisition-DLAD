@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_11_603" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">11.603</ph> Procedures.</title><conbody><p outputclass="Normal"><xref href="https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf" scope="external" format="pdf"><u>DLA Instruction 1211,  Industrial Capabilities Program (ICP) - Administer Enabling Statutory/Regulatory Programs </u></xref>(<xref href="https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf" scope="external" format="pdf"><u>https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf</u></xref>)<b> </b>contains the specific DLA procedures.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_11_603" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">11.603</ph> Procedures.</title>
+   <conbody>
+      <p outputclass="Normal">
+         <xref href="https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf"
+               scope="external"
+               format="pdf">
+            <u>DLA Instruction 1211,  Industrial Capabilities Program (ICP) - Administer Enabling Statutory/Regulatory Programs </u>
+         </xref>(<xref href="https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://www.dla.mil/Portals/104/Documents/J5StrategicPlansPolicy/PublicIssuances/i1211.pdf</u>
+         </xref>)<b> </b>contains the specific DLA procedures.</p>
+   </conbody>
+</concept>

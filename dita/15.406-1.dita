@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_15_406-1" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">15.406-1</ph> Prenegotiation
+    <title outputclass="Heading 3">
+      <ph props="autonumber">15.406-1</ph> Prenegotiation
         objectives.</title>
     <conbody>
         <p id="fdfdb1">(b)(1) For acquisitions above the SAT, except for those noted within (b)(2) of this

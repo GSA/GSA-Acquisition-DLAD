@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_9_405-1" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">9.405-1</ph> Continuation of current contracts.</title><conbody><p outputclass="Normal">(S-90) Authorization for novation of a contract or change of name agreement held by a contractor debarred or suspended by any Federal executive agency or proposed for debarment by any DoD component shall be coordinated with the SACI through Office of Counsel prior to such authorization.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_9_405-1" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.405-1</ph> Continuation of current contracts.</title>
+   <conbody>
+      <p outputclass="Normal">(S-90) Authorization for novation of a contract or change of name agreement held by a contractor debarred or suspended by any Federal executive agency or proposed for debarment by any DoD component shall be coordinated with the SACI through Office of Counsel prior to such authorization.</p>
+   </conbody>
+</concept>

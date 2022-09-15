@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_17_7505" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">17.7505</ph> Limitations on price increases.</title><conbody><p>(a)(1) The prior price may reflect a unit price paid or a price that has never been paid, because the item may have never been ordered on any contract vehicle. If the replenishment part was priced and placed on a long term contract (LTC), but no orders were issued for the item prior to any scheduled contract price adjustment, the contracting officer shall use the current effective LTC price as the basis for comparison to any proposed adjusted LTC price to determine if there has been an increase of 25% or more over the most recent 12-month period. (2) The threshold percentage increase for procurements valued under the micro-purchase threshold is 51 percent.</p><p>(b) The contracting officer shall notify the HCA by email and retain the message in the contract file. HCAs may delegate receipt of the email notification to the CCO, Director of Procurement Process Support, Pricing Office, or other like designee in the HCA’s support area; but shall not delegate receipt to any individual within the contracting officer’s chain of command below the CCO.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_17_7505" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.7505</ph> Limitations on price increases.</title>
+   <conbody>
+      <p>(a)(1) The prior price may reflect a unit price paid or a price that has never been paid, because the item may have never been ordered on any contract vehicle. If the replenishment part was priced and placed on a long term contract (LTC), but no orders were issued for the item prior to any scheduled contract price adjustment, the contracting officer shall use the current effective LTC price as the basis for comparison to any proposed adjusted LTC price to determine if there has been an increase of 25% or more over the most recent 12-month period. (2) The threshold percentage increase for procurements valued under the micro-purchase threshold is 51 percent.</p>
+      <p>(b) The contracting officer shall notify the HCA by email and retain the message in the contract file. HCAs may delegate receipt of the email notification to the CCO, Director of Procurement Process Support, Pricing Office, or other like designee in the HCA’s support area; but shall not delegate receipt to any individual within the contracting officer’s chain of command below the CCO.</p>
+   </conbody>
+</concept>

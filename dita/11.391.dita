@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_11_391" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">11.391</ph> Part numbered items.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">11.391</ph> Part numbered items.</title>
     <conbody>
         <p id="hht345">(a) Offers for part numbered items may be other than exactly stated in the PID due to a
             variety of reasons such as administrative changes, engineering changes, reverse

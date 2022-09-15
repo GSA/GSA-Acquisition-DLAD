@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_37">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 37</ph> – SERVICE CONTRACTING</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 37</ph> – SERVICE CONTRACTING</title>
       <body>
          <ul otherprops="TOC">
             <li>

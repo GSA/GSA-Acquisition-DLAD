@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_13_303">
    <title outputclass="Heading 3">
       <ph props="autonumber">13.303</ph> Blanket purchase agreements (BPAs).</title>
    <conbody>
-      <p id="vtGh4i"></p>
+      <p id="vtGh4i"/>
    </conbody>
 </concept>

@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_46_202-4" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">46.202-4</ph> Higher–level contract quality requirements.</title><conbody><p>(a) The product specialist determines when higher-level contract quality requirements are required based on a review of the technical data package, ESA requirement, criticality and complexity of the item, or history of quality deficiencies. The product specialist will enter the higher-level contract quality requirement into the Document Management System, if applicable. The higher-level contract quality requirement will be incorporated into the PID in solicitations and contract awards from the Material Master. The higher-level contract quality requirement will be pre-populated in the fill-in for FAR clause 52.246-11.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_46_202-4" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">46.202-4</ph> Higher–level contract quality requirements.</title>
+   <conbody>
+      <p>(a) The product specialist determines when higher-level contract quality requirements are required based on a review of the technical data package, ESA requirement, criticality and complexity of the item, or history of quality deficiencies. The product specialist will enter the higher-level contract quality requirement into the Document Management System, if applicable. The higher-level contract quality requirement will be incorporated into the PID in solicitations and contract awards from the Material Master. The higher-level contract quality requirement will be pre-populated in the fill-in for FAR clause 52.246-11.</p>
+   </conbody>
+</concept>

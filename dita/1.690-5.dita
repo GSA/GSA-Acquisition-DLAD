@@ -1,3 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_690-5" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">1.690-5</ph> Business case analysis (BCA).</title><conbody><p outputclass="Normal">In accordance with <xref href="https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf" scope="external" format="pdf"><u>DLAI 5010.06, Business Case Analysis</u></xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf" scope="external" format="pdf"><u>https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf</u></xref>), and Office of Management and Budget Circular A-94, procuring organizations shall—</p><p>(a) Conduct appropriate cost analyses to validate the acquisition strategy, including cost-benefit analyses.</p><p>(b) Revalidate any BCA performed in support of the acquisition strategy prior to each change in the acquisition strategy or every five years, whichever occurs first.</p><p>(c) Include in BCAs for services an independent government cost estimate (IGCE) in accordance with guidance at <xref href="https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf" scope="external" format="pdf"><u>DoD Independent Government Cost Estimate (IGCE) Handbook for Services Acquisition</u></xref><ph><u> </u></ph>(<xref href="https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf" scope="external" format="pdf"><u>https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf</u></xref>).</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_1_690-5" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.690-5</ph> Business case analysis (BCA).</title>
+   <conbody>
+      <p outputclass="Normal">In accordance with <xref href="https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf"
+               scope="external"
+               format="pdf">
+            <u>DLAI 5010.06, Business Case Analysis</u>
+         </xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://issue-p.dla.mil/Published_Issuances/i5010.06.pdf</u>
+         </xref>), and Office of Management and Budget Circular A-94, procuring organizations shall—</p>
+      <p>(a) Conduct appropriate cost analyses to validate the acquisition strategy, including cost-benefit analyses.</p>
+      <p>(b) Revalidate any BCA performed in support of the acquisition strategy prior to each change in the acquisition strategy or every five years, whichever occurs first.</p>
+      <p>(c) Include in BCAs for services an independent government cost estimate (IGCE) in accordance with guidance at <xref href="https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf"
+               scope="external"
+               format="pdf">
+            <u>DoD Independent Government Cost Estimate (IGCE) Handbook for Services Acquisition</u>
+         </xref>
+         <ph>
+            <u> </u>
+         </ph>(<xref href="https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://www.acq.osd.mil/dpap/sa/Policies/docs/DoD_IGCE_for_SA_Handbook.pdf</u>
+         </xref>).</p>
+   </conbody>
+</concept>

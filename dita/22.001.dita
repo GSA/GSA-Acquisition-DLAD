@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_22_001" xml:lang="en-US"><title outputclass="Heading 2"><ph props="autonumber">22.001</ph> Definition.</title><conbody><p outputclass="Normal">The designated Agency Labor Advisor for acquisition related issues is DLA Acquisition Compliance, Policy and Pricing Division Procurement Analyst identified on the List of Agency Labor Advisors at <xref href="http://www.wdol.gov" scope="external" format="gov"><u>www.wdol.gov</u></xref><ph><u>.</u></ph></p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_22_001" xml:lang="en-US">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">22.001</ph> Definition.</title>
+   <conbody>
+      <p outputclass="Normal">The designated Agency Labor Advisor for acquisition related issues is DLA Acquisition Compliance, Policy and Pricing Division Procurement Analyst identified on the List of Agency Labor Advisors at <xref href="http://www.wdol.gov" scope="external" format="gov">
+            <u>www.wdol.gov</u>
+         </xref>
+         <ph>
+            <u>.</u>
+         </ph>
+      </p>
+   </conbody>
+</concept>

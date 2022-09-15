@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_53_9001">
    <title outputclass="Heading 3">
       <ph props="autonumber">53.9001</ph> Appointment of ordering officer.</title>
@@ -96,12 +97,12 @@
       <p id="wdZjKE" outputclass="Normal">6. <u>Acknowledgement of Receipt</u>. You are required to
          acknowledge receipt and understanding of this appointment by signing below. Return a copy
          of the signed appointment letter to me.</p>
-      <p id="729hdkrc" outputclass="Normal"></p>
+      <p id="729hdkrc" outputclass="Normal"/>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
             <tbody>
                <row>
                   <entry>
@@ -140,13 +141,13 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="afqypi" outputclass="Normal"></p>
-      <p id="qOCqrn" outputclass="Normal"></p>
+      <p id="afqypi" outputclass="Normal"/>
+      <p id="qOCqrn" outputclass="Normal"/>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
             <tbody>
                <row>
                   <entry>

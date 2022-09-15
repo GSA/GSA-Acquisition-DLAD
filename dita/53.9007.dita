@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_53_9007">
    <title outputclass="Heading 3">
       <ph props="autonumber">53.9007</ph> Acquisition planning.</title>
    <conbody>
       <p id="p_P53_9007_a">(a) Template - Streamlined Acquisition Plan (SAP).</p>
       <p id="pfJqTI" outputclass="Normal">The following format may be used as prescribed in <xref href="7.103.dita#DLAD_7_103">
-            <u>7.103</u>
-      </xref><u>(d)(i)(B)</u>. <i>This Streamlined Acquisition Plan (SAP) format is for illustration purposes
+            <u>7.103</u>7.103 Agency–head responsibilities.</xref>
+         <u>(d)(i)(B)</u>. <i>This Streamlined Acquisition Plan (SAP) format is for illustration purposes
             only. It mirrors the fillable version in the contract writing system.</i>
       </p>
       <p id="MsrBoW" outputclass="normal Ctr">
@@ -42,7 +43,9 @@
       <p id="ihSzJV" outputclass="Normal">II. Proposed acquisition approach</p>
       <p id="ChbMWo" outputclass="Normal">Extent of competition:</p>
       <p id="wXimAl" outputclass="Normal">Full and open competition</p>
-      <p id="cSEKeF" outputclass="Normal">Other than full and open competition* * <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/06.htm" scope="external">
+      <p id="cSEKeF" outputclass="Normal">Other than full and open competition* * <xref format="html"
+               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/06.htm"
+               scope="external">
             <u>FAR 6.3</u>
          </xref> authority (Specify):      </p>
       <p id="cICZRu" outputclass="Normal">Full and open after exclusion of sources</p>

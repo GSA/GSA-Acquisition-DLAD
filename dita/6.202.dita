@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_6_202" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">6.202</ph> Establishing or maintaining alternative sources.</title><conbody><p>(b)(1) By memorandum dated July 30, 2015, the DLA Acquisition Director has delegated approval and signature authority to the HCAs for the determination and findings required to exclude a source under FAR 6.202(b)(1) for procurements within their contracting activity. This authority may not be further delegated.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_6_202" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">6.202</ph> Establishing or maintaining alternative sources.</title>
+   <conbody>
+      <p>(b)(1) By memorandum dated July 30, 2015, the DLA Acquisition Director has delegated approval and signature authority to the HCAs for the determination and findings required to exclude a source under FAR 6.202(b)(1) for procurements within their contracting activity. This authority may not be further delegated.</p>
+   </conbody>
+</concept>

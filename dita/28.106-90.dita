@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_28_106-90" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">28.106-90</ph> Review of bonds and consent of surety.</title><conbody><p outputclass="Normal">Contracting officers shall obtain legal sufficiency from Office of Counsel on all bonds and all consents of surety.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_28_106-90" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">28.106-90</ph> Review of bonds and consent of surety.</title>
+   <conbody>
+      <p outputclass="Normal">Contracting officers shall obtain legal sufficiency from Office of Counsel on all bonds and all consents of surety.</p>
+   </conbody>
+</concept>

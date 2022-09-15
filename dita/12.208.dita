@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_12_208">
    <title outputclass="Heading 3">
       <ph props="autonumber">
@@ -9,7 +10,6 @@
    </title>
    <conbody>
       <p id="NVwKiD" outputclass="Normal">Quality assurance practices, such as in-process, in-plant inspection for critical application or complex items, are considered consistent with customary commercial practice when market research indicates they are at least sometimes used in the industry for items that are the same as or similar to the ones being acquired<b>.</b> When Government inspection and testing before tender for acceptance are determined necessary and cannot be considered consistent with customary commercial practices, the contracting officer must request a waiver (reference FAR and DLAD <xref href="12.302.dita#DLAD_12_302/rrtye">
-            <u>12.302</u>
-         </xref>(c)). When the Government needs to inspect before tender or deviate in any other way from FAR 52.212-4(a) with regard to quality assurance, tailor the solicitation/contract by attaching an addendum (reference FAR 12.302(d)). If the tailoring invokes contract terms and conditions that are consistent with customary commercial practice, a waiver is not required (reference FAR 12.302(c)); although an addendum is necessary to change the terms of the solicitation/contract. If FAR 52.212-4 is incorporated in the solicitation or contract reference with no addendum, the Government has only the rights explicitly stated in FAR 52.212-4(a).</p>
+            <u>12.302</u>12.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>(c)). When the Government needs to inspect before tender or deviate in any other way from FAR 52.212-4(a) with regard to quality assurance, tailor the solicitation/contract by attaching an addendum (reference FAR 12.302(d)). If the tailoring invokes contract terms and conditions that are consistent with customary commercial practice, a waiver is not required (reference FAR 12.302(c)); although an addendum is necessary to change the terms of the solicitation/contract. If FAR 52.212-4 is incorporated in the solicitation or contract reference with no addendum, the Government has only the rights explicitly stated in FAR 52.212-4(a).</p>
    </conbody>
 </concept>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_4_703" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">4.703</ph> Policy.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">4.703</ph> Policy.</title>
     <conbody>
         <p id="434ddff">(a) Contracting officers shall include procurement note C03 in solicitations and
             awards.</p>
@@ -21,8 +23,16 @@
             Government. The documentation should also include, if available, the manufacturer's
             batch identification for the item(s), such as date codes, lot codes, or serial numbers. </p>
         <p outputclass="Normal">(3) Contractors can find examples of acceptable supply chain
-            traceability documentation at the <xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external" format="html"><u>Counterfeit Detection and Avoidance Program (CDAP)
-                    Website</u></xref> (<xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/" scope="external" format="html"><u>http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u></xref>).</p>
+            traceability documentation at the <xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external"
+               format="html">
+            <u>Counterfeit Detection and Avoidance Program (CDAP)
+                    Website</u>
+         </xref> (<xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external"
+               format="html">
+            <u>http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u>
+         </xref>).</p>
         <p outputclass="Normal">(4) The contractor shall immediately make documentation available to
             the contracting officer upon request. The contracting officer determines the
             acceptability and sufficiency of documentation. The contractor shall retain supply chain

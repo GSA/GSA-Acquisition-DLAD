@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_53">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 53</ph> – FORMS</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 53</ph> – FORMS</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -78,9 +78,9 @@
                         <xref outputclass="fm:TOC" href="53.9013.dita#DLAD_53_9013">53.9013 Simplified acquisition procedures.</xref>
                      </p>
                   </li>
-                  <li rev="Please change Please change change Please change Please change Please">
+                  <li rev="Please changechange Please">
                      <p>
-                        <xref outputclass="fm:TOC" href="53.9015.dita#DLAD_53_9015">53.9015Contracting by negotiation.</xref>
+                        <xref outputclass="fm:TOC" href="53.9015.dita#DLAD_53_9015">53.9015 Contracting by negotiation.</xref>
                      </p>
                   </li>
                </ul>

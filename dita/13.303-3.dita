@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_13_303-3" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">13.303-3</ph> Preparation of BPAs.</title><conbody><p>(a)(1) HCAs shall establish the maximum aggregate amount, if any, of all calls to be issued against one BPA.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_13_303-3" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">13.303-3</ph> Preparation of BPAs.</title>
+   <conbody>
+      <p>(a)(1) HCAs shall establish the maximum aggregate amount, if any, of all calls to be issued against one BPA.</p>
+   </conbody>
+</concept>

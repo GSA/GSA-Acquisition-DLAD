@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_37_102" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">37.102</ph> Policy.</title><conbody><p id="p_P37_103_90">(f) The following management positions in addition to the CAE are designated following DoD Instruction 5000.74, Defense Acquisition of Services, Enclosure 4, dated January 5, 2016. The DLA Acquisition Deputy Director is the Senior Services Manager (SSM). The Component Level Leads (CLLs) by portfolio group are:</p><p outputclass="Normal">Electronics/Communications Services (ECS), DLA Information Operations Deputy Director</p><p outputclass="Normal">Facilities Related Services (FRS), DLA Chief of Staff (CoS)</p><p outputclass="Normal">Knowledge Based Services (KBS), DLA Information Operations Program Execution Officer (PEO)</p><p outputclass="Normal">Medical Services (MS), DLA CoS</p><p outputclass="Normal">Equipment Related Services, DLA Logistics Policy and Strategic Programs Executive Director</p><p outputclass="Normal">Transportation Related Services, DLA Logistics Policy and Strategic Programs Executive Director</p><p outputclass="Normal">Logistics Management Services, DLA Logistics Policy and Strategic Programs Executive Director</p><p outputclass="Normal">These portfolios comprise the vast majority of all DLA acquisitions of services. The SSM shall serve as the CLL for acquisition of services that fall outside the scope of the above designations.</p><p outputclass="Normal">Acquisition strategy for service requirements shall maximize opportunity for small business.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_37_102" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">37.102</ph> Policy.</title>
+   <conbody>
+      <p id="p_P37_103_90">(f) The following management positions in addition to the CAE are designated following DoD Instruction 5000.74, Defense Acquisition of Services, Enclosure 4, dated January 5, 2016. The DLA Acquisition Deputy Director is the Senior Services Manager (SSM). The Component Level Leads (CLLs) by portfolio group are:</p>
+      <p outputclass="Normal">Electronics/Communications Services (ECS), DLA Information Operations Deputy Director</p>
+      <p outputclass="Normal">Facilities Related Services (FRS), DLA Chief of Staff (CoS)</p>
+      <p outputclass="Normal">Knowledge Based Services (KBS), DLA Information Operations Program Execution Officer (PEO)</p>
+      <p outputclass="Normal">Medical Services (MS), DLA CoS</p>
+      <p outputclass="Normal">Equipment Related Services, DLA Logistics Policy and Strategic Programs Executive Director</p>
+      <p outputclass="Normal">Transportation Related Services, DLA Logistics Policy and Strategic Programs Executive Director</p>
+      <p outputclass="Normal">Logistics Management Services, DLA Logistics Policy and Strategic Programs Executive Director</p>
+      <p outputclass="Normal">These portfolios comprise the vast majority of all DLA acquisitions of services. The SSM shall serve as the CLL for acquisition of services that fall outside the scope of the above designations.</p>
+      <p outputclass="Normal">Acquisition strategy for service requirements shall maximize opportunity for small business.</p>
+   </conbody>
+</concept>

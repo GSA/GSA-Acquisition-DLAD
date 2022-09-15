@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_15_402" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">15.402</ph> Pricing policy.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">15.402</ph> Pricing policy.</title>
     <conbody>
         <p>(a)(3) When using a market basket or similar solicitation evaluation, contracting
             officers shall use one of the pricing models below. Ensure the items selected for the
@@ -14,14 +16,15 @@
             Post-award pricing strategies shall ensure fair and reasonable prices paid for all items
             purchased under the contract. The pricing strategy shall address how new items added to
             the contract and price changes to existing items under the contract will be determined
-            fair and reasonable. See Subpart <xref href="SUBPART_17.95.dita" xtrc="17.95">SUBPART 17.95</xref> when
+            fair and reasonable. See Subpart <xref href="SUBPART_17.95.dita" xtrc="17.95"/> when
             the contracting officer relies on the contractor’s purchasing system to corroborate the
             contractor competed items or services or to help in justifying the prices are fair and
             reasonable. Approved pricing models are below. New models or variations to these models
             must follow the requirements in this paragraph.</p>
         <p outputclass="List3">(i) Pricing Model: Fixed price using distribution and pricing
             agreement (DAPA) and Federal Supply Schedule (FSS) pricing.</p>
-        <p outputclass="Normal"><i> </i>(A) Program Example: Medical/Surgical and
+        <p outputclass="Normal">
+         <i> </i>(A) Program Example: Medical/Surgical and
             Pharmaceutical.</p>
         <p outputclass="Normal"> (B) Pre-Award Price Reasonableness Determination: Each item before
             award.</p>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_47">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 47</ph> – TRANSPORTATION</title>
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 47</ph> – TRANSPORTATION</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -24,8 +24,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="47.305-3-90.dita#DLAD_47_305-3-90">47.305-3-90 First Destination
-        Transportation (FDT), Government–arranged transportation.</xref>
+                        <xref outputclass="fm:TOC" href="47.305-3-90.dita#DLAD_47_305-3-90">47.305-3-90 First Destination Transportation (FDT), Government–arranged transportation.</xref>
                      </p>
                   </li>
                   <li>
@@ -40,8 +39,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="47.305-10-90.dita#DLAD_47_305-10-90">47.305-10-90 Procurement notes for
-        export shipping and U.S. Territories.</xref>
+                        <xref outputclass="fm:TOC" href="47.305-10-90.dita#DLAD_47_305-10-90">47.305-10-90 Procurement notes for export shipping and U.S. Territories.</xref>
                      </p>
                   </li>
                   <li>

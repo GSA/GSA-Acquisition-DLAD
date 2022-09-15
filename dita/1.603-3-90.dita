@@ -1,3 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_603-3-90" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">1.603-3-90</ph> Micro–purchase contracting authority.</title><conbody><p>(a) Holders of a Government Purchase Card (GPC) have authority to make micro-purchases. DLA’s GPC policies and procedures are provided in <xref href="https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf" scope="external" format="pdf"><u>DLAM 5025.07, Government Purchase Card (GPC) Program</u></xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf" scope="external" format="pdf"><u>https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf</u></xref>).     The Sub Process Owner will upload written appointments of GPC holders in <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace" scope="external" format="html"><u>Document Automated Content Services-Records Management (DACS-RM) </u></xref><ph><u>(</u></ph><xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace" scope="external" format="html"><u>https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace</u></xref>). (DACS-RM training and access are required.)</p><p>(b) The HCA may issue written designations of authority to make micro-purchases by means other than the GPC to individuals who have completed CON 237, Simplified Acquisition Procedures. The Sub Process Owner will upload written designations in <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace" scope="external" format="html"><u>Document Automated Content Services-Records Management (DACS-RM) </u></xref><ph><u>(</u></ph><xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace" scope="external" format="html"><u>https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace</u></xref>). (DACS-RM training and access are required.)</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_1_603-3-90" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.603-3-90</ph> Micro–purchase contracting authority.</title>
+   <conbody>
+      <p>(a) Holders of a Government Purchase Card (GPC) have authority to make micro-purchases. DLA’s GPC policies and procedures are provided in <xref href="https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf"
+               scope="external"
+               format="pdf">
+            <u>DLAM 5025.07, Government Purchase Card (GPC) Program</u>
+         </xref> (<xref href="https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf"
+               scope="external"
+               format="pdf">
+            <u>https://issue-p.dla.mil/Published_Issuances/Government%20Purchase%20Card%20Program%20(GPC).pdf</u>
+         </xref>).     The Sub Process Owner will upload written appointments of GPC holders in <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace"
+               scope="external"
+               format="html">
+            <u>Document Automated Content Services-Records Management (DACS-RM) </u>
+         </xref>
+         <ph>
+            <u>(</u>
+         </ph>
+         <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace"
+               scope="external"
+               format="html">
+            <u>https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace</u>
+         </xref>). (DACS-RM training and access are required.)</p>
+      <p>(b) The HCA may issue written designations of authority to make micro-purchases by means other than the GPC to individuals who have completed CON 237, Simplified Acquisition Procedures. The Sub Process Owner will upload written designations in <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace"
+               scope="external"
+               format="html">
+            <u>Document Automated Content Services-Records Management (DACS-RM) </u>
+         </xref>
+         <ph>
+            <u>(</u>
+         </ph>
+         <xref href="https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace"
+               scope="external"
+               format="html">
+            <u>https://www.private.dacs.dla.mil/dacsrm/cs?func=llworkspace</u>
+         </xref>). (DACS-RM training and access are required.)</p>
+   </conbody>
+</concept>

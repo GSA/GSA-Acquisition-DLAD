@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_601-90" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">1.601-90</ph> Critical acquisition responsibilities.</title><conbody><p outputclass="Normal">The HCA is responsible for maintaining oversight of the contracting function, which includes ensuring adequate oversight of all acquisitions conducted by the contracting activity and the fundamental integrity of its contracting system.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_1_601-90" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.601-90</ph> Critical acquisition responsibilities.</title>
+   <conbody>
+      <p outputclass="Normal">The HCA is responsible for maintaining oversight of the contracting function, which includes ensuring adequate oversight of all acquisitions conducted by the contracting activity and the fundamental integrity of its contracting system.</p>
+   </conbody>
+</concept>

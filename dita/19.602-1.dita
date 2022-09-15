@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_19_602-1" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">19.602-1</ph> Referral.</title><conbody><p outputclass="Normal">(S-90) Procuring organizations may use DLA Form 1756, Referral of Small Business for Certificate of Competency (CoC) Consideration.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_19_602-1" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">19.602-1</ph> Referral.</title>
+   <conbody>
+      <p outputclass="Normal">(S-90) Procuring organizations may use DLA Form 1756, Referral of Small Business for Certificate of Competency (CoC) Consideration.</p>
+   </conbody>
+</concept>

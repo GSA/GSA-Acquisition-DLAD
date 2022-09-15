@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_11_402-90">
    <title outputclass="Heading 3">
       <ph props="autonumber">11.402-90</ph> Time definite delivery (TDD) standards.</title>
@@ -12,8 +13,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
             <thead>
                <row rowsep="1">
                   <entry>
@@ -89,8 +90,7 @@
          the requirements personnel and negotiate delivery standards to meet the needs of DLA
          customers at the best value to the government. A waiver to TDD standards is not required
          for the exceptions in <xref href="11.402-91.dita#DLAD_11_402-91">
-            <u>11.402-91</u>
-         </xref>.</p>
+            <u>11.402-91</u>11.402-91 TDD standards exclusions.</xref>.</p>
       <p id="GPFWLA">A business decision must be documented by an economic analysis, business case
          analysis, or vendor stock retention model analysis. The DLA Acquisition Programs Division
          oversees compliance with DLAI 2112, Procedures for Initiating and Monitoring Planned

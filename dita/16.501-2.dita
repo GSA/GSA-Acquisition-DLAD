@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_16_501-2">
    <title outputclass="Heading 3">
       <ph props="autonumber">16.501-2</ph> General.</title>
    <conbody>
       <p id="nWwBBA">(c) Indefinite-delivery contracts providing for issuance of undefinitized delivery orders (UDOs) shall meet the requirements of DFARS Subpart 217.74 and DLAD <ph id="15l135ix" rev="Please change">
-            <xref href="SUBPART_17.74.dita#DLAD_SUBPART_17_74" xtrc="SUBPART 17.74">17.74</xref>
+            <xref href="SUBPART_17.74.dita#DLAD_SUBPART_17_74" xtrc="SUBPART 17.74">SUBPART 17.74 – UNDEFINITIZED CONTRACT ACTIONS</xref>
          </ph>.</p>
    </conbody>
 </concept>

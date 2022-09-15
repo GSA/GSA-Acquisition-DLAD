@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_1_602-91" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">1.602-91</ph> Nonappropriated funds.</title><conbody><p outputclass="Normal">DoD policy for contracting actions using nonappropriated funds is in DoD Directive (DoDD) 4105.67 and Army Regulation (AR) 215-4, Nonappropriated Fund Contracting.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_1_602-91" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">1.602-91</ph> Nonappropriated funds.</title>
+   <conbody>
+      <p outputclass="Normal">DoD policy for contracting actions using nonappropriated funds is in DoD Directive (DoDD) 4105.67 and Army Regulation (AR) 215-4, Nonappropriated Fund Contracting.</p>
+   </conbody>
+</concept>

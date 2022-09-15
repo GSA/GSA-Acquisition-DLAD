@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_7_103" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">7.103</ph> Agency–head
+    <title outputclass="Heading 3">
+      <ph props="autonumber">7.103</ph> Agency–head
         responsibilities.</title>
     <conbody>
         <p>(a) Procuring organization COMPADs, small business specialists, technical personnel, and
@@ -11,7 +13,8 @@
             program managers are the resources to assist contracting officers in expanding the use
             of commercial items.</p>
         <p>(d)(i)(B) An acquisition valued over the SAT but less than $50 million for all years
-            requires a written streamlined acquisition plan (SAP) (see template in <xref href="53.9007.dita#DLAD_53_9007/p_P53_9007_a"><u>53.9007(a)</u></xref>). For acquisitions valued $50
+            requires a written streamlined acquisition plan (SAP) (see template in <xref href="53.9007.dita#DLAD_53_9007/p_P53_9007_a">
+            <u>53.9007(a)</u>53.9007 Acquisition planning.</xref>). For acquisitions valued $50
             million or more for all years or $25 million or more for any fiscal year, follow DFARS
             207.103(d)(i)(B).</p>
         <p>(g)(1) All service requirements require written review, validation, prioritization and

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_19_201" xml:lang="en-US">
-    <title outputclass="Heading 3"><ph props="autonumber">19.201</ph> General policy.</title>
+    <title outputclass="Heading 3">
+      <ph props="autonumber">19.201</ph> General policy.</title>
     <conbody>
         <p>(c)(10)(A) For procurements valued over $10,000 and less than the SAT that are not
             totally set aside, the contracting officer shall document the reason for not setting
@@ -17,7 +19,8 @@
             supply class, with suppliers identified in the System for Award Management (SAM) and
             Small Business Administration (SBA) repository for HUBZone, SDVOSB, WOSB, or 8(a)
             program participants.</p>
-        <p>(c)(11) See <xref href="7.107-2.dita#DLAD_7_107-2"><u>7.107-2</u></xref> for policies regarding
+        <p>(c)(11) See <xref href="7.107-2.dita#DLAD_7_107-2">
+            <u>7.107-2</u>7.107-2 Consolidation.</xref> for policies regarding
             consolidations of contract requirements.</p>
     </conbody>
 </concept>

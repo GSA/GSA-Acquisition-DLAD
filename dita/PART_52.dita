@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="DLAD_PART_52">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">PART 52</ph> – SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 52</ph> – SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -31,8 +31,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5452.233-9001.dita#DLAD_5452_233-9001">5452.233-9001 Disputes – Agreement to
-        Use Alternative Dispute Resolution (ADR) .</xref>
+                        <xref outputclass="fm:TOC" href="5452.233-9001.dita#DLAD_5452_233-9001">5452.233-9001 Disputes – Agreement to Use Alternative Dispute Resolution (ADR) .</xref>
                      </p>
                   </li>
                </ul>

@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="DLAD_39_201" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">39.201</ph> Scope of subpart.</title><conbody><p>(b) Contracting officers can find EIT standards at <xref href="https://www.section508.gov/" scope="external" format="html"><u>GSA Government-wide IT Accessibility Program</u></xref> (<xref href="https://www.section508.gov/" scope="external" format="html"><u>https://www.section508.gov/</u></xref>). When Section 508 applies, contracting officers shall review the “Buy Accessible IT” section at <xref href="https://www.section508.gov/" scope="external" format="html"><u>GSA Government-wide IT Accessibility Program</u></xref> (<xref href="https://www.section508.gov/" scope="external" format="html"><u>https://www.section508.gov/</u></xref>); and use appropriate requirements language in the solicitation and, if applicable, in the performance work statement, statement of objective, or statement of work. The “Buy Accessible IT” section provides language for common EIT procurement requirements and a link to the current revision of the Voluntary Product Accessibility Template (VPAT) Rev 508.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_39_201" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">39.201</ph> Scope of subpart.</title>
+   <conbody>
+      <p>(b) Contracting officers can find EIT standards at <xref href="https://www.section508.gov/" scope="external" format="html">
+            <u>GSA Government-wide IT Accessibility Program</u>
+         </xref> (<xref href="https://www.section508.gov/" scope="external" format="html">
+            <u>https://www.section508.gov/</u>
+         </xref>). When Section 508 applies, contracting officers shall review the “Buy Accessible IT” section at <xref href="https://www.section508.gov/" scope="external" format="html">
+            <u>GSA Government-wide IT Accessibility Program</u>
+         </xref> (<xref href="https://www.section508.gov/" scope="external" format="html">
+            <u>https://www.section508.gov/</u>
+         </xref>); and use appropriate requirements language in the solicitation and, if applicable, in the performance work statement, statement of objective, or statement of work. The “Buy Accessible IT” section provides language for common EIT procurement requirements and a link to the current revision of the Voluntary Product Accessibility Template (VPAT) Rev 508.</p>
+   </conbody>
+</concept>

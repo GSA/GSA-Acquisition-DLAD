@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_1_170">
    <title outputclass="Heading 3">
       <ph props="autonumber">1.170</ph> Peer reviews.</title>
@@ -22,16 +23,16 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="10" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
-            <colspec colname="7" colnum="7" />
-            <colspec colname="8" colnum="8" />
-            <colspec colname="9" colnum="9" />
-            <colspec colname="10" colnum="10" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
+            <colspec colname="5" colnum="5"/>
+            <colspec colname="6" colnum="6"/>
+            <colspec colname="7" colnum="7"/>
+            <colspec colname="8" colnum="8"/>
+            <colspec colname="9" colnum="9"/>
+            <colspec colname="10" colnum="10"/>
             <thead>
                <row rowsep="1">
                   <entry>
@@ -167,15 +168,15 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="9" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
-            <colspec colname="7" colnum="7" />
-            <colspec colname="8" colnum="8" />
-            <colspec colname="9" colnum="9" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
+            <colspec colname="5" colnum="5"/>
+            <colspec colname="6" colnum="6"/>
+            <colspec colname="7" colnum="7"/>
+            <colspec colname="8" colnum="8"/>
+            <colspec colname="9" colnum="9"/>
             <thead>
                <row rowsep="1">
                   <entry>
@@ -332,16 +333,16 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="10" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
-            <colspec colname="7" colnum="7" />
-            <colspec colname="8" colnum="8" />
-            <colspec colname="9" colnum="9" />
-            <colspec colname="10" colnum="10" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
+            <colspec colname="5" colnum="5"/>
+            <colspec colname="6" colnum="6"/>
+            <colspec colname="7" colnum="7"/>
+            <colspec colname="8" colnum="8"/>
+            <colspec colname="9" colnum="9"/>
+            <colspec colname="10" colnum="10"/>
             <thead>
                <row rowsep="1">
                   <entry>
@@ -477,15 +478,15 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="9" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
-            <colspec colname="7" colnum="7" />
-            <colspec colname="8" colnum="8" />
-            <colspec colname="9" colnum="9" />
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <colspec colname="3" colnum="3"/>
+            <colspec colname="4" colnum="4"/>
+            <colspec colname="5" colnum="5"/>
+            <colspec colname="6" colnum="6"/>
+            <colspec colname="7" colnum="7"/>
+            <colspec colname="8" colnum="8"/>
+            <colspec colname="9" colnum="9"/>
             <thead>
                <row rowsep="1">
                   <entry>
