@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_1_601-91" xml:lang="en-US">
+    <title outputclass="Heading 3">
+      <ph props="autonumber">1.601-91</ph> Contract Quality Review
+        (CQR) Program.</title>
+    <conbody>
+        <p>(a) The CQR Program is a formal data-driven evaluation of quality performance to
+            predetermined standards and the presentation of that evaluation in a manner that induces
+            change towards improved contract quality. This continuous review cycle, using a
+            standardized checklist, collects and maintains data to enable enterprise oversight,
+            decision making, and corrective action planning. The CQR is synchronized with
+            Contracting Officer (KO) Warrant Program reviews (see <xref href="1.602-90.dita#DLAD_1_602-90">
+            <u>1.602-90</u>1.602-90 Contracting Officer (KO) Warrant Program.</xref>).</p>
+        <p id="p_P1_602">(b) For procedures associated with CQR Program roles and responsibilities,
+            see <ph>
+            <u>DLAM 5025.03, Contract Quality Review (CQR) Program</u>
+         </ph> (<xref href="https://issue-p.dla.mil/Published_Issuances/5025.03.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://issue-p.dla.mil/Published_Issuances/5025.03.pdf</u>
+         </xref>).</p>
+    </conbody>
+</concept>

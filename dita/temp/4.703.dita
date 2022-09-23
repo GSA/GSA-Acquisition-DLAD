@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_703" xml:lang="en-US">
+    <title outputclass="Heading 3">
+      <ph props="autonumber">4.703</ph> Policy.</title>
+    <conbody>
+        <p id="434ddff">(a) Contracting officers shall include procurement note C03 in solicitations and
+            awards.</p>
+        <p outputclass="Normal">***** </p>
+        <p outputclass="Normal">C03 Contractor Retention of Supply Chain Traceability Documentation
+            (JUN 2020) </p>
+        <p outputclass="Normal">(1) By submitting a quotation or offer, the contractor, if it is not
+            the manufacturer of the item, is confirming it currently has, or will obtain before
+            delivery, and shall retain documented evidence (supply chain traceability
+            documentation), as described in paragraph (2) of this procurement note, demonstrating
+            the item is from the approved manufacturer and conforms to the technical requirements. </p>
+        <p outputclass="Normal">(2) At a minimum, the supply chain traceability documentation for
+            the item shall include: basic item description, part number and/or national stock
+            number, manufacturing source, manufacturing source’s Commercial and Government Entity
+            (CAGE) code, and clear identification of the name and location of all supply chain
+            intermediaries between the manufacturer to the contractor to item(s) acceptance by the
+            Government. The documentation should also include, if available, the manufacturer's
+            batch identification for the item(s), such as date codes, lot codes, or serial numbers. </p>
+        <p outputclass="Normal">(3) Contractors can find examples of acceptable supply chain
+            traceability documentation at the <xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external"
+               format="html">
+            <u>Counterfeit Detection and Avoidance Program (CDAP)
+                    Website</u>
+         </xref> (<xref href="http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/"
+               scope="external"
+               format="html">
+            <u>http://www.dla.mil/LandandMaritime/Business/Selling/Counterfeit-Detection-Avoidance-Program/</u>
+         </xref>).</p>
+        <p outputclass="Normal">(4) The contractor shall immediately make documentation available to
+            the contracting officer upon request. The contracting officer determines the
+            acceptability and sufficiency of documentation. The contractor shall retain supply chain
+            traceability documentation for six years after final payment under this contract for
+            audit and other valid government purposes. If the contractor fails to retain or provide
+            the documentation, or the contracting officer finds the documentation to be
+            unacceptable, the contracting officer may take corrective action, including, but not
+            limited to, cancellation of undelivered orders or rejection of delivered supplies. </p>
+        <p outputclass="Normal">*****</p>
+    </conbody>
+</concept>

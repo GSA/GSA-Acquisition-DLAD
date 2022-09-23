@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_19_506" xml:lang="en-US" rev="Revised August 30, 2022">
+   <title outputclass="Heading 3"> 
+      <ph props="autonumber">19.506</ph> Documentation requirements.</title>
+   <conbody>
+      <p>(S-90) For the documentation requirements at FAR 19.506(a) and (b), the contracting officer shall document on DD Form 2579, Small Business Coordination Record. </p>
+      <p outputclass="List3">(i) The contracting officer shall submit the DD Form 2579 documenting the reasons the acquisition is not totally set aside for small business concerns in accordance with FAR 19.502-2 to the small business specialist for review (see DFARS 219.201-2(c)(10)). </p>
+      <p outputclass="List3">(ii) The contracting officer shall include DD Form 2579, including the documentation requirements at FAR 19.506(a) and (b), in the contract file.</p>
+   </conbody>
+</concept>

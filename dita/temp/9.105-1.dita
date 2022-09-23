@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_9_105-1" xml:lang="en-US">
+    <title outputclass="Heading 3">
+      <ph props="autonumber">9.105-1</ph> Obtaining
+        information.</title>
+    <conbody>
+        <p outputclass="Normal">(S-90) When making determinations of responsibility, review the DCRL and comply with DCRL Special Attention Treatment Codes in Enterprise Central Component (SAP-ECC) and Supplier Relationship Management (SAP SRM/E Procurement).</p>
+        <p outputclass="List2">(1) For the automated simplified purchasing process, the system
+            checks the DCRL. An offeror debarred or suspended is deemed not qualified for award and
+            not considered in automated evaluation. Low evaluated offers from offerors on the DCRL
+            (for other than debarred and suspended) are rejected from the automated system for
+            manual determination of responsibility.</p>
+        <p outputclass="List2">(2) Contractors on the DCRL shall be considered for solicitation
+            (except when the Special Attention Reason Code is “A” or the Special Attention Treatment
+            Code is “08”).</p>
+        <p outputclass="List2">(3) When the DCRL Special Attention Treatment Code description states
+            “review Contractor Performance History,” request a Contractor Performance History.</p>
+        <p outputclass="List2">(4)  Confirm the information in SAM not more than four business days prior to award and document the contract file; except that contracting officers at DLA Maritime at Mechanicsburg, DLA Aviation Philadelphia DLR, DLA Land Warren, DLA Land at Aberdeen, and DLA Maritime at Norfolk Naval Shipyard have authority to confirm information in SAM not more than seven business days prior to releasing award in the Integrated Technical, Item Management and Procurement (ITIMP) contract-writing system in accordance with permanent DEVIATION 22-03.</p>
+        <p outputclass="Normal">(S-91) DCRL Monitors.</p>
+        <p outputclass="List2">(1) Each Procurement Process Support Director shall designate a DCRL
+            monitor. Referrals to the DCRL Monitor shall be for any of the reasons identified in the
+            DCRL Special Attention Reason Code table below.</p>
+        <p outputclass="List2">
+         <b>(</b>2) DCRL Monitors shall review referrals for approval and
+            execution of submission to add, amend, or remove a contractor to/from the DCRL in
+            coordination with all DCRL Monitors. DCRL Monitors are responsible for maintaining the
+            DCRL for their procuring organization and shall review the DCRL every month for
+            currency.</p>
+        <p outputclass="List2">(3) Contracting officers, product specialists or the Office of
+            Counsel shall provide notification of contractor improvement and recommendation for DCRL
+            removal to their DCRL Monitor if they become aware of circumstances that may warrant
+            changes to the DCRL information.</p>
+        <p outputclass="List3">(i)<b> </b>The contracting officer may discuss performance
+            information included in the DCRL with prospective contractor(s). However, contracting
+            officers must not discuss any information related to ongoing investigations of matters
+            that potentially could result in Civil or Criminal False Claims Act litigation, or a
+            suspension, notice of proposed debarment, or debarment action. “Investigations” would
+            include those conducted by the Defense Criminal Investigation Service, the respective
+            Military Services Investigation Agencies; the Federal Bureau of Investigation and any
+            other Federal Investigative Agency. contracting officers should consult with their
+            Office of Counsel’s Procurement Fraud Attorney if they have any doubt whether the
+            release of information could potentially compromise the Government’s ability to conduct
+            a confidential investigation.</p>
+        <p outputclass="Normal">(S-92) The DCRL Review Board. The DCRL Review Board is responsible
+            for reviewing actions of the DCRL Monitors and ensuring the contractor listing is
+            accurate and current.</p>
+        <p outputclass="List2">(1) Membership consists of all DCRL Monitors, Fraud Counsel, DLA
+            Logistics Operations Technical and Quality Division, and the DLA Acquisition Compliance,
+            Policy and Pricing Division. The DLA Acquisition Programs Division will chair the board
+            meetings. The Board shall–</p>
+        <p outputclass="List3">(i) Meet quarterly.</p>
+        <p outputclass="List3">(ii) Review the list of the current authorized DCRL contractor
+            entries.</p>
+        <p outputclass="List3">(iii) Resolve any concerns or questions pertaining to the DCRL
+            purpose and processes for entry or removal of a contractor from the DCRL.</p>
+        <p outputclass="List3">(iv) Publish and provide minutes from meetings to the DLA Acquisition
+                Director<b> </b>and the HCAs not later than ten business days after the DCRL Review
+            Board meeting.</p>
+        <p outputclass="List2">(2) Contractors shall be removed from the DCRL when—</p>
+        <p outputclass="List3">(i) The conditions that warranted their inclusion on the DCRL no
+            longer exist or have substantially improved; and/or</p>
+        <p outputclass="List3">(ii) The DCRL Monitor determines that information provided by
+            acquisition personnel is not sufficient to justify retention of the contractor on the
+            DCRL.</p>
+        <p outputclass="Normal">(S-93) The DCRL Special Attention Reason Codes and Treatment
+            Codes.</p>
+        <p outputclass="List2">(1) Recommendations/instructions are cited for each supplier/CAGE code listed and are to provide visibility of known/potential areas of concern and actions that shall be taken to address such issues. When a preaward survey (PAS) (see <xref href="9.106-2.dita#DLAD_9_106-2" outputclass="fm:ParaNumOnly"> 9.106-2.</xref>) results in a negative DCRL recommendation for a small business who is the apparent successful offeror resulting in a negative responsibility determination, then an SBA Certificate of Competency is required. The only instances of “do not award” involve cases of debarment, suspension, and proposed debarment except as otherwise directed by the Fraud Monitor or Business Integrity (Fraud) Counsel.</p>
+        <p outputclass="List2">(2) Special Attention Reason Codes. For DCRL Special Attention Reason
+            Code A, the EProcurement “Debarment Status” field will be coded as: “D” for Debarment, a
+            “P” for proposed debarment/suspension, or “S” for suspended.</p>
+        <table frame="all" rowsep="1" colsep="1">
+            <tgroup cols="3" colsep="1">
+                <colspec colname="col1" colwidth="54pt"/>
+                <colspec colname="col2" colwidth="132.75pt"/>
+                <colspec colname="col3" colwidth="294.35pt"/>
+                <thead>
+                    <row rowsep="1">
+                        <entry>
+                     <p id="p_ColumnTitle_Special_Attn_Reason_Codes">DCRL Special
+                                Attention Reason Codes</p>
+                  </entry>
+                        <entry>
+                     <p>Description</p>
+                  </entry>
+                        <entry>
+                     <p>Help Text</p>
+                  </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry>
+                     <p>A</p>
+                  </entry>
+                        <entry>
+                     <p>Suspended or Debarred</p>
+                  </entry>
+                        <entry>
+                     <p>Debarred, Suspended or Otherwise Ineligible</p>
+                     <p>This category
+                                includes firms or individuals that are ineligible for federal
+                                procurements due to a suspension, proposal for debarment or
+                                debarment pursuant to FAR 9.4.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>B</p>
+                  </entry>
+                        <entry>
+                     <p>Recommended for Debarment</p>
+                  </entry>
+                        <entry>
+                     <p>Recommended For Debarment or Suspension.</p>
+                     <p>This category
+                                includes contractors that have been recommended for debarment or
+                                suspension. Although these contractors are not ineligible for award,
+                                follow the treatment code.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>C</p>
+                  </entry>
+                        <entry>
+                     <p>Responsibility Matters</p>
+                  </entry>
+                        <entry>
+                     <p>Certification Regarding Responsibility Matters. This category
+                                includes contractors that have certified in accordance with FAR
+                                52.209-5 that they have had a criminal conviction or civil judgment
+                                for fraud in the past three years or are currently indicted or
+                                otherwise criminally or civilly charged with fraud.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>D</p>
+                  </entry>
+                        <entry>
+                     <p>Termination for Default</p>
+                  </entry>
+                        <entry>
+                     <p>Termination for Default. Contractors in this category have been
+                                terminated for default within the previous twelve
+                            months.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>E</p>
+                  </entry>
+                        <entry>
+                     <p>Financial Difficulties</p>
+                  </entry>
+                        <entry>
+                     <p>Financial Difficulties (Including Chapter 11 Bankruptcy).
+                                Contractors are included in this category when information is
+                                received from DCMA or other sources that indicates the contractor is
+                                having financial difficulties. Such difficulties include contractor
+                                indebtedness that may jeopardize timely completion of the contract
+                                or contractor application for reorganization under bankruptcy laws
+                                (Chapter 11). Information may include formal bankruptcy
+                                notifications, or information informally obtained from credible
+                                sources.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>F</p>
+                  </entry>
+                        <entry>
+                     <p>Chapter 7 Bankruptcy</p>
+                  </entry>
+                        <entry>
+                     <p>Business Closings (Including Chapter 7 Bankruptcy). This category
+                                includes contractors and individuals who have ceased business
+                                operations, are in the process of liquidating under bankruptcy laws
+                                (Chapter 7), or are otherwise going out of business.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>G</p>
+                  </entry>
+                        <entry>
+                     <p>Negative Preaward Survey</p>
+                  </entry>
+                        <entry>
+                     <p>Negative Preaward Survey. Contractors are included in this
+                                category when a preaward survey (PAS) that recommends no award has
+                                been received within the last twelve months.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>H</p>
+                  </entry>
+                        <entry>
+                     <p>DCMA Imposed Corrective Action</p>
+                  </entry>
+                        <entry>
+                     <p>DCMA Has Imposed Corrective Action. Contractors are included in
+                                this category when DCMA has found deficiencies in the contractors'
+                                quality system and has imposed a Corrective Action (CAR) Level III
+                                or IV Review.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>I</p>
+                  </entry>
+                        <entry>
+                     <p>In DCMA Delivery Schedule Manager </p>
+                  </entry>
+                        <entry>
+                     <p>DCMA Delivery Schedule Manager. DCMA has relevant information
+                                concerning contractors in this category.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>J</p>
+                  </entry>
+                        <entry>
+                     <p>Delinquent Performance</p>
+                  </entry>
+                        <entry>
+                     <p>Delinquent Performance. This category includes contractors that
+                                have exhibited a pattern of delinquencies. </p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>K</p>
+                  </entry>
+                        <entry>
+                     <p>“Buy-Ins” or “Bid Shopping”</p>
+                  </entry>
+                        <entry>
+                     <p>"Buy-ins" and "Bid Shopping." This category includes contractors
+                                that have had excessive cancellations, price increases and requests
+                                for modification after award. These practices indicate a "buy-in",
+                                "bid shopping", or other unacceptable bidding practices. This code
+                                applies to contractors that: (1) "Bid shop after award" that result
+                                in frequent inability to furnish supplies in accordance with the
+                                quotation that led to the award. (2) Submit frequent requests for
+                                deviations or waivers, clarification, and substitution of part
+                                numbers, most of which lacks substance but prevents compliance with
+                                the original delivery date. (3) Frequently return purchase orders
+                                for price increase. (4) Frequently notify the contracting activity
+                                that it will not perform under purchase orders just prior to due
+                                date in an apparent effort to reduce its delinquency rate. (5)
+                                Frequently fail to accept bilateral or perform unilateral purchase
+                                orders.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>L</p>
+                  </entry>
+                        <entry>
+                     <p>Pricing Discrepancies</p>
+                  </entry>
+                        <entry>
+                     <p>Pricing Discrepancies (Excessive prices). Contractors are in this
+                                category when information indicates prices may not be fair and
+                                reasonable.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>M</p>
+                  </entry>
+                        <entry>
+                     <p>Fast Pay Discrepancies</p>
+                  </entry>
+                        <entry>
+                     <p>Fast Pay Discrepancies/Abuse Contractors are included in this
+                                category when there is evidence that a contractor is violating or
+                                has violated the Fast Pay procedure (e.g., contractor has invoiced
+                                the Government without shipping the supplies).</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>N</p>
+                  </entry>
+                        <entry>
+                     <p>Potentially Defective Material</p>
+                  </entry>
+                        <entry>
+                     <p>Potentially Defective Material. Any DoD component has issued
+                                notifications regarding potentially defective material supplied by
+                                contracts in this category.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>O</p>
+                  </entry>
+                        <entry>
+                     <p>Counterfeit Material and Unauthorized Substitution</p>
+                     <p>
+                        <b>DO NOT
+                                    DISCUSS</b>
+                     </p>
+                  </entry>
+                        <entry>
+                     <p>Counterfeit Material and Unauthorized Product Substitution.
+                                Contractors in this category are under surveillance by the
+                                Counterfeit Material/Unauthorized Product Substitution (CM/UPS)
+                                Team.</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>P</p>
+                  </entry>
+                        <entry>
+                     <p>Nonconforming Supplies</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                        <entry>
+                     <p>Nonconforming Supplies. This category includes contractors for
+                                which evidence has been provided that a contractor has supplied
+                                nonconforming material, has supplied surplus material without
+                                quoting surplus material, has supplied foreign material without
+                                identifying country of origin, or has other questionable quality
+                                practices.</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>Q</p>
+                  </entry>
+                        <entry>
+                     <p>Failure to Provide Approved Part</p>
+                  </entry>
+                        <entry>
+                     <p>Failure to Provide Approved Part. This category includes
+                                contractors that have a pattern of supplying unapproved parts or
+                                making an unauthorized substitution for CAGE code/part numbered
+                                items.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>R</p>
+                  </entry>
+                        <entry>
+                     <p>Miscellaneous</p>
+                  </entry>
+                        <entry>
+                     <p>Miscellaneous (Other Information). This category serves as an
+                                informational category providing contracting personnel with current
+                                status of administrative changes, business closings, transfer of
+                                ownership, change of location, change of CAGE code, multiple
+                                contractors at the same location or any other information that may
+                                assist in the decision process. See the "Remarks" section of the
+                                DCRL for instructions.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>S</p>
+                  </entry>
+                        <entry>
+                     <p>Sensitive Information</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                        <entry>
+                     <p>Sensitive Information. Specific instructions apply to contractors
+                                listed in this category. These instructions are not necessarily
+                                related to responsibility and the reason for placement in this
+                                category shall not be stated in the DCRL due to sensitivity. The
+                                "Remarks" section of the DCRL may contain a point of contact for
+                                information regarding these contractors. Sensitive information
+                                regarding these contractors shall not be disclosed to unauthorized
+                                persons.</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>T</p>
+                  </entry>
+                        <entry>
+                     <p>NIST SP 800-171</p>
+                  </entry>
+                        <entry>
+                     <p>Contractors in this category have failed to upload a NIST SP
+                                800-171 basic self-assessment score in the Supplier Performance Risk
+                                System (SPRS) in accordance with DFARS clause 252.204–7012,
+                                Safeguarding Covered Defense Information and Cyber Incident
+                                Reporting, DFARS Provision 252.204-7019, Notice of NIST SP 800-171
+                                DoD Assessment Requirements, and DFARS Clause 252.204-7020, NIST SP
+                                800-171 DoD Assessment Requirements.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>V</p>
+                  </entry>
+                        <entry>
+                     <p>Suspected Fraud or Collusion</p>
+                  </entry>
+                        <entry>
+                     <p>Suspected Fraud or Collusion/Deceptive Business
+                            Practices.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>W</p>
+                  </entry>
+                        <entry>
+                     <p>Combined CAGE Codes</p>
+                     <p>
+                        <b>DO NOT DISCUSS</b>
+                     </p>
+                  </entry>
+                        <entry>
+                     <p>Combined CAGE Codes. Performance history for two or more CAGE
+                                codes have been combined for PPIRS purposes.</p>
+                     <p>
+                        <b>DO NOT
+                                    DISCUSS</b>
+                     </p>
+                  </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="List2">(3) Special Attention Treatment codes.</p>
+        <table frame="all" rowsep="1" colsep="1">
+            <tgroup cols="3" colsep="1">
+                <colspec colname="col1" colwidth="63pt"/>
+                <colspec colname="col2" colwidth="140.25pt"/>
+                <colspec colname="col3" colwidth="246.35pt"/>
+                <thead>
+                    <row rowsep="1">
+                        <entry>
+                     <p id="p_ColumnTitle_Special_Attn_Treatment_Codes">DCRL Special
+                                Attention Treatment Codes</p>
+                  </entry>
+                        <entry>
+                     <p>Description</p>
+                  </entry>
+                        <entry>
+                     <p>Help Text</p>
+                  </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry>
+                     <p>01</p>
+                  </entry>
+                        <entry>
+                     <p>Reserved</p>
+                  </entry>
+                        <entry>
+                     <p>Reserved</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>02</p>
+                  </entry>
+                        <entry>
+                     <p>Evidence of PID MFR Part Number</p>
+                  </entry>
+                        <entry>
+                     <p>For Part Numbered items, get evidence item was acquired from
+                                Manufacturer (MFR) cited in the Product Item Description
+                            (PID).</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>03</p>
+                  </entry>
+                        <entry>
+                     <p>Traceability requirements</p>
+                  </entry>
+                        <entry>
+                     <p>For FSGs/FSCs/NSNs requiring additional risk mitigation and the
+                                offeror is not identified as an approved source, require the offeror
+                                to submit traceability documentation.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>04</p>
+                  </entry>
+                        <entry>
+                     <p>Withhold Fast Pay Recommended.</p>
+                  </entry>
+                        <entry>
+                     <p>Withholding of Fast Pay recommended.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>05</p>
+                  </entry>
+                        <entry>
+                     <p>Recom PAS &gt; SAT/ Verbal PAS or Vendor Capability Questionnaire
+                                (VCQ) &lt; SAT.</p>
+                  </entry>
+                        <entry>
+                     <p>Recommend Preaward Surveys for large buys/verbal preaward surveys
+                                and/or VCQ for simplified buys.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>06</p>
+                  </entry>
+                        <entry>
+                     <p>Fraud Monitor Coordination Required.</p>
+                  </entry>
+                        <entry>
+                     <p>Forward any proposed awards through Fraud Monitor.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>07</p>
+                  </entry>
+                        <entry>
+                     <p>Source Inspection Recommended.</p>
+                  </entry>
+                        <entry>
+                     <p>Source Inspection recommended (use of source inspection evaluation
+                                factor authorized after formal notification to
+                            contractor).</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>08</p>
+                  </entry>
+                        <entry>
+                     <p>Do not solicit or award.</p>
+                  </entry>
+                        <entry>
+                     <p>Do not solicit or award.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>09</p>
+                  </entry>
+                        <entry>
+                     <p>Review Contractor Performance History.</p>
+                  </entry>
+                        <entry>
+                     <p>Review Contractor Performance History (CPH).</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>10</p>
+                  </entry>
+                        <entry>
+                     <p>Report Suspect Material to Fraud Monitor.</p>
+                  </entry>
+                        <entry>
+                     <p>Report suspected material problems to Business Integrity (Fraud)
+                                Counsel.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>11</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate with DCMA.</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate with DCMA.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>12</p>
+                  </entry>
+                        <entry>
+                     <p>Corrective Action Report Level IV approval required.</p>
+                  </entry>
+                        <entry>
+                     <p>CAR Level IV, approval required for award.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>13</p>
+                  </entry>
+                        <entry>
+                     <p>Bilateral Award Email to Fraud Monitor.</p>
+                  </entry>
+                        <entry>
+                     <p>Bilateral Award – email contractor’s name and CAGE,
+                                contract/purchase order no., and NSN to Fraud Monitor.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>14</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate Mods with Fraud Monitor.</p>
+                  </entry>
+                        <entry>
+                     <p>Post award – Coordinate all administrative actions (modifications)
+                                with Fraud Monitor or Fraud Counsel.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>15</p>
+                  </entry>
+                        <entry>
+                     <p>Deter Resp/Nonresp required.</p>
+                  </entry>
+                        <entry>
+                     <p>Prepare formal determination of
+                                responsibility/nonresponsibility.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>16</p>
+                  </entry>
+                        <entry>
+                     <p>CAGE Combined for SPRS Info.</p>
+                  </entry>
+                        <entry>
+                     <p>This CAGE Code has been combined with other CAGE codes for SPRS
+                                purposes (For Informational Purposes Only).</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>17</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate Cost and Price Office</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate with Cost and Price Office</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>18</p>
+                  </entry>
+                        <entry>
+                     <p>Report to Fraud Counsel.</p>
+                  </entry>
+                        <entry>
+                     <p>Report to Business Integrity (Fraud) Counsel.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>19</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate with Office of Counsel.</p>
+                  </entry>
+                        <entry>
+                     <p>Coordinate with Office of Counsel.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>20</p>
+                  </entry>
+                        <entry>
+                     <p>Refer to DCRL Narrative Detail.</p>
+                  </entry>
+                        <entry>
+                     <p>Refer to DCRL Narrative for details.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>26</p>
+                  </entry>
+                        <entry>
+                     <p>Recommend price reasonableness.</p>
+                  </entry>
+                        <entry>
+                     <p>Recommend documentation of price reasonableness.</p>
+                  </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>
+                     <p>27</p>
+                  </entry>
+                        <entry>
+                     <p>Suspend automated awards.</p>
+                  </entry>
+                        <entry>
+                     <p>Suspend from automated systems (case by case basis).</p>
+                  </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="Normal">(S-94) Other Risk Indicators: Obtain additional information to make
+            responsibility/nonresponsibility determination.</p>
+        <p outputclass="List2">(1) Supplier Risk Indicators:</p>
+        <p outputclass="List3">(i) No DLA history (new vendor);</p>
+        <p outputclass="List3">(ii) Poor SPRS Score or no SPRS Score;</p>
+        <p outputclass="List3">(iii) Poor Delivery Performance;</p>
+        <p outputclass="List3">(iv) Poor Quality Performance (excessive PQDRs/SDRs);</p>
+        <p outputclass="List3">(v) Negative Preaward Survey (PAS) within 12 months;</p>
+        <p outputclass="List3">(vi) History of fraud or collusion;</p>
+        <p outputclass="List3">(vii) History of providing non-conforming, defective products, or
+            counterfeit items;</p>
+        <p outputclass="List3">(viii) Terminated for Default for the same FSC/NIIN within 3
+            years;</p>
+        <p outputclass="List3">(ix) Bankruptcy within last 3 years;</p>
+        <p outputclass="List3">(x) DCMA Corrective Action Requests (CAR);</p>
+        <p outputclass="List3">(xi) The offeror is on the SAM Excluded Parties List System (EPLS)
+            within the last 3 years;</p>
+        <p outputclass="List3">(xii) The offeror is currently showing signs of financial distress,
+            or has a history of delinquent payments and /or financial difficulty;</p>
+        <p outputclass="List3">(xiii) Manufacturer’s CAGE identified in offer differs from CAGE code
+            of the approved manufacturing source in solicitation;</p>
+        <p outputclass="List3">(xiv) The offeror is reluctant or unable to provide traceability
+            documentation;</p>
+        <p outputclass="List3">(xv) The offeror’s phone number, address, e-mail, or other vital
+            information is missing, invalid, or suspicious;</p>
+        <p outputclass="List3">(xvi) The offeror is a dealer but identifies itself as the
+            manufacturer; and/or</p>
+        <p outputclass="List3">(xvii) The offeror is a manufacturer, but its place of business is in
+            a residential neighborhood.</p>
+        <p outputclass="List2">(2) Price Risk Indicators:</p>
+        <p outputclass="List3">(i) The price offered is lower than price of approved source or its
+            authorized distributor;</p>
+        <p outputclass="List3">(ii) The price offered is out of line with other offers or past
+            pricing history; and/or</p>
+        <p outputclass="List3">(iii) The price offered for new product is lower than price offered
+            for surplus material.</p>
+        <p outputclass="List2">(3) High Risk Item with technical data package (TDP) and no record of
+            successful performance in the FSC (e.g., critical safety, ALRE, complex TDP, FAT).</p>
+        <p outputclass="Normal">(S-95) Consider contract risk mitigation when a contractor can be
+            determined responsible but risk factors are present.</p>
+        <p outputclass="List2">(1) No Fast Pay.</p>
+        <p outputclass="List2">(2) Bilateral Purchase Order.</p>
+        <p outputclass="List2">(3) Code and Part Number Buy: Request Traceability Preaward and
+            Post-Award.</p>
+        <p outputclass="List2">(4) Specification/Standard/Drawing buy: Require source inspection (if
+            appropriate), no COC, require PVT.</p>
+        <p outputclass="List2">(5) Super Key Item Drivers with FAT: Split award between proven
+            (waived) and unproven sources.</p>
+        <p outputclass="List2">(6) Request the product specialist to prepare a Quality Assurance
+            Letter of Instruction (QALI) when additional instructions or guidance are required on
+            source inspection.</p>
+        <p>(S-96)(1) Business decision analytics (BDA) job aids. The following job aids and training
+            material can be viewed online:</p>
+        <p>BDA Item Model Job Aid</p>
+        <p>BDA Price Model Job Aid</p>
+        <p>BDA Supplier Model Job Aid</p>
+        <p outputclass="Normal">CAGE Compromised Job Aid (General Counsel and other designated users
+            only)</p>
+        <p outputclass="List2">(2) Select the following:</p>
+        <p outputclass="List3">(i) <xref href="https://pep1.bsm.dla.mil/irj/portal"
+               scope="external"
+               format="html">
+            <u>DLA Enterprise Business Portal </u>
+         </xref>(<xref href="https://pep1.bsm.dla.mil/irj/portal"
+               scope="external"
+               format="html">
+            <u>https://pep1.bsm.dla.mil/irj/portal</u>
+         </xref>);</p>
+        <p outputclass="List3">(ii) <xref href="https://pep1.bsm.dla.mil/irj/portal"
+               scope="external"
+               format="html">
+            <u>DLA Enterprise Business Portal </u>
+         </xref>(<xref href="https://pep1.bsm.dla.mil/irj/portal"
+               scope="external"
+               format="html">
+            <u>https://pep1.bsm.dla.mil/irj/portal</u>
+         </xref>);</p>
+        <p outputclass="List3">(iii) (<xref href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
+               scope="external"
+               format="aspx">
+            <u>EBS Online
+                    Help</u>
+         </xref>),(<ph>
+            <u>https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx</u>
+         </ph>);</p>
+        <p outputclass="List3">(iv) <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT&amp;FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231"
+               scope="external"
+               format="aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT&amp;FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231">EProcurement </xref> (<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT&amp;FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231"
+               scope="external"
+               format="aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT&amp;FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231"> https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT&amp;FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231 </xref>);</p>
+        <p outputclass="List3">(v) <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"> Business Decision Analytics (BDA)  </xref>(<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
+               scope="external"
+               format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"> https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA </xref>); and</p>
+        <p outputclass="List3">(iv) <xref href="https://dlamil.dps.mil/:w:/r/sites/InfoOps/_layouts/15/Doc.aspx?sourcedoc=%7BAA99BEB2-862B-42F2-A7E5-4DE86099455E%7D&amp;file=BDA%20Supplier%20by%20CAGE%20Job%20Aid%20-%20Procurement.doc&amp;action=default&amp;mobileredirect=true"
+               scope="external"
+               format="doc&amp;action=default&amp;mobileredirect=true"> BDA Supplier Risk Analysis by CAGE Code Model Job Aid </xref> (<xref href="https://dlamil.dps.mil/:w:/r/sites/InfoOps/_layouts/15/Doc.aspx?sourcedoc=%7BAA99BEB2-862B-42F2-A7E5-4DE86099455E%7D&amp;file=BDA%20Supplier%20by%20CAGE%20Job%20Aid%20-%20Procurement.doc&amp;action=default&amp;mobileredirect=true"
+               scope="external"
+               format="doc&amp;action=default&amp;mobileredirect=true"> https://dlamil.dps.mil/:w:/r/sites/InfoOps/_layouts/15/Doc.aspx?sourcedoc=%7BAA99BEB2-862B-42F2-A7E5-4DE86099455E%7D&amp;file=BDA%20Supplier%20by%20CAGE%20Job%20Aid%20-%20Procurement.doc&amp;action=default&amp;mobileredirect=true </xref>).</p>
+    </conbody>
+</concept>

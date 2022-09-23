@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_53_300" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">53.300</ph> General.</title>
+   <conbody>
+      <p outputclass="Normal">DLA forms are electronically maintained at <xref href="https://www.dla.mil/Forms/" scope="external" format="html">
+            <u>DLA Official Forms</u>
+         </xref>
+         <b> </b>(<xref href="https://www.dla.mil/Forms/" scope="external" format="html">
+            <u>https://www.dla.mil/Forms/</u>
+         </xref>).</p>
+   </conbody>
+</concept>

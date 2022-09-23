@@ -29,7 +29,7 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="Revised August 30, 2022">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_46.2.dita#DLAD_SUBPART_46_2">SUBPART 46.2 – CONTRACT QUALITY REQUIREMENTS</xref>
                </p>
@@ -60,6 +60,9 @@
                      <p>
                         <xref outputclass="fm:TOC" href="46.292.dita#DLAD_46_292">46.292 Product verification testing.</xref>
                      </p>
+                  </li>
+                  <li>
+                     <p> <xref outputclass="fm:TOC" href="46.293.dita#DLAD_46_293">46.293 Army Aviation Critical Safety Item Production Sample Test</xref> </p>
                   </li>
                </ul>
             </li>

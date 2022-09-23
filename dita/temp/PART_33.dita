@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_33">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">PART 33</ph> – PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_33.1.dita#DLAD_SUBPART_33_1">SUBPART 33.1 – PROTESTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.103.dita#DLAD_33_103">33.103 Protests to the agency.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.104.dita#DLAD_33_104">33.104 Protests to GAO.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_33.2.dita#DLAD_SUBPART_33_2">SUBPART 33.2 – DISPUTES AND APPEALS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.209.dita#DLAD_33_209">33.209 Suspected fraudulent claims.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.211.dita#DLAD_33_211">33.211 Contracting officer’s decision.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.212.dita#DLAD_33_212">33.212 Contracting officer’s duties upon appeal.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="33.214.dita#DLAD_33_214">33.214 Alternative dispute resolution
+        (ADR).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

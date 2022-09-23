@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_17_9305">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9305</ph> Warstopper Program Material Buffer Availability.</title>
+   <conbody>
+      <p id="lNCJmr" outputclass="Normal">Solicitations and long-term supply contracts must include procurement note C07 to notify suppliers that may be candidates to support industrial mobilization and/or material disruptions of the potential availability of key raw materials.</p>
+      <p id="arDqyZ" outputclass="Normal">*****</p>
+      <p id="TpQiZD" outputclass="Normal">C07 Warstopper Program Material Buffer Availability (MAY 2017)</p>
+      <p id="ZmGZVz" outputclass="Normal">(1) The Warstopper program material buffer (Buffer) was created to decrease lead times for raw material to support defense contracts relating to military systems with a wartime requirement. The current material buffer suppliers and materials may be reviewed at <xref format="html" href="https://www.jccs.gov/wicap" scope="external">
+            <u>https://www.jccs.gov/wicap</u>
+         </xref>.</p>
+      <p id="mdVsgi" outputclass="Normal">If the buffer material is not available or the material is inadequate to complete the requirement, the contractor must contact the contracting officer representative (COR) for guidance. When a buffer has been established, the following process must be used to submit requests for buffer material. A defense contractor (or sub-tier contractor supporting a prime contractor) with a current, active U.S. Government contract must submit a valid request to use a material buffer to the COR for the respective material buffer. The COR will review the submittal and approve or disapprove the request. -The request should include the following information:</p>
+      <p id="muoXUr" outputclass="List3">(i) Requestor’s name;</p>
+      <p id="aYxXgI" outputclass="List3">(ii) U.S. Government contract number;</p>
+      <p id="LjAakU" outputclass="List3">(iii) Defense Priorities and Allocations System (DPAS) rating;</p>
+      <p id="GiPXph" outputclass="List3">(iv) Material specification;</p>
+      <p id="ZsYliz" outputclass="List3">(v) Quantity required; and</p>
+      <p id="DtUTjR" outputclass="List3">(vi) Required delivery date.</p>
+      <p id="JNpygE" outputclass="List3">(vii) Whether there is a pre-existing supply contract with the material buffer contractor.</p>
+      <p id="zwNxPQ" outputclass="Normal">(2) If no prior contractual relationship exists between the defense contractor requesting access to the material buffer and -the material buffer contractor, the material buffer contractor is authorized to enter into a contract – to provide material from the buffer – once a valid request has been approved by the COR. This action must be included in the monthly report submitted to the COR. When requests exceed the buffer’s maximum monthly material availability, the material supplier may negotiate phased delivery of material across the material monthly availability; or the Government COR may prioritize the release of the material at the Government’s discretion.</p>
+      <p id="QiUiqc" outputclass="Normal">(3) Contractors accessing the material buffer will be charged the material price identified in any pre-existing contract with the material buffer contractor. For those defense contractors not having a pre-existing contract with the material buffer contractor, they must be charged the standard (not spot market levels) pricing for the material. Contractors using the buffer are solely responsible for costs of using the buffer, and the Government has no liability either for these costs or for delays or other effects arising from the use of the buffer.</p>
+      <p id="EAKghS" outputclass="Normal">(4) The buffer material provided is not Government furnished material, but is a normal vendor-to-vendor transaction with all applicable warranties and guarantees provided through the commercial transaction.</p>
+      <p id="reAkSt" outputclass="Normal">*****</p>
+   </conbody>
+</concept>

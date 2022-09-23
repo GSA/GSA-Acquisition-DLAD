@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_42">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">PART 42</ph> – CONTRACT ADMINISTRATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_42.1.dita#DLAD_SUBPART_42_1">SUBPART 42.1 – CONTRACT AUDIT SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.101.dita#DLAD_42_101">42.101 Contract audit responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_42.2.dita#DLAD_SUBPART_42_2">SUBPART 42.2 – CONTRACT ADMINISTRATION SERVICES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.202.dita#DLAD_42_202">42.202 Assignment of contract administration.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_42.3.dita#DLAD_SUBPART_42_3">SUBPART 42.3 – CONTRACT ADMINISTRATION OFFICE FUNCTIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.302.dita#DLAD_42_302">42.302 Contract administration functions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_42.11.dita#DLAD_SUBPART_42_11">SUBPART 42.11 – PRODUCTION SURVEILLANCE AND REPORTING</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.1101.dita#DLAD_42_1101">42.1101 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.1104.dita#DLAD_42_1104">42.1104 Surveillance requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_42.15.dita#DLAD_SUBPART_42_15">SUBPART 42.15 – CONTRACTOR PERFORMANCE INFORMATION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="42.1503.dita#DLAD_42_1503">42.1503 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

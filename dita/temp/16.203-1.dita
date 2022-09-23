@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_16_203-1" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">16.203-1</ph> Description.</title>
+   <conbody>
+      <p>(a)(S-90) <i>Adjustment based on established prices. </i>Established prices may reflect industry-wide and/or geographically based market price fluctuations for commodity groups, specific supplies or services, or contract end items. (See <xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/DoD%20Class%20Deviation%20-%20Economic%20Price%20Adjustment%20Clauses%20and%20DLAR%20Attachment%20October%205,%201995.pdf"
+               scope="external"
+               format="pdf">
+            <u>DoD Class Deviation 1995-D0003, Economic Price Adjustment Clauses, issued October 5, 1995</u>
+         </xref>.)</p>
+      <p id="p_se48.7.5416_1203_63">(c)(S-90) <i>Adjustments based on cost indexes of labor or material.</i> These price adjustments may also be based on increases or decreases in indexes for commodity groups, specific supplies or services, or contract end items. (See <xref href="https://dlamil.dps.mil/sites/Acquisition/Shared%20Documents/DoD%20Class%20Deviation%20-%20Economic%20Price%20Adjustment%20Clauses%20and%20DLAR%20Attachment%20October%205,%201995.pdf"
+               scope="external"
+               format="pdf">
+            <u>DoD Class Deviation 1995-D0003, Economic Price Adjustment Clauses, issued October 5, 1995</u>
+         </xref>.)</p>
+      <p outputclass="Normal">(S-90) Although a specific item or element of cost may require EPA coverage, the contracting officer shall also determine whether an EPA clause should cover the entire end item in order to take advantage of competitive market forces or moderate price fluctuations. Base this decision, which may be an appropriate element of tradeoff in negotiations, on risk and price analyses of the alternatives. </p>
+      <p outputclass="Normal">(S-91) All FAR and DFARS EPA clauses and DLAD and procuring organization EPA procurement notes shall contain the contractor’s warranty that the contract prices do not include allowance for any contingency to cover increased costs also considered by the EPA clause or procurement note. The contracting officer shall ensure that contractors comply with this warranty.</p>
+   </conbody>
+</concept>

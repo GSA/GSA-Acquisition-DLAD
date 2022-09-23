@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_9001" rev="Revised August 30, 2022">
+   <title outputclass="Heading 3"> 4.9001 Definitions.</title>
+   <conbody>
+      <p outputclass="List1">(a) For the purpose of this section: </p>
+      <p outputclass="List2">(1) “Covered Nation” means </p>
+      <p outputclass="List3">(i) the Democratic People’s Republic of North Korea; </p>
+      <p outputclass="List3">(ii) the People’s Republic of China; </p>
+      <p outputclass="List3">(iii) the Russian Federation; and </p>
+      <p outputclass="List3">(iv) the Islamic Republic of Iran </p>
+      <p outputclass="List2">(2) “Federal Supply Class (FSC) 5962, Electronic Microcircuit” means </p>
+      <p outputclass="List3">(i) a small circuit having a high equivalent circuit element density, which is considered as a single part composed of interconnected elements placed and/or formed on or within a single substrate to perform an electronic circuit function. The elements may be formed on or within a semiconductor material substrate. They may consist of conductive film(s) formed on an insulating substrate or may be a combination of one or both of these types with discrete elements; </p>
+      <p outputclass="List3">(ii) designed specifically to generate, modify, or process electrical signals included in FSC 5962; </p>
+      <p outputclass="List3">(iii) a supply class identified as being high-risk for counterfeiting; and </p>
+      <p outputclass="List3">(iv) includes Integrated Circuit Devices; Integrated Circuit Modules, Integrated Electronic Devices: Hybrid, Magnetic, Molecular, Opto-Electronic, and Thin Film. </p>
+   </conbody>
+</concept>

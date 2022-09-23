@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_46_292" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">46.292</ph> Product verification testing.</title>
+   <conbody>
+      <p>The contracting officer or the product specialist can invoke product verification testing (PVT). Contracting officers may decide to invoke PVT, after coordination with the product specialist, at contract award or after contract award when the following conditions apply: high-risk item, offeror is on the DCRL, first time buy item, high risk supplier, high risk quote. Upon making the determination to invoke PVT, contracting officers shall contact the product specialist to take the appropriate technical actions. The product specialist may also decide to invoke PVT and will contact the contracting officer with the appropriate justification.</p>
+      <p>The product specialist will issue a quality assurance letter of instruction (QALI) to DCMA when quality concerns relating to the item or the supplier are identified, with a copy of the QALI to the contracting officer for inclusion in Records Management. The QALI invokes the PVT requirement. DCMA will notify the contractor and initiate the testing process. When PVT is invoked, contracting officers use the authority under FAR 52.246-2, Inspection of Supplies-Fixed-Price. Contracting officers shall include procurement note E05 in all solicitations and awards.</p>
+      <p>*****</p>
+      <p>E05 Product Verification Testing (JUN 2018)</p>
+      <p>(1) Product verification testing (PVT) may be invoked at contract award or after contract award. If PVT is invoked at contract award, the contract will explicitly state this testing requirement and a QALI will be generated. If PVT is invoked after contract award, a QALI will be created and the DCMA quality assurance representative (QAR) will notify the contractor that testing will be performed. The PVT testing will be performed at a Government-designated testing laboratory. </p>
+      <p>(a) The contractor shall not ship or deliver any material unless directed to do so in writing by the contracting officer or until notified of acceptable PVT results.</p>
+      <p>(b) PVT results will be provided in 20 working days after receipt at the Government testing facility, unless otherwise specified in writing by the Government.</p>
+      <p>(2) The QAR will select a random sample from the contractor’s production lot. Selected PVT samples are to be shipped by the contractor with a copy of the Department of Defense DD Form 250 and the completed DD Form 1222. The packaging will be marked “Product Verification Test Samples, Contract number __________, lot/item number ________."</p>
+      <p>(3) Test results will indicate one of the following:</p>
+      <p>(a) Samples that pass testing and are not destroyed during evaluation will be returned to the contractor at the Government's expense and will be included as part of the total contract quantity. The contractor and Government may agree to dispose of samples not destroyed when the cost of the item does not justify the shipping expense. Samples that pass testing and are not returned to the contractor will be considered part of the contract quantity for payment and delivery. The contractor will deliver the remaining lot quantity minus sample units.</p>
+      <p>(b) If samples fail testing, such failure will result in rejection of the entire contract lot from which the samples were taken. At the Government’s discretion, parts failing any test criteria may be retained and not be returned to the contractor.</p>
+      <p outputclass="Normal">*****</p>
+   </conbody>
+</concept>
