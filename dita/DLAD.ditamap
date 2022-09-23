@@ -722,43 +722,7 @@
                    audience="DLAD_4_7303-3"
                    xtrc="DLAD_4_7303-3.html"/>
       </topicref>
-      <topicref href="SUBPART_4.90.dita"
-                props="SUBPART 4.90"
-                outputclass="SubPart"
-                navtitle="SUBPART 4.90 - ELECTRONIC MICROCIRCUITS RESTRICTION"
-                audience="DLAD_SUBPART_4_90"
-                xtrc="DLAD_SUBPART_4_90.html">
-         <topicref href="4.9000.dita"
-                   props="4.9000"
-                   outputclass="subtopic"
-                   navtitle="4.9000 Policy."
-                   audience="DLAD_4_9000"
-                   xtrc="DLAD_4_9000.html"/>
-         <topicref href="4.9001.dita"
-                   props="4.9001"
-                   outputclass="subtopic"
-                   navtitle="4.9001 Definitions."
-                   audience="DLAD_4_9001"
-                   xtrc="DLAD_4_9001.html"/>
-         <topicref href="4.9002.dita"
-                   props="4.9002"
-                   outputclass="subtopic"
-                   navtitle="4.9002 Prohibition."
-                   audience="DLAD_4_9002"
-                   xtrc="DLAD_4_9002.html"/>
-         <topicref href="4.9003.dita"
-                   props="4.9003"
-                   outputclass="subtopic"
-                   navtitle="4.9003 Requirements."
-                   audience="DLAD_4_9003"
-                   xtrc="DLAD_4_9003.html"/>
-         <topicref href="4.9004.dita"
-                   props="4.9004"
-                   outputclass="subtopic"
-                   navtitle="4.9004 Procurement note."
-                   audience="DLAD_4_9004"
-                   xtrc="DLAD_4_9004.html"/>
-      </topicref>
+      <topicref href="SUBPART_4.90.dita" props="SUBPART 4.90" outputclass="SubPart" navtitle="SUBPART 4.90 - ELECTRONIC MICROCIRCUITS RESTRICTION" audience="DLAD_SUBPART_4_90" xtrc="DLAD_SUBPART_4_90.html" xtrf="SubPart"><topicref href="4.9000.dita" props="4.9000" outputclass="subtopic" navtitle="4.9000 Policy." audience="DLAD_4_9000" xtrc="DLAD_4_9000.html"/><topicref href="4.9001.dita" props="4.9001" outputclass="subtopic" navtitle="4.9001 Definitions." audience="DLAD_4_9001" xtrc="DLAD_4_9001.html"/><topicref href="4.9002.dita" props="4.9002" outputclass="subtopic" navtitle="4.9002 Prohibition." audience="DLAD_4_9002" xtrc="DLAD_4_9002.html"/><topicref href="4.9003.dita" props="4.9003" outputclass="subtopic" navtitle="4.9003 Requirements." audience="DLAD_4_9003" xtrc="DLAD_4_9003.html"/><topicref href="4.9004.dita" props="4.9004" outputclass="subtopic" navtitle="4.9004 Procurement note." audience="DLAD_4_9004" xtrc="DLAD_4_9004.html"/></topicref>
    </topicref>
    <topicref href="PART_5.dita"
              navtitle="PART 5 – PUBLICIZING CONTRACT ACTIONS"
@@ -1867,7 +1831,7 @@
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_13_5"
-                xtrc="DLAD_SUBPART_13_5.html">
+                xtrc="DLAD_SUBPART_13_5.html"><topicref href="13.500.dita" navtitle="13.500 General." props="13.500" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="DLAD_13_500" xtrc="DLAD_13_500.html"/>
          <topicref href="13.501.dita"
                    navtitle="13.501 Special documentation requirements."
                    props="13.501"
@@ -1875,7 +1839,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_501"
-                   xtrc="DLAD_13_501.html"/>
+                   xtrc="DLAD_13_501.html"/><topicref href="13.590.dita" navtitle="13.590 Simplified indefinite-delivery contracts (SIDCs)." props="13.590" base="NoTitle" outputclass="subtopic" xtrf="subtopic" audience="DLAD_13_590" xtrc="DLAD_13_590.html"/>
       </topicref>
    </topicref>
    <topicref href="PART_15.dita"
@@ -4440,46 +4404,8 @@
                    xtrc="DLAD_PGI_15_403_3.html"/>
       </topicref>
    </topicref>
-   <topicref href="PGI_PART_16.dita"
-             props="PGI PART 16"
-             outputclass="Part"
-             navtitle="PGI PART 16 – TYPES OF CONTRACTS">
-      <topicref href="PGI_SUBPART_16.5.dita"
-                props="PGI SUBPART 16.5"
-                outputclass="SubPart"
-                navtitle="PGI SUBPART 16.5 – INDEFINITE-DELIVERY CONTRACTS"
-                base="NoTitle"
-                audience="DLAD_PGI_SUBPART_16_5"
-                xtrc="DLAD_PGI_SUBPART_16_5.html">
-         <topicref href="PGI_16.504.dita"
-                   props="PGI 16.504"
-                   outputclass="subtopic"
-                   navtitle="PGI 16.504 Indefinite-quantity contracts."
-                   base="NoTitle"
-                   audience="DLAD_PGI_16_504"
-                   xtrc="DLAD_PGI_16_504.html"/>
-      </topicref>
-   </topicref>
-   <topicref href="PGI_PART_23.dita"
-             props="PGI PART 23"
-             outputclass="Part"
-             navtitle="PGI PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE ">
-      <topicref href="PGI_SUBPART_23.90.dita"
-                props="PGI SUBPART 23.90"
-                outputclass="SubPart"
-                navtitle="PGI SUBPART 23.90 – ENSURING ADEQUATE COVID-19 SAFETY PROTOCOLS FOR FEDERAL CONTRACTORS "
-                base="NoTitle"
-                audience="DLAD_PGI_SUBPART_23_90"
-                xtrc="DLAD_PGI_SUBPART_23_90.html">
-         <topicref href="PGI_23.9001.dita"
-                   props="PGI 23.9001"
-                   outputclass="subtopic"
-                   navtitle="PGI 23.9001 General."
-                   base="NoTitle"
-                   audience="DLAD_PGI_23_9001"
-                   xtrc="DLAD_PGI_23_9001.html"/>
-      </topicref>
-   </topicref>
+   <topicref href="PGI_PART_16.dita" props="PGI PART 16" outputclass="Part" navtitle="PGI PART 16 – TYPES OF CONTRACTS" base="NoTitle" audience="DLAD_PGI_PART_16" xtrf="Part"><topicref href="PGI_SUBPART_16.5.dita" props="PGI SUBPART 16.5" outputclass="SubPart" navtitle="PGI SUBPART 16.5 – INDEFINITE-DELIVERY CONTRACTS" base="NoTitle" audience="DLAD_PGI_SUBPART_16_5" xtrc="DLAD_PGI_SUBPART_16_5.html" xtrf="SubPart"><topicref href="PGI_16.504.dita" props="PGI 16.504" outputclass="subtopic" navtitle="PGI 16.504 Indefinite-quantity contracts." base="NoTitle" audience="DLAD_PGI_16_504" xtrc="DLAD_PGI_16_504.html" xtrf="subtopic"/></topicref></topicref>
+   <topicref href="PGI_PART_23.dita" props="PGI PART 23" outputclass="Part" navtitle="PGI PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE " base="NoTitle" audience="PGI_PART_23" xtrf="Part"><topicref href="PGI_SUBPART_23.90.dita" props="PGI SUBPART 23.90" outputclass="SubPart" navtitle="PGI SUBPART 23.90 – ENSURING ADEQUATE COVID-19 SAFETY PROTOCOLS FOR FEDERAL CONTRACTORS " base="NoTitle" audience="DLAD_PGI_SUBPART_23_90" xtrc="DLAD_PGI_SUBPART_23_90.html" xtrf="SubPart"><topicref href="PGI_23.9001.dita" props="PGI 23.9001" outputclass="subtopic" navtitle="PGI 23.9001 General." base="NoTitle" audience="DLAD_PGI_23_9001" xtrc="DLAD_PGI_23_9001.html" xtrf="subtopic"/></topicref></topicref>
    <topicref href="PGI_PART_25.dita"
              navtitle="PGI PART 25 – FOREIGN ACQUISITION"
              outputclass="Part"
