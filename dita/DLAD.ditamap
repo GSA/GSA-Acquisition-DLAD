@@ -640,12 +640,7 @@
                    xtrf="subtopic"
                    audience="DLAD_4_1303-90"
                    xtrc="DLAD_4_1303-90.html"/>
-         <topicref href="4.1303-91.dita"
-                   props="4.1303-91"
-                   outputclass="subtopic"
-                   navtitle=" 4.1303-91 Operations Security (OPSEC) For On-site Contractors."
-                   audience="DLAD_4_1303-91"
-                   xtrc="DLAD_4_1303-91.html"/>
+         <topicref href="4.1303-91.dita" props="4.1303-91" outputclass="subtopic" navtitle=" 4.1303-91 Operations Security (OPSEC) For On-site Contractors." audience="DLAD_4_1303-91" xtrc="DLAD_4_1303-91.html" xtrf="subtopic" base="NoTitle"/>
       </topicref>
       <topicref href="SUBPART_4.16.dita"
                 navtitle="SUBPART 4.16 – UNIQUE PROCUREMENT INSTRUMENT IDENTIFIERS"
@@ -4405,7 +4400,7 @@
       </topicref>
    </topicref>
    <topicref href="PGI_PART_16.dita" props="PGI PART 16" outputclass="Part" navtitle="PGI PART 16 – TYPES OF CONTRACTS" base="NoTitle" audience="DLAD_PGI_PART_16" xtrf="Part"><topicref href="PGI_SUBPART_16.5.dita" props="PGI SUBPART 16.5" outputclass="SubPart" navtitle="PGI SUBPART 16.5 – INDEFINITE-DELIVERY CONTRACTS" base="NoTitle" audience="DLAD_PGI_SUBPART_16_5" xtrc="DLAD_PGI_SUBPART_16_5.html" xtrf="SubPart"><topicref href="PGI_16.504.dita" props="PGI 16.504" outputclass="subtopic" navtitle="PGI 16.504 Indefinite-quantity contracts." base="NoTitle" audience="DLAD_PGI_16_504" xtrc="DLAD_PGI_16_504.html" xtrf="subtopic"/></topicref></topicref>
-   <topicref href="PGI_PART_23.dita" props="PGI PART 23" outputclass="Part" navtitle="PGI PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE " base="NoTitle" audience="PGI_PART_23" xtrf="Part"><topicref href="PGI_SUBPART_23.90.dita" props="PGI SUBPART 23.90" outputclass="SubPart" navtitle="PGI SUBPART 23.90 – ENSURING ADEQUATE COVID-19 SAFETY PROTOCOLS FOR FEDERAL CONTRACTORS " base="NoTitle" audience="DLAD_PGI_SUBPART_23_90" xtrc="DLAD_PGI_SUBPART_23_90.html" xtrf="SubPart"><topicref href="PGI_23.9001.dita" props="PGI 23.9001" outputclass="subtopic" navtitle="PGI 23.9001 General." base="NoTitle" audience="DLAD_PGI_23_9001" xtrc="DLAD_PGI_23_9001.html" xtrf="subtopic"/></topicref></topicref>
+   <topicref href="PGI_PART_23.dita" props="PGI PART 23" outputclass="Part" navtitle="PGI PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE " base="NoTitle" audience="DLAD_PGI_PART_23" xtrf="Part"><topicref href="PGI_SUBPART_23.90.dita" props="PGI SUBPART 23.90" outputclass="SubPart" navtitle="PGI SUBPART 23.90 – ENSURING ADEQUATE COVID-19 SAFETY PROTOCOLS FOR FEDERAL CONTRACTORS " base="NoTitle" audience="DLAD_PGI_SUBPART_23_90" xtrc="DLAD_PGI_SUBPART_23_90.html" xtrf="SubPart"><topicref href="PGI_23.9001.dita" props="PGI 23.9001" outputclass="subtopic" navtitle="PGI 23.9001 General." base="NoTitle" audience="DLAD_PGI_23_9001" xtrc="DLAD_PGI_23_9001.html" xtrf="subtopic"/></topicref></topicref>
    <topicref href="PGI_PART_25.dita"
              navtitle="PGI PART 25 – FOREIGN ACQUISITION"
              outputclass="Part"
@@ -4431,25 +4426,5 @@
                    xtrc="DLAD_PGI_25_7902_4.html"/>
       </topicref>
    </topicref>
-   <topicref href="PGI_PART_53.dita"
-             props="PGI PART 53"
-             outputclass="Part"
-             navtitle="PGI PART 53 – FORMS"
-             base="NoTitle">
-      <topicref href="PGI_SUBPART_53.90.dita"
-                props="PGI SUBPART 53.90"
-                outputclass="SubPart"
-                navtitle="PGI SUBPART 53.90 – FORMATS AND TEMPLATES"
-                base="NoTitle"
-                audience="DLAD_PGI_SUBPART_53_90"
-                xtrc="DLAD_PGI_SUBPART_53_90.html">
-         <topicref href="PGI_53.9000.dita"
-                   props="PGI 53.9000"
-                   outputclass="subtopic"
-                   navtitle="PGI 53.9000 Controlled Unclassified Information (CUI) Marking."
-                   base="NoTitle"
-                   audience="DLAD_PGI_53_9001"
-                   xtrc="DLAD_PGI_53_9001.html"/>
-      </topicref>
-   </topicref>
+   <topicref href="PGI_PART_53.dita" props="PGI PART 53" outputclass="Part" navtitle="PGI PART 53 – FORMS" base="NoTitle" audience="DLAD_PGI_PART_53" xtrf="Part"><topicref href="PGI_SUBPART_53.90.dita" props="PGI SUBPART 53.90" outputclass="SubPart" navtitle="PGI SUBPART 53.90 – FORMATS AND TEMPLATES" base="NoTitle" audience="DLAD_PGI_SUBPART_53_90" xtrc="DLAD_PGI_SUBPART_53_90.html"><topicref href="PGI_53.9000.dita" props="PGI 53.9000" outputclass="subtopic" navtitle="PGI 53.9000 Controlled Unclassified Information (CUI) Marking." base="NoTitle" audience="DLAD_PGI_53_9001" xtrc="DLAD_PGI_53_9001.html"/></topicref></topicref>
 </map>
