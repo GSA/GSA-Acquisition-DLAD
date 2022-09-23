@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_17_9204" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9204</ph> Reopener requirements.</title>
+   <conbody>
+      <p outputclass="Normal">The contracting officer must, at a minimum, include the following in a reopener requirement:</p>
+      <p>(a) Title that clearly identifies it as a reopener requirement.</p>
+      <p>(b) Statement of purpose.</p>
+      <p>(c) Identification of the items, amounts, and event triggering the reopener procedure.</p>
+      <p>(d) Requirement for certified cost or pricing data, and applicability of the Disputes clause. </p>
+      <p>(e) Adjustment pricing methodology in the following order of preference:</p>
+      <p outputclass="List2">(1) Pre-established pricing formula;</p>
+      <p outputclass="List2">(2) If the nature of the contingency is such that its price impact can only be anticipated to fall within a broad range of prices instead of one or several alternative price outcomes, identify the range within which the amount for that cost element may be revised through negotiations; or</p>
+      <p outputclass="List2">(3) If the contingency is such that its price impact cannot be anticipated to fall within a broad range, or the original price negotiations did not involve cost or pricing data, the reopener may specify that the parties will enter into good faith negotiations and include an option for terminating performance within a specified number of days following receipt of written notice by either party in the event of a failure to agree.</p>
+      <p>(f) A provision for a downward or upward adjustment as appropriate. An exception is authorized only when necessary to achieve final agreement on price. For contracts allowing an upward adjustment above the contract price, establish a firm, not-to-exceed ceiling, on an aggregate basis (and per unit basis if applicable), above which no price adjustment must be made.</p>
+      <p>(g) The method of adjusting any option quantity or period prices, if any, which may result from operation of the reopener.</p>
+      <p>(h) If the contract is not subject to the Cost Accounting Standards (FAR Part 30), the treatment of accounting system changes that impact the price adjustment under the reopener.</p>
+      <p>(i) The contractor must confirm the award price does not include any amount for the specified contingency except as provided for in the reopener requirement.</p>
+   </conbody>
+</concept>

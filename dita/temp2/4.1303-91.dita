@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_1303-91" xml:lang="en-US">
+   <title outputclass="Heading 3"> 
+      <ph props="autonumber">4.1303-91</ph> Operations Security (OPSEC) For On-site Contractors.</title>
+   <conbody>
+      <p>The contracting officer shall insert procurement note H16 in solicitations and contracts when contract performance requires contractors to have intermittent and/or routine physical access to a Federally-controlled facility and/or intermittent and/or routine access to a Federally controlled information system. </p>
+      <p>*****</p>
+      <p> H16 Operations Security (OPSEC) For On-site Contractors (DEC 2021) </p>
+      <p>(1) Contractors shall complete the following courses: </p>
+      <p outputclass="List1">(a) Center for the Development of Security Excellence Operations Security (OPSEC) Awareness; </p>
+      <p outputclass="List1">(b) Unauthorized Disclosure of Classified Information for DoD and Industry; </p>
+      <p outputclass="List1">(c) Insider Threat Awareness; and </p>
+      <p outputclass="List1">(d) Introduction to Information Security courses. These courses are located at Security Awareness Hub (https://securityawareness.usalearning.gov/index.html). </p>
+      <p>(2) The courses identified at subparagraph (1) above are required for all contractors that perform work on-site at a DLA or DoD facility; or for contractors that perform work off-site and access a Federally-controlled information system. </p>
+      <p>(3) The contractor shall immediately direct its workforce who are performing services for the Government to take the training after contract award. The contractor shall provide evidence of this training to the contracting officer representative or the contracting officer no later than five business days after contract award or prior to accessing the installation or a Federally-controlled information system, whichever occurs first. </p>
+      <p>(4) Annual refresher training is required and consists of re-accomplishing all of the courses listed in subparagraph (1) above. The contractor shall keep certificates on record for inspection or submission as required by the Government at the Government’s discretion. </p>
+      <p>*****</p>
+   </conbody>
+</concept>

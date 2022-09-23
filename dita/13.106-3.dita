@@ -7,16 +7,7 @@
         documentation.</title>
     <conbody>
         <p id="p__Hlk67073318">(a) <i>Basis for award</i>.</p>
-        <p id="p_P13_106_3_a_1_S90" outputclass="List2">(1)(S-90) Contracting officers shall use the
-            PRC codes in <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3.">15.406-3 Documenting the negotiation.</xref>
-         <xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
-            <u>(a)(11).</u>15.406-3 Documenting the negotiation.</xref> Contracting officers at DLA Aviation, DLA Land
-            and Maritime, and DLA Troop Support shall document the PRC in the Simplified Acquisition
-            Award Documentation (SAAD) format at <xref href="53.9013.dita#DLAD_53_9013/Gltewj">
-            <u>53.9013(a)</u>53.9013 Simplified acquisition procedures.</xref>. Contracting officers at DLA Distribution, DLA
-            Disposition Services, DLA Contracting Services Office, DLA Strategic Materials, and DLA
-            Energy shall document the PRC in the Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013/0c86im0j">
-            <u>53.9013(c)</u>53.9013 Simplified acquisition procedures.</xref>.</p>
+        <p id="p_P13_106_3_a_1_S90" outputclass="List2">(1)(S-90) Contracting officers shall use the PRC codes in <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3." outputclass="fm:ParaNumOnly">15.406-3(a)(11)</xref>. Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall document the PRC in the Simplified Acquisition Award Documentation (SAAD) format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly">53.9013(a)</xref>. Contracting officers at DLA Distribution, DLA Disposition Services, DLA Contracting Services Office, DLA Strategic Materials, and DLA Energy shall document the PRC in the Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly"> 53.9013(c)</xref>.</p>
         <p outputclass="List2" id="p_P13_106_3_a_1_S91">(S-91) When evaluating the price of an item
             with a single manufacturing source (also referred to as original equipment manufacturer
             (OEM)), the contracting officer may determine the price is competitive for awards not
@@ -25,9 +16,7 @@
             source OEM item; and</p>
         <p outputclass="List4">(B) The sole source OEM did not submit an offer; and</p>
         <p outputclass="List4">(C) The contracting officer determines—</p>
-        <p outputclass="List6">
-         <i>(1) </i>The offered prices are independent (see <xref href="13.106-3.dita#DLAD_13_106-3/443ssde">
-            <u>13.106-3(a)(1)(S-92)</u>13.106-3 Award and documentation.</xref>; and </p>
+        <p outputclass="List6"> <i>(1) </i>The offered prices are independent (see <xref href="13.106-3.dita#DLAD_13_106-3" outputclass="fm:ParaNumOnly">13.106-3(a)(1)(S-92)</xref>; and </p>
         <p id="p_P13_106_3_a_1_S92" outputclass="List6">
          <i>(2)</i> The otherwise successful
             offeror’s price is not unreasonable (see FAR 15.403-1(c)(1)(i)(C)). To determine whether
@@ -55,28 +44,7 @@
         <p id="p_P13_106_3_a_1_S93" outputclass="List4">(B) If the OEM sells to multiple independent
             dealers or distributors that are not financially affiliated, this may indicate pricing
             is independent.</p>
-        <p outputclass="List2" id="rerS93">(S-93) The contracting officer shall use “B” in the
-            second position of the PRC (see <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3">15.406-3 Documenting the negotiation.</xref>
-         <xref href="15.406-3.dita#DLAD_15_406-3/p_P15_406_3_a">
-            <u>(a)(11)</u>15.406-3 Documenting the negotiation.</xref>) for awards not exceeding the SAT when there is a
-            single manufacturing source and the contracting officer based the determination of price
-            reasonableness on independent price competition.</p>
-        <p id="p_P13_106_3_b">(b) File documentation and retention. Contracting officers shall
-            document the basis for award for all simplified acquisitions. Contracting officers at
-            DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall use the SAAD format at
-                <xref href="53.9013.dita#DLAD_53_9013/Gltewj">
-            <u>53.9013(a)</u>53.9013 Simplified acquisition procedures.</xref>. Contracting
-            officers at DLA Distribution, DLA Disposition Services, DLA Contracting Services Office,
-            DLA Strategic Materials, and DLA Energy shall use the Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013/0c86im0j">
-            <u>53.9013(c)</u>53.9013 Simplified acquisition procedures.</xref>. The basis for
-            award includes the best value trade-off determination required when awarding to other
-            than the lowest price/highest SPRS rating (or to other than the lowest price/highest
-            scored when using FAR 13.5 or when other evaluation factors apply); and the price
-            reasonableness determination. Each procuring organization may add standardized
-            supplemental information only by appending it at the end of the SAAD or the Alternate
-            SAAD format, in order to foster uniform presentation across the Agency. Contracting
-            officers shall also confirm the prospective awardee is not debarred, suspended, or
-            proposed for suspension/debarment. Contracting officers shall retain the SAAD or the
-            Alternate SAAD in the contract file.</p>
+        <p outputclass="List2" id="rerS93">(S-93) The contracting officer shall use “B” in the second position of the PRC (see <xref href="15.406-3.dita#DLAD_15_406-3" xtrc="15.406-3" outputclass="fm:ParaNumOnly">15.406-3(a)(11)</xref>) for awards not exceeding the SAT when there is a single manufacturing source and the contracting officer based the determination of price reasonableness on independent price competition.</p>
+        <p id="p_P13_106_3_b" outputclass="fm:ParaNumOnly">(b) File documentation and retention. Contracting officers shall document the basis for award for all simplified acquisitions. Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly"> 53.9013(a)</xref>. Contracting officers at DLA Distribution, DLA Disposition Services, DLA Contracting Services Office, DLA Strategic Materials, and DLA Energy shall use the Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly"> 53.9013(c)</xref>. The basis for award includes the best value trade-off determination required when awarding to other than the lowest price/highest SPRS rating (or to other than the lowest price/highest scored when using FAR 13.5 or when other evaluation factors apply); and the price reasonableness determination. Each procuring organization may add standardized supplemental information only by appending it at the end of the SAAD or the Alternate SAAD format, in order to foster uniform presentation across the Agency. Contracting officers shall also confirm the prospective awardee is not debarred, suspended, or proposed for suspension/debarment. Contracting officers shall retain the SAAD or the Alternate SAAD in the contract file.</p>
     </conbody>
 </concept>

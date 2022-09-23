@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PGI_PART_53">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PGI PART 53</ph> – FORMS </title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="PGI_SUBPART_53.90.dita#DLAD_PGI_SUBPART_53_90">PGI SUBPART 53.90 – FORMATS AND TEMPLATES </xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="PGI_53.9000.dita#DLAD_PGI_53_9001">PGI 53.9000 Controlled Unclassified Information (CUI) Marking.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

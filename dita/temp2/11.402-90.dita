@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_11_402-90">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">11.402-90</ph> Time definite delivery (TDD) standards.</title>
+   <conbody>
+      <p id="fLePnc" outputclass="Normal">Customer direct requirements on planned direct vendor
+         delivery (DVD) contracts shall meet the TDD standards. Contract delivery time frames shall
+         align to one of the following supplier responsibility points.</p>
+      <p id="CKaBAx" outputclass="Ctr normal">
+         <b>TIME DEFINITE DELIVERY (TDD) STANDARDS</b>
+      </p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1"/>
+            <colspec colname="2" colnum="2"/>
+            <thead>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VIxkoi">
+                        <b>Supplier Responsibility Point</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="AKncPy">
+                        <b>Number of Days</b>
+                     </p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZnZqjI">Offer of Materiel to DCMA or Transporter - CAT 1</p>
+                  </entry>
+                  <entry>
+                     <p id="lZTHdC">1 day</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XFBryl">Offer of Materiel to DCMA or Transporter - CAT 2</p>
+                  </entry>
+                  <entry>
+                     <p id="MbMfze">2 days</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JfeDsI">Offer of Materiel to DCMA or Transporter - CAT 3</p>
+                  </entry>
+                  <entry>
+                     <p id="usFLtZ">3 days</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SwnzIg">Transporter carrier drop-off (at CONUS location) - CAT 1</p>
+                  </entry>
+                  <entry>
+                     <p id="fNlpRj">4 days</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ujzcLt">Transporter carrier drop-off (at CONUS location) - CAT 2</p>
+                  </entry>
+                  <entry>
+                     <p id="BDqorw">7 days</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="Ufaqqx">Transporter carrier drop-off (at CONUS location) - CAT 3</p>
+                  </entry>
+                  <entry>
+                     <p id="JTPNFJ">11 days</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="pOWjRW">Compliance with TDD standards shall be reviewed prior to option invocation and
+         a waiver obtained prior to contract option invocation if supplier cannot meet the standards
+         or cost to meet the standard is excessive.</p>
+      <p id="cEQmZf">Commercial industry standards exceeding TDD standards or excessive cost for TDD
+         standards shall be discussed with and approved by customers and Planning. When the
+         supplier's capability exceeds the standards, the contracting officer will coordinate with
+         the requirements personnel and negotiate delivery standards to meet the needs of DLA
+         customers at the best value to the government. A waiver to TDD standards is not required
+         for the exceptions in <xref href="11.402-91.dita#DLAD_11_402-91">
+            <u>11.402-91</u>11.402-91 TDD standards exclusions.</xref>.</p>
+      <p id="GPFWLA">A business decision must be documented by an economic analysis, business case
+         analysis, or vendor stock retention model analysis. The DLA Acquisition Programs Division
+         oversees compliance with DLAI 2112, Procedures for Initiating and Monitoring Planned
+         Customer Direct Long-Term Contracts by conducting quarterly reviews of all planned DVD
+         contracts and reporting the findings to the HCAs and the DLA Acquisition Director.</p>
+   </conbody>
+</concept>

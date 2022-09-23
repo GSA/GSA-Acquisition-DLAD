@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_7301" xml:lang="en-US">
+    <title outputclass="Heading 3">
+      <ph props="autonumber">4.7301</ph> Definitions.</title>
+    <conbody>
+        <p id="p_P4_7302" outputclass="Normal">See <xref href="2.101.dita">
+            <u>2.101</u>
+         </xref>
+            for definitions of “collaboration folders,” “DLA Export Control Technical Data Access,”
+            “enhanced validation,” and “JCP Certification.” See DFARS 204.7301 for definitions of
+            “controlled technical information” and “covered defense information.” See DFARS
+            252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting,
+            paragraph (a) for definitions of “covered defense information,” “operationally critical
+            support,” and “cyber incident.” See DoDD 5230.25, Withholding of Unclassified Technical
+            Data From Public Disclosure, E2.1.2 for definition of “critical technology.”</p>
+    </conbody>
+</concept>

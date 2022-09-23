@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_17_9100" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.9100</ph> Public (organic) manufacturing.</title>
+   <conbody>
+      <p outputclass="Normal">Follow the procedures in <xref href="https://issuances.dla.mil/Published_Issuances/Organic%20Manufacturing%20(OM).pdf"
+               scope="external"
+               format="pdf">
+            <u>DLAI 4140.18, Organic Manufacturing (OM)</u>
+         </xref> (<xref href="https://issuances.dla.mil/Published_Issuances/Organic%20Manufacturing%20(OM).pdf)"
+               scope="external"
+               format="pdf)">
+            <u>https://issuances.dla.mil/Published_Issuances/Organic%20Manufacturing%20(OM).pdf)</u>
+         </xref>.</p>
+   </conbody>
+</concept>

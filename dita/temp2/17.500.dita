@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_17_500" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">17.500</ph> Scope of subpart.</title>
+   <conbody>
+      <p id="p_P17_505" outputclass="Normal">Follow the procedures in DLAM 4010.01, <xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf"
+               scope="external"
+               format="pdf">
+            <u>Outbound Military Interdepartmental Purchase Request (MIPR) for Service Orders</u>
+         </xref> (<xref href="https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf"
+               scope="external"
+               format="pdf">
+            <u>https://hqc.dla.mil/stewardship/Documents/DLA_Manual_Outbound_MIPR_%20Procedures_Final.pdf</u>
+         </xref>). </p>
+   </conbody>
+</concept>

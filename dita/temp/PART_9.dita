@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_9">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 9</ph> – CONTRACTOR QUALIFICATIONS</title>
+      <body>
+         <ul otherprops="TOC">
+            <li rev="Revised August 30, 2022">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_9.1.dita#DLAD_SUBPART_9_1">SUBPART 9.1 – RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.100.dita#DLAD_9_100">9.100 Scope of subpart.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.100-90.dita#DLAD_9_100-90">9.100-90 Business Decision Analytics (BDA) dashboard.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.104.dita#DLAD_9_104">9.104 Standards.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.104-2.dita#DLAD_9_104-2">9.104-2 Special Standards.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.105.dita#DLAD_9_105">9.105 Procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.105-1.dita#DLAD_9_105-1">9.105-1 Obtaining
+        information.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.106.dita#DLAD_9_106">9.106 Preaward surveys.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.106-2.dita#DLAD_9_106-2">9.106-2 Requests for preaward surveys
+        (PAS).</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_9.2.dita#DLAD_SUBPART_9_2">SUBPART 9.2 – QUALIFICATIONS REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.202.dita#DLAD_9_202">9.202 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.203.dita#DLAD_9_203">9.203 QPL’s, QML’s, and QBL’s.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.204.dita#DLAD_9_204">9.204 Responsibilities for establishment of a qualification requirement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.270.dita#DLAD_9_270">9.270 Aviation and ship critical safety items.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.270-3.dita#DLAD_9_270-3">9.270-3 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li rev="Revised August 30, 2022">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_9.3.dita#DLAD_SUBPART_9_3">SUBPART 9.3 – FIRST ARTICLE TESTING AND APPROVAL</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.302.dita#DLAD_9_302">9.302 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.304.dita#DLAD_9_304">9.304 Exceptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.306.dita#DLAD_9_306">9.306 Solicitation requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.308.dita#DLAD_9_308">9.308 Contract clauses.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.308-1.dita#DLAD_9_308-1">9.308-1 Testing performed by the contractor.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="9.308-2.dita#DLAD_9_308-2">9.308-2 Testing performed by the Government.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_9.4.dita#DLAD_SUBPART_9_4">SUBPART 9.4 – DEBARMENT, SUSPENSION, AND INELIGIBILITY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.404.dita#DLAD_9_404">9.404 System for Award Management Exclusions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.405.dita#DLAD_9_405">9.405 Effect of listing.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.405-1.dita#DLAD_9_405-1">9.405-1 Continuation of current contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.406.dita#DLAD_9_406">9.406 Debarment.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.406-3.dita#DLAD_9_406-3">9.406-3 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.406-90.dita#DLAD_9_406-90">9.406-90 Procedures for debarments based on poor performance.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_9.6.dita#DLAD_SUBPART_9_6">SUBPART 9.6 – CONTRACTOR TEAM ARRANGEMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="9.603.dita#DLAD_9_603">9.603 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

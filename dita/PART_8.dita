@@ -12,6 +12,16 @@
                   <xref outputclass="fm:TOC" href="8.003.dita#DLAD_8_003">8.003 Use of other mandatory sources.</xref>
                </p>
             </li>
+            <li rev="Revised August 30, 2022">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_8.4.dita#DLAD_SUBPART_8_4">SUBPART 8.4 – FEDERAL SUPPLY SCHEDULES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p> <xref outputclass="fm:TOC" href="8.403.dita#DLAD_8_403">8.403 Applicability.</xref> </p>
+                  </li>
+               </ul>
+            </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_8.7.dita#DLAD_SUBPART_8_7">SUBPART 8.7 – ACQUISITION FROM NONPROFIT AGENCIES EMPLOYING PEOPLE WHO ARE BLIND OR SEVERELY DISABLED</xref>

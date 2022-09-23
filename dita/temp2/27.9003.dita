@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_27_9003" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">27.9003</ph> Contractor eligibility.</title>
+   <conbody>
+      <p outputclass="Normal">Contractors must have DLA controlling authority approval to be eligible for award, unless one of the exceptions at PGI 25.7902-4(S-92) applies.</p>
+   </conbody>
+</concept>

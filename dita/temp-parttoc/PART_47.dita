@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="DLAD_PART_47">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">PART 47</ph> – TRANSPORTATION</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_47.3.dita#DLAD_SUBPART_47_3">SUBPART 47.3 – TRANSPORTATION IN SUPPLY CONTRACTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.303-90.dita#DLAD_47_303-90">47.303-90 Export shipment of wood products.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.303-91.dita#DLAD_47_303-91">47.303-91 DLR item compliance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.305-3-90.dita#DLAD_47_305-3-90">47.305-3-90 First Destination
+        Transportation (FDT), Government–arranged transportation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.305-3-91.dita#DLAD_47_305-3-91">47.305-3-91 First Destination Transportation (FDT) program – shipments originating from outside the contiguous United States.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.305-4-90.dita#DLAD_47_305-4-90">47.305-4-90 Additional Wide Area Workflow (WAWF) information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.305-10-90.dita#DLAD_47_305-10-90">47.305-10-90 Procurement notes for
+        export shipping and U.S. Territories.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="47.305-90.dita#DLAD_47_305-90">47.305-90 Procurement notes.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

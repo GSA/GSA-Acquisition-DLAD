@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_9_100" xml:lang="en-US">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">9.100</ph> Scope of subpart.</title>
+   <conbody>
+      <p outputclass="Normal">The Defense Contractor Review List (DCRL) is an enterprise-wide tool for use by contracting officers to identify and communicate contractor performance, capability, and integrity issues for making determinations of responsibility and the effective administration of contracts. The DCRL has Special Attention Reason Codes that describe the basis for being on the list and Treatment Codes that provide recommended actions to contracting officers for mitigating risk. The DCRL includes contractors identified in SAM as debarred, suspended, proposed for debarment, or otherwise ineligible for award. SAM data takes precedence over DCRL data.</p>
+   </conbody>
+</concept>

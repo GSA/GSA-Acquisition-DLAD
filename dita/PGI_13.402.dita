@@ -5,21 +5,11 @@
    <title id="5JQP6C" outputclass="Heading 2">
       <ph class="- topic/ph " id="V06MYa" props="autonumber">PGI 13.402</ph> Conditions for use.</title>
    <conbody id="lJWjYz">
-      <p id="p_P_PGI_13_402_f">(f)(1) <i id="9X9don">Monthly reports</i>: The DLA Information Operations
-         Analytics Center for Excellence (ACE) shall provide monthly reports to the DLA Acquisition
-         Compliance, Policy and Pricing Division and the procuring organizations identifying fast
-         payment threshold violations. In addition, ACE shall provide monthly reports to the DLA
-         Acquisition Compliance, Policy and Pricing Division and the procuring organizations
-         identifying orders that violate the requirements of <xref href="13.402.dita#DLAD_13_402" id="6tqpXx">
-            <u id="wx4df5">13.402</u>
-         </xref>(f) with regard to Customer Direct Shipment, DLA Direct shipment, or inspection and
-         acceptance. ACE shall provide the prior month’s report by the 20th of each month. Each
-         procuring organization shall receive a raw score based on the number of violations for each
-         of the three categories (threshold, inspection and acceptance at other than destination,
-         and Customer Direct or DLA Direct locations that do not meet the requirements of <xref href="13.402.dita#DLAD_13_402" id="kmj5tG">
-            <u id="goifHF">13.402</u>
-         </xref>(S-90)). The violation score shall be green for no violations, yellow for one
-         violation, and red for two or more violations.</p>
+      <p id="p_P_PGI_13_402_f">(f)(1) <i id="9X9don">Monthly reports</i>: The DLA Information Operations Analytics Center for Excellence (ACE) shall provide monthly reports to the DLA Acquisition Compliance, Policy and Pricing Division and the procuring organizations identifying fast payment threshold violations. In addition, ACE shall provide monthly reports to the DLA Acquisition Compliance, Policy and Pricing Division and the procuring organizations identifying orders that violate the requirements of <xref href="13.402.dita#DLAD_13_402"
+               id="6tqpXx"
+               outputclass="fm:ParaNumOnly">13.402 Conditions for use.</xref>(f) with regard to Customer Direct Shipment, DLA Direct shipment, or inspection and acceptance. ACE shall provide the prior month’s report by the 20th of each month. Each procuring organization shall receive a raw score based on the number of violations for each of the three categories (threshold, inspection and acceptance at other than destination, and Customer Direct or DLA Direct locations that do not meet the requirements of <xref href="13.402.dita#DLAD_13_402"
+               id="kmj5tG"
+               outputclass="fm:ParaNumOnly">13.402 Conditions for use.</xref>(S-90)). The violation score shall be green for no violations, yellow for one violation, and red for two or more violations.</p>
       <p id="wNPBnl" outputclass="List3">(i) For each procuring organization with a raw violation
          score of yellow or red in any of the three categories, its compliance office shall—</p>
       <p id="ANsiKB" outputclass="List4">(A) Review the threshold and other identified violations
@@ -154,57 +144,26 @@
       <p id="qNNjOk" outputclass="Normal">
          <i id="gKte8n">(End of report format)</i>
       </p>
-      <p id="kRAmXX" outputclass="List2">(5) Contracting officers shall use the SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="1TkWoj">
-            <u id="fUasYg">53.9013</u>
-         </xref>
-         <xref href="53.9013.dita#DLAD_53_9013/Gltewj" id="Y4b7X2">
-            <u id="mGRF9B">(a)</u>
-         </xref> or the alternate SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="fm6jpo">
-            <u id="P7fFzr">53.9013</u>
-         </xref> 
-         <xref href="53.9013.dita#DLAD_53_9013/0c86im0j" id="qFVuqb">
-            <u id="lmCl3O">(c)</u>
-         </xref>, as applicable, to document the use of fast payment procedures for purchase orders,
-         when applicable, and verify compliance with the applicable fast payment threshold. If the
-         authority for a threshold at <xref href="13.402.dita#DLAD_13_402" id="utPH0u">
-            <u id="Clk1Ix">13.402</u>
-         </xref> flows from an exception at <xref href="13.402.dita#DLAD_13_402" id="8igd2V">
-            <u id="iLuvoS">13.402</u>
-         </xref>(a), the contracting officer shall document the higher threshold in the narrative.
-         If a threshold does not apply for medical supplies for direct shipment overseas based on
-         DFARS 13.402(a)(ii), the contracting officer shall document this in the narrative. For
-         delivery orders that require a PNM, the contracting officer shall use the PNM checklist to
-         verify that the PNM addresses use of fast payment procedures, and the contracting officer
-         shall address the use of fast payment procedures in the contract award.</p>
+      <p id="kRAmXX" outputclass="List2">(5) Contracting officers shall use the SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="1TkWoj" outputclass="fm:ParaNumOnly">53.9013(a)</xref> or the alternate SAAD at <xref href="53.9013.dita#DLAD_53_9013" id="fm6jpo" outputclass="fm:ParaNumOnly">53.9013</xref>, as applicable, to document the use of fast payment procedures for purchase orders, when applicable, and verify compliance with the applicable fast payment threshold. If the authority for a threshold at <xref href="13.402.dita#DLAD_13_402" id="utPH0u" outputclass="fm:ParaNumOnly">13.402</xref> flows from an exception at <xref href="13.402.dita#DLAD_13_402" id="8igd2V" outputclass="fm:ParaNumOnly">13.402(a)</xref>, the contracting officer shall document the higher threshold in the narrative. If a threshold does not apply for medical supplies for direct shipment overseas based on DFARS 13.402(a)(ii), the contracting officer shall document this in the narrative. For delivery orders that require a PNM, the contracting officer shall use the PNM checklist to verify that the PNM addresses use of fast payment procedures, and the contracting officer shall address the use of fast payment procedures in the contract award.</p>
       <p id="OhDXiM" outputclass="List2">(6) Contracting officers shall follow the job aids
          identified below when creating and maintaining contracts using fast payment procedures.</p>
       <p id="sGnJuu" outputclass="List3">(i) Enterprise Core Component (ECC) Job Aids. See <xref format="aspx"
                href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
                id="KdJKtk"
-               scope="external">
-            <u id="81pKwb">EBS ONLINE HELP</u>
-         </xref> (<xref format="aspx"
+               scope="external"> EBS ONLINE HELP </xref> (<xref format="aspx"
                href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
                id="BjroPy"
-               scope="external">
-            <u id="CvVHgP">https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx</u>
-         </xref>), select “eProcurement”, and select “LTCs (Outline Agreements) in ECC” to
-         access—</p>
+               scope="external"> https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx </xref>), select “eProcurement”, and select “LTCs (Outline Agreements) in ECC” to access—</p>
       <p id="GnKHAp" outputclass="List4">(A) Long-Term Contracting: Creating an Outline
          Agreement</p>
       <p id="vSfMiH" outputclass="List4">(B) ECC 778 OA Upload Spreadsheet Data Dictionary</p>
-      <p id="zKbtYd" outputclass="List3">(ii) Supplier Relationship Management (SRM) Job Aids. See
-            <xref format="aspx"
+      <p id="zKbtYd" outputclass="List3">(ii) Supplier Relationship Management (SRM) Job Aids. See <xref format="aspx"
                href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
                id="qqhzWm"
-               scope="external">
-            <u id="jd5GkU">EBS ONLINE HELP</u>
-         </xref> (<xref format="aspx"
+               scope="external"> EBS ONLINE HELP </xref> (<xref format="aspx"
                href="https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx"
                id="ATU6Cr"
-               scope="external">
-            <u id="qXf5Gm">https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx</u>
-         </xref>), select “eProcurement”, and select “LTCs in SRM” to access—</p>
+               scope="external"> https://dlamil.dps.mil/sites/P1/ebs/Pages/ONLINEHELP.aspx </xref>), select “eProcurement”, and select “LTCs in SRM” to access—</p>
       <p id="uuZbLe" outputclass="List4">(A) Long-Term Contracts (LTCs): Creating and Maintaining
          Contracts via Spreadsheet Upload</p>
       <p id="vWWFAy" outputclass="List4">(B) Long-Term Contracts (LTCs): Manually Create a Long-Term

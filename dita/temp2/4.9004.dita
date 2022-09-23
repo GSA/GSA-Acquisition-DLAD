@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_9004" rev="Revised August 30, 2022">
+   <title outputclass="Heading 3"> 4.9004 Procurement note.</title>
+   <conbody>
+      <p>As prescribed in DLAD 4.9000, use procurement note H17 for procurements involving FSC 5962 only that are equal to or under the micro-purchase threshold. </p>
+      <p outputclass="Ctr_SmCaps">H17 RESTRICTION ON FSC 5962, ELECTRONIC MICROCIRCUITS (MAY 2022) </p>
+      <p outputclass="List1">(a) Application. This procurement note shall apply only to actions at or under the micro-purchase threshold. </p>
+      <p outputclass="List1">(b) Definitions. As used in this procurement note. </p>
+      <p outputclass="List2">(1) “Covered Nation” means </p>
+      <p outputclass="List3">(i) the Democratic People’s Republic of North Korea; </p>
+      <p outputclass="List3">(ii) the People’s Republic of China; </p>
+      <p outputclass="List3">(iii) the Russian Federation; and </p>
+      <p outputclass="List3">(iv) the Islamic Republic of Iran. </p>
+      <p outputclass="List2">(2) “Federal Supply Class (FSC) 5962, Electronic Microcircuit” means </p>
+      <p outputclass="List3">(i) a small circuit having a high equivalent circuit element density, which is considered as a single part composed of interconnected elements placed and/or formed on or within a single substrate to perform an electronic circuit function. The elements may be formed on or within a semiconductor material substrate. They may consist of conductive 8 film(s) formed on an insulating substrate or may be a combination of one or both of these types with discrete elements; </p>
+      <p outputclass="List3">(ii) designed specifically to generate, modify, or process electrical signals included in FSC 5962; </p>
+      <p outputclass="List3">(iii) a supply class identified as being high-risk for counterfeiting; and </p>
+      <p outputclass="List3">(iv) includes Integrated Circuit Devices; Integrated Circuit Modules, Integrated Electronic Devices: Hybrid, Magnetic, Molecular, Opto-Electronic, and Thin Film. </p>
+      <p outputclass="List1">(c) Prohibition. The offeror represents by the submission of its quotation that it shall not propose to deliver FSC 5962, Electronic Microcircuits from a covered nation to the Government under this solicitation or any resulting contract. If the contracting officer is unable to determine whether the FSC 5962, Electronic Microcircuits is from a covered nation based on traceability documentation or other means on the offeror’s representation, as described above, then the award shall not be made to that offeror. </p>
+      <p outputclass="List1">(d) Requirements. The awardee must also meet the following requirements: </p>
+      <p outputclass="List3">(i) Provide post award traceability documentation. If the contracting officer is unable to obtain traceability accounting for 100% of the material, the contracting officer reserves the right to reject the material based on the above prohibition. </p>
+      <p outputclass="List3">(ii) Obtain written contracting officer approval prior to shipment. </p>
+   </conbody>
+</concept>
