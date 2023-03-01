@@ -4,9 +4,9 @@
 <concept id="DLAD_15_406-3">
    <title outputclass="Heading 3">
       <ph props="autonumber">
-         <ph id="ydwqdbw" rev="Please change">15.406-3</ph>
+         15.406-3
       </ph>
-      <ph id="6at1cfc8" rev="Please change">Documenting the negotiation.</ph>
+      Documenting the negotiation.
    </title>
    <conbody>
       <p id="p_P15_406_3_a">(a)(11) “Price reasonableness codes” (PRCs) are two-position codes in EBS. The first position identifies the support, if any, the contracting officer received. The second position identifies the price analysis technique, and cost analysis if performed. Contracting officers shall ensure the appropriate PRC is entered in EBS and provided in the SAAD, or PNM, as applicable.</p>
@@ -55,8 +55,10 @@
          <u>contracting officer shall include—</u>
       </p>
       <p id="FlkYKL" outputclass="List3">(i) All applicable elements from one of the PNM formats (competitive or noncompetitive)</p>
-      <p id="FxxUre" outputclass="Normal">at <xref href="53.9015.dita#DLAD_53_9015" outputclass="fm:ParaNumOnly">53.9015</xref> to ensure final negotiated agreements are documented in a consistent manner; and</p>
+      <p id="FxxUre" outputclass="Normal">at <xref href="53.9015.dita#DLAD_53_9015" outputclass="fm:ParaNumOnly">
+         53.9015 
+      </xref> to ensure final negotiated agreements are documented in a consistent manner; and</p>
       <p id="p_P15_406_3_a_S91" outputclass="List3">(ii) Any additional relevant information not cited in either format.</p>
-      <p id="SHjuKV" outputclass="List2">(S-91) When conducting the acquisition using FAR 13.5 procedures, contracting officers are encouraged, but not required, to use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly">53.9013(a)</xref> or Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly">53.9013(c) </xref> as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" outputclass="fm:ParaNumOnly">13.106-3(b)</xref> and <xref href="13.501.dita#DLAD_13_501" outputclass="fm:ParaNumOnly">13.501(b)(3)</xref> in place of a PNM format.</p>
+      <p id="SHjuKV" outputclass="List2">(S-91) When conducting the acquisition using FAR 13.5 procedures, contracting officers are encouraged, but not required, to use the SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly">53.9013</xref> or Alternate SAAD format at <xref href="53.9013.dita#DLAD_53_9013" outputclass="fm:ParaNumOnly">53.9013</xref> as prescribed in <xref href="13.106-3.dita#DLAD_13_106-3" outputclass="fm:ParaNumOnly">13.106-3</xref> and <xref href="13.501.dita#DLAD_13_501" outputclass="fm:ParaNumOnly">13.501</xref> in place of a PNM format.</p>
    </conbody>
 </concept>

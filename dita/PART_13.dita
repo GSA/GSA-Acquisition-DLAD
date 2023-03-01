@@ -97,7 +97,17 @@
                <ul otherprops="TOC">
                   <li>
                      <p>
+                        <xref outputclass="fm:TOC" href="13.500.dita#DLAD_13_500">13.500 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
                         <xref outputclass="fm:TOC" href="13.501.dita#DLAD_13_501">13.501 Special documentation requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="13.590.dita#DLAD_13_590">13.590 Simplified indefinite-delivery contracts (SIDCs).</xref>
                      </p>
                   </li>
                </ul>

@@ -31,7 +31,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li rev="Revised February 1, 2023">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_19.5.dita#DLAD_SUBPART_19_5">SUBPART 19.5 – SET–ASIDES FOR SMALL BUSINESS</xref>
                </p>
@@ -51,7 +51,7 @@
                         <xref outputclass="fm:TOC" href="19.506.dita#DLAD_19_506">19.506 Documentation requirements.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised January 10, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="19.590.dita#DLAD_19_590">19.590 Cascading/ set-aside procurement notes for DLA’s automated simplified procurement system.</xref>
                      </p>
@@ -119,7 +119,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_19.13.dita#DLAD_SUBPART_19_13">SUBPART 19.13 – HISTORICALLY UNDERUTILIZED BUSINESS ZONE (HUBZONE) PROGRAM</xref>
                </p>
@@ -131,7 +131,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_19.14.dita#DLAD_SUBPART_19_14">SUBPART 19.14 – SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM</xref>
                </p>
@@ -143,7 +143,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_19.15.dita#DLAD_SUBPART_19_15">SUBPART 19.15 – WOMAN-OWNED SMALL BUSINESS PROGRAM 8</xref>
                </p>

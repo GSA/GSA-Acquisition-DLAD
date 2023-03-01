@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_13_500" xml:lang="en-US"><title outputclass="Heading 3"> <ph props="autonumber">13.500</ph> General.</title><conbody><p outputclass="List1">(c)(1) The DLA Acquisition Director has delegated authority to the contracting officer to make the determination at FAR 13.500(c)(1).</p></conbody></concept>
+<concept id="DLAD_13_500" xml:lang="en-US">
+   <title outputclass="Heading 3"> 
+      <ph props="autonumber">13.500</ph> General.</title>
+   <conbody>
+      <p outputclass="List1">(c)(1) The DLA Acquisition Director has delegated authority to the contracting officer to make the determination at FAR 13.500(c)(1).</p>
+   </conbody>
+</concept>

@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">PART 50</ph> – EXTRAORDINARY CONTRACTUAL ACTIONS AND THE SAFETY ACT</title>
       <body>
          <ul otherprops="TOC">
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_50.1.dita#DLAD_SUBPART_50_1">SUBPART 50.1 – EXTRAORDINARY CONTRACTUAL ACTIONS</xref>
                </p>
@@ -17,7 +17,7 @@
                         <xref outputclass="fm:TOC" href="50.101.dita#DLAD_50_101">50.101 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised August 30, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="50.101-3.dita#DLAD_50_101-3">50.101-3 Records.</xref>
                            </p>
