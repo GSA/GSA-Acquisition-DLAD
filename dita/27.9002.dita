@@ -6,7 +6,7 @@
       <ph props="autonumber">27.9002</ph> Data
     subject to export control.</title>
   <conbody>
-      <p outputclass="Normal" rev="Revised August 30, 2022">For EBS users when
+      <p outputclass="Normal">For EBS users when
       export control applies, STO CS003, Identifying Export Control Technical
       Data, appears on the purchase request (PR) trailer, and STO RQ032 appears
       in the POT.</p>

@@ -48,7 +48,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_27.90.dita#DLAD_SUBPART_27_90">SUBPART 27.90 – EXPORT CONTROL OF TECHNICAL DATA</xref>
                </p>
@@ -58,7 +58,7 @@
                         <xref outputclass="fm:TOC" href="27.9001.dita#DLAD_27_9001">27.9001 Policy.</xref>
                      </p>
                   </li>
-                  <li rev="Revised August 30, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="27.9002.dita#DLAD_27_9002">27.9002 Data subject to export control.</xref>
                      </p>

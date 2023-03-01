@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">PART 9</ph> – CONTRACTOR QUALIFICATIONS</title>
       <body>
          <ul otherprops="TOC">
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_9.1.dita#DLAD_SUBPART_9_1">SUBPART 9.1 – RESPONSIBLE PROSPECTIVE CONTRACTORS</xref>
                </p>
@@ -94,7 +94,7 @@
                   </li>
                </ul>
             </li>
-            <li rev="Revised August 30, 2022">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_9.3.dita#DLAD_SUBPART_9_3">SUBPART 9.3 – FIRST ARTICLE TESTING AND APPROVAL</xref>
                </p>

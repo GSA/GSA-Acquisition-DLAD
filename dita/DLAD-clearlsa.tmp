@@ -17,8 +17,8 @@
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
-                outputclass="SubPart"
-                xtrf="SubPart"
+                outputclass="subtopic"
+                xtrf="subtopic"
                 xtrc="Cover_1.html"/>
    </topicref>
    

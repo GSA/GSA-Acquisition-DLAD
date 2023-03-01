@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_13_590" xml:lang="en-US"><title outputclass="Heading 3"> <ph props="autonumber">13.590</ph> Simplified indefinite-delivery contracts (SIDCs).</title><conbody><p>For SIDCs using FAR subpart 13.5, contracting officers shall comply with 13.390.</p></conbody></concept>
+<concept id="DLAD_13_590" xml:lang="en-US">
+   <title outputclass="Heading 3"> 
+      <ph props="autonumber">13.590</ph> Simplified indefinite-delivery contracts (SIDCs).</title>
+   <conbody>
+      <p>For SIDCs using FAR subpart 13.5, contracting officers shall comply with 13.390.</p>
+   </conbody>
+</concept>

@@ -3,10 +3,10 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <map title="DLAD" outputclass="dod">
    <title id="title_P1" outputclass="Title">DLAD</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume 7 - Parts 1-53 and 201-299"
              href="Volume_I.dita"
              outputclass="subtopic"
-             props=""
+             props="Volume_I"
              audience="Volume_I"
              otherprops="NoProp"
              base="NoTitle"
@@ -17,8 +17,8 @@
                 audience="Cover_1"
                 otherprops="NoProp"
                 base="NoTitle"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="Cover_1.html"/>
    </topicref>
    <topicref href="PART_1.dita"
@@ -47,7 +47,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_105"
-                   xtrc="DLAD_1_105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.105-3.dita"
@@ -57,7 +57,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_105-3"
-                   xtrc="DLAD_1_105-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.170.dita"
@@ -67,7 +67,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_170"
-                   xtrc="DLAD_1_170.html"
+                   xtrc=""
                    tables="4"
                    figures="0"/>
       </topicref>
@@ -88,7 +88,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_201-90"
-                   xtrc="DLAD_1_201-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.201-91.dita"
@@ -98,7 +98,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_201-91"
-                   xtrc="DLAD_1_201-91.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -119,7 +119,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_301"
-                   xtrc="DLAD_1_301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.304.dita"
@@ -129,7 +129,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_304"
-                   xtrc="DLAD_1_304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -150,7 +150,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_402"
-                   xtrc="DLAD_1_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -171,7 +171,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_501-2"
-                   xtrc="DLAD_1_501-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -192,7 +192,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_601"
-                   xtrc="DLAD_1_601.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="1.601-90.dita"
@@ -223,7 +223,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-2"
-                   xtrc="DLAD_1_602-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="1.602-2-90.dita"
@@ -254,7 +254,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-3"
-                   xtrc="DLAD_1_602-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.602-90.dita"
@@ -264,7 +264,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-90"
-                   xtrc="DLAD_1_602-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.602-91.dita"
@@ -274,7 +274,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_602-91"
-                   xtrc="DLAD_1_602-91.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.603-3-90.dita"
@@ -284,7 +284,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_603-3-90"
-                   xtrc="DLAD_1_603-3-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.603-3-91.dita"
@@ -294,7 +294,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_603-3-91"
-                   xtrc="DLAD_1_603-3-91.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="1.604.dita"
@@ -304,7 +304,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_604"
-                   xtrc="DLAD_1_604.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.670.dita"
@@ -314,7 +314,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_670"
-                   xtrc="DLAD_1_670.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="1.690.dita"
@@ -324,7 +324,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_690"
-                   xtrc="DLAD_1_690.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="1.690-1.dita"
@@ -385,7 +385,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_1_691"
-                   xtrc="DLAD_1_691.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -416,7 +416,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_2_101"
-                   xtrc="DLAD_2_101.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -447,7 +447,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_103"
-                   xtrc="DLAD_3_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.104.dita"
@@ -457,7 +457,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104"
-                   xtrc="DLAD_3_104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.104-1.dita"
@@ -467,7 +467,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-1"
-                   xtrc="DLAD_3_104-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.104-3.dita"
@@ -477,7 +477,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-3"
-                   xtrc="DLAD_3_104-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.104-4.dita"
@@ -487,7 +487,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-4"
-                   xtrc="DLAD_3_104-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.104-7.dita"
@@ -497,7 +497,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_104-7"
-                   xtrc="DLAD_3_104-7.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -518,7 +518,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_203"
-                   xtrc="DLAD_3_203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="3.204.dita"
@@ -528,7 +528,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_204"
-                   xtrc="DLAD_3_204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -549,7 +549,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_301"
-                   xtrc="DLAD_3_301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -570,7 +570,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_705"
-                   xtrc="DLAD_3_705.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -591,7 +591,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_806"
-                   xtrc="DLAD_3_806.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -612,7 +612,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_3_903"
-                   xtrc="DLAD_3_903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -643,7 +643,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_270"
-                   xtrc="DLAD_4_270.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.270-2.dita"
@@ -653,7 +653,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_270-2"
-                   xtrc="DLAD_4_270-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -674,7 +674,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_502"
-                   xtrc="DLAD_4_502.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -695,7 +695,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_606"
-                   xtrc="DLAD_4_606.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.606-90.dita"
@@ -705,7 +705,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_606-90"
-                   xtrc="DLAD_4_606-90.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -726,7 +726,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_703"
-                   xtrc="DLAD_4_703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -747,7 +747,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_802"
-                   xtrc="DLAD_4_802.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.804.dita"
@@ -757,7 +757,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_804"
-                   xtrc="DLAD_4_804.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.805.dita"
@@ -767,7 +767,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_805"
-                   xtrc="DLAD_4_805.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -788,7 +788,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1302"
-                   xtrc="DLAD_4_1302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.1303.dita"
@@ -798,7 +798,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1303"
-                   xtrc="DLAD_4_1303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.1303-90.dita"
@@ -808,7 +808,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1303-90"
-                   xtrc="DLAD_4_1303-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.1303-91.dita"
@@ -816,6 +816,9 @@
                    outputclass="subtopic"
                    navtitle=" 4.1303-91 Operations Security (OPSEC) For On-site Contractors."
                    audience="DLAD_4_1303-91"
+                   xtrc=""
+                   xtrf="subtopic"
+                   base="NoTitle"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -836,7 +839,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_1601"
-                   xtrc="DLAD_4_1601.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -857,7 +860,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7103-2"
-                   xtrc="DLAD_4_7103-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.7104-2.dita"
@@ -867,7 +870,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7104-2"
-                   xtrc="DLAD_4_7104-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -888,7 +891,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7301"
-                   xtrc="DLAD_4_7301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.7303-1.dita"
@@ -898,7 +901,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7303-1"
-                   xtrc="DLAD_4_7303-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.7303-3.dita"
@@ -908,7 +911,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_4_7303-3"
-                   xtrc="DLAD_4_7303-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -917,6 +920,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 4.90 - ELECTRONIC MICROCIRCUITS RESTRICTION"
                 audience="DLAD_SUBPART_4_90"
+                xtrc="DLAD_SUBPART_4_90.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="4.9000.dita"
@@ -924,6 +929,7 @@
                    outputclass="subtopic"
                    navtitle="4.9000 Policy."
                    audience="DLAD_4_9000"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.9001.dita"
@@ -931,6 +937,7 @@
                    outputclass="subtopic"
                    navtitle="4.9001 Definitions."
                    audience="DLAD_4_9001"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.9002.dita"
@@ -938,6 +945,7 @@
                    outputclass="subtopic"
                    navtitle="4.9002 Prohibition."
                    audience="DLAD_4_9002"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.9003.dita"
@@ -945,6 +953,7 @@
                    outputclass="subtopic"
                    navtitle="4.9003 Requirements."
                    audience="DLAD_4_9003"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="4.9004.dita"
@@ -952,6 +961,7 @@
                    outputclass="subtopic"
                    navtitle="4.9004 Procurement note."
                    audience="DLAD_4_9004"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -982,7 +992,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_101"
-                   xtrc="DLAD_5_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1003,7 +1013,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_201"
-                   xtrc="DLAD_5_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5.202.dita"
@@ -1013,7 +1023,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_202"
-                   xtrc="DLAD_5_202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1034,7 +1044,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_301"
-                   xtrc="DLAD_5_301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5.303.dita"
@@ -1044,7 +1054,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_303"
-                   xtrc="DLAD_5_303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1065,7 +1075,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_404"
-                   xtrc="DLAD_5_404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5.404-1.dita"
@@ -1075,7 +1085,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5_404-1"
-                   xtrc="DLAD_5_404-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1106,7 +1116,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_202"
-                   xtrc="DLAD_6_202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1127,7 +1137,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_303"
-                   xtrc="DLAD_6_303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="6.303-2.dita"
@@ -1137,7 +1147,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_303-2"
-                   xtrc="DLAD_6_303-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="6.305.dita"
@@ -1147,7 +1157,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_305"
-                   xtrc="DLAD_6_305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="6.305-90.dita"
@@ -1157,7 +1167,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_305-90"
-                   xtrc="DLAD_6_305-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1178,7 +1188,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_501"
-                   xtrc="DLAD_6_501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="6.503.dita"
@@ -1188,7 +1198,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_6_503"
-                   xtrc="DLAD_6_503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1219,7 +1229,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_102"
-                   xtrc="DLAD_7_102.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="7.102-90.dita"
@@ -1240,7 +1250,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_103"
-                   xtrc="DLAD_7_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="7.105.dita"
@@ -1250,7 +1260,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_105"
-                   xtrc="DLAD_7_105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="7.107.dita"
@@ -1260,7 +1270,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_107"
-                   xtrc="DLAD_7_107.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="7.107-1.dita"
@@ -1318,6 +1328,7 @@
                       outputclass="subtopic"
                       navtitle="7.107-6 Solicitation provision."
                       audience="DLAD_7_107-6"
+                      xtrc="DLAD_7_107-6.html"
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -1339,7 +1350,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_7_204"
-                   xtrc="DLAD_7_204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1368,13 +1379,16 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 8.4 – FEDERAL SUPPLY SCHEDULES"
                 audience="DLAD_SUBPART_8_4"
+                xtrc="DLAD_SUBPART_8_4.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="8.403.dita"
                    props="8.403"
                    outputclass="subtopic"
                    navtitle="8.403 Applicability."
-                   audience="DLAD_8_703"
+                   audience="DLAD_8_403"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1395,19 +1409,20 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_8_703"
-                   xtrc="DLAD_8_703.html"
+                   xtrc=""
                    tables="0"
-                   figures="0"/>
-         <topicref href="8.703-90.dita"
-                   navtitle="8.703-90 Policy for additions of AbilityOne products to the procurement list."
-                   props="8.703-90"
-                   base="NoTitle"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   audience="DLAD_8_703-90"
-                   xtrc="DLAD_8_703-90.html"
-                   tables="0"
-                   figures="0"/>
+                   figures="0">
+            <topicref href="8.703-90.dita"
+                      navtitle="8.703-90 Policy for additions of AbilityOne products to the procurement list."
+                      props="8.703-90"
+                      base="NoTitle"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      audience="DLAD_8_703-90"
+                      xtrc="DLAD_8_703-90.html"
+                      tables="0"
+                      figures="0"/>
+         </topicref>
       </topicref>
       <topicref href="SUBPART_8.90.dita"
                 navtitle="SUBPART 8.90 – DOD FEDERAL MALL (FEDMALL)"
@@ -1426,7 +1441,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_8_9000"
-                   xtrc="DLAD_8_9000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1457,7 +1472,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_100"
-                   xtrc="DLAD_9_100.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="9.100-90.dita"
@@ -1478,7 +1493,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_104"
-                   xtrc="DLAD_9_104.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="9.104-2.dita"
@@ -1499,7 +1514,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_105"
-                   xtrc="DLAD_9_105.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="9.105-1.dita"
@@ -1520,7 +1535,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_106"
-                   xtrc="DLAD_9_106.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="9.106-2.dita"
@@ -1552,7 +1567,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_202"
-                   xtrc="DLAD_9_202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.203.dita"
@@ -1562,7 +1577,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_203"
-                   xtrc="DLAD_9_203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.204.dita"
@@ -1572,7 +1587,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_204"
-                   xtrc="DLAD_9_204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.270.dita"
@@ -1582,7 +1597,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_270"
-                   xtrc="DLAD_9_270.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.270-3.dita"
@@ -1592,7 +1607,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_270-3"
-                   xtrc="DLAD_9_270-3.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -1613,7 +1628,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_302"
-                   xtrc="DLAD_9_302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.304.dita"
@@ -1623,7 +1638,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_304"
-                   xtrc="DLAD_9_304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.306.dita"
@@ -1633,7 +1648,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_306"
-                   xtrc="DLAD_9_306.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="9.308.dita"
@@ -1643,7 +1658,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_308"
-                   xtrc="DLAD_9_308.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="9.308-1.dita"
@@ -1685,7 +1700,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_404"
-                   xtrc="DLAD_9_404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.405.dita"
@@ -1695,7 +1710,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_405"
-                   xtrc="DLAD_9_405.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.405-1.dita"
@@ -1705,7 +1720,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_405-1"
-                   xtrc="DLAD_9_405-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.406.dita"
@@ -1715,7 +1730,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406"
-                   xtrc="DLAD_9_406.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.406-3.dita"
@@ -1725,7 +1740,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406-3"
-                   xtrc="DLAD_9_406-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="9.406-90.dita"
@@ -1735,7 +1750,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_9_406-90"
-                   xtrc="DLAD_9_406-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1744,6 +1759,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 9.6 – CONTRACTOR TEAM ARRANGEMENTS"
                 audience="DLAD_SUBPART_9_6"
+                xtrc="DLAD_SUBPART_9_6.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="9.603.dita"
@@ -1751,6 +1768,7 @@
                    outputclass="subtopic"
                    navtitle="9.603 Policy."
                    audience="DLAD_9_603"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1781,7 +1799,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_103"
-                   xtrc="DLAD_11_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1802,7 +1820,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_201"
-                   xtrc="DLAD_11_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.274.dita"
@@ -1812,7 +1830,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_274"
-                   xtrc="DLAD_11_274.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.274-2.dita"
@@ -1822,7 +1840,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_274-2"
-                   xtrc="DLAD_11_274-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1843,7 +1861,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_302"
-                   xtrc="DLAD_11_302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.390.dita"
@@ -1853,7 +1871,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_390"
-                   xtrc="DLAD_11_390.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.391.dita"
@@ -1863,7 +1881,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_391"
-                   xtrc="DLAD_11_391.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.392.dita"
@@ -1873,7 +1891,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_392"
-                   xtrc="DLAD_11_392.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1894,7 +1912,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_401"
-                   xtrc="DLAD_11_401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="11.402-90.dita"
@@ -1904,7 +1922,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_402-90"
-                   xtrc="DLAD_11_402-90.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="11.402-91.dita"
@@ -1914,7 +1932,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_402-91"
-                   xtrc="DLAD_11_402-91.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1935,7 +1953,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_501"
-                   xtrc="DLAD_11_501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1956,7 +1974,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_603"
-                   xtrc="DLAD_11_603.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1977,7 +1995,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_701"
-                   xtrc="DLAD_11_701.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1998,7 +2016,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9001"
-                   xtrc="DLAD_11_9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2019,7 +2037,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9101"
-                   xtrc="DLAD_11_9101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2040,7 +2058,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9201"
-                   xtrc="DLAD_11_9201.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="11.9202.dita"
@@ -2050,28 +2068,28 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_11_9202"
-                   xtrc="DLAD_11_9202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
    </topicref>
    <topicref href="PART_12.dita"
-             navtitle="PART 12 – ACQUISITION OF COMMERCIAL ITEMS"
              outputclass="Part"
              props="PART 12"
              base="NoTitle"
              xtrf="Part"
              audience="DLAD_PART_12"
+             navtitle="PART 12 – ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
              tables="0"
              figures="0">
       <topicref href="SUBPART_12.1.dita"
-                navtitle="SUBPART 12.1 – ACQUISITION OF COMMERCIAL ITEMS – GENERAL"
                 props="SUBPART 12.1"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_1"
                 xtrc="DLAD_SUBPART_12_1.html"
+                navtitle="SUBPART 12.1 – ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
                 tables="0"
                 figures="0">
          <topicref href="12.102.dita"
@@ -2081,18 +2099,18 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_102"
-                   xtrc="DLAD_12_102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
       <topicref href="SUBPART_12.2.dita"
-                navtitle="SUBPART 12.2 – SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL ITEMS"
                 props="SUBPART 12.2"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_2"
                 xtrc="DLAD_SUBPART_12_2.html"
+                navtitle="SUBPART 12.2      – SPECIAL REQUIREMENTS FOR THE ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
                 tables="0"
                 figures="0">
          <topicref href="12.208.dita"
@@ -2102,7 +2120,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_208"
-                   xtrc="DLAD_12_208.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2117,34 +2135,34 @@
                 tables="0"
                 figures="0">
          <topicref href="12.301.dita"
-                   navtitle="12.301 Solicitation provisions and contract clauses for acquisition(s) of commercial items."
                    props="12.301"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_301"
-                   xtrc="DLAD_12_301.html"
+                   xtrc=""
+                   navtitle="12.301 Solicitation provisions and contract clauses for acquisition(s) of commercial products and commercial services ."
                    tables="0"
                    figures="0"/>
          <topicref href="12.302.dita"
-                   navtitle="12.302 Tailoring of provisions and clauses for the acquisition of commercial items."
                    props="12.302"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_302"
-                   xtrc="DLAD_12_302.html"
+                   xtrc=""
+                   navtitle="12.302 Tailoring of provisions and clauses for the acquisition of commercial products and commercial services ."
                    tables="0"
                    figures="0"/>
       </topicref>
       <topicref href="SUBPART_12.4.dita"
-                navtitle="SUBPART 12.4 – UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL ITEMS"
                 props="SUBPART 12.4"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_4"
                 xtrc="DLAD_SUBPART_12_4.html"
+                navtitle="SUBPART 12.4      – UNIQUE REQUIREMENTS REGARDING TERMS AND CONDITIONS FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
                 tables="0"
                 figures="0">
          <topicref href="12.403.dita"
@@ -2154,28 +2172,28 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_403"
-                   xtrc="DLAD_12_403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
       <topicref href="SUBPART_12.5.dita"
-                navtitle="SUBPART 12.5 – APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF COMMERCIAL ITEMS"
                 props="SUBPART 12.5"
                 base="NoTitle"
                 outputclass="SubPart"
                 xtrf="SubPart"
                 audience="DLAD_SUBPART_12_5"
                 xtrc="DLAD_SUBPART_12_5.html"
+                navtitle="SUBPART 12.5      – APPLICABILITY OF CERTAIN LAWS TO THE ACQUISITION OF COMMERCIAL COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES"
                 tables="0"
                 figures="0">
          <topicref href="12.504.dita"
-                   navtitle="12.504 Applicability of certain laws to subcontracts for the acquisition of commercial items."
                    props="12.504"
                    base="NoTitle"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_12_504"
-                   xtrc="DLAD_12_504.html"
+                   xtrc=""
+                   navtitle="12.504      Applicability of certain laws to subcontracts for the acquisition of commercial products and commercial services."
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2216,7 +2234,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_106"
-                   xtrc="DLAD_13_106.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.106-3.dita"
@@ -2226,7 +2244,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_106-3"
-                   xtrc="DLAD_13_106-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2247,7 +2265,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_201"
-                   xtrc="DLAD_13_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2268,7 +2286,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_301"
-                   xtrc="DLAD_13_301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.303.dita"
@@ -2278,7 +2296,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303"
-                   xtrc="DLAD_13_303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.303-2.dita"
@@ -2288,7 +2306,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303-2"
-                   xtrc="DLAD_13_303-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.303-3.dita"
@@ -2298,7 +2316,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_303-3"
-                   xtrc="DLAD_13_303-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.390.dita"
@@ -2308,7 +2326,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_390"
-                   xtrc="DLAD_13_390.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2329,7 +2347,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_402"
-                   xtrc="DLAD_13_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="13.404.dita"
@@ -2339,7 +2357,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_404"
-                   xtrc="DLAD_13_404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2353,6 +2371,16 @@
                 xtrc="DLAD_SUBPART_13_5.html"
                 tables="0"
                 figures="0">
+         <topicref href="13.500.dita"
+                   navtitle="13.500 General."
+                   props="13.500"
+                   base="NoTitle"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   audience="DLAD_13_500"
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
          <topicref href="13.501.dita"
                    navtitle="13.501 Special documentation requirements."
                    props="13.501"
@@ -2360,7 +2388,17 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_13_501"
-                   xtrc="DLAD_13_501.html"
+                   xtrc=""
+                   tables="0"
+                   figures="0"/>
+         <topicref href="13.590.dita"
+                   navtitle="13.590 Simplified indefinite-delivery contracts (SIDCs)."
+                   props="13.590"
+                   base="NoTitle"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   audience="DLAD_13_590"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2391,7 +2429,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_303"
-                   xtrc="DLAD_15_303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2412,7 +2450,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_402"
-                   xtrc="DLAD_15_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="15.403.dita"
@@ -2422,7 +2460,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_403"
-                   xtrc="DLAD_15_403.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="15.403-1.dita"
@@ -2463,7 +2501,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_404"
-                   xtrc="DLAD_15_404.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="15.404-1.dita"
@@ -2484,7 +2522,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_405"
-                   xtrc="DLAD_15_405.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="15.406.dita"
@@ -2494,7 +2532,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_406"
-                   xtrc="DLAD_15_406.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="15.406-1.dita"
@@ -2525,7 +2563,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_407-90"
-                   xtrc="DLAD_15_407-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="15.408.dita"
@@ -2535,7 +2573,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_408"
-                   xtrc="DLAD_15_408.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2556,7 +2594,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_15_606"
-                   xtrc="DLAD_15_606.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2587,7 +2625,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_190"
-                   xtrc="DLAD_16_190.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.191.dita"
@@ -2597,7 +2635,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_191"
-                   xtrc="DLAD_16_191.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2618,7 +2656,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203"
-                   xtrc="DLAD_16_203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.203-1.dita"
@@ -2628,7 +2666,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-1"
-                   xtrc="DLAD_16_203-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.203-2.dita"
@@ -2638,7 +2676,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-2"
-                   xtrc="DLAD_16_203-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.203-3.dita"
@@ -2648,7 +2686,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-3"
-                   xtrc="DLAD_16_203-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.203-4.dita"
@@ -2658,7 +2696,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_203-4"
-                   xtrc="DLAD_16_203-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.290.dita"
@@ -2668,7 +2706,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_290"
-                   xtrc="DLAD_16_290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2689,7 +2727,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_501-2"
-                   xtrc="DLAD_16_501-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.503.dita"
@@ -2697,6 +2735,7 @@
                    outputclass="subtopic"
                    navtitle="16.503 Requirements contracts."
                    audience="DLAD_16_503"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.504.dita"
@@ -2706,7 +2745,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_504"
-                   xtrc="DLAD_16_504.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.505.dita"
@@ -2716,7 +2755,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_505"
-                   xtrc="DLAD_16_505.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="16.590.dita"
@@ -2726,7 +2765,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_590"
-                   xtrc="DLAD_16_590.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2747,7 +2786,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_16_601"
-                   xtrc="DLAD_16_601.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2778,7 +2817,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_170"
-                   xtrc="DLAD_17_170.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2799,7 +2838,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_204"
-                   xtrc="DLAD_17_204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.206.dita"
@@ -2809,7 +2848,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_206"
-                   xtrc="DLAD_17_206.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.207.dita"
@@ -2819,7 +2858,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_207"
-                   xtrc="DLAD_17_207.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2840,7 +2879,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_500"
-                   xtrc="DLAD_17_500.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.505.dita"
@@ -2850,7 +2889,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_505"
-                   xtrc="DLAD_17_505.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.590.dita"
@@ -2860,7 +2899,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_590"
-                   xtrc="DLAD_17_590.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2881,7 +2920,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7404"
-                   xtrc="DLAD_17_7404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.7405.dita"
@@ -2891,7 +2930,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7405"
-                   xtrc="DLAD_17_7405.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2912,7 +2951,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_7505"
-                   xtrc="DLAD_17_7505.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2933,7 +2972,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9100"
-                   xtrc="DLAD_17_9100.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2954,7 +2993,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9201"
-                   xtrc="DLAD_17_9201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9202.dita"
@@ -2964,7 +3003,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9202"
-                   xtrc="DLAD_17_9202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9204.dita"
@@ -2974,7 +3013,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9204"
-                   xtrc="DLAD_17_9204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2995,7 +3034,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9300"
-                   xtrc="DLAD_17_9300.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9301.dita"
@@ -3005,7 +3044,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9301"
-                   xtrc="DLAD_17_9301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9302.dita"
@@ -3015,7 +3054,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9302"
-                   xtrc="DLAD_17_9302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9303.dita"
@@ -3025,7 +3064,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9303"
-                   xtrc="DLAD_17_9303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9304.dita"
@@ -3035,7 +3074,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9304"
-                   xtrc="DLAD_17_9304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9305.dita"
@@ -3045,7 +3084,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9305"
-                   xtrc="DLAD_17_9305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3066,7 +3105,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9500"
-                   xtrc="DLAD_17_9500.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9501.dita"
@@ -3076,7 +3115,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9501"
-                   xtrc="DLAD_17_9501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9502.dita"
@@ -3086,7 +3125,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9502"
-                   xtrc="DLAD_17_9502.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9503.dita"
@@ -3096,7 +3135,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9503"
-                   xtrc="DLAD_17_9503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="17.9504.dita"
@@ -3106,7 +3145,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_17_9504"
-                   xtrc="DLAD_17_9504.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3137,7 +3176,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_18_270"
-                   xtrc="DLAD_18_270.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3168,7 +3207,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_201"
-                   xtrc="DLAD_19_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3189,7 +3228,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_301"
-                   xtrc="DLAD_19_301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3210,7 +3249,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_502-7"
-                   xtrc="DLAD_19_502-7.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.502-8.dita"
@@ -3218,6 +3257,7 @@
                    outputclass="subtopic"
                    navtitle="19.502-8 Rejecting Small Business Administration recommendations."
                    audience="DLAD_19_502-8"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.506.dita"
@@ -3227,7 +3267,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_506"
-                   xtrc="DLAD_19_506.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.590.dita"
@@ -3237,7 +3277,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_590"
-                   xtrc="DLAD_19_590.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3258,7 +3298,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602"
-                   xtrc="DLAD_19_602.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.602-1.dita"
@@ -3268,7 +3308,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-1"
-                   xtrc="DLAD_19_602-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.602-3.dita"
@@ -3278,7 +3318,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-3"
-                   xtrc="DLAD_19_602-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.602-4.dita"
@@ -3288,7 +3328,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_602-4"
-                   xtrc="DLAD_19_602-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3309,7 +3349,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705"
-                   xtrc="DLAD_19_705.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.705-4.dita"
@@ -3319,7 +3359,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705-4"
-                   xtrc="DLAD_19_705-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="19.705-5.dita"
@@ -3329,7 +3369,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_705-5"
-                   xtrc="DLAD_19_705-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3350,7 +3390,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_19_803"
-                   xtrc="DLAD_19_803.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3359,6 +3399,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 19.13 – HISTORICALLY UNDERUTILIZED BUSINESS ZONE (HUBZONE) PROGRAM"
                 audience="DLAD_SUBPART_19_13"
+                xtrc="DLAD_SUBPART_19_13.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="19.1305.dita"
@@ -3366,6 +3408,7 @@
                    outputclass="subtopic"
                    navtitle="19.1305 HUBZone set-aside procedures."
                    audience="DLAD_19_1305"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3374,6 +3417,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 19.14 – SERVICE-DISABLED VETERAN-OWNED SMALL BUSINESS PROCUREMENT PROGRAM"
                 audience="DLAD_SUBPART_19_14"
+                xtrc="DLAD_SUBPART_19_14.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="19.1405.dita"
@@ -3381,6 +3426,7 @@
                    outputclass="subtopic"
                    navtitle="19.1405 Service-disabled veteran-owned small business set-aside procedures."
                    audience="DLAD_19_1405"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3389,6 +3435,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 19.15 – WOMAN-OWNED SMALL BUSINESS PROGRAM 8"
                 audience="DLAD_SUBPART_19_15"
+                xtrc="DLAD_SUBPART_19_15.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="19.1505.dita"
@@ -3396,6 +3444,7 @@
                    outputclass="subtopic"
                    navtitle="19.1505 Set-aside procedures."
                    audience="DLAD_19_1505"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3436,7 +3485,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_103-4"
-                   xtrc="DLAD_22_103-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3457,7 +3506,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_1503"
-                   xtrc="DLAD_22_1503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3478,7 +3527,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_22_7404"
-                   xtrc="DLAD_22_7404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3509,7 +3558,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_23_302"
-                   xtrc="DLAD_23_302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3518,6 +3567,8 @@
                 outputclass="SubPart"
                 navtitle="SUBPART 23.90 – ENSURING ADEQUATE COVID-19 SAFETY PROTOCOLS FOR FEDERAL CONTRACTORS"
                 audience="DLAD_SUBPART_23_90"
+                xtrc="DLAD_SUBPART_23_90.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="23.9001.dita"
@@ -3525,6 +3576,7 @@
                    outputclass="subtopic"
                    navtitle="23.9001 General."
                    audience="DLAD_23_9001"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3555,7 +3607,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_103"
-                   xtrc="DLAD_25_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3576,7 +3628,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_802-71"
-                   xtrc="DLAD_25_802-71.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3597,7 +3649,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_903"
-                   xtrc="DLAD_25_903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3618,7 +3670,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7002"
-                   xtrc="DLAD_25_7002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="25.7002-2.dita"
@@ -3628,7 +3680,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7002-2"
-                   xtrc="DLAD_25_7002-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3649,7 +3701,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7301"
-                   xtrc="DLAD_25_7301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3670,7 +3722,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7901"
-                   xtrc="DLAD_25_7901.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="25.7901-1.dita"
@@ -3691,7 +3743,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_25_7902-4"
-                   xtrc="DLAD_25_7902-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3722,7 +3774,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_101"
-                   xtrc="DLAD_27_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3743,7 +3795,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_201"
-                   xtrc="DLAD_27_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="27.201-2.dita"
@@ -3753,7 +3805,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_201-2"
-                   xtrc="DLAD_27_201-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3774,7 +3826,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_7103-6"
-                   xtrc="DLAD_27_7103-6.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3795,7 +3847,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9001"
-                   xtrc="DLAD_27_9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="27.9002.dita"
@@ -3805,7 +3857,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9002"
-                   xtrc="DLAD_27_9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="27.9003.dita"
@@ -3815,7 +3867,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_27_9003"
-                   xtrc="DLAD_27_9003.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3846,7 +3898,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_106"
-                   xtrc="DLAD_28_106.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="28.106-90.dita"
@@ -3878,7 +3930,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_305"
-                   xtrc="DLAD_28_305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="28.307.dita"
@@ -3888,7 +3940,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_28_307"
-                   xtrc="DLAD_28_307.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="28.307-1.dita"
@@ -3931,7 +3983,7 @@
                    props="30.201-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="DLAD_30_201-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3962,7 +4014,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-3"
-                   xtrc="DLAD_32_006-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="32.006-4.dita"
@@ -3972,7 +4024,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-4"
-                   xtrc="DLAD_32_006-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="32.006-5.dita"
@@ -3982,7 +4034,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_006-5"
-                   xtrc="DLAD_32_006-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4003,7 +4055,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_114"
-                   xtrc="DLAD_32_114.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4024,7 +4076,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_402"
-                   xtrc="DLAD_32_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="32.409.dita"
@@ -4034,7 +4086,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_409"
-                   xtrc="DLAD_32_409.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4055,7 +4107,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_501"
-                   xtrc="DLAD_32_501.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="32.501-2.dita"
@@ -4087,7 +4139,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_904"
-                   xtrc="DLAD_32_904.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="32.905.dita"
@@ -4097,7 +4149,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_905"
-                   xtrc="DLAD_32_905.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="32.908.dita"
@@ -4107,7 +4159,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_32_908"
-                   xtrc="DLAD_32_908.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="32.908-94.dita"
@@ -4149,7 +4201,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_103"
-                   xtrc="DLAD_33_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="33.104.dita"
@@ -4159,7 +4211,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_104"
-                   xtrc="DLAD_33_104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4180,7 +4232,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_209"
-                   xtrc="DLAD_33_209.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="33.211.dita"
@@ -4190,7 +4242,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_211"
-                   xtrc="DLAD_33_211.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="33.212.dita"
@@ -4200,7 +4252,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_212"
-                   xtrc="DLAD_33_212.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="33.214.dita"
@@ -4210,7 +4262,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_33_214"
-                   xtrc="DLAD_33_214.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4241,7 +4293,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_34_7101"
-                   xtrc="DLAD_34_7101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4273,7 +4325,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_102"
-                   xtrc="DLAD_37_102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="37.103.dita"
@@ -4283,7 +4335,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_103"
-                   xtrc="DLAD_37_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="37.110.dita"
@@ -4293,7 +4345,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_110"
-                   xtrc="DLAD_37_110.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4314,7 +4366,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_37_270"
-                   xtrc="DLAD_37_270.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4345,7 +4397,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9000"
-                   xtrc="DLAD_38_9000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="38.9001.dita"
@@ -4355,7 +4407,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9001"
-                   xtrc="DLAD_38_9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="38.9002.dita"
@@ -4365,7 +4417,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_38_9002"
-                   xtrc="DLAD_38_9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4396,7 +4448,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_201"
-                   xtrc="DLAD_39_201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="39.203.dita"
@@ -4406,7 +4458,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_203"
-                   xtrc="DLAD_39_203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="39.204.dita"
@@ -4416,7 +4468,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_204"
-                   xtrc="DLAD_39_204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4437,7 +4489,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_7402"
-                   xtrc="DLAD_39_7402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4458,7 +4510,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_9001"
-                   xtrc="DLAD_39_9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="39.9002.dita"
@@ -4468,7 +4520,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_39_9002"
-                   xtrc="DLAD_39_9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4499,7 +4551,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_101"
-                   xtrc="DLAD_42_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4520,7 +4572,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_202"
-                   xtrc="DLAD_42_202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4541,7 +4593,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_302"
-                   xtrc="DLAD_42_302.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -4562,7 +4614,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1101"
-                   xtrc="DLAD_42_1101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="42.1104.dita"
@@ -4572,7 +4624,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1104"
-                   xtrc="DLAD_42_1104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4593,7 +4645,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_42_1503"
-                   xtrc="DLAD_42_1503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4624,7 +4676,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_43_102"
-                   xtrc="DLAD_43_102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="43.103.dita"
@@ -4634,7 +4686,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_43_103"
-                   xtrc="DLAD_43_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4665,7 +4717,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_101"
-                   xtrc="DLAD_45_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="45.103.dita"
@@ -4675,7 +4727,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_103"
-                   xtrc="DLAD_45_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="45.103-70.dita"
@@ -4696,7 +4748,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_105"
-                   xtrc="DLAD_45_105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4717,7 +4769,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_45_602"
-                   xtrc="DLAD_45_602.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="45.602-2.dita"
@@ -4769,7 +4821,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_103"
-                   xtrc="DLAD_46_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.105.dita"
@@ -4779,7 +4831,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_105"
-                   xtrc="DLAD_46_105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4800,7 +4852,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_202"
-                   xtrc="DLAD_46_202.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="46.202-4.dita"
@@ -4821,7 +4873,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_290"
-                   xtrc="DLAD_46_290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.291.dita"
@@ -4831,7 +4883,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_291"
-                   xtrc="DLAD_46_291.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.292.dita"
@@ -4841,14 +4893,15 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_292"
-                   xtrc="DLAD_46_292.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.293.dita"
                    props="46.293"
                    outputclass="subtopic"
                    navtitle=" 46.293 Army Aviation Critical Safety Item Production Sample Test"
-                   audience="DLAD_46_292"
+                   audience="DLAD_46_293"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4869,7 +4922,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_401"
-                   xtrc="DLAD_46_401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.402.dita"
@@ -4879,7 +4932,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_402"
-                   xtrc="DLAD_46_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.407.dita"
@@ -4889,7 +4942,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_407"
-                   xtrc="DLAD_46_407.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.490.dita"
@@ -4899,7 +4952,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_490"
-                   xtrc="DLAD_46_490.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4920,7 +4973,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_703"
-                   xtrc="DLAD_46_703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="46.704.dita"
@@ -4930,7 +4983,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_46_704"
-                   xtrc="DLAD_46_704.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4961,7 +5014,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_303-90"
-                   xtrc="DLAD_47_303-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.303-91.dita"
@@ -4971,7 +5024,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_303-91"
-                   xtrc="DLAD_47_303-91.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.305-3-90.dita"
@@ -4981,7 +5034,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-3-90"
-                   xtrc="DLAD_47_305-3-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.305-3-91.dita"
@@ -4991,7 +5044,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-3-91"
-                   xtrc="DLAD_47_305-3-91.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.305-4-90.dita"
@@ -5001,7 +5054,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-4-90"
-                   xtrc="DLAD_47_305-4-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.305-10-90.dita"
@@ -5011,7 +5064,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-10-90"
-                   xtrc="DLAD_47_305-10-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="47.305-90.dita"
@@ -5021,7 +5074,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_47_305-90"
-                   xtrc="DLAD_47_305-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5052,7 +5105,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_50_101"
-                   xtrc="DLAD_50_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="50.101-3.dita"
@@ -5073,7 +5126,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_50_103"
-                   xtrc="DLAD_50_103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="50.103-5.dita"
@@ -5125,7 +5178,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_100"
-                   xtrc="DLAD_51_100.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="51.101.dita"
@@ -5135,7 +5188,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_101"
-                   xtrc="DLAD_51_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="51.102.dita"
@@ -5145,7 +5198,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_102"
-                   xtrc="DLAD_51_102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="51.102-90.dita"
@@ -5155,7 +5208,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_102-90"
-                   xtrc="DLAD_51_102-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="51.103-90.dita"
@@ -5165,7 +5218,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_51_103-90"
-                   xtrc="DLAD_51_103-90.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5196,7 +5249,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_52_101"
-                   xtrc="DLAD_52_101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5217,7 +5270,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_52_200"
-                   xtrc="DLAD_52_200.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5452.233-9001.dita"
@@ -5227,7 +5280,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_5452_233-9001"
-                   xtrc="DLAD_5452_233-9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5258,7 +5311,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_213"
-                   xtrc="DLAD_53_213.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="53.213-90.dita"
@@ -5299,7 +5352,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_219"
-                   xtrc="DLAD_53_219.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="53.219-90.dita"
@@ -5332,7 +5385,7 @@
                    otherprops=""
                    props="53.300"
                    xtrf="subtopic"
-                   xtrc="DLAD_53_300.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5353,7 +5406,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9001"
-                   xtrc="DLAD_53_9001.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
          <topicref href="53.9007.dita"
@@ -5363,7 +5416,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9007"
-                   xtrc="DLAD_53_9007.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="53.9013.dita"
@@ -5373,7 +5426,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9013"
-                   xtrc="DLAD_53_9013.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="53.9015.dita"
@@ -5383,7 +5436,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_53_9015"
-                   xtrc="DLAD_53_9015.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
       </topicref>
@@ -5414,7 +5467,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_1_601"
-                   xtrc="DLAD_PGI_1_601.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="PGI_1.602-3.dita"
@@ -5424,7 +5477,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_1_602-3"
-                   xtrc="DLAD_PGI_1_602-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5455,7 +5508,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_3_104-4"
-                   xtrc="DLAD_PGI_3_104-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5484,7 +5537,7 @@
                    outputclass="subtopic"
                    navtitle="PGI 13.390 Simplified indefinite-delivery contracts (SIDCs)."
                    audience="DLAD_PGI_13_390"
-                   xtrc="DLAD_PGI_13_390.html"
+                   xtrc=""
                    base="NoTitle"
                    xtrf="subtopic"
                    tables="0"
@@ -5507,7 +5560,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_13_402"
-                   xtrc="DLAD_PGI_13_402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5538,7 +5591,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_15_403_3"
-                   xtrc="DLAD_PGI_15_403_3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5547,7 +5600,9 @@
              props="PGI PART 16"
              outputclass="Part"
              navtitle="PGI PART 16 – TYPES OF CONTRACTS"
+             base="NoTitle"
              audience="DLAD_PGI_PART_16"
+             xtrf="Part"
              tables="0"
              figures="0">
       <topicref href="PGI_SUBPART_16.5.dita"
@@ -5557,6 +5612,7 @@
                 base="NoTitle"
                 audience="DLAD_PGI_SUBPART_16_5"
                 xtrc="DLAD_PGI_SUBPART_16_5.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="PGI_16.504.dita"
@@ -5565,7 +5621,8 @@
                    navtitle="PGI 16.504 Indefinite-quantity contracts."
                    base="NoTitle"
                    audience="DLAD_PGI_16_504"
-                   xtrc="DLAD_PGI_16_504.html"
+                   xtrc=""
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5574,7 +5631,9 @@
              props="PGI PART 23"
              outputclass="Part"
              navtitle="PGI PART 23 – ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE "
+             base="NoTitle"
              audience="DLAD_PGI_PART_23"
+             xtrf="Part"
              tables="0"
              figures="0">
       <topicref href="PGI_SUBPART_23.90.dita"
@@ -5584,6 +5643,7 @@
                 base="NoTitle"
                 audience="DLAD_PGI_SUBPART_23_90"
                 xtrc="DLAD_PGI_SUBPART_23_90.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="PGI_23.9001.dita"
@@ -5592,7 +5652,8 @@
                    navtitle="PGI 23.9001 General."
                    base="NoTitle"
                    audience="DLAD_PGI_23_9001"
-                   xtrc="DLAD_PGI_23_9001.html"
+                   xtrc=""
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5623,7 +5684,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    audience="DLAD_PGI_25_7902_4"
-                   xtrc="DLAD_PGI_25_7902_4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5634,6 +5695,7 @@
              navtitle="PGI PART 53 – FORMS"
              base="NoTitle"
              audience="DLAD_PGI_PART_53"
+             xtrf="Part"
              tables="0"
              figures="0">
       <topicref href="PGI_SUBPART_53.90.dita"
@@ -5643,6 +5705,7 @@
                 base="NoTitle"
                 audience="DLAD_PGI_SUBPART_53_90"
                 xtrc="DLAD_PGI_SUBPART_53_90.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="PGI_53.9000.dita"
@@ -5651,7 +5714,7 @@
                    navtitle="PGI 53.9000 Controlled Unclassified Information (CUI) Marking."
                    base="NoTitle"
                    audience="DLAD_PGI_53_9001"
-                   xtrc="DLAD_PGI_53_9001.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>

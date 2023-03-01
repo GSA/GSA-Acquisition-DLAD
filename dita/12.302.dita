@@ -2,28 +2,17 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="DLAD_12_302" xml:lang="en-US">
-    <title outputclass="Heading 3">
-      <ph props="autonumber">12.302</ph> Tailoring of provisions and
-        clauses for the acquisition of commercial items.</title>
+    <title outputclass="Heading 3" rev="Revised February 1, 2023"> 
+      <ph props="autonumber">12.302</ph> Tailoring of provisions and clauses for the acquisition of commercial products and commercial services .</title>
     <conbody>
-        <p>(a) Terms and conditions that can reasonably be presumed to have application in both
-            Government and commercial markets (e.g., shipping instructions for extreme climates) may
-            be included in solicitations and contracts for commercial items without conducting
-            additional market research.</p>
-        <p>(b) <i>Tailoring 52.212-4, Contract Terms and Conditions – Commercial Items.</i>
-      </p>
-        <p outputclass="List2">(3) When fast payment procedures are authorized (see Subpart <xref href="SUBPART_13.3.dita" xtrc="13.3"/>), contracting officers may tailor the
-            paragraph at FAR 52.212-4 (i), Payment, as necessary, to reflect fast payment procedure,
-            which are authorized when specified conditions are met pursuant to the Prompt Payment
-            Act and OMB Circular A-125.</p>
-        <p id="rrtye">(c) <i>Tailoring inconsistent with customary commercial practice. </i>Approval authority
-            for waivers under FAR 12.302(c) is delegated to one level above the contracting
-            officer.</p>
-        <p>(S-90) Contracting officers may delete from solicitations and contracts the portions of
-            the provision at FAR 52.212-3 and the clause at FAR 52.212-5 that do not apply and
-            replace them with applicable language, if any.</p>
-        <p>(S-91) Contracting officers must use their authority to tailor the standard FAR Part 12
-            terms and conditions as necessary to meet the Government’s needs (see <xref href="12.301.dita#DLAD_12_301/23Red">
-            <u>12.301</u>12.301 Solicitation provisions and contract clauses for acquisition(s) of commercial items.</xref>(e)).</p>
+        <p outputclass="List1" rev="Revised February 1, 2023">(a) Terms and conditions that can reasonably be presumed to have application in both Government and commercial markets (e.g., shipping instructions for extreme climates) may be included in solicitations and contracts for commercial product and commercial services without conducting additional market research.</p>
+        <p rev="Revised February 1, 2023" outputclass="List1">
+            <p>(b) <i>Tailoring 52.212-4, Contract Terms and Conditions – Commercial Products and Commeical Services.</i> 
+         </p>
+        </p>
+        <p outputclass="List2" rev="Revised February 1, 2023"> (3) When fast payment procedures are authorized (see Subpart <xref href="SUBPART_12.3.dita#DLAD_SUBPART_12_3" outputclass="fm:Subpart">SUBPART 12.3 – SOLICITATION PROVISIONS AND CONTRACT CLAUSES FOR THE ACQUISITION OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES</xref>), contracting officers may tailor the paragraph at FAR 52.212-4 (i), Payment, as necessary, to reflect fast payment procedure, which are authorized when specified conditions are met pursuant to the Prompt Payment Act and OMB Circular A-125.</p>
+        <p outputclass="List1" rev="Revised February 1, 2023">(c) <i>Tailoring inconsistent with customary commercial practice. </i>Approval authority for waivers under FAR 12.302(c) is delegated to one level above the contracting officer.</p>
+        <p rev="Revised February 1, 2023" outputclass="List1">(S-90) Contracting officers may delete from solicitations and contracts the portions of the provision at FAR 52.212-3 and the clause at FAR 52.212-5 that do not apply and replace them with applicable language, if any.</p>
+        <p rev="Revised February 1, 2023" outputclass="List1">(S-91) Contracting officers must use their authority to tailor the standard FAR Part 12 terms and conditions as necessary to meet the Government’s needs (see <xref href="12.301.dita#DLAD_12_301" outputclass="fm:ParaNumOnly">12.301 Solicitation provisions and contract clauses for acquisition(s) of commercial products and commercial services .</xref>(e)).</p>
     </conbody>
 </concept>
