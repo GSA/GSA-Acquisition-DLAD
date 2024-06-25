@@ -1,167 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_53_9007">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">53.9007</ph> Acquisition planning.</title>
-   <conbody>
-      <p id="p_P53_9007_a">(a) Template - Streamlined Acquisition Plan (SAP).</p>
-      <p id="pfJqTI" outputclass="Normal">The following format may be used as prescribed in <xref href="7.103.dita#DLAD_7_103" outputclass="fm:ParaNumOnly">7.103 Agency–head responsibilities.</xref> (d)(i)(B). <i>This Streamlined Acquisition Plan (SAP) format is for illustration purposes only. It mirrors the fillable version in the contract writing system.</i> 
-      </p>
-      <p id="MsrBoW" outputclass="normal Ctr"> For Official Use Only </p>
-      <p id="yKdQQO" outputclass="normal Ctr"> Source Selection Information -- See FAR 2.101 and 3.104 </p>
-      <p id="nOhbpS" outputclass="normal Ctr"> Streamlined Acquisition Plan (SAP) </p>
-      <p id="GRsYVK" outputclass="normal Ctr">(Complete and select the box that is appropriate for
-         the acquisition situation)</p>
-      <p id="p_Text1" outputclass="Normal">Date:      </p>
-      <p id="NlGgPL" outputclass="Normal">Contracting office:      Contracting officer name:
-              </p>
-      <p id="pdXxsN" outputclass="Normal">Requiring activity:      Voice (DSN):      </p>
-      <p id="YHHXfZ" outputclass="Normal">Project title:      Fax (DSN):      </p>
-      <p id="uxyBjK" outputclass="Normal">Supply criticality:      </p>
-      <p id="vLUaUz" outputclass="Normal">Contracting officer’s e-mail address:      </p>
-      <p id="oMEhzR" outputclass="Normal">Purchase request (PR) or control number:      </p>
-      <p id="TJWtHF" outputclass="Normal">Construction Service Supply Research and development
-         (R&amp;D)</p>
-      <p id="IKZLtF" outputclass="Normal">a. Product Service Code: (Specify for services)      </p>
-      <p id="RDfHeR" outputclass="Normal">b. Services Portfolio Category: (Specify for services)
-              </p>
-      <p id="PzZjum" outputclass="Normal">I. Brief description of requirement (FAR 7.105(a)(1))</p>
-      <p id="SHuZTt" outputclass="Normal">a. Government estimate: $       (include all options and
-         surge values)</p>
-      <p id="lVSLeG" outputclass="Normal">b. Period of performance       (include options)</p>
-      <p id="xBHjQU" outputclass="Normal">c. Delivery schedule:      </p>
-      <p id="ihSzJV" outputclass="Normal">II. Proposed acquisition approach</p>
-      <p id="ChbMWo" outputclass="Normal">Extent of competition:</p>
-      <p id="wXimAl" outputclass="Normal">Full and open competition</p>
-      <p id="cSEKeF" outputclass="Normal">Other than full and open competition* * <xref format="html"
-               href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/06.htm"
-               scope="external">
-            <u>FAR 6.3</u>
-         </xref> authority (Specify):      </p>
-      <p id="cICZRu" outputclass="Normal">Full and open after exclusion of sources</p>
-      <p id="GhDoiE" outputclass="Normal">Competitive non-DoD</p>
-      <p id="mEfNHm" outputclass="normal Ctr">
-         <b>For Official Use Only</b>
-      </p>
-      <p id="EANmef" outputclass="normal Ctr">
-         <b>Source Selection Information -- See FAR 2.101 and 3.104</b>
-      </p>
-      <p id="ilqLmg" outputclass="Normal">Mandatory use policy, including waivers (e.g., under Part
-         8)</p>
-      <p id="evasuR" outputclass="Normal">Limited sources (e.g. under Part 8.405-6):      </p>
-      <p id="hJUyqf" outputclass="Normal">b. Small business set-aside: (See FAR Part 19)</p>
-      <p id="VAdcVo" outputclass="Normal">Competitive small business set-aside (SBSA)</p>
-      <p id="SyBWyy" outputclass="Normal">Competitive 8a Sole source 8a</p>
-      <p id="qSFbCn" outputclass="Normal">Service Disabled Veteran Owned Small Business (SDVOSB)
-         Set-Aside</p>
-      <p id="atkZcr" outputclass="Normal">SDVOSB sole source</p>
-      <p id="xQytcK" outputclass="Normal">Historically underutilized business zone (HubZone) Sole
-         Source</p>
-      <p id="AiUsCq" outputclass="Normal">HubZone set-aside</p>
-      <p id="mbVHHD" outputclass="Normal">Small disadvantaged women owned business (SDWOB)</p>
-      <p id="hSTJju" outputclass="Normal">Economically disadvantaged women owned small business
-         (EDWOSB)</p>
-      <p id="YMXyMo" outputclass="Normal">Historically Black colleges and universities / minority
-         institutions (HBCU/MI)</p>
-      <p id="YCIvTB" outputclass="Normal">Not applicable (NA) (If acquisition is unrestricted)</p>
-      <p id="iXSnmk" outputclass="Normal">Other (Specify):      </p>
-      <p id="qsByaf" outputclass="Normal">c. Procedures: (Check all that apply)</p>
-      <p id="p_Check15" outputclass="Normal">FAR 8.404 (GSA/Non-DoD Competitive) FAR 12 Commercial
-         Items</p>
-      <p id="auRfDk" outputclass="Normal">FAR 13 Simplified Acquisition Procedures FAR 14 Sealed
-         Bidding</p>
-      <p id="aSnNFC" outputclass="Normal">FAR 15 Negotiation FAR 36 Construction and Architect and
-         Engineer (A&amp;E) and design build</p>
-      <p id="kWsGlJ" outputclass="Normal">d. Contracting method</p>
-      <p id="atjWms" outputclass="Normal">Invitation for bid (IFB)</p>
-      <p id="FYUwAX" outputclass="Normal">Competitive request for proposal (RFP)</p>
-      <p id="yoKTQm" outputclass="Normal">Sole source RFP</p>
-      <p id="LRHumD" outputclass="Normal">Other (fill-in)</p>
-      <p id="ytQZoe" outputclass="Normal">e.Basis of award:</p>
-      <p id="avxHNz" outputclass="Normal">Sealed bid – Part 14</p>
-      <p id="rIiPZW" outputclass="Normal">Negotiation – Part 15</p>
-      <p id="HuIiAj" outputclass="Normal">Lowest price technically acceptable</p>
-      <p id="CxeOJS" outputclass="Normal">Performance price trade-off without technical
-         factors/proposal</p>
-      <p id="Qcylek" outputclass="Normal">Performance price trade-off with technical
-         factors/proposal</p>
-      <p id="oXBGgS" outputclass="Normal">Full trade off source selection (an acquisition plan is
-         highly recommended)</p>
-      <p id="DPwbLy" outputclass="Normal">General Services Administration (GSA)/non-DoD
-         competitive</p>
-      <p id="nxOniN" outputclass="Normal">Other (explain):      </p>
-      <p id="ZtXANC" outputclass="Normal">Identify evaluation factors:      </p>
-      <p id="dIVcOe" outputclass="normal Ctr">
-         <b>For Official Use Only</b>
-      </p>
-      <p id="YtgvUy" outputclass="normal Ctr">
-         <b>Source Selection Information -- See FAR 2.101 and 3.104</b>
-      </p>
-      <p id="rGFcNK" outputclass="Normal">f. Contract type (Check all that apply):</p>
-      <p id="vskbZz" outputclass="Normal">Fixed-price Time and material/labor hour agreements
-         Economic price adjustment</p>
-      <p id="JSjKKM" outputclass="Normal">Incentive Award fee Cost-reimbursement Redetermination</p>
-      <p id="ASkwbX" outputclass="Normal">Indefinite delivery contract (IDC) Multiply Award</p>
-      <p id="HVwnmN" outputclass="Normal">Single Award (Provide rationale why single award)
-              </p>
-      <p id="lAlezk" outputclass="Normal">Other (Specify):      </p>
-      <p id="YhJLqs" outputclass="Normal">g. Sustainability:</p>
-      <p id="PWONnB" outputclass="Normal">Contains sustainability requirements.</p>
-      <p id="abbSTg" outputclass="Normal">Sustainability exception applies: (Specify)      </p>
-      <p id="nNOHel" outputclass="Normal">Sustainability requirements waived, approved by: (Specify)
-              </p>
-      <p id="fukZaw" outputclass="Normal">h. Other considerations (Check all that apply):</p>
-      <p id="CcKGVC" outputclass="Normal">Progress payment Warranty First article test (FAT)</p>
-      <p id="wzOajO" outputclass="Normal">Government furnished property(GFP) / Government furnished
-         material (GFM) / Government furnished equipment (GFE) involved</p>
-      <p id="UgRxuU" outputclass="Normal">Other (specify). Other items/considerations may include,
-         Non-Economy Act or Economy Act assisted acquisitions and use of reverse auction)      </p>
-      <p id="rVcjrb" outputclass="Normal">III. Prior procurement history: (If applicable)</p>
-      <p id="TwUASe" outputclass="Normal">IV. Market research: (Discuss the purpose, nature, extent,
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="DLAD_53_9007" class="- topic/topic concept/concept "><title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">53.9007</ph> Acquisition planning.</title><conbody class="- topic/body  concept/conbody "><p id="p_P53_9007_a" class="- topic/p " outputclass="List1">(a) Template - Streamlined Acquisition Plan (SAP).</p><p id="pfJqTI" outputclass="Normal" class="- topic/p ">The following format may be used as prescribed in <xref href="7.103.dita#DLAD_7_103" outputclass="fm:ParaNumOnly" class="- topic/xref ">7.103 Agency–head responsibilities.</xref> (d)(i)(B). <i class="+ topic/ph hi-d/i ">This Streamlined Acquisition Plan (SAP) format is for illustration purposes only. It mirrors the fillable version in the contract writing system.</i> 
+      </p><p id="yKdQQO" outputclass="Ctr" class="- topic/p "><b class="+ topic/ph hi-d/b "> Source Selection Information -- See FAR 2.101 and 3.104 </b></p><p id="nOhbpS" outputclass="Ctr" class="- topic/p "> Streamlined Acquisition Plan (SAP) </p><p id="GRsYVK" outputclass="Ctr" class="- topic/p ">(Complete and select the box that is appropriate for the acquisition situation)</p><p id="p_Text1" outputclass="Normal" class="- topic/p ">Date:      </p><p id="NlGgPL" outputclass="Normal" class="- topic/p ">Contracting office:      Contracting officer name:
+              </p><p id="pdXxsN" outputclass="Normal" class="- topic/p ">Requiring activity:      Voice (DSN):      </p><p id="YHHXfZ" outputclass="Normal" class="- topic/p ">Project title:      Fax (DSN):      </p><p id="uxyBjK" outputclass="Normal" class="- topic/p ">Supply criticality:      </p><p id="vLUaUz" outputclass="Normal" class="- topic/p ">Contracting officer’s e-mail address:      </p><p id="oMEhzR" outputclass="Normal" class="- topic/p ">Purchase request (PR) or control number:      </p><p id="TJWtHF" outputclass="Normal" class="- topic/p ">Construction Service Supply Research and development
+         (R&amp;D)</p><p id="IKZLtF" class="- topic/p ">a. Product Service Code: (Specify for services)      </p><p id="RDfHeR" class="- topic/p ">b. Services Portfolio Category: (Specify for services)      </p><p id="PzZjum" class="- topic/p ">I. Brief description of requirement (FAR 7.105(a)(1))</p><p id="SHuZT" class="- topic/p ">a. Government estimate: $       (include all options and surge values)</p><p id="lVSLeG" class="- topic/p ">b. Period of performance       (include options)</p><p id="xBHjQU" class="- topic/p ">c. Delivery schedule:      </p><p id="ihSzJV" class="- topic/p ">II. Proposed acquisition approach</p><p id="ChbMWo" outputclass="Normal" class="- topic/p ">Extent of competition:</p><p id="wXimAl" outputclass="Normal" class="- topic/p ">Full and open competition</p><p id="cSEKeF" outputclass="Normal" class="- topic/p ">Other than full and open competition* * <xref format="html" href="http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/06.htm" scope="external" class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">FAR 6.3</u>
+         </xref> authority (Specify):      </p><p id="cICZRu" outputclass="Normal" class="- topic/p ">Full and open after exclusion of sources</p><p id="GhDoiE" outputclass="Normal" class="- topic/p ">Competitive non-DoD</p><p id="EANmef" outputclass="Ctr" class="- topic/p "><b class="+ topic/ph hi-d/b ">Source Selection Information -- See FAR 2.101 and 3.104</b> </p><p id="ilqLmg" outputclass="Normal" class="- topic/p ">Mandatory use policy, including waivers (e.g., under Part
+         8)</p><p id="evasuR" outputclass="Normal" class="- topic/p ">Limited sources (e.g. under Part 8.405-6):      </p><p id="hJUyqf" outputclass="Normal" class="- topic/p ">b. Small business set-aside: (See FAR Part 19)</p><p id="VAdcVo" outputclass="Normal" class="- topic/p ">Competitive small business set-aside (SBSA)</p><p id="SyBWyy" outputclass="Normal" class="- topic/p ">Competitive 8a Sole source 8a</p><p id="qSFbCn" outputclass="Normal" class="- topic/p ">Service Disabled Veteran Owned Small Business (SDVOSB)
+         Set-Aside</p><p id="atkZcr" outputclass="Normal" class="- topic/p ">SDVOSB sole source</p><p id="xQytcK" outputclass="Normal" class="- topic/p ">Historically underutilized business zone (HubZone) Sole
+         Source</p><p id="AiUsCq" outputclass="Normal" class="- topic/p ">HubZone set-aside</p><p id="mbVHHD" outputclass="Normal" class="- topic/p ">Small disadvantaged women owned business (SDWOB)</p><p id="hSTJju" outputclass="Normal" class="- topic/p ">Economically disadvantaged women owned small business
+         (EDWOSB)</p><p id="YMXyMo" outputclass="Normal" class="- topic/p ">Historically Black colleges and universities / minority
+         institutions (HBCU/MI)</p><p id="YCIvTB" outputclass="Normal" class="- topic/p ">Not applicable (NA) (If acquisition is unrestricted)</p><p id="iXSnmk" outputclass="Normal" class="- topic/p ">Other (Specify):      </p><p id="qsByaf" outputclass="Normal" class="- topic/p ">c. Procedures: (Check all that apply)</p><p id="p_Check15" outputclass="Normal" class="- topic/p ">FAR 8.404 (GSA/Non-DoD Competitive) FAR 12 Commercial
+         Items</p><p id="auRfDk" outputclass="Normal" class="- topic/p ">FAR 13 Simplified Acquisition Procedures FAR 14 Sealed
+         Bidding</p><p id="aSnNFC" outputclass="Normal" class="- topic/p ">FAR 15 Negotiation FAR 36 Construction and Architect and
+         Engineer (A&amp;E) and design build</p><p id="kWsGlJ" outputclass="Normal" class="- topic/p ">d. Contracting method</p><p id="atjWms" outputclass="Normal" class="- topic/p ">Invitation for bid (IFB)</p><p id="FYUwAX" outputclass="Normal" class="- topic/p ">Competitive request for proposal (RFP)</p><p id="yoKTQm" outputclass="Normal" class="- topic/p ">Sole source RFP</p><p id="LRHumD" outputclass="Normal" class="- topic/p ">Other (fill-in)</p><p id="ytQZoe" outputclass="Normal" class="- topic/p ">e.Basis of award:</p><p id="avxHNz" outputclass="Normal" class="- topic/p ">Sealed bid – Part 14</p><p id="rIiPZW" outputclass="Normal" class="- topic/p ">Negotiation – Part 15</p><p id="HuIiAj" outputclass="Normal" class="- topic/p ">Lowest price technically acceptable</p><p id="CxeOJS" outputclass="Normal" class="- topic/p ">Performance price trade-off without technical
+         factors/proposal</p><p id="Qcylek" outputclass="Normal" class="- topic/p ">Performance price trade-off with technical
+         factors/proposal</p><p id="oXBGgS" outputclass="Normal" class="- topic/p ">Full trade off source selection (an acquisition plan is
+         highly recommended)</p><p id="DPwbLy" outputclass="Normal" class="- topic/p ">General Services Administration (GSA)/non-DoD
+         competitive</p><p id="nxOniN" outputclass="Normal" class="- topic/p ">Other (explain):      </p><p id="ZtXANC" outputclass="Normal" class="- topic/p ">Identify evaluation factors:      </p><p id="dIVcOe" outputclass="Ctr" class="- topic/p "> <b class="+ topic/ph hi-d/b ">Source Selection Information -- See FAR 2.101 and 3.104</b> </p><p id="rGFcNK" outputclass="Normal" class="- topic/p ">f. Contract type (Check all that apply):</p><p id="vskbZz" outputclass="Normal" class="- topic/p ">Fixed-price Time and material/labor hour agreements
+         Economic price adjustment</p><p id="JSjKKM" outputclass="Normal" class="- topic/p ">Incentive Award fee Cost-reimbursement Redetermination</p><p id="ASkwbX" outputclass="Normal" class="- topic/p ">Indefinite delivery contract (IDC) Multiply Award</p><p id="HVwnmN" outputclass="Normal" class="- topic/p ">Single Award (Provide rationale why single award)
+              </p><p id="lAlezk" outputclass="Normal" class="- topic/p ">Other (Specify):      </p><p id="YhJLqs" outputclass="Normal" class="- topic/p ">g. Sustainability:</p><p id="PWONnB" outputclass="Normal" class="- topic/p ">Contains sustainability requirements.</p><p id="abbSTg" outputclass="Normal" class="- topic/p ">Sustainability exception applies: (Specify)      </p><p id="nNOHel" outputclass="Normal" class="- topic/p ">Sustainability requirements waived, approved by: (Specify)
+              </p><p id="fukZaw" outputclass="Normal" class="- topic/p ">h. Other considerations (Check all that apply):</p><p id="CcKGVC" outputclass="Normal" class="- topic/p ">Progress payment Warranty First article test (FAT)</p><p id="wzOajO" outputclass="Normal" class="- topic/p ">Government furnished property(GFP) / Government furnished
+         material (GFM) / Government furnished equipment (GFE) involved</p><p id="UgRxuU" outputclass="Normal" class="- topic/p ">Other (specify). Other items/considerations may include,
+         Non-Economy Act or Economy Act assisted acquisitions and use of reverse auction)      </p><p id="rVcjrb" outputclass="Normal" class="- topic/p ">III. Prior procurement history: (If applicable)</p><p id="TwUASe" outputclass="Normal" class="- topic/p ">IV. Market research: (Discuss the purpose, nature, extent,
          involved personnel/offices and results/status, commerciality, and estimated completion date
          of any market research initiated/to be initiated in support of the instant purchase request
-         or anticipated future requirements (see also FAR, DFARS, and DLAD Parts 10, 11)</p>
-      <p id="TPLrIE" outputclass="Normal">V. Problems /risk/vulnerabilities (See FAR 7.105 and DFARS
-         PGI 207.105)</p>
-      <p id="wvsAcZ" outputclass="Normal">VI. Projected key milestone dates:</p>
-      <p id="RVOHGJ" outputclass="Normal">Receive purchase request (PR):      </p>
-      <p id="UOMJPs" outputclass="Normal">Issue solicitation:      </p>
-      <p id="cGzGbS" outputclass="Normal">Receive bids/offers:      </p>
-      <p id="fsOHSj" outputclass="Normal">Complete evaluations:      </p>
-      <p id="PRcVuk" outputclass="Normal">Award contract:      </p>
-      <p id="HSYpFR" outputclass="Normal">Contract start:      </p>
-      <p id="qlTasq" outputclass="Normal">Contracting Officer Name and SignatureDate</p>
-      <p id="MNunOT" outputclass="Normal">VII. Approvals:</p>
-      <p id="xRuhMz" outputclass="normal Ctr">
-         <b>For Official Use Only</b>
-      </p>
-      <p id="kWskbd" outputclass="normal Ctr">
-         <b>Source Selection Information -- See FAR 2.101 and 3.104</b>
-      </p>
-      <p id="mIGwsn" outputclass="Normal">**The following section is to be completed by
-         reviewer/approving official.**</p>
-      <p id="qzYWka" outputclass="Normal">Reviewer’s name:       Reviewer’s DSN/ phone number:
-              </p>
-      <p id="GNYVvG" outputclass="Normal">Reviewer’s e-mail:      </p>
-      <p id="reODyf" outputclass="Normal">Streamlined acquisition plan (SAP) approved as submitted
-              </p>
-      <p id="HJYuHz" outputclass="Normal">SAP conditionally approved subject to comments below</p>
-      <p id="rmTdZL" outputclass="Normal">SAP disapproved (reviewers are required to include
-         comments below)</p>
-      <p id="YcSqGg" outputclass="Normal">Requirement has been reviewed and validated by (specify):
-              </p>
-      <p id="DxAhxG" outputclass="Normal">Reviewer’s comments:      </p>
-      <p id="uTpQkG" outputclass="Normal">Reviewer’s signature: ______________________</p>
-      <p id="IfJthj" outputclass="Normal">** The following section is to be completed by the small
-         business specialist when required**</p>
-      <p id="mJxnDG" outputclass="Normal">Small business specialist coordination
-         _____________________________</p>
-      <p id="NBGAtX" outputclass="Normal">Small business specialist's comments:      </p>
-      <p id="UplBGm" outputclass="Normal">** The following section is to be completed by the
-         competition advocate when required**</p>
-      <p id="MOHZGa" outputclass="Normal">Competition Advocate coordination
-         _____________________________</p>
-      <p id="NGvTZk" outputclass="Normal">Competition advocate’s comments:      </p>
-   </conbody>
-</concept>
+         or anticipated future requirements (see also FAR, DFARS, and DLAD Parts 10, 11)</p><p id="TPLrIE" outputclass="Normal" class="- topic/p ">V. Problems /risk/vulnerabilities (See FAR 7.105 and DFARS
+         PGI 207.105)</p><p id="wvsAcZ" outputclass="Normal" class="- topic/p ">VI. Projected key milestone dates:</p><p id="RVOHGJ" outputclass="Normal" class="- topic/p ">Receive purchase request (PR):      </p><p id="UOMJPs" outputclass="Normal" class="- topic/p ">Issue solicitation:      </p><p id="cGzGbS" outputclass="Normal" class="- topic/p ">Receive bids/offers:      </p><p id="fsOHSj" outputclass="Normal" class="- topic/p ">Complete evaluations:      </p><p id="PRcVuk" outputclass="Normal" class="- topic/p ">Award contract:      </p><p id="HSYpFR" outputclass="Normal" class="- topic/p ">Contract start:      </p><p id="qlTasq" outputclass="Normal" class="- topic/p ">Contracting Officer Name and SignatureDate</p><p id="MNunOT" outputclass="Normal" class="- topic/p ">VII. Approvals:</p><p id="xRuhMz" outputclass="Ctr" class="- topic/p "><b class="+ topic/ph hi-d/b ">Source Selection Information -- See FAR 2.101 and 3.104</b> </p><p id="mIGwsn" outputclass="Normal" class="- topic/p ">**The following section is to be completed by
+         reviewer/approving official.**</p><p id="qzYWka" outputclass="Normal" class="- topic/p ">Reviewer’s name:       Reviewer’s DSN/ phone number:
+              </p><p id="GNYVvG" outputclass="Normal" class="- topic/p ">Reviewer’s e-mail:      </p><p id="reODyf" outputclass="Normal" class="- topic/p ">Streamlined acquisition plan (SAP) approved as submitted
+              </p><p id="HJYuHz" outputclass="Normal" class="- topic/p ">SAP conditionally approved subject to comments below</p><p id="rmTdZL" outputclass="Normal" class="- topic/p ">SAP disapproved (reviewers are required to include
+         comments below)</p><p id="YcSqGg" outputclass="Normal" class="- topic/p ">Requirement has been reviewed and validated by (specify):
+              </p><p id="DxAhxG" outputclass="Normal" class="- topic/p ">Reviewer’s comments:      </p><p id="uTpQkG" outputclass="Normal" class="- topic/p ">Reviewer’s signature: ______________________</p><p id="IfJthj" outputclass="Normal" class="- topic/p ">** The following section is to be completed by the small
+         business specialist when required**</p><p id="mJxnDG" outputclass="Normal" class="- topic/p ">Small business specialist coordination
+         _____________________________</p><p id="NBGAtX" outputclass="Normal" class="- topic/p ">Small business specialist's comments:      </p><p id="UplBGm" outputclass="Normal" class="- topic/p ">** The following section is to be completed by the
+         competition advocate when required**</p><p id="MOHZGa" outputclass="Normal" class="- topic/p ">Competition Advocate coordination
+         _____________________________</p><p id="NGvTZk" outputclass="Normal" class="- topic/p ">Competition advocate’s comments:      </p></conbody></concept>
