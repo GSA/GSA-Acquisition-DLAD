@@ -1,42 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_47_305-90" xml:lang="en-US">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">47.305-90</ph> Procurement notes.</title>
-   <conbody>
-      <p>(a) Vendor shipment module (VSM). The VSM is a web-based system that enhances DLA’s ability to plan and manage distribution. It is an information technology (IT) system that provides in-transit visibility (ITV), current shipping addresses, and may reduce transportation costs. For shipments of materiel that DLA buys from contractors, VSM provides ITV to consignees, consolidation and containerization points (CCPs), air and water ports, and various Government supply and transportation information systems.</p>
-      <p outputclass="List2">(1) Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall include procurement note C20 in all solicitations and contracts; except for metals or wood products, or when DCMA administers the contract and any of the following apply:</p>
-      <p outputclass="List3">(i) Contracts where ultimate destination is outside the contiguous United States;</p>
-      <p outputclass="List3">(ii) Hazardous material (HAZMAT) contracts;</p>
-      <p outputclass="List3">(iii) Foreign Military Sales (FMS) contracts; or</p>
-      <p outputclass="List3">(iv) Contracts requiring Transportation Protective Service.</p>
-      <p outputclass="Normal">*****</p>
-      <p rev="Revised February 1, 2023">C20Vendor Shipment Module (VSM) (NOV 2022)</p>
-      <p outputclass="List1" rev="Revised February 1, 2023">(1) The DLA Vendor Shipment Module (VSM) is a web-based system for DLA contractors to obtain current shipping addresses, two-dimensional bar coded shipping labels in accordance with MIL-STD-129, bills of lading, packing lists, and other shipping documentation. Contractors using VSM do not need to contact the transportation office prior to shipping items. Contractors shall use VSM to print labels for f.o.b. destination contracts ; and to print labels and arrange for shipping for f.o.b. origin contracts. All contractors will use VSM to obtain shipping labels no more than two (2) days prior to shipment to ensure the current destination address is used.</p>
-      <p outputclass="List1" rev="Revised February 1, 2023">(2) To obtain information for contracts administered by DLA or to register as a VSM user, the contractor shall contact the DLA VSM Helpdesk at (800) 456-5507 or via email to delivery@dla.mil.</p>
-      <p outputclass="List2" rev="Revised February 1, 2023"> (a) Before contacting the Government to advise that material is ready to ship, the contractor shall complete its VSM profile, to include regular business hours and observed holidays. The Government may request reimbursement for occurrences when the Government sends carrier equipment but is unable to pick-up a shipment because the material was unavailable or the contractor facility was closed.</p>
-      <p outputclass="List1" rev="Revised February 1, 2023">(3) To obtain information for contracts administered by DCMA, the contractor shall contact the DCMA VSM Helpdesk at (‎314) 331-5573 or <xref href="mailto:vsm.shipments@dcma.mil"
-               format="shipments@dcma.mil.mil"
-               scope="external">vsm.shipments@dcma.mil</xref>.</p>
-      <p rev="Revised February 1, 2023">*****</p>
-      <p outputclass="List1" rev="Revised February 1, 2023">(b) Shipping instruction request (SIR). The SIR is DCMA’s contractor interface which automates the shipping process by reducing data entry and cycle time and facilitates data collection for management of the process. Suppliers use SIR to send requests for shipping instructions to the DCMA Transportation Office. The SIR is designed to improve DCMA's ability to track and efficiently field requests in order to improve the timing and quality of shipments from contractors.</p>
-      <p outputclass="List2" rev="Revised February 1, 2023"> (1) Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall include procurement note C21 in solicitations and contracts if DCMA administers the contract and any of the following apply:</p>
-      <p outputclass="List3" rev="Revised February 1, 2023"> (i) Contracts where ultimate destination is outside the contiguous United States;</p>
-      <p outputclass="List3" rev="Revised February 1, 2023"> (ii) Hazardous material (HAZMAT) contracts;</p>
-      <p outputclass="List3" rev="Revised February 1, 2023"> (iii) Foreign Military Sales (FMS) contracts; or</p>
-      <p outputclass="List3" rev="Revised February 1, 2023"> (iv) Contracts requiring Transportation Protective Service.</p>
-      <p outputclass="Normal">***** </p>
-      <p outputclass="Normal">C21 Shipping Instruction Request (SIR) (JUN 2020)</p>
-      <p outputclass="Normal">(1) The DCMA Shipping Instruction Request (SIR) is a web-based system that contractors and transportation specialists use to provide transportation management for contracts administered by DCMA.</p>
-      <p outputclass="Normal">(2) The contractor shall use SIR for the following contracts:</p>
-      <p outputclass="Normal">(a) If the ultimate destination is outside the contiguous United States.</p>
-      <p outputclass="Normal">(b) Hazardous material (HAZMAT).</p>
-      <p outputclass="Normal">(c) Foreign Military Sales (FMS).</p>
-      <p outputclass="Normal">(d) If Transportation Protective Service requirements apply.</p>
-      <p outputclass="Normal">(3) Contractors shall submit information to DCMA via the DCMA Shipping Instruction Request (SIR) e-Tool (<xref href="https://www.dcma.mil/WBT/sir/" scope="external" format="html">
-            <u>https://www.dcma.mil/WBT/sir/</u>
-         </xref>).</p>
-      <p outputclass="Normal">*****</p>
+<concept id="DLAD_47_305-90"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">47.305-90</ph> Procurement notes.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) Vendor shipment module (VSM). The VSM is a web-based system that enhances DLA’s ability to plan and manage distribution. It is an information technology (IT) system that provides in-transit visibility (ITV), current shipping addresses, and may reduce transportation costs. For shipments of materiel that DLA buys from contractors, VSM provides ITV to consignees, consolidation and containerization points (CCPs), air and water ports, and various Government supply and transportation information systems.</p>
+      <p outputclass="List2" class="- topic/p ">(1) Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall include procurement note C20 in all solicitations and contracts; except for metals or wood products, or when DCMA administers the contract and any of the following apply:</p>
+      <p outputclass="List3" class="- topic/p ">(i) Contracts where ultimate destination is outside the contiguous United States;</p>
+      <p outputclass="List3" class="- topic/p ">(ii) Hazardous material (HAZMAT) contracts;</p>
+      <p outputclass="List3"
+         class="- topic/p "
+         rev="Revised September 6, 2024">(iii) Foreign Military Sales (FMS) contracts; or</p>
+      <p outputclass="List3"
+         class="- topic/p "
+         rev="Revised September 6, 2024">(iv) Contracts requiring Transportation Protective Service.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
+      <p class="- topic/p ">C20Vendor Shipment Module (VSM) <ph rev="Revised September 6, 2024" class="- topic/ph ">(JUL 2024)</ph>
+      </p>
+      <p outputclass="List1" class="- topic/p ">(1) The DLA Vendor Shipment Module (VSM) is a web-based system for DLA contractors to obtain current shipping addresses, two-dimensional bar coded shipping labels in accordance with MIL-STD-129, bills of lading, packing lists, and other shipping documentation. Contractors using VSM do not need to contact the transportation office prior to shipping items. Contractors shall use VSM to print labels for f.o.b. destination contracts ; and to print labels and arrange for shipping for f.o.b. origin contracts. All contractors will use VSM to obtain shipping labels no more than two (2) days prior to shipment to ensure the current destination address is used.</p>
+      <p outputclass="List1" class="- topic/p ">(2) To obtain information for contracts administered by DLA or to register as a VSM user, the contractor shall contact the DLA VSM Helpdesk at (800) 456-5507 or via email to delivery@dla.mil.</p>
+      <p outputclass="List2" class="- topic/p "> (a) Before contacting the Government to advise that material is ready to ship, the contractor shall complete its VSM profile, to include regular business hours and observed holidays. The Government may request reimbursement for occurrences when the Government sends carrier equipment but is unable to pick-up a shipment because the material was unavailable or the contractor facility was closed.</p>
+      <p outputclass="List1"
+         class="- topic/p "
+         rev="Revised September 6, 2024">(3) To obtain information for contracts administered by DCMA, the contractor shall contact the DCMA that are for contracts where the ultimate destination is outside the contiguous United States, hazardous material, foreign military sales (FMS), or contracts requiring Transportation Protective Service], the contractor shall contact the DCMA Transportation to determine the cognizant Transportation Office at <xref href="mailto:dcma.stlouis-mo.hq.mbx.transportation-inbox@mail.mil"
+               format="stlouis-mo.hq.mbx.transportation-inbox@mail.mil.hq.mbx.transportation-inbox@mail.mil.mbx.transportation-inbox@mail.mil.transportation-inbox@mail.mil.mil"
+               scope="external"
+               class="- topic/xref ">dcma.stlouis-mo.hq.mbx.transportation-inbox@mail.mil</xref>.</p>
+      <p class="- topic/p ">*****</p>
+      <p outputclass="List1" class="- topic/p ">(b) Shipping instruction request (SIR). The SIR is DCMA’s contractor interface which automates the shipping process by reducing data entry and cycle time and facilitates data collection for management of the process. Suppliers use SIR to send requests for shipping instructions to the DCMA Transportation Office. The SIR is designed to improve DCMA's ability to track and efficiently field requests in order to improve the timing and quality of shipments from contractors.</p>
+      <p outputclass="List2" class="- topic/p "> (1) Contracting officers at DLA Aviation, DLA Land and Maritime, and DLA Troop Support shall include procurement note C21 in solicitations and contracts if DCMA administers the contract and any of the following apply:</p>
+      <p outputclass="List3" class="- topic/p "> (i) Contracts where ultimate destination is outside the contiguous United States;</p>
+      <p outputclass="List3" class="- topic/p "> (ii) Hazardous material (HAZMAT) contracts;</p>
+      <p outputclass="List3"
+         class="- topic/p "
+         rev="Revised September 6, 2024"> (iii) Foreign Military Sales (FMS) contracts; or</p>
+      <p outputclass="List3"
+         class="- topic/p "
+         rev="Revised September 6, 2024"> (iv) Contracts requiring Transportation Protective Service.</p>
+      <p outputclass="Normal" class="- topic/p ">***** </p>
+      <p outputclass="Normal" class="- topic/p ">C21 Shipping Instruction Request (SIR) <ph rev="Revised September 6, 2024" class="- topic/ph ">(JUL 2024)</ph>
+      </p>
+      <p outputclass="Normal" class="- topic/p ">(1) The DCMA Shipping Instruction Request (SIR) is a web-based system that contractors and transportation specialists use to provide transportation management for contracts administered by DCMA.</p>
+      <p outputclass="Normal" class="- topic/p ">(2) The contractor shall use SIR for the following contracts:</p>
+      <p outputclass="Normal" class="- topic/p ">(a) If the ultimate destination is outside the contiguous United States.</p>
+      <p outputclass="Normal" class="- topic/p ">(b) Hazardous material (HAZMAT).</p>
+      <p outputclass="Normal"
+         class="- topic/p "
+         rev="Revised September 6, 2024">(c) Foreign Military Sales (FMS).</p>
+      <p outputclass="Normal" class="- topic/p ">(d) If Transportation Protective Service requirements apply.</p>
+      <p outputclass="Normal" class="- topic/p ">(3) Contractors shall submit information to DCMA via the DCMA Shipping Instruction Request (SIR) e-Tool at, <xref href="https://etools.dcma.mil/my.policy"
+               format="html"
+               scope="external"
+               class="- topic/xref ">etools.dcma.mil/my.policy</xref>.</p>
+      <p outputclass="Normal" class="- topic/p ">*****</p>
    </conbody>
 </concept>

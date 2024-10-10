@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_7604"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept "
+         rev="Revised September 6, 2024">
+   <title outputclass="Heading 3" class="- topic/title " rev=""> 
+      <ph props="autonumber" class="- topic/ph ">4.7604</ph> Solicitation provision.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal"
+         class="- topic/p "
+         rev="Revised September 6, 2024">The provision at <xref href="https://www.acquisition.gov/dfars/252.204-7024-notice-use-supplier-performance-risk-system."
+               format="html"
+               scope="external"
+               class="- topic/xref ">DFARS 252.204-7024</xref>, Notice on the Use of the Supplier Performance Risk System, is not required in solicitations equal to or less than the micro purchase threshold.</p>
+   </conbody>
+</concept>

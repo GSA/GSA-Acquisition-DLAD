@@ -43,7 +43,7 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="Revised September 6, 2024">
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_42.11.dita#DLAD_SUBPART_42_11">SUBPART 42.11 – PRODUCTION SURVEILLANCE AND REPORTING</xref>
                </p>
@@ -53,7 +53,7 @@
                         <xref outputclass="fm:TOC" href="42.1101.dita#DLAD_42_1101">42.1101 General.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised September 6, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="42.1104.dita#DLAD_42_1104">42.1104 Surveillance requirements.</xref>
                      </p>

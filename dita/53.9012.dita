@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_53_9012" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">53.9012</ph> Acquisition of Commercial Products and Commercial Services.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Market Research for Commerciality Determination Memorandum (MRCDM). </i>The contracting officer shall use the MRCDM format as prescribed in 12.102(a)(S-91). If a prior CID cannot be located in the DoD Commercial Item Database, the current contracting officer must ensure a CID (e.g. MRCDM) is uploaded to the database. The uploaded memorandum cannot contain any CUI (see DFARS PGI 212.102(a)(iii)(C)). The contracting officer who creates a document is responsible for determining if it contains CUI, and whether any redactions may be necessary (see DLAD PGI 53.9000). <i class="+ topic/ph hi-d/i ">This Market Research for Commerciality Determination Memorandum (MRCDM) format is for illustration purposes only. It mirrors the fillable version in the contract writing system</i>.</p>
+      <p outputclass="Ctr_SmCaps" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">MEMORANDUM FOR RECORD</b>
+      </p>
+      <p class="- topic/p ">
+         <p class="- topic/p ">SUBJECT: <i class="+ topic/ph hi-d/i ">Market Research for Commerciality Determination Memorandum (MRCDM).</i>
+         </p>
+         <p class="- topic/p ">(FAR10.002, FAR 2.101, FAR 12.101, DFARS 212.102, DFARS PGI 212.102, and DLAD 12.102 </p>
+         <p class="- topic/p ">Market research has been conducted prior to solicitation:</p>
+         <p class="- topic/p ">Solicitation #: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert).</u>
+            </i> NSN(s)[/P/N(s)] (if applicable): <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert).</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Item/Requirement Description: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert).</u>
+            </i>
+         </p>
+         <p class="- topic/p ">PR#: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert).]</u>
+            </i>
+         </p>
+         <p class="- topic/p ">( ) Current CID was made by a DCMA or Military Service contracting officer; memorandum provided to DLA contracting officer is attached <i class="+ topic/ph hi-d/i ">(proceed to Part III if checked). </i>The DCMA or Military Service contracting officer making the determination is responsible for uploading the memorandum to the DoD Commercial Item Database.</p>
+         <p class="- topic/p ">( ) Queried DoD Commercial Item Database for same product or service: </p>
+         <p class="- topic/p "> ( ) No prior CID was located</p>
+         <p class="- topic/p "> ( ) A prior CID was located <i class="+ topic/ph hi-d/i ">(fill-in below information</i>); proceed to Part III if checked. </p>
+         <p class="- topic/p "> Date of CID: ________________</p>
+         <p class="- topic/p "> Name of Contracting Officer: __________________ </p>
+         <p class="- topic/p "> Contracting Officer email: __________________</p>
+         <p class="- topic/p ">( ) Identified other evidence that FAR part 12 procedures were previously used to acquire the same product or service. Check relevant box below and proceed to Part III. </p>
+         <p class="- topic/p "> ( ) MRCD memorandum <u class="+ topic/ph hi-d/u ">(<i class="+ topic/ph hi-d/i ">provide</i>
+               <i class="+ topic/ph hi-d/i ">contracting officer and date of CID</i>
+            </u>
+            <i class="+ topic/ph hi-d/i ">.) </i> 
+         </p>
+         <p class="- topic/p "> ( ) Prior FAR part 12 contract <i class="+ topic/ph hi-d/i ">(<u class="+ topic/ph hi-d/u ">provide contract #, award date and contracting officer</u>.)</i> Any prior contract that relied on DFARS 212.102(a)(i)(B) as basis for utilizing FAR part 12 procedures cannot serve as a prior CID.</p>
+         <p class="- topic/p "> ( ) Current PR trailer contains a statement or code as evidence of a prior CID.]</p>
+         <p class="- topic/p ">PART I</p>
+         <p class="- topic/p ">In accordance with FAR 10.002(b) and FAR 2.101, Definitions, the cognizant functional element of the procuring organization has conducted a review of the item description(s) to determine if commercial products or commercial services or non-developmental items are available to meet the government’s needs or could be modified to meet the government’s needs. The reviewer(s) considered the following:</p>
+         <p class="- topic/p ">a. Whether products or services are of a type customarily available in the commercial marketplace; annotate evidence of actual sale, lease, or license to the general public, or evidence of products or services being offered for sale, lease or license to the general public: (contracting officer insert response)</p>
+         <p class="- topic/p ">b. Whether products are of a type customarily available in the commercial marketplace with modifications; annotate evidence of actual sale, lease, or license to the general public and type of modification: (contracting officer insert response)</p>
+         <p class="- topic/p ">c. Whether products are used exclusively for governmental purposes; annotate evidence that the products were (1) developed exclusively at private expense, and (2) sold competitively in substantial quantities to multiple state and local governments: (contracting officer insert response)</p>
+         <p class="- topic/p ">d. Customary practices regarding customizing, modifying or tailoring of products to meet customers’ needs and associated costs; annotate evidence of customary availability of the modification in the commercial marketplace or the technical relationship between the modified products: (contracting officer insert response)</p>
+         <p class="- topic/p ">CUI</p>
+         <p class="- topic/p ">e. Customary practices, including warranty, buyer financing, discounts, contract type considering the nature and risk associated with the requirement, etc., under which commercial sales of the products or services are made: (contracting officer insert response)</p>
+         <p class="- topic/p ">f. The applicability of any laws and/or regulations unique to the products or services being acquired: (contracting officer insert response)</p>
+         <p class="- topic/p ">g. The availability of products that contain recovered materials and products that are energy efficient: (contracting officer insert response)</p>
+         <p class="- topic/p ">h. The distribution and support capabilities of potential suppliers, including alternative arrangements and cost estimates: (contracting officer insert response)</p>
+         <p class="- topic/p ">i. The size and status of potential sources: (contracting officer insert response)</p>
+         <p class="- topic/p ">j. Services of a type offered and sold competitively in substantial quantities in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions: (contracting officer insert response)</p>
+         <p class="- topic/p ">k. Whether existing contract solutions (including Best-In-Class (BIC) can be used to satisfy the requirement (IAW with Office of Management and Budget (OMB) Memorandum M-17-29): (contracting officer insert response)</p>
+         <p class="- topic/p ">PART II</p>
+         <p class="- topic/p ">Check one or more of the following, as applicable, to identify techniques the reviewer(s) used to conduct market research and determine commerciality:</p>
+         <p class="- topic/p ">a. ( ) Commercial-Off-the-Shelf field is coded “Y”;</p>
+         <p class="- topic/p ">b. ( ) If product or service has been coded in SAP as commercial but other than commercial practices are required (e.g., QCCs, packaging, etc.), the justification for the use of these practices has been entered in SAP in the internal comments field;</p>
+         <p class="- topic/p ">c. ( ) Contacted knowledgeable individuals in government and industry regarding market capabilities to meet requirements;</p>
+         <p class="- topic/p ">d. ( ) Published formal requests for information in appropriate technical or scientific journals or business publications;</p>
+         <p class="- topic/p ">CUI</p>
+         <p class="- topic/p ">CUI</p>
+         <p class="- topic/p ">e. ( ) Queried the Government-wide database of contracts and other procurement instruments intended for use by multiple agencies available at https://www.fpds.gov and other government and commercial databases that provide information relevant to agency acquisitions;</p>
+         <p class="- topic/p ">f. ( ) Participated in interactive, on-line communication among industry, acquisition personnel, and customers;</p>
+         <p class="- topic/p ">g. ( ) Obtained source lists of similar products or services from other contracting activities, agencies, trade associations, or sources;</p>
+         <p class="- topic/p ">h. ( ) Reviewed the results of recent market research undertaken to meet similar or identical requirements;</p>
+         <p class="- topic/p ">i. ( ) Reviewed catalogs and other available product literature published, or provided on-line, by manufacturers, distributors, and dealers;</p>
+         <p class="- topic/p ">j. ( ) Conducted interchange meetings or held presolicitation conferences to involve potential offerors;</p>
+         <p class="- topic/p ">k. ( ) Queried the Central Contractor Registration (CCR) via the System for Award Management (SAM) for small business sources, as applicable. (See FAR/DFARS Part 4 for information on SAM)</p>
+         <p class="- topic/p ">l. ( ) Other</p>
+         <p class="- topic/p ">Provide supporting documentation (to include a review of the Material Master in SAP for applicable items) for any of the blocks above in <i class="+ topic/ph hi-d/i ">c</i> through <i class="+ topic/ph hi-d/i ">l</i> that have been checked in this part of the form. </p>
+         <p class="- topic/p ">( ) Documentation is located in the official contract file.</p>
+         <p class="- topic/p ">SUMMARY OF MARKET RESEARCH:</p>
+         <p class="- topic/p ">Contacted product specialist or other technical representative on: (contracting officer insert response)</p>
+         <p class="- topic/p ">OR</p>
+         <p class="- topic/p ">Product specialist/technical representative provided market research with the requirement on:(contracting officer insert response)</p>
+         <p class="- topic/p "> </p>
+         <p class="- topic/p ">Name of Product Specialist/Technical Representative: (contracting officer insert response)</p>
+         <p class="- topic/p ">Date: (contracting officer insert response)</p>
+         <p class="- topic/p "> </p>
+         <p class="- topic/p ">Product specialist/technical representative provided concurrence:</p>
+         <p class="- topic/p ">( ) Yes. If “Yes,” has the Material Master been updated: (contracting officer insert response)</p>
+         <p class="- topic/p ">( ) No. If “No,” state reason for nonconcurrence and how resolved: (contracting officer insert response)</p>
+         <p class="- topic/p ">PART III</p>
+         <p class="- topic/p ">Check one of the following to indicate the type of contract:</p>
+         <p class="- topic/p ">( ) Firm Fixed Price (FFP)</p>
+         <p class="- topic/p ">( ) Fixed Price with Economic Price Adjustment (FP w/EPA)</p>
+         <p class="- topic/p ">( ) Time-and-Materials or Labor-Hour (see FAR 12.207 and DFARS 212.207)</p>
+         <p class="- topic/p ">NOTE: For acquisitions of commercial products or commercial services, the contracting officer may only award FFP or FP w/EPA type contracts, with limited exceptions.</p>
+         <p class="- topic/p ">PART IV </p>
+         <p class="- topic/p ">Check one of the following to indicate if consolidation or bundling applies:</p>
+         <p class="- topic/p ">( ) Consolidation (see attached report/determination)</p>
+         <p class="- topic/p ">( ) Bundling (see attached report/determination)</p>
+         <p class="- topic/p ">CONCLUSION:</p>
+         <p class="- topic/p ">Based on the market research conducted, product(s) or service(s) to be solicited against subject solicitation have been determined to be (check one of the following):</p>
+         <p class="- topic/p ">( ) Commercial</p>
+         <p class="- topic/p ">( ) Other than commercial</p>
+         <p class="- topic/p ">APPROVALS: </p>
+         <p class="- topic/p ">Name of Contracting Officer: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert response)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Signature: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert signature)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Date: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert date)]</u>
+            </i>
+         </p>
+         <p class="- topic/p "> </p>
+         <p class="- topic/p ">[*]Name of Approving Official (One Level Above Contracting Officer): <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert response)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Title: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(contracting officer insert response)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Signature: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(approving official insert signature)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">Date: <i class="+ topic/ph hi-d/i ">
+               <u class="+ topic/ph hi-d/u ">(approving official insert date)</u>
+            </i>
+         </p>
+         <p class="- topic/p ">[*](Applies when commercial <line-through class="+ topic/ph hi-d/line-through ">product </line-through>determination was based on subsections (1)(ii), (3), or (4) of the “commercial product” definition, or on subsection (2) of the commercial service definition at FAR 2.101</p> ******</p>
+   </conbody>
+</concept>

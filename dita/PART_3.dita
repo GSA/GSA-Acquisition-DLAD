@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">PART 3</ph> – IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
       <body>
          <ul otherprops="TOC">
-            <li rev="Revised February 1, 2023">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_3.1.dita#DLAD_SUBPART_3_1">SUBPART 3.1 – SAFEGUARDS</xref>
                </p>
@@ -22,7 +22,7 @@
                         <xref outputclass="fm:TOC" href="3.104.dita#DLAD_3_104">3.104 Procurement integrity.</xref>
                      </p>
                   </li>
-                  <li rev="Revised February 1, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="3.104-1.dita#DLAD_3_104-1">3.104-1 Definitions.</xref>
                      </p>

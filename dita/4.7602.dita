@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="DLAD_4_7602"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept "
+         rev="Revised September 6, 2024">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">4.7602</ph> 
+      <b class="+ topic/ph hi-d/b ">Applicability.</b>
+   </title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal"
+         class="- topic/p "
+         rev="Revised September 6, 2024">In addition to the exclusions stated in DODI 5000.79 for the procurement of certain supplies or services, the use of SPRS risk assessments is not required for solicitations equal to or less than the micro purchase threshold.</p>
+   </conbody>
+</concept>

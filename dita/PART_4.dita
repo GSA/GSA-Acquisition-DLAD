@@ -165,6 +165,23 @@
                   </li>
                </ul>
             </li>
+            <li rev="">
+               <p>
+                  <xref outputclass="fm:TOC" href="SUBPART_4.76.dita#DLAD_SUBPART_4_76">SUBPART 4.76 —SUPPLIER PERFORMANCE RISK SYSTEM</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised September 6, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.7602.dita#DLAD_4_7602">4.7602 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised September 6, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="4.7604.dita#DLAD_4_7604">4.7604 Solicitation provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="SUBPART_4.90.dita#DLAD_SUBPART_4_90">SUBPART 4.90 – ELECTRONIC MICROCIRCUITS RESTRICTION</xref>

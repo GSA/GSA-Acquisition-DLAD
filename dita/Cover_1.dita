@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<dita>
-   <CoverTitle id="Cover_1">
-      <CTitle id="id184NG60B05Z">Defense Logistics Acquisition Directive (DLAD)</CTitle>
-      <CBody id="id184NG7000Y4">
-         <CoverIssued id="id184NG7008HS">Revised August 30, 2022 by the:</CoverIssued>
-         <CoverGSADODNASA id="id184NG700CUz">DEFENSE LOGISTICS ACQUISITION DIRECTIVE</CoverGSADODNASA>
-         <CoverTitle48 id="id184NG700KHT">TITLE 48 - Federal Acquisition Regulations System</CoverTitle48>
-         <CoverChapterTitle id="id184NG700YPF">Chapter 54</CoverChapterTitle>
-      </CBody>
-   </CoverTitle>
-</dita>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><CoverTitle id="Cover_1" class="- topic/topic "><CTitle id="id184NG60B05Z" class="- topic/title ">Defense Logistics Acquisition Directive (DLAD)</CTitle><CBody id="id184NG7000Y4" class="- topic/body ">
+         <CoverIssued id="id184NG7008HS" class="- topic/p ">Revised September 6, 2024 by the:</CoverIssued>
+         <CoverGSADODNASA id="id184NG700CUz" class="- topic/p ">DEFENSE LOGISTICS ACQUISITION DIRECTIVE</CoverGSADODNASA>
+         <CoverTitle48 id="id184NG700KHT" class="- topic/p ">TITLE 48 - Federal Acquisition Regulations System</CoverTitle48>
+         <CoverChapterTitle id="id184NG700YPF" class="- topic/p ">Chapter 54</CoverChapterTitle>
+      </CBody></CoverTitle></dita>

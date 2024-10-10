@@ -1,52 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_25_7902-4">
-  <title outputclass="Heading 3"> 
-      <ph props="autonumber"> 25.7902-4</ph>
+<concept id="DLAD_25_7902-4" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph "> 25.7902-4</ph>
     Procedures.</title>
-  <conbody>
-      <p id="KbmIqr" outputclass="Normal">(S-90) If items require access to
-      controlled technical information, the product specialist will update the
-      Purchase Order Text (POT) to include Standard Text Objects (STOs) RD002,
-      Covered Defense Information Applies, and RQ032, Export Control of
-      Technical Data.</p>
-      <p id="zkcJxn" outputclass="Normal">(S-91) For manual acquisitions, the
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="KbmIqr" outputclass="Normal" class="- topic/p ">(S-90) <ph rev="Revised September 6, 2024" class="- topic/ph ">For DLA</ph> managed items with export controlled technical data, the product specialist will update the Purchase Order Text (POT) to include Standard Text Objects (STOs) RD002, Covered Defense Information Applies, and RQ032, Export Control of Technical Data.</p>
+      <p id="zkcJxn" outputclass="Normal" class="- topic/p ">(S-91) For manual acquisitions, the
       contracting officer shall—</p>
-      <p id="JgaGdV" outputclass="List2">(1) Confirm that the POT contains STOs
-      RQ032 and RD002 to notify offerors the item requires DLA controlling
-      authority approval to access export-controlled technical information
-      contained within DLA Systems; and</p>
-      <p id="OeoCNL" outputclass="List2">(2) Unless one of the exceptions at PGI
-      25.7902-4(S-90) applies, verify that the offeror and any source(s) of
-      supply it will use for contract performance have DLA controlling authority
-      approval to access export-controlled technical data within the cFolders.
-      To identify contractors with DLA controlling authority approval to access
-      export-controlled technical data<b>—</b> 
+      <p id="JgaGdV" outputclass="List1" class="- topic/p ">(1) Confirm that the POT contains STOs RQ032 and RD002 to notify offerors the item requires DLA controlling authority approval to access export-controlled technical information contained within DLA Systems; and</p>
+      <p id="OeoCNL" outputclass="List1" class="- topic/p ">(2) Unless one of the exceptions at PGI 25.7902-4(S-90) applies, verify that the offeror and any source(s) of supply it will use for contract performance have DLA controlling authority approval to access export-controlled technical data within the cFolders. To identify contractors with DLA controlling authority approval to access export-controlled technical data<b class="+ topic/ph hi-d/b ">—</b> 
       </p>
-      <p id="bswxfW" outputclass="List3">(i) See the Business Decision Analytics
+      <p id="bswxfW" outputclass="List3" class="- topic/p ">(i) See the Business Decision Analytics
       (BDA) Supplier Risk Analysis by CAGE Code Model in the <xref format="aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
                href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
-               scope="external"> BDA Job Aid Folder </xref> (<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
                scope="external"
-               format="html">
+               class="- topic/xref "> BDA Job Aid Folder </xref> (<xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA"
+               scope="external"
+               format="html"
+               class="- topic/xref ">
       https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000D3D259D71343A94E992AA17310CB0231&amp;viewid=bb1b25a6%2D56d8%2D4398%2Dac48%2D5f987c946cca&amp;id=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FePROCUREMENT%2FBDA
       </xref>); or</p>
-      <p id="OCTbSJ" outputclass="List3">(ii) If the BDA Job Aid Folder is
+      <p id="OCTbSJ" outputclass="List3" class="- topic/p ">(ii) If the BDA Job Aid Folder is
       unavailable, contact the DLA controlling authority at email <xref format="mailto"
                href="mailto:DLAJ344DataCustodian@dla.mil"
-               scope="external"> DLAJ344DataCustodian@dla.mil </xref>.</p>
-      <p id="tooOBD" outputclass="Normal">(S-92)(1) For manual acquisitions, the
-      contracting officer does not need to verify that an offeror and any
-      source(s) of supply it will use for contract performance have DLA
-      controlling authority approval to access export-controlled technical data
-      if an exception at PGI 25.7902-4(S-90) applies.</p>
-      <p id="ySwEfS" outputclass="Normal">(S-93) For automated acquisitions, the
-      Auto Evaluation logic module will follow the enhanced validation
-      procedures and requirements identified in the DLA Master Solicitation for
-      Automated Simplified Acquisitions. To be eligible for award in the
-      automated system, the offeror and any source(s) of supply it will use for
-      contract performance must have an active JCP certification and DLA
-      controlling authority approval to access export-controlled data.</p>
-  </conbody>
+               scope="external"
+               class="- topic/xref "> DLAJ344DataCustodian@dla.mil </xref>.</p>
+      <p outputclass="List3" class="- topic/p ">(iii) Contracting Officers can also verify that an item is export-controlled, along with the item’s demilitarization information by accessing the BDA Item Risk Dashboard. The job aid for accessing the BDA Item Risk Dashboard can found at <ph rev="Revised September 6, 2024" class="- topic/ph ">
+            <xref href="https://dlamil.dps.mil/sites/InfoOps/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FInfoOps%2FShared%20Documents%2FEBS%20ONLINE%20HELP%2FEnterprise%20Data%20Warehouse%20%28EDW%29"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Information Operations (J6) Enterprise Data Warehouse (EDW) - All Documents (dps.mil)</xref>.</ph>
+      </p>
+      <p id="ySwEfS" outputclass="List1" class="- topic/p ">(3) Utilize the exceptions at PGI 25.7902-4(S-90) only when: </p>
+      <p outputclass="List2" class="- topic/p ">(a) The offeror is a manufacturer (i.e., Original Equipment Manufacturer (OEM), the Original Component Manufacturer (OCM), or is an OEM or OCM authorized manufacturer) offering its manufactured item and does not need DLA controlling authority approval to access export-controlled technical data within the cFolders.; </p>
+      <p outputclass="List2" class="- topic/p ">(b)The offeror is a dealer or distributor that has DLA controlling authority approval to access export-controlled technical data within cFolders, and is offering an item produced by an OCM, an OEM or OEM, or OCM authorized manufacturer that does not need access to DLA export-controlled technical data, <ph rev="Revised September 6, 2024" class="- topic/ph ">or</ph> 
+      </p>
+      <p outputclass="List2" class="- topic/p ">(c) The offeror is a dealer or distributor that has DLA controlling authority approval to access export-controlled technical data within cFolders and is offering unused former Government surplus property that is produced by an OCM, an OEM or OEM or OCM authorized manufacturer that does not need access to DLA export-controlled technical data. </p>
+      <p outputclass="List1"
+         rev="Revised September 6, 2024"
+         class="- topic/p ">(S-92) For automated acquisitions, the Auto Evaluation logic module will follow the enhanced validation procedures and requirements identified in the DLA Master Solicitation for Automated Simplified Acquisitions. To be eligible for award in the automated system, the offeror, and any source(s) of supply it will use for contract performance must have an active JCP certification and DLA controlling authority approval to access export-controlled data.</p>
+   </conbody>
 </concept>
