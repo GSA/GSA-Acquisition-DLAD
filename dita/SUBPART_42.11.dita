@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_SUBPART_42_11">
-   <title outputclass="Heading 2 Subpart">
-      <ph props="autonumber">SUBPART 42.11</ph> – PRODUCTION SURVEILLANCE AND REPORTING</title>
-   <conbody>
-      <p id="DVDIAK" outputclass=" Ctr">
-         <i>(Revised September 20, 2016 through PROCLTR 2016-10)</i>
+<concept id="DLAD_SUBPART_42_11" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2 Subpart" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">SUBPART 42.11</ph> – PRODUCTION SURVEILLANCE AND REPORTING</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="DVDIAK"
+         outputclass=" Ctr"
+         class="- topic/p "
+         rev="Revised September 6, 2024">
+         <i class="+ topic/ph hi-d/i ">(Revised September 6, 2024 through PROCLTR 2024-07)</i> 
       </p>
    </conbody>
 </concept>

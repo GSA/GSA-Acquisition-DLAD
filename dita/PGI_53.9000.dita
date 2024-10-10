@@ -1,53 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="DLAD_PGI_53_9001" xml:lang="en-US">
-   <title outputclass="Heading 3"> 
-      <ph props="autonumber">PGI 53.9000</ph> Controlled Unclassified Information (CUI) Marking.</title>
-   <conbody>
-      <p outputclass="List1">(a) The originator of a communication or documentation is responsible for determining, at the time of creation, whether information in a communication or documentation falls into a CUI category.<table>
-            <tgroup cols="1">
-               <colspec/>
-               <tbody>
-                  <row>
-                     <entry>
-                        <p>Controlled by: [Name of DoD Component determining that the information is CUI] (<i>This should normally be DLA and MSC name. Omit this if using memo with DLA or DLA procuring organization letterhead.</i>) </p>
-                        <p>Controlled by: [Name of Office making the CUI determination] (<i>This is typically the procuring organization sublevel/branch name or code.</i>) </p>
-                        <p>CUI Category: [List category or categories of CUI] (<i>The most common categories are General Procurement, Source Selection, and Privacy; however, others may apply (e.g., General Proprietary Business Information, Legal Privilege.). Documents marked for the CUI Category - Source Selection still require markings IAW FAR 3.104-4(c). The top and bottom of each page must also be marked “Source Selection Information - See FAR 2.101 and 3.104”.</i>) </p>
-                        <p>Distribution/Dissemination Control: [Include Limited Dissemination Control of who can view the document] (<i>In most cases use “FED ONLY” for internal documents and emails. Use “FEDCON” for emails and other correspondence with contractors. The CUI Limited Dissemination Controls list in DLAI 5200.48 includes all available options.) </i> 
-                        </p>
-                        <p>POC: [Email address or phone number of document originator] </p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </p>
-      <p outputclass="List1">(b) Contracting Officers may access the following resources and training material for additional guidance:</p>
-      <p outputclass="List2">(1) <xref href="https://dlamil.dps.mil/sites/Intelligence/PublishingImages/cui/DoDI%205200.48%20-%20Controlled%20Unclassified%20Information%20%28CUI%29%20%28002%29.pdf"
+<concept id="DLAD_PGI_53_9001"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">PGI 53.9000</ph> Controlled Unclassified Information (CUI) Marking.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1"
+         class="- topic/p "
+         rev="Revised September 6, 2024">(a) The originator of a communication or documentation is responsible for determining, at the time of creation, whether information in a communication or documentation falls into a CUI category. </p>
+      <p outputclass="List1" class="- topic/p ">(b) Contracting Officers may access the following resources and training material for additional guidance:</p>
+      <p outputclass="List2" class="- topic/p ">(1) <xref href="https://dlamil.dps.mil/sites/Intelligence/PublishingImages/cui/DoDI%205200.48%20-%20Controlled%20Unclassified%20Information%20%28CUI%29%20%28002%29.pdf"
                format="pdf"
-               scope="external">DoDI 5200.48 Controlled Unclassified Information (CUI)</xref> (<xref href="https://dlamil.dps.mil/sites/Intelligence/PublishingImages/cui/DoDI%205200.48%20-%20Controlled%20Unclassified%20Information%20%28CUI%29%20%28002%29.pdf"
+               scope="external"
+               class="- topic/xref ">DoDI 5200.48 Controlled Unclassified Information (CUI)</xref> (<xref href="https://dlamil.dps.mil/sites/Intelligence/PublishingImages/cui/DoDI%205200.48%20-%20Controlled%20Unclassified%20Information%20%28CUI%29%20%28002%29.pdf"
                format="pdf"
-               scope="external"/>). </p>
-      <p outputclass="List2">(2) <xref href="https://dlamil.dps.mil/sites/Intelligence/Shared%20Documents/DLAI%205200.48%20CUI.pdf"
+               scope="external"
+               class="- topic/xref "/>). </p>
+      <p outputclass="List2" class="- topic/p ">(2) <xref href="https://dlamil.dps.mil/sites/Intelligence/Shared%20Documents/DLAI%205200.48%20CUI.pdf"
                format="pdf"
-               scope="external">DLAI 5200.48, Controlled Unclassified Information (CUI)</xref> (<xref href="https://dlamil.dps.mil/sites/Intelligence/Shared%20Documents/DLAI%205200.48%20CUI.pdf"
+               scope="external"
+               class="- topic/xref ">DLAI 5200.48, Controlled Unclassified Information (CUI)</xref> (<xref href="https://dlamil.dps.mil/sites/Intelligence/Shared%20Documents/DLAI%205200.48%20CUI.pdf"
                format="pdf"
-               scope="external"/>). </p>
-      <p outputclass="List2">(3) <xref href="https://dlamil.dps.mil/sites/Intelligence/cui"
+               scope="external"
+               class="- topic/xref "/>). </p>
+      <p outputclass="List2" class="- topic/p ">(3) <xref href="https://dlamil.dps.mil/sites/Intelligence/cui"
                format="html"
-               scope="external">DLA Intelligence CUI Resources </xref>(<xref href="https://dlamil.dps.mil/sites/Intelligence/cui"
+               scope="external"
+               class="- topic/xref ">DLA Intelligence CUI Resources </xref>(<xref href="https://dlamil.dps.mil/sites/Intelligence/cui"
                format="html"
-               scope="external"/>). </p>
-      <p outputclass="List2">(4) <xref href="https://www.bing.com/search?q=categories%3A+https%3A%2F%2Fwww.archives.gov%2Fcui%2Fregistry%2Fcategorylist&amp;src=IE-SearchBox&amp;FORM=IESR3N"
+               scope="external"
+               class="- topic/xref "/>). </p>
+      <p outputclass="List2" class="- topic/p ">(4) <xref href="https://www.bing.com/search?q=categories%3A+https%3A%2F%2Fwww.archives.gov%2Fcui%2Fregistry%2Fcategorylist&amp;src=IE-SearchBox&amp;FORM=IESR3N"
                format="html"
-               scope="external">CUI Categories | National Archives</xref> (<xref href="https://www.bing.com/search?q=categories%3A+https%3A%2F%2Fwww.archives.gov%2Fcui%2Fregistry%2Fcategorylist&amp;src=IE-SearchBox&amp;FORM=IESR3N"
+               scope="external"
+               class="- topic/xref ">CUI Categories | National Archives</xref> (<xref href="https://www.bing.com/search?q=categories%3A+https%3A%2F%2Fwww.archives.gov%2Fcui%2Fregistry%2Fcategorylist&amp;src=IE-SearchBox&amp;FORM=IESR3N"
                format="html"
-               scope="external"/>)</p>
-      <p outputclass="List2">(5) <xref href="https://www.dodcui.mil/Portals/109/Documents/Training%20Docs/21-S-0588%20cleared%20CUI%20Awareness%20Training%20Nov%202020.pdf?ver=eOMZuMPrdLXcnhS6egUe2w%3d%3d"
+               scope="external"
+               class="- topic/xref "/>)</p>
+      <p outputclass="List2" class="- topic/p ">(5) <xref href="https://www.dodcui.mil/Portals/109/Documents/Training%20Docs/21-S-0588%20cleared%20CUI%20Awareness%20Training%20Nov%202020.pdf?ver=eOMZuMPrdLXcnhS6egUe2w%3d%3d"
                format="pdf"
-               scope="external">DoD CUI Training (PowerPoint)</xref> (<xref href="https://www.dodcui.mil/Portals/109/Documents/Training%20Docs/21-S-0588%20cleared%20CUI%20Awareness%20Training%20Nov%202020.pdf?ver=eOMZuMPrdLXcnhS6egUe2w%3d%3d"
-               format="pdf"
-               scope="external"/>)(see pages 21 through 24 for examples of markings). </p>
+               scope="external"
+               class="- topic/xref ">DoD CUI Training (PowerPoint)</xref> (<xref href="https://www.dodcui.mil/Portals/109/Documents/Training%20Docs/21-S-0588%20cleared%20CUI%20Awareness%20Training%20Nov%202020.pdf?ver=eOMZuMPrdLXcnhS6egUe2w%3d%3d"
+               format="html"
+               scope="external"
+               class="- topic/xref ">https://www.dodcui.mil/Portals/109/Documents/Training%20Docs/21-S-0588%20cleared%20CUI%20Awareness%20Training%20Nov%202020.pdf?ver=eOMZuMPrdLXcnhS6egUe2w%3d%3d</xref>)(see pages 21 through 24 for examples of markings). </p>
    </conbody>
 </concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<map title="DLAD" outputclass="dod">
+   <title id="title_P1" outputclass="Title">DLAD</title>
+   <topicref navtitle="Volume 7 - Parts 1-53 and 201-299"
+             href="Volume_I.dita"
+             outputclass="subtopic"
+             props="Volume_I"
+             audience="Volume_I"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="subtopic">
+      <topicref navtitle="Defense Logistics Acquisition Directive"
+                href="Cover_1.dita"
+                props=""
+                audience="Cover_1"
+                otherprops="NoProp"
+                base="NoTitle"
+                outputclass="SubPart"
+                xtrf="SubPart"
+                xtrc="Cover_1.html"/>
+   </topicref>
+</map>
